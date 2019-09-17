@@ -47,7 +47,7 @@ logging.basicConfig(level=logging.INFO)
 def main():
     """Post a GWAS to Twitter once a day"""
     posted = check_posted(SAVE_FILE)
-    corr, phenos = load_correlations_phenos(CORRELATION_FILE)
+    _corr, phenos = load_correlations_phenos(CORRELATION_FILE)
     h2 = load_h2(H2_FILE, phenos)
     manifest = load_manifest(MANIFEST_FILE, phenos)
 
@@ -55,7 +55,7 @@ def main():
     to_post = list(set(phenos) - set(posted))
     np.random.shuffle(to_post)
     for pheno in to_post:
-        post = build_post(pheno, manifest, corr, h2)
+        post = build_post(pheno, manifest, h2)
         text = format_post(post)
 
         try:
@@ -191,7 +191,7 @@ def load_manifest(filename, phenos):
     return manifest
 
 
-def build_post(pheno, manifest, corr, h2):
+def build_post(pheno, manifest, h2):
     """Gather all the info we need for the twitter post"""
     logging.info("Building twitter post")
     # Get phenotype info from manifest
@@ -201,7 +201,6 @@ def build_post(pheno, manifest, corr, h2):
     ].iloc[0]  # go from a pd.Series to a scalar value
 
     # Genetic correlations
-    genecorr = top_rg(pheno, corr, manifest)
     ukbbrg = f"https://ukbb-rg.hail.is/rg_summary_{pheno}.html"
 
     # Heritability
@@ -217,36 +216,11 @@ def build_post(pheno, manifest, corr, h2):
         "ukbb_link": pheno_info["ukbb"],
         "download": pheno_info["dropbox"],
         "ukbbrg_link": ukbbrg,
-        "genecorr": genecorr,
         "heritability": heritability,
         "top_snp": snp,
         "gnomad_link": gnomad,
     }
     return post
-
-
-def top_rg(pheno, corr, manifest):
-    """Find the top 3 phenos via genetic correlation"""
-    top = (
-        corr[corr.p2 == pheno]
-        .sort_values(
-            by="rg",
-            axis=0,
-            ascending=False
-        )
-        .iloc[:3]
-        .drop("p2", axis=1)
-        .rename(columns={"p1": "phenotype"})
-    )
-    top = top.merge(
-        right=manifest.loc[:, ["phenotype", "pheno_desc"]],
-        on="phenotype",
-        how="left"
-    )
-    top["ci_min"] = top.rg - 1.96 * top.se
-    top["ci_max"] = top.rg + 1.96 * top.se
-    top = top.to_dict(orient="records")
-    return top
 
 
 def h2_ci(pheno, h2):
@@ -322,9 +296,6 @@ def format_post(post):
 ⬇️ Download {post['download']}
 
 🧬 Genetic correlations {post['ukbbrg_link']}
-1. [{post['genecorr'][0]['ci_min']:.2f}, {post['genecorr'][0]['ci_max']:.2f}] {post['genecorr'][0]['pheno_desc']}
-2. [{post['genecorr'][1]['ci_min']:.2f}, {post['genecorr'][1]['ci_max']:.2f}] {post['genecorr'][1]['pheno_desc']}
-3. [{post['genecorr'][2]['ci_min']:.2f}, {post['genecorr'][2]['ci_max']:.2f}] {post['genecorr'][2]['pheno_desc']}
 
 👪 Heritability {post['heritability']['h2']:.2f} [{post['heritability']['ci_min']:.2f}, {post['heritability']['ci_max']:.2f}]
 

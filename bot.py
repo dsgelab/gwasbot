@@ -297,9 +297,11 @@ def format_post(post):
 
 🧬 Genetic correlations {post['ukbbrg_link']}
 
-👪 Heritability {post['heritability']['h2']:.2f} [{post['heritability']['ci_min']:.2f}, {post['heritability']['ci_max']:.2f}]
+👪 Heritability
+{post['heritability']['h2']:.2f} [{post['heritability']['ci_min']:.2f}, {post['heritability']['ci_max']:.2f}]
 
-📊 GWAS top hit {post['top_snp']} {post['gnomad_link']}"""
+📊 GWAS top hit
+{post['top_snp']} {post['gnomad_link']}"""
 
     return text
 

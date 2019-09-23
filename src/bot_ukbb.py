@@ -4,40 +4,16 @@ GWAS Bot: post one UKBB GWAS with info very 24h to twitter.
 
 import logging
 from csv import excel_tab
-from datetime import date, datetime
 from io import BytesIO
 from os import getenv
 from pathlib import Path
-from time import sleep
 
 import numpy as np
 import pandas as pd
-import pytz
 import tweepy
-from dateutil.relativedelta import relativedelta
 from google.cloud import storage
 
-
-# Data files
-CORRELATION_FILE = "geno_corr.csv"
-H2_FILE = "topline_h2.tsv"
-MANIFEST_FILE = "manifest.csv"
-SAVE_FILE = "posted.txt"
-
-# GWAS picture files
-GWAS_DIR = Path("manhattan")
-GWAS_FILE_SUFFIX = "_MF.png"
-
-# Twitter API
-CONSUMER_KEY = getenv("CONSUMER_KEY")
-CONSUMER_SECRET = getenv("CONSUMER_SECRET")
-ACCESS_TOKEN = getenv("BOT_ACCESS_TOKEN")
-ACCESS_SECRET = getenv("BOT_ACCESS_SECRET")
-
-# Google Storage API
-UKBB_URI_PREFIX = getenv("UKBB_URI_PREFIX")
-if not UKBB_URI_PREFIX.endswith('/'):
-    UKBB_URI_PREFIX += "/"
+from utils import gcloud_download, tweet, wait
 
 
 # Setup logging
@@ -57,9 +33,10 @@ def main():
     for pheno in to_post:
         post = build_post(pheno, manifest, h2)
         text = format_post(post)
+        img_filepath = GWAS_DIR / (pheno + GWAS_FILE_SUFFIX)
 
         try:
-            tweet(pheno, text)
+            tweet(text, img_filepath)
         except tweepy.error.TweepError as exc:
             logging.error(f"Could not post tweet for pheno '{pheno}': {exc}")
         else:
@@ -67,7 +44,7 @@ def main():
             logging.info(f"Successfully posted pheno '{pheno}'")
 
         # Wait until tomorrow for next post
-        wait()
+        wait(hour=8, timezone='America/New_York')
 
 
 def check_posted(filename):
@@ -260,18 +237,8 @@ def download_gwas(pheno, manifest):
     logging.info("Downloading GWAS")
     # Get the filename for this phenotype
     filename = manifest.loc[manifest.phenotype == pheno, "filename"].iloc[0]
-
-    # Build the google storage API client
-    client = storage.Client()
     blob = UKBB_URI_PREFIX + filename
-
-    # Download the GWAS file in memory
-    buffer = BytesIO()
-    client.download_blob_to_file(blob, buffer)
-
-    # Reset file position to be re-usable later by Pandas
-    buffer.seek(0)
-
+    buffer = gcloud_download(blob)
     return buffer
 
 
@@ -306,21 +273,6 @@ def format_post(post):
     return text
 
 
-def tweet(pheno, text):
-    """Make a post to twitter"""
-    logging.info("Posting to twitter")
-    auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
-    auth.set_access_token(ACCESS_TOKEN, ACCESS_SECRET)
-    api = tweepy.API(auth)
-
-    # Upload GWAS image
-    filepath = GWAS_DIR / (pheno + GWAS_FILE_SUFFIX)
-    gwas = api.media_upload(str(filepath))
-
-    # Post to twitter
-    api.update_status(text, media_ids=[gwas.media_id_string])
-
-
 def mark_posted(pheno, to_post):
     """Record that the given pheno was posted to twitter"""
     logging.info("Marking phenotype as posted")
@@ -329,23 +281,26 @@ def mark_posted(pheno, to_post):
     to_post.remove(pheno)
 
 
-def wait():
-    """Wait until tomorrow 8am East coast time"""
-    tomorrow = date.today() + relativedelta(days=1)
-    tz = pytz.timezone('America/New_York')
-    next_time = datetime(tomorrow.year, tomorrow.month, tomorrow.day, 8, 0, tzinfo=tz)
-
-    now = datetime.now(tz=tz)
-    seconds = (next_time - now).seconds
-
-    logging.info(f"Sleeping for {seconds} s until next post")
-    sleep(seconds)
-
-
 if __name__ == '__main__':
-    assert CONSUMER_KEY is not None, "CONSUMER_KEY is not set"
-    assert CONSUMER_SECRET is not None, "CONSUMER_SECRET is not set"
-    assert ACCESS_TOKEN is not None, "ACCESS_TOKEN is not set"
-    assert ACCESS_SECRET is not None, "ACCESS_SECRET is not set"
+    # Data files
+    DATA_PATH = getenv("DATA_PATH")
+    assert DATA_PATH is not None, "DATA_PATH is not set"
+    DATA_PATH = Path(DATA_PATH)
+
+    CORRELATION_FILE = DATA_PATH / "geno_corr.csv"
+    H2_FILE = DATA_PATH / "topline_h2.tsv"
+    MANIFEST_FILE = DATA_PATH / "manifest.csv"
+    SAVE_FILE = DATA_PATH / "posted_ukbb.txt"
+
+    # GWAS picture files
+    GWAS_DIR = DATA_PATH / "manhattan"
+    GWAS_FILE_SUFFIX = "_MF.png"
+
+    # Google Storage API
+    UKBB_URI_PREFIX = getenv("UKBB_URI_PREFIX")
+    if not UKBB_URI_PREFIX.endswith('/'):
+        UKBB_URI_PREFIX += "/"
+
     assert UKBB_URI_PREFIX is not None, "UKBB_URI_PREFIX is not set"
+
     main()

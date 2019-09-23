@@ -106,10 +106,4 @@ venv.bak/
 
 
 # Project specific
-/posted_ukbb.txt
-/posted_finngen.txt
-/manhattan
-/manhattan.gz
-/geno_corr.csv
-/manifest.csv
-/topline_h2.tsv
+/data

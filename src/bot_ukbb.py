@@ -1,65 +1,105 @@
-"""
-GWAS Bot: post one UKBB GWAS with info very 24h to twitter.
-"""
-
 import logging
 from csv import excel_tab
-from io import BytesIO
-from os import getenv
-from pathlib import Path
 
 import numpy as np
 import pandas as pd
-import tweepy
-from google.cloud import storage
 
-from utils import gcloud_download, tweet, wait
-
-
-# Setup logging
-logging.basicConfig(level=logging.INFO)
+from gwas_poster import GWASPoster
+from utils import check_posted
+from utils import gcloud_download
 
 
-def main():
-    """Post a GWAS to Twitter once a day"""
-    posted = check_posted(SAVE_FILE)
-    _corr, phenos = load_correlations_phenos(CORRELATION_FILE)
-    h2 = load_h2(H2_FILE, phenos)
-    manifest = load_manifest(MANIFEST_FILE, phenos)
+class UKBBPoster(GWASPoster):
 
-    # Pick a phenotype at random from the GWAS set, minus already posted ones
-    to_post = list(set(phenos) - set(posted))
-    np.random.shuffle(to_post)
-    for pheno in to_post:
-        post = build_post(pheno, manifest, h2)
-        text = format_post(post)
-        img_filepath = GWAS_DIR / (pheno + GWAS_FILE_SUFFIX)
+    def __init__(
+            self,
+            correlation_file,
+            h2_file,
+            manifest_file,
+            save_file,
+            gwas_dir,
+            gwas_file_suffix,
+            gcloud_uri_prefix):
+        """Setup and load the data for UKBB"""
+        super().__init__(save_file)
+        # Set data paths
+        self.gwas_dir = gwas_dir
+        self.gwas_file_suffix = gwas_file_suffix
+        self.gcloud_uri_prefix = gcloud_uri_prefix
 
-        try:
-            tweet(text, img_filepath)
-        except tweepy.error.TweepError as exc:
-            logging.error(f"Could not post tweet for pheno '{pheno}': {exc}")
+        # Get the phenotypes to post
+        posted = check_posted(save_file)
+        _corr, phenos = load_correlations_phenos(correlation_file)
+        self.to_post = list(set(phenos) - set(posted))
+        np.random.shuffle(self.to_post)
+
+        self.h2 = load_h2(h2_file, phenos)
+        self.manifest = load_manifest(manifest_file, phenos)
+
+    def build_post(self, pheno):
+        """Gather all the info we need for the twitter post"""
+        logging.info("Building twitter post")
+        # Get phenotype info from manifest
+        pheno_info = self.manifest.loc[
+            self.manifest.phenotype == pheno,
+            ["pheno_desc", "dropbox", "ukbb"]
+        ].iloc[0]  # go from a pd.Series to a scalar value
+
+        # Genetic correlations
+        ukbbrg = f"https://ukbb-rg.hail.is/rg_summary_{pheno}.html"
+
+        # Heritability
+        heritability = h2_ci(pheno, self.h2)
+
+        # Top SNP
+        snp = top_snp(pheno, self.manifest, self.gcloud_uri_prefix)
+        gnomad_snp = snp.replace(":", "-")
+        gnomad = f"https://gnomad.broadinstitute.org/variant/{gnomad_snp}"
+
+        post = {
+            "pheno": pheno_info["pheno_desc"],
+            "ukbb_link": pheno_info["ukbb"],
+            "download": pheno_info["dropbox"],
+            "ukbbrg_link": ukbbrg,
+            "heritability": heritability,
+            "top_snp": snp,
+            "gnomad_link": gnomad,
+        }
+        return post
+
+    def format_post(self, post):
+        """Textual representation of the post"""
+        logging.debug("Formatting twitter post")
+        # Shorten the phenocode name if too long for the tweet
+        limit = 60  # based on trial and error
+        if len(post['pheno']) > limit:
+            pheno = post['pheno'][:limit - 2] + "…"
         else:
-            mark_posted(pheno, to_post)
-            logging.info(f"Successfully posted pheno '{pheno}'")
+            pheno = post['pheno']
 
-        # Wait until tomorrow for next post
-        wait(hour=8, timezone='America/New_York')
+        # Don't show description link if it is "nan"
+        if pd.isna(post['ukbb_link']):
+            desc = ""
+        else:
+            desc = f"\n📚 Description {post['ukbb_link']}\n"
 
+        text = f"""{pheno}
+{desc}
+⬇️ Download {post['download']}
 
-def check_posted(filename):
-    """Check already posted GWAS ids from a saved text file"""
-    logging.info("Checking already posted phenotypes")
-    try:
-        with open(filename) as f:
-            posted = f.readlines()
-            posted = list(map(lambda line: line.rstrip(), posted))
+🧬 Genetic correlations {post['ukbbrg_link']}
 
-    except FileNotFoundError:
-        logging.info("No GWAS already posted.")
-        posted = []
+👪 Heritability
+{post['heritability']['h2']:.2f} [{post['heritability']['ci_min']:.2f}, {post['heritability']['ci_max']:.2f}]
 
-    return posted
+📊 GWAS top hit
+{post['top_snp']} {post['gnomad_link']}"""
+
+        return text
+
+    def gwas_img(self, pheno):
+        """Local path to the GWAS plot"""
+        return self.gwas_dir / (pheno + self.gwas_file_suffix)
 
 
 def load_correlations_phenos(filename):
@@ -168,38 +208,6 @@ def load_manifest(filename, phenos):
     return manifest
 
 
-def build_post(pheno, manifest, h2):
-    """Gather all the info we need for the twitter post"""
-    logging.info("Building twitter post")
-    # Get phenotype info from manifest
-    pheno_info = manifest.loc[
-        manifest.phenotype == pheno,
-        ["pheno_desc", "dropbox", "ukbb"]
-    ].iloc[0]  # go from a pd.Series to a scalar value
-
-    # Genetic correlations
-    ukbbrg = f"https://ukbb-rg.hail.is/rg_summary_{pheno}.html"
-
-    # Heritability
-    heritability = h2_ci(pheno, h2)
-
-    # Top SNP
-    snp = top_snp(pheno, manifest)
-    gnomad_snp = snp.replace(":", "-")
-    gnomad = f"https://gnomad.broadinstitute.org/variant/{gnomad_snp}"
-
-    post = {
-        "pheno": pheno_info["pheno_desc"],
-        "ukbb_link": pheno_info["ukbb"],
-        "download": pheno_info["dropbox"],
-        "ukbbrg_link": ukbbrg,
-        "heritability": heritability,
-        "top_snp": snp,
-        "gnomad_link": gnomad,
-    }
-    return post
-
-
 def h2_ci(pheno, h2):
     """Get the heritability h2 95% confidence interval"""
     logging.info("Getting h2 values")
@@ -213,10 +221,10 @@ def h2_ci(pheno, h2):
     }
 
 
-def top_snp(pheno, manifest):
+def top_snp(pheno, manifest, gcloud_uri_prefix):
     """Find the top SNP after downloading the phenotype data"""
     logging.info("Finding top SNP")
-    data = download_gwas(pheno, manifest)
+    data = download_gwas(pheno, manifest, gcloud_uri_prefix)
 
     # Load data
     df = pd.read_csv(
@@ -232,75 +240,11 @@ def top_snp(pheno, manifest):
     return snp
 
 
-def download_gwas(pheno, manifest):
+def download_gwas(pheno, manifest, uri_prefix):
     """Download GWAS from google cloud storage to memory"""
     logging.info("Downloading GWAS")
     # Get the filename for this phenotype
     filename = manifest.loc[manifest.phenotype == pheno, "filename"].iloc[0]
-    blob = UKBB_URI_PREFIX + filename
+    blob = uri_prefix + filename
     buffer = gcloud_download(blob)
     return buffer
-
-
-def format_post(post):
-    """Textual representation of the post"""
-    logging.debug("Formatting twitter post")
-    # Shorten the phenocode name if too long for the tweet
-    limit = 65  # based on a few tests
-    if len(post['pheno']) > limit:
-        pheno = post['pheno'][:limit - 2] + "…"
-    else:
-        pheno = post['pheno']
-
-    # Don't show description link if it is "nan"
-    if pd.isna(post['ukbb_link']):
-        desc = ""
-    else:
-        desc = f"\n📚 Description {post['ukbb_link']}\n"
-
-    text = f"""{pheno}
-{desc}
-⬇️ Download {post['download']}
-
-🧬 Genetic correlations {post['ukbbrg_link']}
-
-👪 Heritability
-{post['heritability']['h2']:.2f} [{post['heritability']['ci_min']:.2f}, {post['heritability']['ci_max']:.2f}]
-
-📊 GWAS top hit
-{post['top_snp']} {post['gnomad_link']}"""
-
-    return text
-
-
-def mark_posted(pheno, to_post):
-    """Record that the given pheno was posted to twitter"""
-    logging.info("Marking phenotype as posted")
-    with open(SAVE_FILE, "a") as f:
-        f.write(f"{pheno}\n")
-    to_post.remove(pheno)
-
-
-if __name__ == '__main__':
-    # Data files
-    DATA_PATH = getenv("DATA_PATH")
-    assert DATA_PATH is not None, "DATA_PATH is not set"
-    DATA_PATH = Path(DATA_PATH)
-
-    CORRELATION_FILE = DATA_PATH / "geno_corr.csv"
-    H2_FILE = DATA_PATH / "topline_h2.tsv"
-    MANIFEST_FILE = DATA_PATH / "manifest.csv"
-    SAVE_FILE = DATA_PATH / "posted_ukbb.txt"
-
-    # GWAS picture files
-    GWAS_DIR = DATA_PATH / "manhattan"
-    GWAS_FILE_SUFFIX = "_MF.png"
-
-    # Google Storage API
-    UKBB_URI_PREFIX = getenv("UKBB_URI_PREFIX")
-    if not UKBB_URI_PREFIX.endswith('/'):
-        UKBB_URI_PREFIX += "/"
-
-    assert UKBB_URI_PREFIX is not None, "UKBB_URI_PREFIX is not set"
-
-    main()

@@ -29,6 +29,20 @@ assert ACCESS_TOKEN is not None, "ACCESS_TOKEN is not set"
 assert ACCESS_SECRET is not None, "ACCESS_SECRET is not set"
 
 
+def check_posted(filename):
+    """Check already posted GWAS ids from a saved text file"""
+    logging.info("Checking already posted phenotypes")
+    try:
+        with open(filename) as f:
+            posted = f.readlines()
+            posted = list(map(lambda line: line.rstrip(), posted))
+
+    except FileNotFoundError:
+        logging.info(f"Nothing already posted in {filename}.")
+        posted = []
+
+    return posted
+
 
 def gcloud_download(gs_path):
     """Download a file from Google Cloud Storage into an in-memory buffer."""
@@ -42,20 +56,6 @@ def gcloud_download(gs_path):
     buffer.seek(0)
 
     return buffer
-
-
-def tweet(text, img_filepath):
-    """Make a post to twitter"""
-    logging.info("Posting to twitter")
-    auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
-    auth.set_access_token(ACCESS_TOKEN, ACCESS_SECRET)
-    api = tweepy.API(auth)
-
-    # Upload GWAS image
-    gwas = api.media_upload(str(img_filepath))
-
-    # Post to twitter
-    api.update_status(text, media_ids=[gwas.media_id_string])
 
 
 def wait(hour, timezone):

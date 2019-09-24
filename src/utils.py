@@ -8,25 +8,12 @@ from io import BytesIO
 from os import getenv
 from time import sleep
 
-import tweepy
 import pytz
 from dateutil.relativedelta import relativedelta
 from google.cloud import storage
 
 
 logging.basicConfig(level=logging.INFO)
-
-
-# Twitter API
-CONSUMER_KEY = getenv("CONSUMER_KEY")
-CONSUMER_SECRET = getenv("CONSUMER_SECRET")
-ACCESS_TOKEN = getenv("BOT_ACCESS_TOKEN")
-ACCESS_SECRET = getenv("BOT_ACCESS_SECRET")
-
-assert CONSUMER_KEY is not None, "CONSUMER_KEY is not set"
-assert CONSUMER_SECRET is not None, "CONSUMER_SECRET is not set"
-assert ACCESS_TOKEN is not None, "ACCESS_TOKEN is not set"
-assert ACCESS_SECRET is not None, "ACCESS_SECRET is not set"
 
 
 def check_posted(filename):

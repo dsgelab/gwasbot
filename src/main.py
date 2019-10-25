@@ -6,6 +6,8 @@ import logging
 from os import getenv
 from pathlib import Path
 
+from google.cloud import exceptions
+
 from bot_ukbb import UKBBPoster
 from bot_finngen import FGPoster
 from utils import wait
@@ -32,12 +34,21 @@ def main():
     )
 
     turn = "UKBB"
+    do_wait = True
     while True:
-        wait(hour=8, timezone='America/New_York')
-        if turn == "UKBB":
-            ukbb.tweet()
-        elif turn == "FG":
-            fg.tweet()
+        if do_wait:
+            wait(hour=8, timezone='America/New_York')
+
+        try:
+            if turn == "UKBB":
+                ukbb.tweet()
+            elif turn == "FG":
+                fg.tweet()
+        except exceptions.NotFound:
+            # Skip the current phenotype and retry immediately with another one
+            do_wait = False
+        else:
+            do_wait = True
 
         turn = "FG" if turn == "UKBB" else "UKBB"
 

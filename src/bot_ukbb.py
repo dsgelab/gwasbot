@@ -51,6 +51,9 @@ class UKBBPoster(GWASPoster):
         # Heritability
         heritability = h2_ci(pheno, self.h2)
 
+        # Heritability link
+        ukbbh2 = f"https://nealelab.github.io/UKBB_ldsc/h2_summary_{pheno}.html"
+
         # Top SNP
         snp = top_snp(pheno, self.manifest, self.gcloud_uri_prefix)
         gnomad_snp = snp.replace(":", "-")
@@ -61,6 +64,7 @@ class UKBBPoster(GWASPoster):
             "ukbb_link": pheno_info["ukbb"],
             "download": pheno_info["dropbox"],
             "ukbbrg_link": ukbbrg,
+            "ukbbh2_link": ukbbh2,
             "heritability": heritability,
             "top_snp": snp,
             "gnomad_link": gnomad,
@@ -90,7 +94,7 @@ class UKBBPoster(GWASPoster):
 🧬 Genetic correlations {post['ukbbrg_link']}
 
 👪 Heritability
-{post['heritability']['h2']:.2f} [{post['heritability']['ci_min']:.2f}, {post['heritability']['ci_max']:.2f}]
+{post['heritability']['h2']:.2f} [{post['heritability']['ci_min']:.2f}, {post['heritability']['ci_max']:.2f}] {post['ukbbh2_link']}
 
 📊 GWAS top hit
 {post['top_snp']} {post['gnomad_link']}"""
@@ -229,13 +233,16 @@ def top_snp(pheno, manifest, gcloud_uri_prefix):
     # Load data
     df = pd.read_csv(
         data,
-        usecols=["variant", "pval"],
+        usecols=["variant", "pval", "beta", "se", "low_confidence_variant"],
         dialect=excel_tab,
         compression="gzip"
     )
 
     # Find top SNP
-    snp = df.sort_values(by="pval").iloc[0].variant
+    df = df[df.low_confidence_variant==False]
+    df['zstat'] = abs(df.beta/df.se)
+    snp = df.sort_values(by="zstat",ascending=False).iloc[0].variant
+
 
     return snp
 

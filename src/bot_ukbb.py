@@ -75,7 +75,7 @@ class UKBBPoster(GWASPoster):
         """Textual representation of the post"""
         logging.debug("Formatting twitter post")
         # Shorten the phenocode name if too long for the tweet
-        limit = 60  # based on trial and error
+        limit = 36  # based on trial and error
         if len(post['pheno']) > limit:
             pheno = post['pheno'][:limit - 2] + "…"
         else:

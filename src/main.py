@@ -10,6 +10,7 @@ from google.cloud import exceptions
 from tweepy.error import TweepError
 
 from bot_ukbb import UKBBPoster
+from bot_finngen import FGPoster
 from utils import wait
 
 
@@ -26,22 +27,38 @@ def main():
         URI_PREFIX_UKBB
     )
 
+    fg = FGPoster(
+        ENDPOINTS_FILE,
+        SAVE_FILE_FG,
+        FAILURE_FILE_FG,
+        GWAS_DIR_FG,
+        GWAS_FILE_SUFFIX_FG,
+        FINNGEN_URI_PREFIX,
+    )
+
+    turn = "UKBB"
     do_wait = True
     while True:
         if do_wait:
             wait(hour=8, timezone='America/New_York')
+        if turn == "UKBB":
+            poster = ukbb
+        elif turn == "FG":
+            poster = fg
 
-        pheno = ukbb.get_pheno()
+        pheno = poster.get_pheno()
         try:
-            ukbb.tweet(pheno)
+            poster.tweet(pheno)
         except (exceptions.NotFound, TweepError) as exc:
             logging.error(f"Could not tweet: {exc}")
-            ukbb.mark_failure(pheno)
+            poster.mark_failure(pheno)
             # Skip the current phenotype and retry immediately with another one
             do_wait = False
         else:
-            ukbb.mark_posted(pheno)
+            poster.mark_posted(pheno)
             do_wait = True
+
+        turn = "FG" if turn == "UKBB" else "UKBB"
 
 
 if __name__ == '__main__':
@@ -68,5 +85,32 @@ if __name__ == '__main__':
     if not URI_PREFIX_UKBB.endswith('/'):
         URI_PREFIX_UKBB += "/"
 
+
+    # FinnGen files
+    ENDPOINTS_FILE = DATA_PATH / "endpoint_definitions.tsv"
+    SAVE_FILE_FG = DATA_PATH / "posted_fg.txt"
+    FAILURE_FILE_FG = DATA_PATH / "failed_fg.txt"
+
+    # FinnGen GWAS plot files
+    GWAS_DIR_FG = DATA_PATH / "plots_fg"
+    GWAS_FILE_SUFFIX_FG = "_MF.png"
+
+    # FinnGen Google Storage
+    FINNGEN_URI_PREFIX = getenv("FINNGEN_URI_PREFIX")
+    assert FINNGEN_URI_PREFIX is not None, "FINNGEN_URI_PREFIX is not set"
+    if not FINNGEN_URI_PREFIX.endswith("/"):
+        FINNGEN_URI_PREFIX += "/"
+
+
+    # Twitter API
+    CONSUMER_KEY = getenv("CONSUMER_KEY")
+    CONSUMER_SECRET = getenv("CONSUMER_SECRET")
+    ACCESS_TOKEN = getenv("BOT_ACCESS_TOKEN")
+    ACCESS_SECRET = getenv("BOT_ACCESS_SECRET")
+
+    assert CONSUMER_KEY is not None, "CONSUMER_KEY is not set"
+    assert CONSUMER_SECRET is not None, "CONSUMER_SECRET is not set"
+    assert ACCESS_TOKEN is not None, "ACCESS_TOKEN is not set"
+    assert ACCESS_SECRET is not None, "ACCESS_SECRET is not set"
 
     main()

@@ -38,7 +38,7 @@ class UKBBPoster(GWASPoster):
 
     def build_post(self, pheno):
         """Gather all the info we need for the twitter post"""
-        logging.info("Building twitter post")
+        logging.info("Building twitter post for UKBB")
 
         # Get phenotype info from manifest
         pheno_info = self.manifest.loc[

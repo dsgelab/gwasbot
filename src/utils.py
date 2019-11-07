@@ -5,7 +5,6 @@ Functions useful for both the FinnGen and UKBB bots.
 import logging
 from datetime import date, datetime
 from io import BytesIO
-from os import getenv
 from time import sleep
 
 import pytz

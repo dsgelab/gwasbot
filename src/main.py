@@ -10,6 +10,7 @@ from google.cloud import exceptions
 from tweepy.error import TweepError
 
 from bot_ukbb import UKBBPoster
+from bot_finngen import FGPoster
 from utils import wait
 
 
@@ -25,22 +26,36 @@ def main():
         URI_PREFIX_UKBB
     )
 
+    fg = FGPoster(
+        SAVE_FILE_FG,
+        FAILURE_FILE_FG,
+        METADATA_FILE_FG,
+        GWAS_DIR_FG,
+    )
+
+    turn = "UKBB"
     do_wait = True
     while True:
         if do_wait:
             wait(hour=8, timezone='America/New_York')
+        if turn == "UKBB":
+            poster = ukbb
+        elif turn == "FG":
+            poster = fg
 
-        pheno = ukbb.get_pheno()
+        pheno = poster.get_pheno()
         try:
-            ukbb.tweet(pheno)
+            poster.tweet(pheno)
         except (exceptions.NotFound, TweepError) as exc:
             logging.error(f"Could not tweet: {exc}")
-            ukbb.mark_failure(pheno)
+            poster.mark_failure(pheno)
             # Skip the current phenotype and retry immediately with another one
             do_wait = False
         else:
-            ukbb.mark_posted(pheno)
+            poster.mark_posted(pheno)
             do_wait = True
+
+        turn = "FG" if turn == "UKBB" else "UKBB"
 
 
 if __name__ == '__main__':
@@ -57,7 +72,7 @@ if __name__ == '__main__':
     FAILURE_FILE_UKBB = DATA_PATH / "failure_ukbb.txt"
 
     # UKBB GWAS picture files
-    GWAS_DIR_UKBB = DATA_PATH / "manhattan"
+    GWAS_DIR_UKBB = DATA_PATH / "manhattan_UKBB"
     GWAS_FILE_SUFFIX_UKBB = "_MF.png"
 
     # UKBB Google Storage API
@@ -66,5 +81,11 @@ if __name__ == '__main__':
     if not URI_PREFIX_UKBB.endswith('/'):
         URI_PREFIX_UKBB += "/"
 
+
+    # FinnGen files
+    SAVE_FILE_FG = DATA_PATH / "posted_fg.txt"
+    FAILURE_FILE_FG = DATA_PATH / "failed_fg.txt"
+    METADATA_FILE_FG = DATA_PATH / "images_finngen.js"
+    GWAS_DIR_FG = DATA_PATH / "manhattan_FINNGEN"
 
     main()

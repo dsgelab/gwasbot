@@ -6,8 +6,9 @@ import tweepy
 
 class GWASPoster(object):
 
-    def __init__(self, save_file):
+    def __init__(self, save_file, failure_file):
         self.save_file = save_file
+        self.failure_file = failure_file
 
         self.consumer_key = getenv("CONSUMER_KEY")
         self.consumer_secret = getenv("CONSUMER_SECRET")
@@ -36,11 +37,10 @@ class GWASPoster(object):
     def gwas_img(self, pheno):
         raise NotImplementedError
 
-    def tweet(self):
-        logging.info("Posting to twitter")
+    def tweet(self, pheno):
+        logging.info(f"Posting {pheno} to twitter")
 
         # Gather post info
-        pheno = self.get_pheno()
         post = self.build_post(pheno)
         text = self.format_post(post)
         img_filepath = self.gwas_img(pheno)
@@ -50,22 +50,20 @@ class GWASPoster(object):
         auth.set_access_token(self.access_token, self.access_secret)
         api = tweepy.API(auth)
 
-        try:
-            # Upload GWAS image
-            gwas = api.media_upload(str(img_filepath))
+        # Upload GWAS image
+        gwas = api.media_upload(str(img_filepath))
 
-            # Post to twitter
-            api.update_status(text, media_ids=[gwas.media_id_string])
-
-        except tweepy.error.TweepError as exc:
-            logging.error(f"Could not post tweet: {exc}")
-
-        else:
-            # Add pheno on the "to post" save file
-            self.mark_posted(pheno)
+        # Post to twitter
+        api.update_status(text, media_ids=[gwas.media_id_string])
 
     def mark_posted(self, pheno):
         """Record that the given pheno was posted to twitter"""
         with open(self.save_file, "a") as f:
+            f.write(f"{pheno}\n")
+        self.to_post.remove(pheno)
+
+    def mark_failure(self, pheno):
+        """Record that a given pheno has trouble being posted to twitter"""
+        with open(self.failure_file, "a") as f:
             f.write(f"{pheno}\n")
         self.to_post.remove(pheno)

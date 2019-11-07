@@ -16,19 +16,27 @@ from google.cloud import storage
 logging.basicConfig(level=logging.INFO)
 
 
-def check_posted(filename):
-    """Check already posted GWAS ids from a saved text file"""
-    logging.info("Checking already posted phenotypes")
+def check_done_pheno(save_file, failure_file):
+    """Check already posted GWAS ids from save files"""
+    logging.info("Checking already posted and failed phenotypes")
+
     try:
-        with open(filename) as f:
+        with open(save_file) as f:
             posted = f.readlines()
             posted = list(map(lambda line: line.rstrip(), posted))
-
     except FileNotFoundError:
-        logging.info(f"Nothing already posted in {filename}.")
+        logging.info(f"Nothing already posted in {save_file}.")
         posted = []
 
-    return posted
+    try:
+        with open(failure_file) as f:
+            failed = f.readlines()
+            failed = list(map(lambda line: line.rstrip(), failed))
+    except FileNotFoundError:
+        logging.info(f"No failed phenotypes to load in {failure_file}")
+        failed = []
+
+    return posted + failed
 
 
 def gcloud_download(gs_path):

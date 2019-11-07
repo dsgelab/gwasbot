@@ -5,7 +5,7 @@ import numpy as np
 import pandas as pd
 
 from gwas_poster import GWASPoster
-from utils import check_posted
+from utils import check_done_pheno
 from utils import gcloud_download
 
 
@@ -17,18 +17,19 @@ class UKBBPoster(GWASPoster):
             h2_file,
             manifest_file,
             save_file,
+            failure_file,
             gwas_dir,
             gwas_file_suffix,
             gcloud_uri_prefix):
         """Setup and load the data for UKBB"""
-        super().__init__(save_file)
+        super().__init__(save_file, failure_file)
         # Set data paths
         self.gwas_dir = gwas_dir
         self.gwas_file_suffix = gwas_file_suffix
         self.gcloud_uri_prefix = gcloud_uri_prefix
 
         # Get the phenotypes to post
-        posted = check_posted(save_file)
+        posted = check_done_pheno(save_file, failure_file)
         _corr, phenos = load_correlations_phenos(correlation_file)
         self.to_post = list(set(phenos) - set(posted))
         np.random.shuffle(self.to_post)
@@ -242,7 +243,6 @@ def top_snp(pheno, manifest, gcloud_uri_prefix):
     df = df[df.low_confidence_variant==False]
     df['zstat'] = abs(df.beta/df.se)
     snp = df.sort_values(by="zstat",ascending=False).iloc[0].variant
-
 
     return snp
 

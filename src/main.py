@@ -7,6 +7,7 @@ from os import getenv
 from pathlib import Path
 
 from google.cloud import exceptions
+from tweepy.error import TweepError
 
 from bot_ukbb import UKBBPoster
 from utils import wait
@@ -19,6 +20,7 @@ def main():
         H2_FILE,
         MANIFEST_FILE,
         SAVE_FILE_UKBB,
+        FAILURE_FILE_UKBB,
         GWAS_DIR_UKBB,
         GWAS_FILE_SUFFIX_UKBB,
         URI_PREFIX_UKBB
@@ -29,12 +31,16 @@ def main():
         if do_wait:
             wait(hour=8, timezone='America/New_York')
 
+        pheno = ukbb.get_pheno()
         try:
-            ukbb.tweet()
-        except exceptions.NotFound:
+            ukbb.tweet(pheno)
+        except (exceptions.NotFound, TweepError) as exc:
+            logging.error(f"Could not tweet: {exc}")
+            ukbb.mark_failure(pheno)
             # Skip the current phenotype and retry immediately with another one
             do_wait = False
         else:
+            ukbb.mark_posted(pheno)
             do_wait = True
 
 
@@ -50,6 +56,7 @@ if __name__ == '__main__':
     H2_FILE = DATA_PATH / "topline_h2.tsv"
     MANIFEST_FILE = DATA_PATH / "manifest.csv"
     SAVE_FILE_UKBB = DATA_PATH / "posted_ukbb.txt"
+    FAILURE_FILE_UKBB = DATA_PATH / "failure_ukbb.txt"
 
     # UKBB GWAS picture files
     GWAS_DIR_UKBB = DATA_PATH / "manhattan"
@@ -60,6 +67,7 @@ if __name__ == '__main__':
     assert URI_PREFIX_UKBB is not None, "URI_PREFIX_UKBB is not set"
     if not URI_PREFIX_UKBB.endswith('/'):
         URI_PREFIX_UKBB += "/"
+
 
     # Twitter API
     CONSUMER_KEY = getenv("CONSUMER_KEY")

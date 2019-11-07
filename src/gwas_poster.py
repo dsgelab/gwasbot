@@ -12,8 +12,8 @@ class GWASPoster(object):
 
         self.consumer_key = getenv("CONSUMER_KEY")
         self.consumer_secret = getenv("CONSUMER_SECRET")
-        self.access_token = getenv("BOT_ACCESS_TOKEN")
-        self.access_secret = getenv("BOT_ACCESS_SECRET")
+        self.access_token = getenv("ACCESS_TOKEN")
+        self.access_secret = getenv("ACCESS_SECRET")
 
         assert self.consumer_key is not None, "CONSUMER_KEY is not set"
         assert self.consumer_secret is not None, "CONSUMER_SECRET is not set"

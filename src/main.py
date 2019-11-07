@@ -9,7 +9,6 @@ from pathlib import Path
 from google.cloud import exceptions
 
 from bot_ukbb import UKBBPoster
-from bot_finngen import FGPoster
 from utils import wait
 
 
@@ -25,32 +24,18 @@ def main():
         URI_PREFIX_UKBB
     )
 
-    fg = FGPoster(
-        ENDPOINTS_FILE,
-        SAVE_FILE_FG,
-        GWAS_DIR_FG,
-        GWAS_FILE_SUFFIX_FG,
-        FINNGEN_URI_PREFIX,
-    )
-
-    turn = "UKBB"
     do_wait = True
     while True:
         if do_wait:
             wait(hour=8, timezone='America/New_York')
 
         try:
-            if turn == "UKBB":
-                ukbb.tweet()
-            elif turn == "FG":
-                fg.tweet()
+            ukbb.tweet()
         except exceptions.NotFound:
             # Skip the current phenotype and retry immediately with another one
             do_wait = False
         else:
             do_wait = True
-
-        turn = "FG" if turn == "UKBB" else "UKBB"
 
 
 if __name__ == '__main__':
@@ -75,22 +60,6 @@ if __name__ == '__main__':
     assert URI_PREFIX_UKBB is not None, "URI_PREFIX_UKBB is not set"
     if not URI_PREFIX_UKBB.endswith('/'):
         URI_PREFIX_UKBB += "/"
-
-
-    # FinnGen files
-    ENDPOINTS_FILE = DATA_PATH / "endpoint_definitions.tsv"
-    SAVE_FILE_FG = DATA_PATH / "posted_fg.txt"
-
-    # FinnGen GWAS plot files
-    GWAS_DIR_FG = DATA_PATH / "plots_fg"
-    GWAS_FILE_SUFFIX_FG = "_MF.png"
-
-    # FinnGen Google Storage
-    FINNGEN_URI_PREFIX = getenv("FINNGEN_URI_PREFIX")
-    assert FINNGEN_URI_PREFIX is not None, "FINNGEN_URI_PREFIX is not set"
-    if not FINNGEN_URI_PREFIX.endswith("/"):
-        FINNGEN_URI_PREFIX += "/"
-
 
     # Twitter API
     CONSUMER_KEY = getenv("CONSUMER_KEY")

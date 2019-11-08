@@ -14,9 +14,23 @@ pip install -r requirements.txt
 ## Running
 
 ```bash
-export GOOGLE_APPLICATION_CREDENTIALS="/path/to/keyfile.json"  # GCP service account credentials
-export CONSUMER_KEY=... CONSUMER_SECRET=... BOT_ACCESS_TOKEN=... BOT_ACCESS_SECRET=...  # credentials from Twitter
+export CONSUMER_KEY=... CONSUMER_SECRET=... ACCESS_TOKEN=... ACCESS_SECRET=...  # credentials from Twitter
+export DATA_PATH=...  # path to the data directory containing the input files
+export URI_PREFIX_UKBB=...  # Google Storage path to GWAS files, excluding filename, starts with gs://
 source venv/bin/activate
-export UKBB_URI_PREFIX=...  # path to GWAS files, excluding filename, starts with gs://...
-python bot.py
+python main.py
 ```
+
+For long-running scenario, one could do the previous commands in a `tmux` session:
+
+```bash
+tmux
+
+# previous commands
+# ...
+
+# exit with Ctrl-b d
+```
+
+Then one can logout of the server running the GWASbot without it stopping.
+To reconnect to the session: `tmux attach`.

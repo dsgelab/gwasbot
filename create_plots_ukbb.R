@@ -49,7 +49,7 @@ for (i in h2$phenotype)
 	system(paste0("mv ",original_filename," ",new_filename))
 
 	
-	df <- fread(cmd=paste0("gzcat ",new_filename), header=T, sep="\t", select=c('variant', 'low_confidence_variant', 'pval')) %>%
+	df <- fread(cmd=paste0("zcat ",new_filename), header=T, sep="\t", select=c('variant', 'low_confidence_variant', 'pval')) %>%
         filter(is.finite(pval), pval > 0, low_confidence_variant==FALSE) %>%
         separate(variant, c('chrom', 'pos', 'ref', 'alt'), sep=':', remove=FALSE) %>%
         mutate(chrom=gsub('X', '23', chrom), pos=as.integer(pos), pval_t=-log10(pval),indic=if_else(pval < 5e-8,1,2), odd=as.numeric(chrom) %% 2) %>%
@@ -113,7 +113,7 @@ for (i in h2$phenotype)
 
     system(paste0("rm ",new_filename))
 
-    RES <- rbind(RES,cbind(h2[h2$pheno==i,c("description","n","n_controls","n_cases","ukbl")],maniget$dropbox,paste0(i,"_MF.png")))
+    RES <- rbind(RES,cbind(h2[h2$pheno==i,c("description","n","n_controls","n_cases","ukbl")],maniget$dropbox,paste0("plot_ukbb/",i,"_MF.png")))
 
     print(which(i==h2$phenotype))
 }

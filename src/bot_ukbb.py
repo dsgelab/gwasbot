@@ -76,7 +76,7 @@ class UKBBPoster(GWASPoster):
         """Textual representation of the post"""
         logging.debug("Formatting twitter post")
         # Shorten the phenocode name if too long for the tweet
-        limit = 36  # based on trial and error
+        limit = 35  # based on trial and error
         if len(post['pheno']) > limit:
             pheno = post['pheno'][:limit - 2] + "…"
         else:
@@ -86,7 +86,7 @@ class UKBBPoster(GWASPoster):
         if pd.isna(post['ukbb_link']):
             desc = ""
         else:
-            desc = f"\n📚 Description {post['ukbb_link']}\n"
+            desc = f"\n🇬🇧 Description {post['ukbb_link']}\n"
 
         text = f"""{pheno}
 {desc}

@@ -13,7 +13,6 @@ class UKBBPoster(GWASPoster):
 
     def __init__(
             self,
-            correlation_file,
             h2_file,
             manifest_file,
             save_file,
@@ -30,7 +29,7 @@ class UKBBPoster(GWASPoster):
 
         # Get the phenotypes to post
         posted = check_done_pheno(save_file, failure_file)
-        _corr, phenos = load_correlations_phenos(correlation_file)
+        phenos = load_phenos(gwas_dir)
         self.to_post = list(set(phenos) - set(posted))
         np.random.shuffle(self.to_post)
 
@@ -40,6 +39,7 @@ class UKBBPoster(GWASPoster):
     def build_post(self, pheno):
         """Gather all the info we need for the twitter post"""
         logging.info("Building twitter post")
+
         # Get phenotype info from manifest
         pheno_info = self.manifest.loc[
             self.manifest.phenotype == pheno,
@@ -47,7 +47,8 @@ class UKBBPoster(GWASPoster):
         ].iloc[0]  # go from a pd.Series to a scalar value
 
         # Genetic correlations
-        ukbbrg = f"https://ukbb-rg.hail.is/rg_summary_{pheno}.html"
+        corr_pheno = pheno.rstrip("_irnt")  # this portal doesn't use _irnt names
+        ukbbrg = f"https://ukbb-rg.hail.is/rg_summary_{corr_pheno}.html"
 
         # Heritability
         heritability = h2_ci(pheno, self.h2)
@@ -107,28 +108,10 @@ class UKBBPoster(GWASPoster):
         return self.gwas_dir / (pheno + self.gwas_file_suffix)
 
 
-def load_correlations_phenos(filename):
-    """Extract the phenocodes of interest and their correlations"""
-    logging.debug("Loading file: genetic correlation + phenos")
-    corr = pd.read_csv(
-        filename,
-        usecols=[
-            "p2",
-            "p1",
-            "rg",
-            "se"
-        ],
-        dtype={
-            "p2": "category",
-            "p1": "category",
-            "rg": "float64",
-            "se": "float64"
-        }
-    )
-
-    phenos = corr["p2"].unique()
-
-    return (corr, phenos)
+def load_phenos(gwas_dir):
+    """Get all the phenocodes"""
+    phenos = [plot.stem.rstrip("_MF") for plot in gwas_dir.iterdir()]
+    return phenos
 
 
 def load_h2(filename, phenos):
@@ -145,9 +128,6 @@ def load_h2(filename, phenos):
         ],
     )
 
-    # Rename topline pheno ending in _irnt
-    irnt = topline["phenotype"].str.endswith("_irnt")
-    topline.loc[irnt, "phenotype"] = topline.loc[irnt, "phenotype"].str.rstrip("_irnt")
     topline = topline.astype({
         "phenotype": "category"
     })
@@ -197,10 +177,6 @@ def load_manifest(filename, phenos):
     # Remove traits ending in _raw
     raw_phenos = manifest["phenotype"].str.endswith("_raw")
     manifest = manifest[~ raw_phenos]
-
-    # Rename Manifest traits ending in _irnt,
-    irnt_phenos = manifest["phenotype"].str.endswith("_irnt")
-    manifest.loc[irnt_phenos, "phenotype"] = manifest.loc[irnt_phenos, "phenotype"].str.rstrip("_irnt")
 
     # Merge with the traits of interest
     keep = manifest["phenotype"].isin(phenos)

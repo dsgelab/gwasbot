@@ -16,7 +16,6 @@ from utils import wait
 def main():
     """Tweet a GWAS post daily"""
     ukbb = UKBBPoster(
-        CORRELATION_FILE,
         H2_FILE,
         MANIFEST_FILE,
         SAVE_FILE_UKBB,
@@ -52,7 +51,6 @@ if __name__ == '__main__':
 
 
     # UKBB files
-    CORRELATION_FILE = DATA_PATH / "geno_corr.csv"
     H2_FILE = DATA_PATH / "topline_h2.tsv"
     MANIFEST_FILE = DATA_PATH / "manifest.csv"
     SAVE_FILE_UKBB = DATA_PATH / "posted_ukbb.txt"

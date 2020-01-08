@@ -17,16 +17,16 @@ wrapper <- function(x, ...)
 		paste(strwrap(x, width=80), collapse = "\n")
 }
 
-h2 <- fread("ukb31063_h2_topline.02Oct2019.tsv", sep="\t", header=T)
+h2 <- fread("data/ukb31063_h2_topline.02Oct2019.tsv", sep="\t", header=T)
 # This should be the right set of phenotypes to include
 #h2 <- h2[h2$confidence %in% c("high","medium") & h2$h2_sig %in% c("z4","z7"),]
 
 # file containing genetic correlations
-load("geno_correlation_sig.Rdata")
+load("data/geno_correlation_sig.Rdata")
 # This is instead the traits that we are including
 h2 <- h2[gsub("_irnt","",h2$phenotype) %in% geno_corr_df$p1,]
 
-manifest <- fread("Manifest_201807.csv", sep=",", header=T)
+manifest <- fread("data/Manifest_201807.csv", sep=",", header=T)
 colnames(manifest)[1] <- "phenotype"
 colnames(manifest)[6] <- "dropbox"
 
@@ -41,7 +41,7 @@ RES <- NULL
 for (i in h2$phenotype)
 {
 
-	maniget <- manifest %>% filter(phenotype==i, Sex=="both_sexes")
+  maniget <- manifest %>% filter(phenotype==i, Sex=="both_sexes")
 
 	system(maniget$dropbox)
 	original_filename <- strsplit(maniget$dropbox," ")[[1]][4]
@@ -49,11 +49,10 @@ for (i in h2$phenotype)
 	system(paste0("mv ",original_filename," ",new_filename))
 
 	
-	df <- fread(cmd=paste0("zcat ",new_filename), header=T, sep="\t", select=c('variant', 'low_confidence_variant', 'pval')) %>%
+	df <- fread(cmd=paste0("gzcat ",new_filename), header=T, sep="\t", select=c('variant', 'low_confidence_variant', 'pval')) %>%
         filter(is.finite(pval), pval > 0, low_confidence_variant==FALSE) %>%
         separate(variant, c('chrom', 'pos', 'ref', 'alt'), sep=':', remove=FALSE) %>%
-        mutate(chrom=gsub('X', '23', chrom), pos=as.integer(pos), pval_t=-log10(pval),indic=if_else(pval < 5e-8,1,2), odd=as.numeric(chrom) %% 2) %>%
-        mutate(chromnum=as.numeric(chrom))
+        mutate(chrom=gsub('X', '23', chrom), pos=as.integer(pos), pval_t=-log10(pval),indic=if_else(pval < 5e-8,1,2), odd=as.numeric(chrom) %% 2) %>% mutate(chromnum=as.numeric(chrom))
 
     posmin <- tapply(df$pos,df$chromnum, min)
     posmax <- tapply(df$pos,df$chromnum, max)
@@ -80,18 +79,19 @@ for (i in h2$phenotype)
     labeldf <- NULL
     k <- 0
     dftemp <- df_manhattan
-    while (k < 3 & (min(dftemp$pval) < 0.00000005))
+    while (k < 5 & (min(dftemp$pval) < 0.00000005))
     {
       indmin <- which(df_manhattan$variant==dftemp$variant[which.min(dftemp$pval)])
       posmin <- dftemp$pos[which.min(dftemp$pval)]
       chromin <- dftemp$chrom[which.min(dftemp$pval)]
-      closestgene <- matchGenes(makeGRangesFromDataFrame(data.frame(chr=paste0("chr",chromin),start=posmin,end=posmin+1,strand="+")),genes, type="any")$name
+      closestgene <- matchGenes(makeGRangesFromDataFrame(data.frame(chr=paste0("chr",chromin),start=posmin,end=posmin+1)),genes, type="any")$name
       dftemp <- dftemp[!(dftemp$chrom==chromin & dftemp$pos>(posmin-1000000) & dftemp$pos<(posmin+1000000)),]
       k <- k + 1
       
       labeldf <- rbind(labeldf,c(indmin,closestgene))
     }
-      
+
+    
     df_manhattan$label <- ""
     df_manhattan$label[as.numeric(labeldf[,1])] <- labeldf[,2]
   
@@ -109,19 +109,19 @@ for (i in h2$phenotype)
     	scale_size_manual(values=c(1,0.4)) +
     	ggtitle(case_or_not) + geom_text_repel(aes(label=label))
 
-    ggsave(paste0(i,"_MF.png"), width = 12, height = 6, dpi = 200)
+    ggsave(paste0("data/manhattan_UKBB/",i,"_MF.png"), width = 12, height = 6, dpi = 200)
 
     system(paste0("rm ",new_filename))
 
-    RES <- rbind(RES,cbind(h2[h2$pheno==i,c("description","n","n_controls","n_cases","ukbl")],maniget$dropbox,paste0("plot_ukbb/",i,"_MF.png")))
+    #RES <- rbind(RES,cbind(h2[h2$pheno==i,c("description","n","n_controls","n_cases","ukbl")],maniget$dropbox,paste0("plot_ukbb/",i,"_MF.png")))
 
     print(which(i==h2$phenotype))
 }
 
-df <- data.frame(RES)
-colnames(df) <- c("description","n","n_controls","n_cases","ukbl","dropbox","file")
+#df <- data.frame(RES)
+#colnames(df) <- c("description","n","n_controls","n_cases","ukbl","dropbox","file")
 
-write(toJSON(df, pretty=TRUE),file="images_ukbb.js")
+#write(toJSON(df, pretty=TRUE),file="images_ukbb.js")
 
 
 #gcloud compute scp manifest_201807.tsv anachiner:/home/aganna/

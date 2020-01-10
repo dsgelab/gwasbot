@@ -112,4 +112,4 @@ for (i in pheno$phenocode)
 df <- data.frame(RES)
 colnames(df) <- c("phenocode","description","n_cases","n_controls","download","file","pheweb_link")
 
-write(toJSON(df, pretty=TRUE),file="images_finngen.js")
+write(toJSON(df, pretty=TRUE),file="data/images_finngen.js")

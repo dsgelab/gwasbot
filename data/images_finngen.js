@@ -6,7 +6,7 @@
     "n_controls": 95871,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_AB1_ARTHROPOD.gz",
     "file": "AB1_ARTHROPOD_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/AB1_ARTHROPOD"
+    "pheweb_link": "https://r2.finngen.fi/pheno/AB1_ARTHROPOD"
   },
   {
     "phenocode": "AB1_INFECTIONS",
@@ -15,7 +15,7 @@
     "n_controls": 79655,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_AB1_INFECTIONS.gz",
     "file": "AB1_INFECTIONS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/AB1_INFECTIONS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/AB1_INFECTIONS"
   },
   {
     "phenocode": "AB1_INTESTINAL_INFECTIONS",
@@ -24,7 +24,7 @@
     "n_controls": 88252,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_AB1_INTESTINAL_INFECTIONS.gz",
     "file": "AB1_INTESTINAL_INFECTIONS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/AB1_INTESTINAL_INFECTIONS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/AB1_INTESTINAL_INFECTIONS"
   },
   {
     "phenocode": "AB1_OTHER_SPIROCHAETAL",
@@ -33,7 +33,7 @@
     "n_controls": 96096,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_AB1_OTHER_SPIROCHAETAL.gz",
     "file": "AB1_OTHER_SPIROCHAETAL_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/AB1_OTHER_SPIROCHAETAL"
+    "pheweb_link": "https://r2.finngen.fi/pheno/AB1_OTHER_SPIROCHAETAL"
   },
   {
     "phenocode": "AB1_OTHER_VIRAL",
@@ -42,7 +42,7 @@
     "n_controls": 95186,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_AB1_OTHER_VIRAL.gz",
     "file": "AB1_OTHER_VIRAL_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/AB1_OTHER_VIRAL"
+    "pheweb_link": "https://r2.finngen.fi/pheno/AB1_OTHER_VIRAL"
   },
   {
     "phenocode": "AB1_SEQULEAE_OF_INFECTIONS_AND_PARASITES",
@@ -51,7 +51,7 @@
     "n_controls": 95901,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_AB1_SEQULEAE_OF_INFECTIONS_AND_PARASITES.gz",
     "file": "AB1_SEQULEAE_OF_INFECTIONS_AND_PARASITES_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/AB1_SEQULEAE_OF_INFECTIONS_AND_PARASITES"
+    "pheweb_link": "https://r2.finngen.fi/pheno/AB1_SEQULEAE_OF_INFECTIONS_AND_PARASITES"
   },
   {
     "phenocode": "AB1_SEXUAL_TRANSMISSION",
@@ -60,7 +60,7 @@
     "n_controls": 94370,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_AB1_SEXUAL_TRANSMISSION.gz",
     "file": "AB1_SEXUAL_TRANSMISSION_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/AB1_SEXUAL_TRANSMISSION"
+    "pheweb_link": "https://r2.finngen.fi/pheno/AB1_SEXUAL_TRANSMISSION"
   },
   {
     "phenocode": "AB1_TUBERCULOSIS",
@@ -69,7 +69,7 @@
     "n_controls": 95997,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_AB1_TUBERCULOSIS.gz",
     "file": "AB1_TUBERCULOSIS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/AB1_TUBERCULOSIS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/AB1_TUBERCULOSIS"
   },
   {
     "phenocode": "AD_AM_EXMORE",
@@ -78,7 +78,7 @@
     "n_controls": 36873,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_AD_AM_EXMORE.gz",
     "file": "AD_AM_EXMORE_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/AD_AM_EXMORE"
+    "pheweb_link": "https://r2.finngen.fi/pheno/AD_AM_EXMORE"
   },
   {
     "phenocode": "AD_EO_EXMORE",
@@ -87,7 +87,7 @@
     "n_controls": 36873,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_AD_EO_EXMORE.gz",
     "file": "AD_EO_EXMORE_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/AD_EO_EXMORE"
+    "pheweb_link": "https://r2.finngen.fi/pheno/AD_EO_EXMORE"
   },
   {
     "phenocode": "AD_LO_EXMORE",
@@ -96,7 +96,7 @@
     "n_controls": 36873,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_AD_LO_EXMORE.gz",
     "file": "AD_LO_EXMORE_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/AD_LO_EXMORE"
+    "pheweb_link": "https://r2.finngen.fi/pheno/AD_LO_EXMORE"
   },
   {
     "phenocode": "ALCOHOL_RELATED",
@@ -105,7 +105,7 @@
     "n_controls": 91070,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_ALCOHOL_RELATED.gz",
     "file": "ALCOHOL_RELATED_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/ALCOHOL_RELATED"
+    "pheweb_link": "https://r2.finngen.fi/pheno/ALCOHOL_RELATED"
   },
   {
     "phenocode": "ALCOPANCCHRON",
@@ -114,7 +114,7 @@
     "n_controls": 96156,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_ALCOPANCCHRON.gz",
     "file": "ALCOPANCCHRON_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/ALCOPANCCHRON"
+    "pheweb_link": "https://r2.finngen.fi/pheno/ALCOPANCCHRON"
   },
   {
     "phenocode": "ALCO_PRESCRIPTION",
@@ -123,7 +123,7 @@
     "n_controls": 95767,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_ALCO_PRESCRIPTION.gz",
     "file": "ALCO_PRESCRIPTION_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/ALCO_PRESCRIPTION"
+    "pheweb_link": "https://r2.finngen.fi/pheno/ALCO_PRESCRIPTION"
   },
   {
     "phenocode": "ALLERG_RHINITIS",
@@ -132,7 +132,7 @@
     "n_controls": 94078,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_ALLERG_RHINITIS.gz",
     "file": "ALLERG_RHINITIS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/ALLERG_RHINITIS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/ALLERG_RHINITIS"
   },
   {
     "phenocode": "AMPUTATION_TOE",
@@ -141,7 +141,7 @@
     "n_controls": 96095,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_AMPUTATION_TOE.gz",
     "file": "AMPUTATION_TOE_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/AMPUTATION_TOE"
+    "pheweb_link": "https://r2.finngen.fi/pheno/AMPUTATION_TOE"
   },
   {
     "phenocode": "ANOSMIA",
@@ -150,7 +150,7 @@
     "n_controls": 32736,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_ANOSMIA.gz",
     "file": "ANOSMIA_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/ANOSMIA"
+    "pheweb_link": "https://r2.finngen.fi/pheno/ANOSMIA"
   },
   {
     "phenocode": "ANTIDEPRESSANTS",
@@ -159,7 +159,7 @@
     "n_controls": 32736,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_ANTIDEPRESSANTS.gz",
     "file": "ANTIDEPRESSANTS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/ANTIDEPRESSANTS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/ANTIDEPRESSANTS"
   },
   {
     "phenocode": "ASTHMA_CHILD_EXMORE",
@@ -168,7 +168,7 @@
     "n_controls": 65087,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_ASTHMA_CHILD_EXMORE.gz",
     "file": "ASTHMA_CHILD_EXMORE_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/ASTHMA_CHILD_EXMORE"
+    "pheweb_link": "https://r2.finngen.fi/pheno/ASTHMA_CHILD_EXMORE"
   },
   {
     "phenocode": "ASTHMA_OPPORTUNIST_INFECTIONS",
@@ -177,7 +177,7 @@
     "n_controls": 7806,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_ASTHMA_OPPORTUNIST_INFECTIONS.gz",
     "file": "ASTHMA_OPPORTUNIST_INFECTIONS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/ASTHMA_OPPORTUNIST_INFECTIONS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/ASTHMA_OPPORTUNIST_INFECTIONS"
   },
   {
     "phenocode": "BIGUANIDES",
@@ -186,7 +186,7 @@
     "n_controls": 85744,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_BIGUANIDES.gz",
     "file": "BIGUANIDES_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/BIGUANIDES"
+    "pheweb_link": "https://r2.finngen.fi/pheno/BIGUANIDES"
   },
   {
     "phenocode": "C3_BREAST",
@@ -195,7 +195,7 @@
     "n_controls": 93910,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_C3_BREAST.gz",
     "file": "C3_BREAST_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/C3_BREAST"
+    "pheweb_link": "https://r2.finngen.fi/pheno/C3_BREAST"
   },
   {
     "phenocode": "C3_CANCER",
@@ -204,7 +204,7 @@
     "n_controls": 87061,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_C3_CANCER.gz",
     "file": "C3_CANCER_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/C3_CANCER"
+    "pheweb_link": "https://r2.finngen.fi/pheno/C3_CANCER"
   },
   {
     "phenocode": "C3_PROSTATE",
@@ -213,7 +213,7 @@
     "n_controls": 40413,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_C3_PROSTATE.gz",
     "file": "C3_PROSTATE_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/C3_PROSTATE"
+    "pheweb_link": "https://r2.finngen.fi/pheno/C3_PROSTATE"
   },
   {
     "phenocode": "C3_SKIN",
@@ -222,7 +222,7 @@
     "n_controls": 95604,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_C3_SKIN.gz",
     "file": "C3_SKIN_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/C3_SKIN"
+    "pheweb_link": "https://r2.finngen.fi/pheno/C3_SKIN"
   },
   {
     "phenocode": "C3_THYROID_GLAND",
@@ -231,7 +231,7 @@
     "n_controls": 96178,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_C3_THYROID_GLAND.gz",
     "file": "C3_THYROID_GLAND_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/C3_THYROID_GLAND"
+    "pheweb_link": "https://r2.finngen.fi/pheno/C3_THYROID_GLAND"
   },
   {
     "phenocode": "C3_UNCERTAIN_SECONDARY",
@@ -240,7 +240,7 @@
     "n_controls": 96074,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_C3_UNCERTAIN_SECONDARY.gz",
     "file": "C3_UNCERTAIN_SECONDARY_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/C3_UNCERTAIN_SECONDARY"
+    "pheweb_link": "https://r2.finngen.fi/pheno/C3_UNCERTAIN_SECONDARY"
   },
   {
     "phenocode": "C3_URINARY_TRACT",
@@ -249,7 +249,7 @@
     "n_controls": 95809,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_C3_URINARY_TRACT.gz",
     "file": "C3_URINARY_TRACT_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/C3_URINARY_TRACT"
+    "pheweb_link": "https://r2.finngen.fi/pheno/C3_URINARY_TRACT"
   },
   {
     "phenocode": "CD2_BENIGN",
@@ -258,7 +258,7 @@
     "n_controls": 76025,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_CD2_BENIGN.gz",
     "file": "CD2_BENIGN_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/CD2_BENIGN"
+    "pheweb_link": "https://r2.finngen.fi/pheno/CD2_BENIGN"
   },
   {
     "phenocode": "CD2_BENIGN_BREAST",
@@ -267,7 +267,7 @@
     "n_controls": 95558,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_CD2_BENIGN_BREAST.gz",
     "file": "CD2_BENIGN_BREAST_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/CD2_BENIGN_BREAST"
+    "pheweb_link": "https://r2.finngen.fi/pheno/CD2_BENIGN_BREAST"
   },
   {
     "phenocode": "CD2_BENIGN_CAECUM",
@@ -276,7 +276,7 @@
     "n_controls": 96198,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_CD2_BENIGN_CAECUM.gz",
     "file": "CD2_BENIGN_CAECUM_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/CD2_BENIGN_CAECUM"
+    "pheweb_link": "https://r2.finngen.fi/pheno/CD2_BENIGN_CAECUM"
   },
   {
     "phenocode": "CD2_BENIGN_CONNSOFT_UPPERLIMB",
@@ -285,7 +285,7 @@
     "n_controls": 96258,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_CD2_BENIGN_CONNSOFT_UPPERLIMB.gz",
     "file": "CD2_BENIGN_CONNSOFT_UPPERLIMB_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/CD2_BENIGN_CONNSOFT_UPPERLIMB"
+    "pheweb_link": "https://r2.finngen.fi/pheno/CD2_BENIGN_CONNSOFT_UPPERLIMB"
   },
   {
     "phenocode": "CD2_BENIGN_LEIOMYOMA_UTERI",
@@ -294,7 +294,7 @@
     "n_controls": 46393,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_CD2_BENIGN_LEIOMYOMA_UTERI.gz",
     "file": "CD2_BENIGN_LEIOMYOMA_UTERI_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/CD2_BENIGN_LEIOMYOMA_UTERI"
+    "pheweb_link": "https://r2.finngen.fi/pheno/CD2_BENIGN_LEIOMYOMA_UTERI"
   },
   {
     "phenocode": "CD2_BENIGN_LIPOMATOUS",
@@ -303,7 +303,7 @@
     "n_controls": 94552,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_CD2_BENIGN_LIPOMATOUS.gz",
     "file": "CD2_BENIGN_LIPOMATOUS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/CD2_BENIGN_LIPOMATOUS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/CD2_BENIGN_LIPOMATOUS"
   },
   {
     "phenocode": "CD2_BENIGN_MELANOCYTIC",
@@ -312,7 +312,7 @@
     "n_controls": 95047,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_CD2_BENIGN_MELANOCYTIC.gz",
     "file": "CD2_BENIGN_MELANOCYTIC_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/CD2_BENIGN_MELANOCYTIC"
+    "pheweb_link": "https://r2.finngen.fi/pheno/CD2_BENIGN_MELANOCYTIC"
   },
   {
     "phenocode": "CD2_BENIGN_MELANOCYTIC_NOS",
@@ -321,7 +321,7 @@
     "n_controls": 96218,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_CD2_BENIGN_MELANOCYTIC_NOS.gz",
     "file": "CD2_BENIGN_MELANOCYTIC_NOS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/CD2_BENIGN_MELANOCYTIC_NOS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/CD2_BENIGN_MELANOCYTIC_NOS"
   },
   {
     "phenocode": "CD2_BENIGN_MOUTH_NOS",
@@ -330,7 +330,7 @@
     "n_controls": 96301,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_CD2_BENIGN_MOUTH_NOS.gz",
     "file": "CD2_BENIGN_MOUTH_NOS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/CD2_BENIGN_MOUTH_NOS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/CD2_BENIGN_MOUTH_NOS"
   },
   {
     "phenocode": "CD2_BENIGN_RECTUM",
@@ -339,7 +339,7 @@
     "n_controls": 95776,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_CD2_BENIGN_RECTUM.gz",
     "file": "CD2_BENIGN_RECTUM_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/CD2_BENIGN_RECTUM"
+    "pheweb_link": "https://r2.finngen.fi/pheno/CD2_BENIGN_RECTUM"
   },
   {
     "phenocode": "CD2_BENIGN_RECTUM_ANAL",
@@ -348,7 +348,7 @@
     "n_controls": 95652,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_CD2_BENIGN_RECTUM_ANAL.gz",
     "file": "CD2_BENIGN_RECTUM_ANAL_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/CD2_BENIGN_RECTUM_ANAL"
+    "pheweb_link": "https://r2.finngen.fi/pheno/CD2_BENIGN_RECTUM_ANAL"
   },
   {
     "phenocode": "CD2_BENIGN_SALIVARY",
@@ -357,7 +357,7 @@
     "n_controls": 96007,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_CD2_BENIGN_SALIVARY.gz",
     "file": "CD2_BENIGN_SALIVARY_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/CD2_BENIGN_SALIVARY"
+    "pheweb_link": "https://r2.finngen.fi/pheno/CD2_BENIGN_SALIVARY"
   },
   {
     "phenocode": "CD2_BENIGN_SALIVARY_NOS",
@@ -366,7 +366,7 @@
     "n_controls": 96329,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_CD2_BENIGN_SALIVARY_NOS.gz",
     "file": "CD2_BENIGN_SALIVARY_NOS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/CD2_BENIGN_SALIVARY_NOS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/CD2_BENIGN_SALIVARY_NOS"
   },
   {
     "phenocode": "CD2_BENIGN_SKIN",
@@ -375,7 +375,7 @@
     "n_controls": 93984,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_CD2_BENIGN_SKIN.gz",
     "file": "CD2_BENIGN_SKIN_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/CD2_BENIGN_SKIN"
+    "pheweb_link": "https://r2.finngen.fi/pheno/CD2_BENIGN_SKIN"
   },
   {
     "phenocode": "CD2_BENIGN_SKIN_EAR",
@@ -384,7 +384,7 @@
     "n_controls": 96283,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_CD2_BENIGN_SKIN_EAR.gz",
     "file": "CD2_BENIGN_SKIN_EAR_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/CD2_BENIGN_SKIN_EAR"
+    "pheweb_link": "https://r2.finngen.fi/pheno/CD2_BENIGN_SKIN_EAR"
   },
   {
     "phenocode": "CD2_BENIGN_SMALL_INTESTINE",
@@ -393,7 +393,7 @@
     "n_controls": 96251,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_CD2_BENIGN_SMALL_INTESTINE.gz",
     "file": "CD2_BENIGN_SMALL_INTESTINE_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/CD2_BENIGN_SMALL_INTESTINE"
+    "pheweb_link": "https://r2.finngen.fi/pheno/CD2_BENIGN_SMALL_INTESTINE"
   },
   {
     "phenocode": "CD2_BENIGN_SMALL_INTESTINE_OTH",
@@ -402,7 +402,7 @@
     "n_controls": 96355,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_CD2_BENIGN_SMALL_INTESTINE_OTH.gz",
     "file": "CD2_BENIGN_SMALL_INTESTINE_OTH_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/CD2_BENIGN_SMALL_INTESTINE_OTH"
+    "pheweb_link": "https://r2.finngen.fi/pheno/CD2_BENIGN_SMALL_INTESTINE_OTH"
   },
   {
     "phenocode": "CD2_BENIGN_UTERUS_OTH",
@@ -411,7 +411,7 @@
     "n_controls": 96104,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_CD2_BENIGN_UTERUS_OTH.gz",
     "file": "CD2_BENIGN_UTERUS_OTH_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/CD2_BENIGN_UTERUS_OTH"
+    "pheweb_link": "https://r2.finngen.fi/pheno/CD2_BENIGN_UTERUS_OTH"
   },
   {
     "phenocode": "CD2_FOLLICULAR_LYMPHOMA",
@@ -420,7 +420,7 @@
     "n_controls": 96341,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_CD2_FOLLICULAR_LYMPHOMA.gz",
     "file": "CD2_FOLLICULAR_LYMPHOMA_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/CD2_FOLLICULAR_LYMPHOMA"
+    "pheweb_link": "https://r2.finngen.fi/pheno/CD2_FOLLICULAR_LYMPHOMA"
   },
   {
     "phenocode": "COMB_ORAL_GLUCLOW",
@@ -429,7 +429,7 @@
     "n_controls": 85744,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_COMB_ORAL_GLUCLOW.gz",
     "file": "COMB_ORAL_GLUCLOW_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/COMB_ORAL_GLUCLOW"
+    "pheweb_link": "https://r2.finngen.fi/pheno/COMB_ORAL_GLUCLOW"
   },
   {
     "phenocode": "CONGEN_HEART_ARTER",
@@ -438,7 +438,7 @@
     "n_controls": 95919,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_CONGEN_HEART_ARTER.gz",
     "file": "CONGEN_HEART_ARTER_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/CONGEN_HEART_ARTER"
+    "pheweb_link": "https://r2.finngen.fi/pheno/CONGEN_HEART_ARTER"
   },
   {
     "phenocode": "COPD_EARLY_EXMORE",
@@ -447,7 +447,7 @@
     "n_controls": 67360,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_COPD_EARLY_EXMORE.gz",
     "file": "COPD_EARLY_EXMORE_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/COPD_EARLY_EXMORE"
+    "pheweb_link": "https://r2.finngen.fi/pheno/COPD_EARLY_EXMORE"
   },
   {
     "phenocode": "COPD_MODE",
@@ -456,7 +456,7 @@
     "n_controls": 66218,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_COPD_MODE.gz",
     "file": "COPD_MODE_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/COPD_MODE"
+    "pheweb_link": "https://r2.finngen.fi/pheno/COPD_MODE"
   },
   {
     "phenocode": "COPD_MULTIMORB",
@@ -465,7 +465,7 @@
     "n_controls": 94909,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_COPD_MULTIMORB.gz",
     "file": "COPD_MULTIMORB_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/COPD_MULTIMORB"
+    "pheweb_link": "https://r2.finngen.fi/pheno/COPD_MULTIMORB"
   },
   {
     "phenocode": "CUSTOM_AMD",
@@ -474,7 +474,7 @@
     "n_controls": 47560,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_CUSTOM_AMD.gz",
     "file": "CUSTOM_AMD_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/CUSTOM_AMD"
+    "pheweb_link": "https://r2.finngen.fi/pheno/CUSTOM_AMD"
   },
   {
     "phenocode": "CUSTOM_K51_AND_KELA_NOT_K50",
@@ -483,7 +483,7 @@
     "n_controls": 93624,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_CUSTOM_K51_AND_KELA_NOT_K50.gz",
     "file": "CUSTOM_K51_AND_KELA_NOT_K50_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/CUSTOM_K51_AND_KELA_NOT_K50"
+    "pheweb_link": "https://r2.finngen.fi/pheno/CUSTOM_K51_AND_KELA_NOT_K50"
   },
   {
     "phenocode": "C_STROKE",
@@ -492,7 +492,7 @@
     "n_controls": 75420,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_C_STROKE.gz",
     "file": "C_STROKE_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/C_STROKE"
+    "pheweb_link": "https://r2.finngen.fi/pheno/C_STROKE"
   },
   {
     "phenocode": "D1_ICD8",
@@ -501,7 +501,7 @@
     "n_controls": 93472,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_D1_ICD8.gz",
     "file": "D1_ICD8_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/D1_ICD8"
+    "pheweb_link": "https://r2.finngen.fi/pheno/D1_ICD8"
   },
   {
     "phenocode": "D3_ANAEMIA",
@@ -510,7 +510,7 @@
     "n_controls": 32736,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_D3_ANAEMIA.gz",
     "file": "D3_ANAEMIA_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/D3_ANAEMIA"
+    "pheweb_link": "https://r2.finngen.fi/pheno/D3_ANAEMIA"
   },
   {
     "phenocode": "D3_ANAEMIA_B12_DEF",
@@ -519,7 +519,7 @@
     "n_controls": 93787,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_D3_ANAEMIA_B12_DEF.gz",
     "file": "D3_ANAEMIA_B12_DEF_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/D3_ANAEMIA_B12_DEF"
+    "pheweb_link": "https://r2.finngen.fi/pheno/D3_ANAEMIA_B12_DEF"
   },
   {
     "phenocode": "D3_ANAEMIA_IRONDEF",
@@ -528,7 +528,7 @@
     "n_controls": 93787,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_D3_ANAEMIA_IRONDEF.gz",
     "file": "D3_ANAEMIA_IRONDEF_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/D3_ANAEMIA_IRONDEF"
+    "pheweb_link": "https://r2.finngen.fi/pheno/D3_ANAEMIA_IRONDEF"
   },
   {
     "phenocode": "D3_ANAEMIA_IRONDEF_BLOODLOSS",
@@ -537,7 +537,7 @@
     "n_controls": 93787,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_D3_ANAEMIA_IRONDEF_BLOODLOSS.gz",
     "file": "D3_ANAEMIA_IRONDEF_BLOODLOSS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/D3_ANAEMIA_IRONDEF_BLOODLOSS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/D3_ANAEMIA_IRONDEF_BLOODLOSS"
   },
   {
     "phenocode": "D3_ANAEMIA_IRONDEF_NAS",
@@ -546,7 +546,7 @@
     "n_controls": 93787,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_D3_ANAEMIA_IRONDEF_NAS.gz",
     "file": "D3_ANAEMIA_IRONDEF_NAS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/D3_ANAEMIA_IRONDEF_NAS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/D3_ANAEMIA_IRONDEF_NAS"
   },
   {
     "phenocode": "D3_APLASTICANDOTHANAEMIA",
@@ -555,7 +555,7 @@
     "n_controls": 94380,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_D3_APLASTICANDOTHANAEMIA.gz",
     "file": "D3_APLASTICANDOTHANAEMIA_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/D3_APLASTICANDOTHANAEMIA"
+    "pheweb_link": "https://r2.finngen.fi/pheno/D3_APLASTICANDOTHANAEMIA"
   },
   {
     "phenocode": "D3_BLOOD",
@@ -564,7 +564,7 @@
     "n_controls": 89850,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_D3_BLOOD.gz",
     "file": "D3_BLOOD_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/D3_BLOOD"
+    "pheweb_link": "https://r2.finngen.fi/pheno/D3_BLOOD"
   },
   {
     "phenocode": "D3_COAGDEFNAS",
@@ -573,7 +573,7 @@
     "n_controls": 95596,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_D3_COAGDEFNAS.gz",
     "file": "D3_COAGDEFNAS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/D3_COAGDEFNAS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/D3_COAGDEFNAS"
   },
   {
     "phenocode": "D3_COAGDEF_PURPUR_HAEMORRHAGIC",
@@ -582,7 +582,7 @@
     "n_controls": 95596,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_D3_COAGDEF_PURPUR_HAEMORRHAGIC.gz",
     "file": "D3_COAGDEF_PURPUR_HAEMORRHAGIC_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/D3_COAGDEF_PURPUR_HAEMORRHAGIC"
+    "pheweb_link": "https://r2.finngen.fi/pheno/D3_COAGDEF_PURPUR_HAEMORRHAGIC"
   },
   {
     "phenocode": "D3_COAGOTHER",
@@ -591,7 +591,7 @@
     "n_controls": 95596,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_D3_COAGOTHER.gz",
     "file": "D3_COAGOTHER_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/D3_COAGOTHER"
+    "pheweb_link": "https://r2.finngen.fi/pheno/D3_COAGOTHER"
   },
   {
     "phenocode": "D3_ITP",
@@ -600,7 +600,7 @@
     "n_controls": 95596,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_D3_ITP.gz",
     "file": "D3_ITP_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/D3_ITP"
+    "pheweb_link": "https://r2.finngen.fi/pheno/D3_ITP"
   },
   {
     "phenocode": "D3_NUTRIANAEMIA",
@@ -609,7 +609,7 @@
     "n_controls": 93787,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_D3_NUTRIANAEMIA.gz",
     "file": "D3_NUTRIANAEMIA_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/D3_NUTRIANAEMIA"
+    "pheweb_link": "https://r2.finngen.fi/pheno/D3_NUTRIANAEMIA"
   },
   {
     "phenocode": "D3_PURPURA_AND3_OTHER_HAEMORRHAGIC",
@@ -618,7 +618,7 @@
     "n_controls": 95596,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_D3_PURPURA_AND3_OTHER_HAEMORRHAGIC.gz",
     "file": "D3_PURPURA_AND3_OTHER_HAEMORRHAGIC_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/D3_PURPURA_AND3_OTHER_HAEMORRHAGIC"
+    "pheweb_link": "https://r2.finngen.fi/pheno/D3_PURPURA_AND3_OTHER_HAEMORRHAGIC"
   },
   {
     "phenocode": "D3_WHITEBLOODCELLNAS",
@@ -627,7 +627,7 @@
     "n_controls": 95634,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_D3_WHITEBLOODCELLNAS.gz",
     "file": "D3_WHITEBLOODCELLNAS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/D3_WHITEBLOODCELLNAS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/D3_WHITEBLOODCELLNAS"
   },
   {
     "phenocode": "DIABETES_FG",
@@ -636,7 +636,7 @@
     "n_controls": 82381,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_DIABETES_FG.gz",
     "file": "DIABETES_FG_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/DIABETES_FG"
+    "pheweb_link": "https://r2.finngen.fi/pheno/DIABETES_FG"
   },
   {
     "phenocode": "DIAB_MED",
@@ -645,7 +645,7 @@
     "n_controls": 83689,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_DIAB_MED.gz",
     "file": "DIAB_MED_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/DIAB_MED"
+    "pheweb_link": "https://r2.finngen.fi/pheno/DIAB_MED"
   },
   {
     "phenocode": "DIALYSIS",
@@ -654,7 +654,7 @@
     "n_controls": 94872,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_DIALYSIS.gz",
     "file": "DIALYSIS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/DIALYSIS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/DIALYSIS"
   },
   {
     "phenocode": "DM_EYE_OEPR_RETINAL_PHOTOCOAGULATION",
@@ -663,7 +663,7 @@
     "n_controls": 13014,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_DM_EYE_OEPR_RETINAL_PHOTOCOAGULATION.gz",
     "file": "DM_EYE_OEPR_RETINAL_PHOTOCOAGULATION_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/DM_EYE_OEPR_RETINAL_PHOTOCOAGULATION"
+    "pheweb_link": "https://r2.finngen.fi/pheno/DM_EYE_OEPR_RETINAL_PHOTOCOAGULATION"
   },
   {
     "phenocode": "DM_EYE_OPER",
@@ -672,7 +672,7 @@
     "n_controls": 10925,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_DM_EYE_OPER.gz",
     "file": "DM_EYE_OPER_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/DM_EYE_OPER"
+    "pheweb_link": "https://r2.finngen.fi/pheno/DM_EYE_OPER"
   },
   {
     "phenocode": "DM_EYE_OPER_VEGF_INJECT_VITR",
@@ -681,7 +681,7 @@
     "n_controls": 94909,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_DM_EYE_OPER_VEGF_INJECT_VITR.gz",
     "file": "DM_EYE_OPER_VEGF_INJECT_VITR_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/DM_EYE_OPER_VEGF_INJECT_VITR"
+    "pheweb_link": "https://r2.finngen.fi/pheno/DM_EYE_OPER_VEGF_INJECT_VITR"
   },
   {
     "phenocode": "DM_HYPOGLYC",
@@ -690,7 +690,7 @@
     "n_controls": 75420,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_DM_HYPOGLYC.gz",
     "file": "DM_HYPOGLYC_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/DM_HYPOGLYC"
+    "pheweb_link": "https://r2.finngen.fi/pheno/DM_HYPOGLYC"
   },
   {
     "phenocode": "DM_KETOACIDOSIS",
@@ -699,7 +699,7 @@
     "n_controls": 75420,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_DM_KETOACIDOSIS.gz",
     "file": "DM_KETOACIDOSIS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/DM_KETOACIDOSIS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/DM_KETOACIDOSIS"
   },
   {
     "phenocode": "DM_KIDNEYFAIL",
@@ -708,7 +708,7 @@
     "n_controls": 95524,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_DM_KIDNEYFAIL.gz",
     "file": "DM_KIDNEYFAIL_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/DM_KIDNEYFAIL"
+    "pheweb_link": "https://r2.finngen.fi/pheno/DM_KIDNEYFAIL"
   },
   {
     "phenocode": "DM_NEPHORAPATHY_OPER",
@@ -717,7 +717,7 @@
     "n_controls": 75420,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_DM_NEPHORAPATHY_OPER.gz",
     "file": "DM_NEPHORAPATHY_OPER_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/DM_NEPHORAPATHY_OPER"
+    "pheweb_link": "https://r2.finngen.fi/pheno/DM_NEPHORAPATHY_OPER"
   },
   {
     "phenocode": "DM_NEPHROPATHY_EXMORE",
@@ -726,7 +726,7 @@
     "n_controls": 82214,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_DM_NEPHROPATHY_EXMORE.gz",
     "file": "DM_NEPHROPATHY_EXMORE_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/DM_NEPHROPATHY_EXMORE"
+    "pheweb_link": "https://r2.finngen.fi/pheno/DM_NEPHROPATHY_EXMORE"
   },
   {
     "phenocode": "DM_RETINA_PROLIF",
@@ -735,7 +735,7 @@
     "n_controls": 90873,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_DM_RETINA_PROLIF.gz",
     "file": "DM_RETINA_PROLIF_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/DM_RETINA_PROLIF"
+    "pheweb_link": "https://r2.finngen.fi/pheno/DM_RETINA_PROLIF"
   },
   {
     "phenocode": "DM_RETINOPATHY_EXMORE",
@@ -744,7 +744,7 @@
     "n_controls": 79948,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_DM_RETINOPATHY_EXMORE.gz",
     "file": "DM_RETINOPATHY_EXMORE_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/DM_RETINOPATHY_EXMORE"
+    "pheweb_link": "https://r2.finngen.fi/pheno/DM_RETINOPATHY_EXMORE"
   },
   {
     "phenocode": "DM_SEVERAL_COMPLICATIONS",
@@ -753,7 +753,7 @@
     "n_controls": 75420,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_DM_SEVERAL_COMPLICATIONS.gz",
     "file": "DM_SEVERAL_COMPLICATIONS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/DM_SEVERAL_COMPLICATIONS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/DM_SEVERAL_COMPLICATIONS"
   },
   {
     "phenocode": "DPP4INH",
@@ -762,7 +762,7 @@
     "n_controls": 85744,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_DPP4INH.gz",
     "file": "DPP4INH_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/DPP4INH"
+    "pheweb_link": "https://r2.finngen.fi/pheno/DPP4INH"
   },
   {
     "phenocode": "DRY_AMD",
@@ -771,7 +771,7 @@
     "n_controls": 47834,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_DRY_AMD.gz",
     "file": "DRY_AMD_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/DRY_AMD"
+    "pheweb_link": "https://r2.finngen.fi/pheno/DRY_AMD"
   },
   {
     "phenocode": "E4_DM1COMA",
@@ -780,7 +780,7 @@
     "n_controls": 93863,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_DM1COMA.gz",
     "file": "E4_DM1COMA_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_DM1COMA"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_DM1COMA"
   },
   {
     "phenocode": "E4_DM1KETO",
@@ -789,7 +789,7 @@
     "n_controls": 93863,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_DM1KETO.gz",
     "file": "E4_DM1KETO_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_DM1KETO"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_DM1KETO"
   },
   {
     "phenocode": "E4_DM1NASCOMP",
@@ -798,7 +798,7 @@
     "n_controls": 93863,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_DM1NASCOMP.gz",
     "file": "E4_DM1NASCOMP_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_DM1NASCOMP"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_DM1NASCOMP"
   },
   {
     "phenocode": "E4_DM1NEU",
@@ -807,7 +807,7 @@
     "n_controls": 93863,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_DM1NEU.gz",
     "file": "E4_DM1NEU_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_DM1NEU"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_DM1NEU"
   },
   {
     "phenocode": "E4_DM1OPTH",
@@ -816,7 +816,7 @@
     "n_controls": 93863,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_DM1OPTH.gz",
     "file": "E4_DM1OPTH_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_DM1OPTH"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_DM1OPTH"
   },
   {
     "phenocode": "E4_DM1PERIPH",
@@ -825,7 +825,7 @@
     "n_controls": 93863,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_DM1PERIPH.gz",
     "file": "E4_DM1PERIPH_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_DM1PERIPH"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_DM1PERIPH"
   },
   {
     "phenocode": "E4_DM1REN",
@@ -834,7 +834,7 @@
     "n_controls": 93863,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_DM1REN.gz",
     "file": "E4_DM1REN_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_DM1REN"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_DM1REN"
   },
   {
     "phenocode": "E4_DM1_STRICT",
@@ -843,7 +843,7 @@
     "n_controls": 82655,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_DM1_STRICT.gz",
     "file": "E4_DM1_STRICT_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_DM1_STRICT"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_DM1_STRICT"
   },
   {
     "phenocode": "E4_DM2COMA",
@@ -852,7 +852,7 @@
     "n_controls": 84124,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_DM2COMA.gz",
     "file": "E4_DM2COMA_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_DM2COMA"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_DM2COMA"
   },
   {
     "phenocode": "E4_DM2KETO",
@@ -861,7 +861,7 @@
     "n_controls": 84124,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_DM2KETO.gz",
     "file": "E4_DM2KETO_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_DM2KETO"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_DM2KETO"
   },
   {
     "phenocode": "E4_DM2NASCOMP",
@@ -870,7 +870,7 @@
     "n_controls": 84124,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_DM2NASCOMP.gz",
     "file": "E4_DM2NASCOMP_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_DM2NASCOMP"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_DM2NASCOMP"
   },
   {
     "phenocode": "E4_DM2NOCOMP",
@@ -879,7 +879,7 @@
     "n_controls": 84124,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_DM2NOCOMP.gz",
     "file": "E4_DM2NOCOMP_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_DM2NOCOMP"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_DM2NOCOMP"
   },
   {
     "phenocode": "E4_DM2OPTH",
@@ -888,7 +888,7 @@
     "n_controls": 84124,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_DM2OPTH.gz",
     "file": "E4_DM2OPTH_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_DM2OPTH"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_DM2OPTH"
   },
   {
     "phenocode": "E4_DM2REN",
@@ -897,7 +897,7 @@
     "n_controls": 84124,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_DM2REN.gz",
     "file": "E4_DM2REN_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_DM2REN"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_DM2REN"
   },
   {
     "phenocode": "E4_DM2_STRICT",
@@ -906,7 +906,7 @@
     "n_controls": 82655,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_DM2_STRICT.gz",
     "file": "E4_DM2_STRICT_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_DM2_STRICT"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_DM2_STRICT"
   },
   {
     "phenocode": "E4_DMICD8NASCOMP",
@@ -915,7 +915,7 @@
     "n_controls": 95582,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_DMICD8NASCOMP.gz",
     "file": "E4_DMICD8NASCOMP_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_DMICD8NASCOMP"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_DMICD8NASCOMP"
   },
   {
     "phenocode": "E4_DMNAS",
@@ -924,7 +924,7 @@
     "n_controls": 82655,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_DMNAS.gz",
     "file": "E4_DMNAS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_DMNAS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_DMNAS"
   },
   {
     "phenocode": "E4_DMNASNOCOMP",
@@ -933,7 +933,7 @@
     "n_controls": 95063,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_DMNASNOCOMP.gz",
     "file": "E4_DMNASNOCOMP_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_DMNASNOCOMP"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_DMNASNOCOMP"
   },
   {
     "phenocode": "E4_ENDODIS",
@@ -942,7 +942,7 @@
     "n_controls": 93916,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_ENDODIS.gz",
     "file": "E4_ENDODIS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_ENDODIS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_ENDODIS"
   },
   {
     "phenocode": "E4_ENDONUTRMET",
@@ -951,7 +951,7 @@
     "n_controls": 66434,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_ENDONUTRMET.gz",
     "file": "E4_ENDONUTRMET_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_ENDONUTRMET"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_ENDONUTRMET"
   },
   {
     "phenocode": "E4_GLUCOPANCREAS",
@@ -960,7 +960,7 @@
     "n_controls": 95988,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_GLUCOPANCREAS.gz",
     "file": "E4_GLUCOPANCREAS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_GLUCOPANCREAS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_GLUCOPANCREAS"
   },
   {
     "phenocode": "E4_GOITREDIFF",
@@ -969,7 +969,7 @@
     "n_controls": 84518,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_GOITREDIFF.gz",
     "file": "E4_GOITREDIFF_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_GOITREDIFF"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_GOITREDIFF"
   },
   {
     "phenocode": "E4_GOITREMULTINOD",
@@ -978,7 +978,7 @@
     "n_controls": 84518,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_GOITREMULTINOD.gz",
     "file": "E4_GOITREMULTINOD_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_GOITREMULTINOD"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_GOITREMULTINOD"
   },
   {
     "phenocode": "E4_GOITRENOD",
@@ -987,7 +987,7 @@
     "n_controls": 84518,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_GOITRENOD.gz",
     "file": "E4_GOITRENOD_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_GOITRENOD"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_GOITRENOD"
   },
   {
     "phenocode": "E4_HYPERCHOL",
@@ -996,7 +996,7 @@
     "n_controls": 91366,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_HYPERCHOL.gz",
     "file": "E4_HYPERCHOL_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_HYPERCHOL"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_HYPERCHOL"
   },
   {
     "phenocode": "E4_HYPERLIPNAS",
@@ -1005,7 +1005,7 @@
     "n_controls": 91366,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_HYPERLIPNAS.gz",
     "file": "E4_HYPERLIPNAS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_HYPERLIPNAS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_HYPERLIPNAS"
   },
   {
     "phenocode": "E4_HYPERPARA",
@@ -1014,7 +1014,7 @@
     "n_controls": 95258,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_HYPERPARA.gz",
     "file": "E4_HYPERPARA_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_HYPERPARA"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_HYPERPARA"
   },
   {
     "phenocode": "E4_HYPOGLYC",
@@ -1023,7 +1023,7 @@
     "n_controls": 95988,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_HYPOGLYC.gz",
     "file": "E4_HYPOGLYC_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_HYPOGLYC"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_HYPOGLYC"
   },
   {
     "phenocode": "E4_HYPOKALAEMIA",
@@ -1032,7 +1032,7 @@
     "n_controls": 95063,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_HYPOKALAEMIA.gz",
     "file": "E4_HYPOKALAEMIA_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_HYPOKALAEMIA"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_HYPOKALAEMIA"
   },
   {
     "phenocode": "E4_LACTOSEINT",
@@ -1041,7 +1041,7 @@
     "n_controls": 88782,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_LACTOSEINT.gz",
     "file": "E4_LACTOSEINT_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_LACTOSEINT"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_LACTOSEINT"
   },
   {
     "phenocode": "E4_LIPOPROT",
@@ -1050,7 +1050,7 @@
     "n_controls": 88782,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_LIPOPROT.gz",
     "file": "E4_LIPOPROT_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_LIPOPROT"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_LIPOPROT"
   },
   {
     "phenocode": "E4_LIPOPROTNAS",
@@ -1059,7 +1059,7 @@
     "n_controls": 91366,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_LIPOPROTNAS.gz",
     "file": "E4_LIPOPROTNAS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_LIPOPROTNAS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_LIPOPROTNAS"
   },
   {
     "phenocode": "E4_METABO",
@@ -1068,7 +1068,7 @@
     "n_controls": 88782,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_METABO.gz",
     "file": "E4_METABO_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_METABO"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_METABO"
   },
   {
     "phenocode": "E4_METABOLIA",
@@ -1077,7 +1077,7 @@
     "n_controls": 88782,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_METABOLIA.gz",
     "file": "E4_METABOLIA_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_METABOLIA"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_METABOLIA"
   },
   {
     "phenocode": "E4_MINERAL_MET",
@@ -1086,7 +1086,7 @@
     "n_controls": 88782,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_MINERAL_MET.gz",
     "file": "E4_MINERAL_MET_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_MINERAL_MET"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_MINERAL_MET"
   },
   {
     "phenocode": "E4_OBESITYCAL",
@@ -1095,7 +1095,7 @@
     "n_controls": 93493,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_OBESITYCAL.gz",
     "file": "E4_OBESITYCAL_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_OBESITYCAL"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_OBESITYCAL"
   },
   {
     "phenocode": "E4_OBESITYNAS",
@@ -1104,7 +1104,7 @@
     "n_controls": 93493,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_OBESITYNAS.gz",
     "file": "E4_OBESITYNAS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_OBESITYNAS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_OBESITYNAS"
   },
   {
     "phenocode": "E4_OBESITY_HYPER",
@@ -1113,7 +1113,7 @@
     "n_controls": 93468,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_OBESITY_HYPER.gz",
     "file": "E4_OBESITY_HYPER_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_OBESITY_HYPER"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_OBESITY_HYPER"
   },
   {
     "phenocode": "E4_OVARDYS",
@@ -1122,7 +1122,7 @@
     "n_controls": 52329,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_OVARDYS.gz",
     "file": "E4_OVARDYS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_OVARDYS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_OVARDYS"
   },
   {
     "phenocode": "E4_THYROIDITSUBAC",
@@ -1131,7 +1131,7 @@
     "n_controls": 84518,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_THYROIDITSUBAC.gz",
     "file": "E4_THYROIDITSUBAC_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_THYROIDITSUBAC"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_THYROIDITSUBAC"
   },
   {
     "phenocode": "E4_THYTOXGOITDIF",
@@ -1140,7 +1140,7 @@
     "n_controls": 84518,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_THYTOXGOITDIF.gz",
     "file": "E4_THYTOXGOITDIF_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_THYTOXGOITDIF"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_THYTOXGOITDIF"
   },
   {
     "phenocode": "E4_THYTOXNAS",
@@ -1149,7 +1149,7 @@
     "n_controls": 84518,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_E4_THYTOXNAS.gz",
     "file": "E4_THYTOXNAS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/E4_THYTOXNAS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/E4_THYTOXNAS"
   },
   {
     "phenocode": "F5_ALZHDEMENT",
@@ -1158,7 +1158,7 @@
     "n_controls": 94337,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_F5_ALZHDEMENT.gz",
     "file": "F5_ALZHDEMENT_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/F5_ALZHDEMENT"
+    "pheweb_link": "https://r2.finngen.fi/pheno/F5_ALZHDEMENT"
   },
   {
     "phenocode": "F5_BEHAVE",
@@ -1167,7 +1167,7 @@
     "n_controls": 94806,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_F5_BEHAVE.gz",
     "file": "F5_BEHAVE_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/F5_BEHAVE"
+    "pheweb_link": "https://r2.finngen.fi/pheno/F5_BEHAVE"
   },
   {
     "phenocode": "F5_BULIMIA",
@@ -1176,7 +1176,7 @@
     "n_controls": 94806,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_F5_BULIMIA.gz",
     "file": "F5_BULIMIA_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/F5_BULIMIA"
+    "pheweb_link": "https://r2.finngen.fi/pheno/F5_BULIMIA"
   },
   {
     "phenocode": "F5_DEMENTIA",
@@ -1185,7 +1185,7 @@
     "n_controls": 93498,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_F5_DEMENTIA.gz",
     "file": "F5_DEMENTIA_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/F5_DEMENTIA"
+    "pheweb_link": "https://r2.finngen.fi/pheno/F5_DEMENTIA"
   },
   {
     "phenocode": "F5_DEMNAS",
@@ -1194,7 +1194,7 @@
     "n_controls": 94337,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_F5_DEMNAS.gz",
     "file": "F5_DEMNAS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/F5_DEMNAS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/F5_DEMNAS"
   },
   {
     "phenocode": "F5_MANIA",
@@ -1203,7 +1203,7 @@
     "n_controls": 86081,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_F5_MANIA.gz",
     "file": "F5_MANIA_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/F5_MANIA"
+    "pheweb_link": "https://r2.finngen.fi/pheno/F5_MANIA"
   },
   {
     "phenocode": "F5_MENTORG",
@@ -1212,7 +1212,7 @@
     "n_controls": 93498,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_F5_MENTORG.gz",
     "file": "F5_MENTORG_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/F5_MENTORG"
+    "pheweb_link": "https://r2.finngen.fi/pheno/F5_MENTORG"
   },
   {
     "phenocode": "F5_MIXPER",
@@ -1221,7 +1221,7 @@
     "n_controls": 93720,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_F5_MIXPER.gz",
     "file": "F5_MIXPER_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/F5_MIXPER"
+    "pheweb_link": "https://r2.finngen.fi/pheno/F5_MIXPER"
   },
   {
     "phenocode": "F5_MOOD",
@@ -1230,7 +1230,7 @@
     "n_controls": 86081,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_F5_MOOD.gz",
     "file": "F5_MOOD_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/F5_MOOD"
+    "pheweb_link": "https://r2.finngen.fi/pheno/F5_MOOD"
   },
   {
     "phenocode": "F5_MOODOTH",
@@ -1239,7 +1239,7 @@
     "n_controls": 86081,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_F5_MOODOTH.gz",
     "file": "F5_MOODOTH_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/F5_MOODOTH"
+    "pheweb_link": "https://r2.finngen.fi/pheno/F5_MOODOTH"
   },
   {
     "phenocode": "F5_ORGANIC",
@@ -1248,7 +1248,7 @@
     "n_controls": 93498,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_F5_ORGANIC.gz",
     "file": "F5_ORGANIC_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/F5_ORGANIC"
+    "pheweb_link": "https://r2.finngen.fi/pheno/F5_ORGANIC"
   },
   {
     "phenocode": "F5_PANIC",
@@ -1257,7 +1257,7 @@
     "n_controls": 88700,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_F5_PANIC.gz",
     "file": "F5_PANIC_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/F5_PANIC"
+    "pheweb_link": "https://r2.finngen.fi/pheno/F5_PANIC"
   },
   {
     "phenocode": "F5_PSYCHOTH",
@@ -1266,7 +1266,7 @@
     "n_controls": 91492,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_F5_PSYCHOTH.gz",
     "file": "F5_PSYCHOTH_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/F5_PSYCHOTH"
+    "pheweb_link": "https://r2.finngen.fi/pheno/F5_PSYCHOTH"
   },
   {
     "phenocode": "F5_SEDAHYP",
@@ -1275,7 +1275,7 @@
     "n_controls": 94964,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_F5_SEDAHYP.gz",
     "file": "F5_SEDAHYP_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/F5_SEDAHYP"
+    "pheweb_link": "https://r2.finngen.fi/pheno/F5_SEDAHYP"
   },
   {
     "phenocode": "F5_TOBAC",
@@ -1284,7 +1284,7 @@
     "n_controls": 94964,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_F5_TOBAC.gz",
     "file": "F5_TOBAC_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/F5_TOBAC"
+    "pheweb_link": "https://r2.finngen.fi/pheno/F5_TOBAC"
   },
   {
     "phenocode": "F5_VASCDEM",
@@ -1293,7 +1293,7 @@
     "n_controls": 94337,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_F5_VASCDEM.gz",
     "file": "F5_VASCDEM_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/F5_VASCDEM"
+    "pheweb_link": "https://r2.finngen.fi/pheno/F5_VASCDEM"
   },
   {
     "phenocode": "FG_CARDMYO",
@@ -1302,7 +1302,7 @@
     "n_controls": 76831,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_FG_CARDMYO.gz",
     "file": "FG_CARDMYO_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/FG_CARDMYO"
+    "pheweb_link": "https://r2.finngen.fi/pheno/FG_CARDMYO"
   },
   {
     "phenocode": "FG_CVD",
@@ -1311,7 +1311,7 @@
     "n_controls": 56378,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_FG_CVD.gz",
     "file": "FG_CVD_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/FG_CVD"
+    "pheweb_link": "https://r2.finngen.fi/pheno/FG_CVD"
   },
   {
     "phenocode": "FG_DISVEINLYMPH",
@@ -1320,7 +1320,7 @@
     "n_controls": 56378,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_FG_DISVEINLYMPH.gz",
     "file": "FG_DISVEINLYMPH_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/FG_DISVEINLYMPH"
+    "pheweb_link": "https://r2.finngen.fi/pheno/FG_DISVEINLYMPH"
   },
   {
     "phenocode": "FG_HYPERTENSION",
@@ -1329,7 +1329,7 @@
     "n_controls": 56378,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_FG_HYPERTENSION.gz",
     "file": "FG_HYPERTENSION_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/FG_HYPERTENSION"
+    "pheweb_link": "https://r2.finngen.fi/pheno/FG_HYPERTENSION"
   },
   {
     "phenocode": "FG_OTHHEART",
@@ -1338,7 +1338,7 @@
     "n_controls": 56378,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_FG_OTHHEART.gz",
     "file": "FG_OTHHEART_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/FG_OTHHEART"
+    "pheweb_link": "https://r2.finngen.fi/pheno/FG_OTHHEART"
   },
   {
     "phenocode": "FG_PULMHEART",
@@ -1347,7 +1347,7 @@
     "n_controls": 95133,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_FG_PULMHEART.gz",
     "file": "FG_PULMHEART_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/FG_PULMHEART"
+    "pheweb_link": "https://r2.finngen.fi/pheno/FG_PULMHEART"
   },
   {
     "phenocode": "G6_BRACHPLE",
@@ -1356,7 +1356,7 @@
     "n_controls": 86854,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_G6_BRACHPLE.gz",
     "file": "G6_BRACHPLE_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/G6_BRACHPLE"
+    "pheweb_link": "https://r2.finngen.fi/pheno/G6_BRACHPLE"
   },
   {
     "phenocode": "G6_DEMYEL",
@@ -1365,7 +1365,7 @@
     "n_controls": 96040,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_G6_DEMYEL.gz",
     "file": "G6_DEMYEL_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/G6_DEMYEL"
+    "pheweb_link": "https://r2.finngen.fi/pheno/G6_DEMYEL"
   },
   {
     "phenocode": "G6_DIABETNEUR",
@@ -1374,7 +1374,7 @@
     "n_controls": 86854,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_G6_DIABETNEUR.gz",
     "file": "G6_DIABETNEUR_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/G6_DIABETNEUR"
+    "pheweb_link": "https://r2.finngen.fi/pheno/G6_DIABETNEUR"
   },
   {
     "phenocode": "G6_INTRACRATRAUMA",
@@ -1383,7 +1383,7 @@
     "n_controls": 64290,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_G6_INTRACRATRAUMA.gz",
     "file": "G6_INTRACRATRAUMA_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/G6_INTRACRATRAUMA"
+    "pheweb_link": "https://r2.finngen.fi/pheno/G6_INTRACRATRAUMA"
   },
   {
     "phenocode": "G6_MIGRAINE",
@@ -1392,7 +1392,7 @@
     "n_controls": 83167,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_G6_MIGRAINE.gz",
     "file": "G6_MIGRAINE_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/G6_MIGRAINE"
+    "pheweb_link": "https://r2.finngen.fi/pheno/G6_MIGRAINE"
   },
   {
     "phenocode": "G6_MS",
@@ -1401,7 +1401,7 @@
     "n_controls": 44677,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_G6_MS.gz",
     "file": "G6_MS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/G6_MS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/G6_MS"
   },
   {
     "phenocode": "G6_MYONEU",
@@ -1410,7 +1410,7 @@
     "n_controls": 95926,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_G6_MYONEU.gz",
     "file": "G6_MYONEU_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/G6_MYONEU"
+    "pheweb_link": "https://r2.finngen.fi/pheno/G6_MYONEU"
   },
   {
     "phenocode": "G6_NERPLEX",
@@ -1419,7 +1419,7 @@
     "n_controls": 86854,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_G6_NERPLEX.gz",
     "file": "G6_NERPLEX_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/G6_NERPLEX"
+    "pheweb_link": "https://r2.finngen.fi/pheno/G6_NERPLEX"
   },
   {
     "phenocode": "G6_NEURO",
@@ -1428,7 +1428,7 @@
     "n_controls": 69022,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_G6_NEURO.gz",
     "file": "G6_NEURO_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/G6_NEURO"
+    "pheweb_link": "https://r2.finngen.fi/pheno/G6_NEURO"
   },
   {
     "phenocode": "G6_NEURODEG",
@@ -1437,7 +1437,7 @@
     "n_controls": 94475,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_G6_NEURODEG.gz",
     "file": "G6_NEURODEG_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/G6_NEURODEG"
+    "pheweb_link": "https://r2.finngen.fi/pheno/G6_NEURODEG"
   },
   {
     "phenocode": "G6_OTHDEMYEL",
@@ -1446,7 +1446,7 @@
     "n_controls": 96040,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_G6_OTHDEMYEL.gz",
     "file": "G6_OTHDEMYEL_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/G6_OTHDEMYEL"
+    "pheweb_link": "https://r2.finngen.fi/pheno/G6_OTHDEMYEL"
   },
   {
     "phenocode": "G6_POLYNEU",
@@ -1455,7 +1455,7 @@
     "n_controls": 95404,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_G6_POLYNEU.gz",
     "file": "G6_POLYNEU_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/G6_POLYNEU"
+    "pheweb_link": "https://r2.finngen.fi/pheno/G6_POLYNEU"
   },
   {
     "phenocode": "G6_POLYOTHUNS",
@@ -1464,7 +1464,7 @@
     "n_controls": 95404,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_G6_POLYOTHUNS.gz",
     "file": "G6_POLYOTHUNS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/G6_POLYOTHUNS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/G6_POLYOTHUNS"
   },
   {
     "phenocode": "G6_SLEEPAPNO",
@@ -1473,7 +1473,7 @@
     "n_controls": 83167,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_G6_SLEEPAPNO.gz",
     "file": "G6_SLEEPAPNO_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/G6_SLEEPAPNO"
+    "pheweb_link": "https://r2.finngen.fi/pheno/G6_SLEEPAPNO"
   },
   {
     "phenocode": "G6_VASCSYND",
@@ -1482,7 +1482,7 @@
     "n_controls": 91612,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_G6_VASCSYND.gz",
     "file": "G6_VASCSYND_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/G6_VASCSYND"
+    "pheweb_link": "https://r2.finngen.fi/pheno/G6_VASCSYND"
   },
   {
     "phenocode": "GEST_DIABETES",
@@ -1491,7 +1491,7 @@
     "n_controls": 52200,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_GEST_DIABETES.gz",
     "file": "GEST_DIABETES_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/GEST_DIABETES"
+    "pheweb_link": "https://r2.finngen.fi/pheno/GEST_DIABETES"
   },
   {
     "phenocode": "GIANT_CELL_TEMP_ARTERITIS",
@@ -1500,7 +1500,7 @@
     "n_controls": 96246,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_GIANT_CELL_TEMP_ARTERITIS.gz",
     "file": "GIANT_CELL_TEMP_ARTERITIS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/GIANT_CELL_TEMP_ARTERITIS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/GIANT_CELL_TEMP_ARTERITIS"
   },
   {
     "phenocode": "GLOMER_NEPHRITIS",
@@ -1509,7 +1509,7 @@
     "n_controls": 95194,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_GLOMER_NEPHRITIS.gz",
     "file": "GLOMER_NEPHRITIS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/GLOMER_NEPHRITIS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/GLOMER_NEPHRITIS"
   },
   {
     "phenocode": "GLP1ANA",
@@ -1518,7 +1518,7 @@
     "n_controls": 85744,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_GLP1ANA.gz",
     "file": "GLP1ANA_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/GLP1ANA"
+    "pheweb_link": "https://r2.finngen.fi/pheno/GLP1ANA"
   },
   {
     "phenocode": "GOUT_NOS",
@@ -1527,7 +1527,7 @@
     "n_controls": 95320,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_GOUT_NOS.gz",
     "file": "GOUT_NOS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/GOUT_NOS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/GOUT_NOS"
   },
   {
     "phenocode": "H7_AMBLYANOPSIA",
@@ -1536,7 +1536,7 @@
     "n_controls": 93878,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_AMBLYANOPSIA.gz",
     "file": "H7_AMBLYANOPSIA_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_AMBLYANOPSIA"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_AMBLYANOPSIA"
   },
   {
     "phenocode": "H7_ASTIGMATISM",
@@ -1545,7 +1545,7 @@
     "n_controls": 93606,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_ASTIGMATISM.gz",
     "file": "H7_ASTIGMATISM_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_ASTIGMATISM"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_ASTIGMATISM"
   },
   {
     "phenocode": "H7_BLEPHAROCHALASIS",
@@ -1554,7 +1554,7 @@
     "n_controls": 90757,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_BLEPHAROCHALASIS.gz",
     "file": "H7_BLEPHAROCHALASIS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_BLEPHAROCHALASIS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_BLEPHAROCHALASIS"
   },
   {
     "phenocode": "H7_CATARACTOTHER",
@@ -1563,7 +1563,7 @@
     "n_controls": 85696,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_CATARACTOTHER.gz",
     "file": "H7_CATARACTOTHER_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_CATARACTOTHER"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_CATARACTOTHER"
   },
   {
     "phenocode": "H7_CATARACTSENILE",
@@ -1572,7 +1572,7 @@
     "n_controls": 85696,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_CATARACTSENILE.gz",
     "file": "H7_CATARACTSENILE_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_CATARACTSENILE"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_CATARACTSENILE"
   },
   {
     "phenocode": "H7_CHOROIDRETINA",
@@ -1581,7 +1581,7 @@
     "n_controls": 90618,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_CHOROIDRETINA.gz",
     "file": "H7_CHOROIDRETINA_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_CHOROIDRETINA"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_CHOROIDRETINA"
   },
   {
     "phenocode": "H7_CONJUHAEMOR",
@@ -1590,7 +1590,7 @@
     "n_controls": 90564,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_CONJUHAEMOR.gz",
     "file": "H7_CONJUHAEMOR_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_CONJUHAEMOR"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_CONJUHAEMOR"
   },
   {
     "phenocode": "H7_CONJUNCTIVA",
@@ -1599,7 +1599,7 @@
     "n_controls": 90564,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_CONJUNCTIVA.gz",
     "file": "H7_CONJUNCTIVA_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_CONJUNCTIVA"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_CONJUNCTIVA"
   },
   {
     "phenocode": "H7_CONJUNCTIVITISACUNONATOPIC",
@@ -1608,7 +1608,7 @@
     "n_controls": 90564,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_CONJUNCTIVITISACUNONATOPIC.gz",
     "file": "H7_CONJUNCTIVITISACUNONATOPIC_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_CONJUNCTIVITISACUNONATOPIC"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_CONJUNCTIVITISACUNONATOPIC"
   },
   {
     "phenocode": "H7_CORNEALNAS",
@@ -1617,7 +1617,7 @@
     "n_controls": 92767,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_CORNEALNAS.gz",
     "file": "H7_CORNEALNAS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_CORNEALNAS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_CORNEALNAS"
   },
   {
     "phenocode": "H7_CORNEALOTH",
@@ -1626,7 +1626,7 @@
     "n_controls": 92767,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_CORNEALOTH.gz",
     "file": "H7_CORNEALOTH_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_CORNEALOTH"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_CORNEALOTH"
   },
   {
     "phenocode": "H7_CORNULCER",
@@ -1635,7 +1635,7 @@
     "n_controls": 92767,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_CORNULCER.gz",
     "file": "H7_CORNULCER_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_CORNULCER"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_CORNULCER"
   },
   {
     "phenocode": "H7_EYE",
@@ -1644,7 +1644,7 @@
     "n_controls": 67103,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_EYE.gz",
     "file": "H7_EYE_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_EYE"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_EYE"
   },
   {
     "phenocode": "H7_EYEADNEXOTH",
@@ -1653,7 +1653,7 @@
     "n_controls": 95852,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_EYEADNEXOTH.gz",
     "file": "H7_EYEADNEXOTH_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_EYEADNEXOTH"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_EYEADNEXOTH"
   },
   {
     "phenocode": "H7_GLAUCNAS",
@@ -1662,7 +1662,7 @@
     "n_controls": 93036,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_GLAUCNAS.gz",
     "file": "H7_GLAUCNAS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_GLAUCNAS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_GLAUCNAS"
   },
   {
     "phenocode": "H7_GLAUCOMA",
@@ -1671,7 +1671,7 @@
     "n_controls": 93036,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_GLAUCOMA.gz",
     "file": "H7_GLAUCOMA_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_GLAUCOMA"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_GLAUCOMA"
   },
   {
     "phenocode": "H7_GLAUCOMAMEDICATION",
@@ -1680,7 +1680,7 @@
     "n_controls": 93036,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_GLAUCOMAMEDICATION.gz",
     "file": "H7_GLAUCOMAMEDICATION_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_GLAUCOMAMEDICATION"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_GLAUCOMAMEDICATION"
   },
   {
     "phenocode": "H7_GLAUCPRIMOPEN",
@@ -1689,7 +1689,7 @@
     "n_controls": 93036,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_GLAUCPRIMOPEN.gz",
     "file": "H7_GLAUCPRIMOPEN_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_GLAUCPRIMOPEN"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_GLAUCPRIMOPEN"
   },
   {
     "phenocode": "H7_GLAUCSECDISEASE",
@@ -1698,7 +1698,7 @@
     "n_controls": 93036,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_GLAUCSECDISEASE.gz",
     "file": "H7_GLAUCSECDISEASE_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_GLAUCSECDISEASE"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_GLAUCSECDISEASE"
   },
   {
     "phenocode": "H7_GLAUCSUSP",
@@ -1707,7 +1707,7 @@
     "n_controls": 93036,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_GLAUCSUSP.gz",
     "file": "H7_GLAUCSUSP_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_GLAUCSUSP"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_GLAUCSUSP"
   },
   {
     "phenocode": "H7_HETEROPHORIA",
@@ -1716,7 +1716,7 @@
     "n_controls": 93606,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_HETEROPHORIA.gz",
     "file": "H7_HETEROPHORIA_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_HETEROPHORIA"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_HETEROPHORIA"
   },
   {
     "phenocode": "H7_IRIDOCHRONIC",
@@ -1725,7 +1725,7 @@
     "n_controls": 92767,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_IRIDOCHRONIC.gz",
     "file": "H7_IRIDOCHRONIC_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_IRIDOCHRONIC"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_IRIDOCHRONIC"
   },
   {
     "phenocode": "H7_IRIDOCYCLITIS",
@@ -1734,7 +1734,7 @@
     "n_controls": 92767,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_IRIDOCYCLITIS.gz",
     "file": "H7_IRIDOCYCLITIS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_IRIDOCYCLITIS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_IRIDOCYCLITIS"
   },
   {
     "phenocode": "H7_KERATITIS",
@@ -1743,7 +1743,7 @@
     "n_controls": 92767,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_KERATITIS.gz",
     "file": "H7_KERATITIS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_KERATITIS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_KERATITIS"
   },
   {
     "phenocode": "H7_LACRIGLAND",
@@ -1752,7 +1752,7 @@
     "n_controls": 90757,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_LACRIGLAND.gz",
     "file": "H7_LACRIGLAND_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_LACRIGLAND"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_LACRIGLAND"
   },
   {
     "phenocode": "H7_MACULADEGEN",
@@ -1761,7 +1761,7 @@
     "n_controls": 90618,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_MACULADEGEN.gz",
     "file": "H7_MACULADEGEN_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_MACULADEGEN"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_MACULADEGEN"
   },
   {
     "phenocode": "H7_MACULOPATHYDIAB",
@@ -1770,7 +1770,7 @@
     "n_controls": 90618,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_MACULOPATHYDIAB.gz",
     "file": "H7_MACULOPATHYDIAB_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_MACULOPATHYDIAB"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_MACULOPATHYDIAB"
   },
   {
     "phenocode": "H7_MYOPIA",
@@ -1779,7 +1779,7 @@
     "n_controls": 93606,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_MYOPIA.gz",
     "file": "H7_MYOPIA_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_MYOPIA"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_MYOPIA"
   },
   {
     "phenocode": "H7_OCUMUSCLE",
@@ -1788,7 +1788,7 @@
     "n_controls": 93606,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_OCUMUSCLE.gz",
     "file": "H7_OCUMUSCLE_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_OCUMUSCLE"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_OCUMUSCLE"
   },
   {
     "phenocode": "H7_OPTNERVE",
@@ -1797,7 +1797,7 @@
     "n_controls": 96031,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_OPTNERVE.gz",
     "file": "H7_OPTNERVE_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_OPTNERVE"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_OPTNERVE"
   },
   {
     "phenocode": "H7_OPTNEURITIS",
@@ -1806,7 +1806,7 @@
     "n_controls": 96031,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_OPTNEURITIS.gz",
     "file": "H7_OPTNEURITIS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_OPTNEURITIS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_OPTNEURITIS"
   },
   {
     "phenocode": "H7_OTHERCONJ",
@@ -1815,7 +1815,7 @@
     "n_controls": 90564,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_OTHERCONJ.gz",
     "file": "H7_OTHERCONJ_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_OTHERCONJ"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_OTHERCONJ"
   },
   {
     "phenocode": "H7_PARASTRAB",
@@ -1824,7 +1824,7 @@
     "n_controls": 93606,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_PARASTRAB.gz",
     "file": "H7_PARASTRAB_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_PARASTRAB"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_PARASTRAB"
   },
   {
     "phenocode": "H7_PERIPHRETINADEGEN",
@@ -1833,7 +1833,7 @@
     "n_controls": 90618,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_PERIPHRETINADEGEN.gz",
     "file": "H7_PERIPHRETINADEGEN_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_PERIPHRETINADEGEN"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_PERIPHRETINADEGEN"
   },
   {
     "phenocode": "H7_PTOSIS",
@@ -1842,7 +1842,7 @@
     "n_controls": 90757,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_PTOSIS.gz",
     "file": "H7_PTOSIS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_PTOSIS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_PTOSIS"
   },
   {
     "phenocode": "H7_REFRAACCOMMODIS",
@@ -1851,7 +1851,7 @@
     "n_controls": 93606,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_REFRAACCOMMODIS.gz",
     "file": "H7_REFRAACCOMMODIS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_REFRAACCOMMODIS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_REFRAACCOMMODIS"
   },
   {
     "phenocode": "H7_RETINALBREAK",
@@ -1860,7 +1860,7 @@
     "n_controls": 90618,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_RETINALBREAK.gz",
     "file": "H7_RETINALBREAK_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_RETINALBREAK"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_RETINALBREAK"
   },
   {
     "phenocode": "H7_RETINALDISOTH",
@@ -1869,7 +1869,7 @@
     "n_controls": 90618,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_RETINALDISOTH.gz",
     "file": "H7_RETINALDISOTH_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_RETINALDISOTH"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_RETINALDISOTH"
   },
   {
     "phenocode": "H7_RETINOPATHYDIAB",
@@ -1878,7 +1878,7 @@
     "n_controls": 90618,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_RETINOPATHYDIAB.gz",
     "file": "H7_RETINOPATHYDIAB_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_RETINOPATHYDIAB"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_RETINOPATHYDIAB"
   },
   {
     "phenocode": "H7_RETINOPATHYDIAB_BKG",
@@ -1887,7 +1887,7 @@
     "n_controls": 90618,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_RETINOPATHYDIAB_BKG.gz",
     "file": "H7_RETINOPATHYDIAB_BKG_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_RETINOPATHYDIAB_BKG"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_RETINOPATHYDIAB_BKG"
   },
   {
     "phenocode": "H7_RETINOPATHYDIAB_NAS",
@@ -1896,7 +1896,7 @@
     "n_controls": 90618,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_RETINOPATHYDIAB_NAS.gz",
     "file": "H7_RETINOPATHYDIAB_NAS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_RETINOPATHYDIAB_NAS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_RETINOPATHYDIAB_NAS"
   },
   {
     "phenocode": "H7_RETINOPATHYDIAB_PROLIF",
@@ -1905,7 +1905,7 @@
     "n_controls": 90618,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_RETINOPATHYDIAB_PROLIF.gz",
     "file": "H7_RETINOPATHYDIAB_PROLIF_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_RETINOPATHYDIAB_PROLIF"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_RETINOPATHYDIAB_PROLIF"
   },
   {
     "phenocode": "H7_SCLERACORNEA",
@@ -1914,7 +1914,7 @@
     "n_controls": 92767,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_SCLERACORNEA.gz",
     "file": "H7_SCLERACORNEA_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_SCLERACORNEA"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_SCLERACORNEA"
   },
   {
     "phenocode": "H7_VISDISTNAS",
@@ -1923,7 +1923,7 @@
     "n_controls": 93878,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_VISDISTNAS.gz",
     "file": "H7_VISDISTNAS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_VISDISTNAS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_VISDISTNAS"
   },
   {
     "phenocode": "H7_VITREOUS",
@@ -1932,7 +1932,7 @@
     "n_controls": 93829,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_VITREOUS.gz",
     "file": "H7_VITREOUS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_VITREOUS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_VITREOUS"
   },
   {
     "phenocode": "H7_VITRHAEMORR",
@@ -1941,7 +1941,7 @@
     "n_controls": 93829,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_VITRHAEMORR.gz",
     "file": "H7_VITRHAEMORR_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_VITRHAEMORR"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_VITRHAEMORR"
   },
   {
     "phenocode": "H7_VITROTH",
@@ -1950,7 +1950,7 @@
     "n_controls": 93829,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H7_VITROTH.gz",
     "file": "H7_VITROTH_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H7_VITROTH"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H7_VITROTH"
   },
   {
     "phenocode": "H8_BPV",
@@ -1959,7 +1959,7 @@
     "n_controls": 92866,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H8_BPV.gz",
     "file": "H8_BPV_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H8_BPV"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H8_BPV"
   },
   {
     "phenocode": "H8_CERUMEN",
@@ -1968,7 +1968,7 @@
     "n_controls": 94782,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H8_CERUMEN.gz",
     "file": "H8_CERUMEN_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H8_CERUMEN"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H8_CERUMEN"
   },
   {
     "phenocode": "H8_CONSENHEARINGLOSS",
@@ -1977,7 +1977,7 @@
     "n_controls": 87840,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H8_CONSENHEARINGLOSS.gz",
     "file": "H8_CONSENHEARINGLOSS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H8_CONSENHEARINGLOSS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H8_CONSENHEARINGLOSS"
   },
   {
     "phenocode": "H8_EXT_INFNAS",
@@ -1986,7 +1986,7 @@
     "n_controls": 94782,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H8_EXT_INFNAS.gz",
     "file": "H8_EXT_INFNAS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H8_EXT_INFNAS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H8_EXT_INFNAS"
   },
   {
     "phenocode": "H8_OTHEREAR",
@@ -1995,7 +1995,7 @@
     "n_controls": 87840,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H8_OTHEREAR.gz",
     "file": "H8_OTHEREAR_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H8_OTHEREAR"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H8_OTHEREAR"
   },
   {
     "phenocode": "H8_OTIMEDNAS",
@@ -2004,7 +2004,7 @@
     "n_controls": 92308,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H8_OTIMEDNAS.gz",
     "file": "H8_OTIMEDNAS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H8_OTIMEDNAS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H8_OTIMEDNAS"
   },
   {
     "phenocode": "H8_OTOSCLE",
@@ -2013,7 +2013,7 @@
     "n_controls": 92866,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H8_OTOSCLE.gz",
     "file": "H8_OTOSCLE_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H8_OTOSCLE"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H8_OTOSCLE"
   },
   {
     "phenocode": "H8_PERFORATION",
@@ -2022,7 +2022,7 @@
     "n_controls": 92308,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H8_PERFORATION.gz",
     "file": "H8_PERFORATION_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H8_PERFORATION"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H8_PERFORATION"
   },
   {
     "phenocode": "H8_SUP_OTINAS",
@@ -2031,7 +2031,7 @@
     "n_controls": 92308,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H8_SUP_OTINAS.gz",
     "file": "H8_SUP_OTINAS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H8_SUP_OTINAS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H8_SUP_OTINAS"
   },
   {
     "phenocode": "H8_TINNITUS",
@@ -2040,7 +2040,7 @@
     "n_controls": 87840,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H8_TINNITUS.gz",
     "file": "H8_TINNITUS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H8_TINNITUS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H8_TINNITUS"
   },
   {
     "phenocode": "H8_VESTIBNEUR",
@@ -2049,7 +2049,7 @@
     "n_controls": 92866,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_H8_VESTIBNEUR.gz",
     "file": "H8_VESTIBNEUR_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/H8_VESTIBNEUR"
+    "pheweb_link": "https://r2.finngen.fi/pheno/H8_VESTIBNEUR"
   },
   {
     "phenocode": "HIP_FRACTURE",
@@ -2058,7 +2058,7 @@
     "n_controls": 82912,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_HIP_FRACTURE.gz",
     "file": "HIP_FRACTURE_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/HIP_FRACTURE"
+    "pheweb_link": "https://r2.finngen.fi/pheno/HIP_FRACTURE"
   },
   {
     "phenocode": "HYPOTHYROIDISM",
@@ -2067,7 +2067,7 @@
     "n_controls": 32736,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_HYPOTHYROIDISM.gz",
     "file": "HYPOTHYROIDISM_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/HYPOTHYROIDISM"
+    "pheweb_link": "https://r2.finngen.fi/pheno/HYPOTHYROIDISM"
   },
   {
     "phenocode": "I9_AF",
@@ -2076,7 +2076,7 @@
     "n_controls": 56378,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_I9_AF.gz",
     "file": "I9_AF_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/I9_AF"
+    "pheweb_link": "https://r2.finngen.fi/pheno/I9_AF"
   },
   {
     "phenocode": "I9_ANGINA",
@@ -2085,7 +2085,7 @@
     "n_controls": 85760,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_I9_ANGINA.gz",
     "file": "I9_ANGINA_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/I9_ANGINA"
+    "pheweb_link": "https://r2.finngen.fi/pheno/I9_ANGINA"
   },
   {
     "phenocode": "I9_ANGIO",
@@ -2094,7 +2094,7 @@
     "n_controls": 92571,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_I9_ANGIO.gz",
     "file": "I9_ANGIO_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/I9_ANGIO"
+    "pheweb_link": "https://r2.finngen.fi/pheno/I9_ANGIO"
   },
   {
     "phenocode": "I9_AVBLOCK",
@@ -2103,7 +2103,7 @@
     "n_controls": 75137,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_I9_AVBLOCK.gz",
     "file": "I9_AVBLOCK_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/I9_AVBLOCK"
+    "pheweb_link": "https://r2.finngen.fi/pheno/I9_AVBLOCK"
   },
   {
     "phenocode": "I9_CABG",
@@ -2112,7 +2112,7 @@
     "n_controls": 92571,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_I9_CABG.gz",
     "file": "I9_CABG_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/I9_CABG"
+    "pheweb_link": "https://r2.finngen.fi/pheno/I9_CABG"
   },
   {
     "phenocode": "I9_CARDMYO",
@@ -2121,7 +2121,7 @@
     "n_controls": 75137,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_I9_CARDMYO.gz",
     "file": "I9_CARDMYO_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/I9_CARDMYO"
+    "pheweb_link": "https://r2.finngen.fi/pheno/I9_CARDMYO"
   },
   {
     "phenocode": "I9_CARDMYOHYP",
@@ -2130,7 +2130,7 @@
     "n_controls": 75137,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_I9_CARDMYOHYP.gz",
     "file": "I9_CARDMYOHYP_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/I9_CARDMYOHYP"
+    "pheweb_link": "https://r2.finngen.fi/pheno/I9_CARDMYOHYP"
   },
   {
     "phenocode": "I9_CARDMYOOTH",
@@ -2139,7 +2139,7 @@
     "n_controls": 75137,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_I9_CARDMYOOTH.gz",
     "file": "I9_CARDMYOOTH_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/I9_CARDMYOOTH"
+    "pheweb_link": "https://r2.finngen.fi/pheno/I9_CARDMYOOTH"
   },
   {
     "phenocode": "I9_CHD",
@@ -2148,7 +2148,7 @@
     "n_controls": 89376,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_I9_CHD.gz",
     "file": "I9_CHD_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/I9_CHD"
+    "pheweb_link": "https://r2.finngen.fi/pheno/I9_CHD"
   },
   {
     "phenocode": "I9_CHD_NOREV",
@@ -2157,7 +2157,7 @@
     "n_controls": 89323,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_I9_CHD_NOREV.gz",
     "file": "I9_CHD_NOREV_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/I9_CHD_NOREV"
+    "pheweb_link": "https://r2.finngen.fi/pheno/I9_CHD_NOREV"
   },
   {
     "phenocode": "I9_CONDUCTIO",
@@ -2166,7 +2166,7 @@
     "n_controls": 75137,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_I9_CONDUCTIO.gz",
     "file": "I9_CONDUCTIO_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/I9_CONDUCTIO"
+    "pheweb_link": "https://r2.finngen.fi/pheno/I9_CONDUCTIO"
   },
   {
     "phenocode": "I9_CORATHER",
@@ -2175,7 +2175,7 @@
     "n_controls": 85760,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_I9_CORATHER.gz",
     "file": "I9_CORATHER_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/I9_CORATHER"
+    "pheweb_link": "https://r2.finngen.fi/pheno/I9_CORATHER"
   },
   {
     "phenocode": "I9_DOAAC",
@@ -2184,7 +2184,7 @@
     "n_controls": 92349,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_I9_DOAAC.gz",
     "file": "I9_DOAAC_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/I9_DOAAC"
+    "pheweb_link": "https://r2.finngen.fi/pheno/I9_DOAAC"
   },
   {
     "phenocode": "I9_DVTANDPULM",
@@ -2193,7 +2193,7 @@
     "n_controls": 93627,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_I9_DVTANDPULM.gz",
     "file": "I9_DVTANDPULM_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/I9_DVTANDPULM"
+    "pheweb_link": "https://r2.finngen.fi/pheno/I9_DVTANDPULM"
   },
   {
     "phenocode": "I9_HYPTENSESS",
@@ -2202,7 +2202,7 @@
     "n_controls": 74345,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_I9_HYPTENSESS.gz",
     "file": "I9_HYPTENSESS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/I9_HYPTENSESS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/I9_HYPTENSESS"
   },
   {
     "phenocode": "I9_HYPTENSPREG",
@@ -2211,7 +2211,7 @@
     "n_controls": 50900,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_I9_HYPTENSPREG.gz",
     "file": "I9_HYPTENSPREG_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/I9_HYPTENSPREG"
+    "pheweb_link": "https://r2.finngen.fi/pheno/I9_HYPTENSPREG"
   },
   {
     "phenocode": "I9_ICH",
@@ -2220,7 +2220,7 @@
     "n_controls": 89806,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_I9_ICH.gz",
     "file": "I9_ICH_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/I9_ICH"
+    "pheweb_link": "https://r2.finngen.fi/pheno/I9_ICH"
   },
   {
     "phenocode": "I9_IHD",
@@ -2229,7 +2229,7 @@
     "n_controls": 85360,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_I9_IHD.gz",
     "file": "I9_IHD_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/I9_IHD"
+    "pheweb_link": "https://r2.finngen.fi/pheno/I9_IHD"
   },
   {
     "phenocode": "I9_LYMPHADE",
@@ -2238,7 +2238,7 @@
     "n_controls": 84462,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_I9_LYMPHADE.gz",
     "file": "I9_LYMPHADE_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/I9_LYMPHADE"
+    "pheweb_link": "https://r2.finngen.fi/pheno/I9_LYMPHADE"
   },
   {
     "phenocode": "I9_LYMPHOTH",
@@ -2247,7 +2247,7 @@
     "n_controls": 84462,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_I9_LYMPHOTH.gz",
     "file": "I9_LYMPHOTH_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/I9_LYMPHOTH"
+    "pheweb_link": "https://r2.finngen.fi/pheno/I9_LYMPHOTH"
   },
   {
     "phenocode": "I9_MI_STRICT",
@@ -2256,7 +2256,7 @@
     "n_controls": 85760,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_I9_MI_STRICT.gz",
     "file": "I9_MI_STRICT_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/I9_MI_STRICT"
+    "pheweb_link": "https://r2.finngen.fi/pheno/I9_MI_STRICT"
   },
   {
     "phenocode": "I9_OTHARR",
@@ -2265,7 +2265,7 @@
     "n_controls": 75137,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_I9_OTHARR.gz",
     "file": "I9_OTHARR_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/I9_OTHARR"
+    "pheweb_link": "https://r2.finngen.fi/pheno/I9_OTHARR"
   },
   {
     "phenocode": "I9_PAD",
@@ -2274,7 +2274,7 @@
     "n_controls": 92349,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_I9_PAD.gz",
     "file": "I9_PAD_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/I9_PAD"
+    "pheweb_link": "https://r2.finngen.fi/pheno/I9_PAD"
   },
   {
     "phenocode": "I9_PERIPH",
@@ -2283,7 +2283,7 @@
     "n_controls": 92349,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_I9_PERIPH.gz",
     "file": "I9_PERIPH_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/I9_PERIPH"
+    "pheweb_link": "https://r2.finngen.fi/pheno/I9_PERIPH"
   },
   {
     "phenocode": "I9_PHLETHROM",
@@ -2292,7 +2292,7 @@
     "n_controls": 84462,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_I9_PHLETHROM.gz",
     "file": "I9_PHLETHROM_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/I9_PHLETHROM"
+    "pheweb_link": "https://r2.finngen.fi/pheno/I9_PHLETHROM"
   },
   {
     "phenocode": "I9_PHLETHROMBDVTLOW",
@@ -2301,7 +2301,7 @@
     "n_controls": 84462,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_I9_PHLETHROMBDVTLOW.gz",
     "file": "I9_PHLETHROMBDVTLOW_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/I9_PHLETHROMBDVTLOW"
+    "pheweb_link": "https://r2.finngen.fi/pheno/I9_PHLETHROMBDVTLOW"
   },
   {
     "phenocode": "I9_POSTAMI",
@@ -2310,7 +2310,7 @@
     "n_controls": 85760,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_I9_POSTAMI.gz",
     "file": "I9_POSTAMI_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/I9_POSTAMI"
+    "pheweb_link": "https://r2.finngen.fi/pheno/I9_POSTAMI"
   },
   {
     "phenocode": "I9_STR",
@@ -2319,7 +2319,7 @@
     "n_controls": 89807,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_I9_STR.gz",
     "file": "I9_STR_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/I9_STR"
+    "pheweb_link": "https://r2.finngen.fi/pheno/I9_STR"
   },
   {
     "phenocode": "I9_STR_EXH",
@@ -2328,7 +2328,7 @@
     "n_controls": 90211,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_I9_STR_EXH.gz",
     "file": "I9_STR_EXH_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/I9_STR_EXH"
+    "pheweb_link": "https://r2.finngen.fi/pheno/I9_STR_EXH"
   },
   {
     "phenocode": "I9_THROMBOTH",
@@ -2337,7 +2337,7 @@
     "n_controls": 84462,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_I9_THROMBOTH.gz",
     "file": "I9_THROMBOTH_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/I9_THROMBOTH"
+    "pheweb_link": "https://r2.finngen.fi/pheno/I9_THROMBOTH"
   },
   {
     "phenocode": "I9_TIA",
@@ -2346,7 +2346,7 @@
     "n_controls": 90211,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_I9_TIA.gz",
     "file": "I9_TIA_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/I9_TIA"
+    "pheweb_link": "https://r2.finngen.fi/pheno/I9_TIA"
   },
   {
     "phenocode": "I9_UAP",
@@ -2355,7 +2355,7 @@
     "n_controls": 89324,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_I9_UAP.gz",
     "file": "I9_UAP_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/I9_UAP"
+    "pheweb_link": "https://r2.finngen.fi/pheno/I9_UAP"
   },
   {
     "phenocode": "I9_VARICVE",
@@ -2364,7 +2364,7 @@
     "n_controls": 84462,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_I9_VARICVE.gz",
     "file": "I9_VARICVE_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/I9_VARICVE"
+    "pheweb_link": "https://r2.finngen.fi/pheno/I9_VARICVE"
   },
   {
     "phenocode": "I9_VEINSOTH",
@@ -2373,7 +2373,7 @@
     "n_controls": 84462,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_I9_VEINSOTH.gz",
     "file": "I9_VEINSOTH_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/I9_VEINSOTH"
+    "pheweb_link": "https://r2.finngen.fi/pheno/I9_VEINSOTH"
   },
   {
     "phenocode": "I9_VHD",
@@ -2382,7 +2382,7 @@
     "n_controls": 75137,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_I9_VHD.gz",
     "file": "I9_VHD_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/I9_VHD"
+    "pheweb_link": "https://r2.finngen.fi/pheno/I9_VHD"
   },
   {
     "phenocode": "I9_VTE",
@@ -2391,7 +2391,7 @@
     "n_controls": 93196,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_I9_VTE.gz",
     "file": "I9_VTE_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/I9_VTE"
+    "pheweb_link": "https://r2.finngen.fi/pheno/I9_VTE"
   },
   {
     "phenocode": "III_BLOOD_IMMUN",
@@ -2400,7 +2400,7 @@
     "n_controls": 90031,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_III_BLOOD_IMMUN.gz",
     "file": "III_BLOOD_IMMUN_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/III_BLOOD_IMMUN"
+    "pheweb_link": "https://r2.finngen.fi/pheno/III_BLOOD_IMMUN"
   },
   {
     "phenocode": "II_NEOPLASM",
@@ -2409,7 +2409,7 @@
     "n_controls": 65282,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_II_NEOPLASM.gz",
     "file": "II_NEOPLASM_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/II_NEOPLASM"
+    "pheweb_link": "https://r2.finngen.fi/pheno/II_NEOPLASM"
   },
   {
     "phenocode": "ILD_CORTISONE",
@@ -2418,7 +2418,7 @@
     "n_controls": 95005,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_ILD_CORTISONE.gz",
     "file": "ILD_CORTISONE_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/ILD_CORTISONE"
+    "pheweb_link": "https://r2.finngen.fi/pheno/ILD_CORTISONE"
   },
   {
     "phenocode": "ILD_ENDPOINTS",
@@ -2427,7 +2427,7 @@
     "n_controls": 88677,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_ILD_ENDPOINTS.gz",
     "file": "ILD_ENDPOINTS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/ILD_ENDPOINTS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/ILD_ENDPOINTS"
   },
   {
     "phenocode": "ILD_HOSPITAL",
@@ -2436,7 +2436,7 @@
     "n_controls": 95965,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_ILD_HOSPITAL.gz",
     "file": "ILD_HOSPITAL_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/ILD_HOSPITAL"
+    "pheweb_link": "https://r2.finngen.fi/pheno/ILD_HOSPITAL"
   },
   {
     "phenocode": "ILD_IMMUNOSUPPRESSIVE",
@@ -2445,7 +2445,7 @@
     "n_controls": 93310,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_ILD_IMMUNOSUPPRESSIVE.gz",
     "file": "ILD_IMMUNOSUPPRESSIVE_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/ILD_IMMUNOSUPPRESSIVE"
+    "pheweb_link": "https://r2.finngen.fi/pheno/ILD_IMMUNOSUPPRESSIVE"
   },
   {
     "phenocode": "INSULIN_SHORT_HUMAN",
@@ -2454,7 +2454,7 @@
     "n_controls": 91881,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_INSULIN_SHORT_HUMAN.gz",
     "file": "INSULIN_SHORT_HUMAN_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/INSULIN_SHORT_HUMAN"
+    "pheweb_link": "https://r2.finngen.fi/pheno/INSULIN_SHORT_HUMAN"
   },
   {
     "phenocode": "IPF",
@@ -2463,7 +2463,7 @@
     "n_controls": 63212,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_IPF.gz",
     "file": "IPF_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/IPF"
+    "pheweb_link": "https://r2.finngen.fi/pheno/IPF"
   },
   {
     "phenocode": "IV_ENDOCRIN_NUTRIT",
@@ -2472,7 +2472,7 @@
     "n_controls": 75371,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_IV_ENDOCRIN_NUTRIT.gz",
     "file": "IV_ENDOCRIN_NUTRIT_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/IV_ENDOCRIN_NUTRIT"
+    "pheweb_link": "https://r2.finngen.fi/pheno/IV_ENDOCRIN_NUTRIT"
   },
   {
     "phenocode": "IX_CIRCULATORY",
@@ -2481,7 +2481,7 @@
     "n_controls": 56672,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_IX_CIRCULATORY.gz",
     "file": "IX_CIRCULATORY_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/IX_CIRCULATORY"
+    "pheweb_link": "https://r2.finngen.fi/pheno/IX_CIRCULATORY"
   },
   {
     "phenocode": "J10_ACUTEUPPERINFEC",
@@ -2490,7 +2490,7 @@
     "n_controls": 82135,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_J10_ACUTEUPPERINFEC.gz",
     "file": "J10_ACUTEUPPERINFEC_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/J10_ACUTEUPPERINFEC"
+    "pheweb_link": "https://r2.finngen.fi/pheno/J10_ACUTEUPPERINFEC"
   },
   {
     "phenocode": "J10_ASTHMACOPDKELA",
@@ -2499,7 +2499,7 @@
     "n_controls": 83986,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_J10_ASTHMACOPDKELA.gz",
     "file": "J10_ASTHMACOPDKELA_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/J10_ASTHMACOPDKELA"
+    "pheweb_link": "https://r2.finngen.fi/pheno/J10_ASTHMACOPDKELA"
   },
   {
     "phenocode": "J10_ASTHMA_EXMORE",
@@ -2508,7 +2508,7 @@
     "n_controls": 65127,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_J10_ASTHMA_EXMORE.gz",
     "file": "J10_ASTHMA_EXMORE_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/J10_ASTHMA_EXMORE"
+    "pheweb_link": "https://r2.finngen.fi/pheno/J10_ASTHMA_EXMORE"
   },
   {
     "phenocode": "J10_BRONCHNAS",
@@ -2517,7 +2517,7 @@
     "n_controls": 83986,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_J10_BRONCHNAS.gz",
     "file": "J10_BRONCHNAS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/J10_BRONCHNAS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/J10_BRONCHNAS"
   },
   {
     "phenocode": "J10_CHRONRHINITIS",
@@ -2526,7 +2526,7 @@
     "n_controls": 76330,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_J10_CHRONRHINITIS.gz",
     "file": "J10_CHRONRHINITIS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/J10_CHRONRHINITIS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/J10_CHRONRHINITIS"
   },
   {
     "phenocode": "J10_CHRONSINUSITIS",
@@ -2535,7 +2535,7 @@
     "n_controls": 76330,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_J10_CHRONSINUSITIS.gz",
     "file": "J10_CHRONSINUSITIS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/J10_CHRONSINUSITIS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/J10_CHRONSINUSITIS"
   },
   {
     "phenocode": "J10_CHRONTONSADEN",
@@ -2544,7 +2544,7 @@
     "n_controls": 76330,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_J10_CHRONTONSADEN.gz",
     "file": "J10_CHRONTONSADEN_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/J10_CHRONTONSADEN"
+    "pheweb_link": "https://r2.finngen.fi/pheno/J10_CHRONTONSADEN"
   },
   {
     "phenocode": "J10_COPD",
@@ -2553,7 +2553,7 @@
     "n_controls": 83986,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_J10_COPD.gz",
     "file": "J10_COPD_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/J10_COPD"
+    "pheweb_link": "https://r2.finngen.fi/pheno/J10_COPD"
   },
   {
     "phenocode": "J10_EMPHYSEMA",
@@ -2562,7 +2562,7 @@
     "n_controls": 83986,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_J10_EMPHYSEMA.gz",
     "file": "J10_EMPHYSEMA_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/J10_EMPHYSEMA"
+    "pheweb_link": "https://r2.finngen.fi/pheno/J10_EMPHYSEMA"
   },
   {
     "phenocode": "J10_INTERSTITIUM",
@@ -2571,7 +2571,7 @@
     "n_controls": 95792,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_J10_INTERSTITIUM.gz",
     "file": "J10_INTERSTITIUM_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/J10_INTERSTITIUM"
+    "pheweb_link": "https://r2.finngen.fi/pheno/J10_INTERSTITIUM"
   },
   {
     "phenocode": "J10_LARYNGITIS",
@@ -2580,7 +2580,7 @@
     "n_controls": 82135,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_J10_LARYNGITIS.gz",
     "file": "J10_LARYNGITIS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/J10_LARYNGITIS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/J10_LARYNGITIS"
   },
   {
     "phenocode": "J10_LOWCHRON",
@@ -2589,7 +2589,7 @@
     "n_controls": 83986,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_J10_LOWCHRON.gz",
     "file": "J10_LOWCHRON_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/J10_LOWCHRON"
+    "pheweb_link": "https://r2.finngen.fi/pheno/J10_LOWCHRON"
   },
   {
     "phenocode": "J10_LOWERINF",
@@ -2598,7 +2598,7 @@
     "n_controls": 92890,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_J10_LOWERINF.gz",
     "file": "J10_LOWERINF_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/J10_LOWERINF"
+    "pheweb_link": "https://r2.finngen.fi/pheno/J10_LOWERINF"
   },
   {
     "phenocode": "J10_NASALPOLYP",
@@ -2607,7 +2607,7 @@
     "n_controls": 76330,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_J10_NASALPOLYP.gz",
     "file": "J10_NASALPOLYP_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/J10_NASALPOLYP"
+    "pheweb_link": "https://r2.finngen.fi/pheno/J10_NASALPOLYP"
   },
   {
     "phenocode": "J10_OTHERINSTPULM",
@@ -2616,7 +2616,7 @@
     "n_controls": 95792,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_J10_OTHERINSTPULM.gz",
     "file": "J10_OTHERINSTPULM_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/J10_OTHERINSTPULM"
+    "pheweb_link": "https://r2.finngen.fi/pheno/J10_OTHERINSTPULM"
   },
   {
     "phenocode": "J10_PHARYNGITIS",
@@ -2625,7 +2625,7 @@
     "n_controls": 82135,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_J10_PHARYNGITIS.gz",
     "file": "J10_PHARYNGITIS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/J10_PHARYNGITIS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/J10_PHARYNGITIS"
   },
   {
     "phenocode": "J10_PLEUROTH",
@@ -2634,7 +2634,7 @@
     "n_controls": 94985,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_J10_PLEUROTH.gz",
     "file": "J10_PLEUROTH_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/J10_PLEUROTH"
+    "pheweb_link": "https://r2.finngen.fi/pheno/J10_PLEUROTH"
   },
   {
     "phenocode": "J10_PNEUMONISOLLIQ",
@@ -2643,7 +2643,7 @@
     "n_controls": 95779,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_J10_PNEUMONISOLLIQ.gz",
     "file": "J10_PNEUMONISOLLIQ_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/J10_PNEUMONISOLLIQ"
+    "pheweb_link": "https://r2.finngen.fi/pheno/J10_PNEUMONISOLLIQ"
   },
   {
     "phenocode": "J10_PNEUMOPROBBAC",
@@ -2652,7 +2652,7 @@
     "n_controls": 86705,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_J10_PNEUMOPROBBAC.gz",
     "file": "J10_PNEUMOPROBBAC_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/J10_PNEUMOPROBBAC"
+    "pheweb_link": "https://r2.finngen.fi/pheno/J10_PNEUMOPROBBAC"
   },
   {
     "phenocode": "J10_RESPIRATORY",
@@ -2661,7 +2661,7 @@
     "n_controls": 53379,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_J10_RESPIRATORY.gz",
     "file": "J10_RESPIRATORY_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/J10_RESPIRATORY"
+    "pheweb_link": "https://r2.finngen.fi/pheno/J10_RESPIRATORY"
   },
   {
     "phenocode": "J10_RESPOTHER",
@@ -2670,7 +2670,7 @@
     "n_controls": 95659,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_J10_RESPOTHER.gz",
     "file": "J10_RESPOTHER_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/J10_RESPOTHER"
+    "pheweb_link": "https://r2.finngen.fi/pheno/J10_RESPOTHER"
   },
   {
     "phenocode": "J10_SINUSITIS",
@@ -2679,7 +2679,7 @@
     "n_controls": 82135,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_J10_SINUSITIS.gz",
     "file": "J10_SINUSITIS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/J10_SINUSITIS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/J10_SINUSITIS"
   },
   {
     "phenocode": "J10_UPPERDIS",
@@ -2688,7 +2688,7 @@
     "n_controls": 76330,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_J10_UPPERDIS.gz",
     "file": "J10_UPPERDIS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/J10_UPPERDIS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/J10_UPPERDIS"
   },
   {
     "phenocode": "J10_UPPERINFEC",
@@ -2697,7 +2697,7 @@
     "n_controls": 82135,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_J10_UPPERINFEC.gz",
     "file": "J10_UPPERINFEC_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/J10_UPPERINFEC"
+    "pheweb_link": "https://r2.finngen.fi/pheno/J10_UPPERINFEC"
   },
   {
     "phenocode": "J10_VASOALLERRHIN",
@@ -2706,7 +2706,7 @@
     "n_controls": 76330,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_J10_VASOALLERRHIN.gz",
     "file": "J10_VASOALLERRHIN_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/J10_VASOALLERRHIN"
+    "pheweb_link": "https://r2.finngen.fi/pheno/J10_VASOALLERRHIN"
   },
   {
     "phenocode": "J10_VOCALLARYNX",
@@ -2715,7 +2715,7 @@
     "n_controls": 76330,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_J10_VOCALLARYNX.gz",
     "file": "J10_VOCALLARYNX_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/J10_VOCALLARYNX"
+    "pheweb_link": "https://r2.finngen.fi/pheno/J10_VOCALLARYNX"
   },
   {
     "phenocode": "JUVEN_ARTHR",
@@ -2724,7 +2724,7 @@
     "n_controls": 79075,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_JUVEN_ARTHR.gz",
     "file": "JUVEN_ARTHR_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/JUVEN_ARTHR"
+    "pheweb_link": "https://r2.finngen.fi/pheno/JUVEN_ARTHR"
   },
   {
     "phenocode": "K11_ALCOLIV",
@@ -2733,7 +2733,7 @@
     "n_controls": 94685,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_K11_ALCOLIV.gz",
     "file": "K11_ALCOLIV_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/K11_ALCOLIV"
+    "pheweb_link": "https://r2.finngen.fi/pheno/K11_ALCOLIV"
   },
   {
     "phenocode": "K11_APPENDIX",
@@ -2742,7 +2742,7 @@
     "n_controls": 89199,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_K11_APPENDIX.gz",
     "file": "K11_APPENDIX_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/K11_APPENDIX"
+    "pheweb_link": "https://r2.finngen.fi/pheno/K11_APPENDIX"
   },
   {
     "phenocode": "K11_APPENDOTH",
@@ -2751,7 +2751,7 @@
     "n_controls": 89199,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_K11_APPENDOTH.gz",
     "file": "K11_APPENDOTH_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/K11_APPENDOTH"
+    "pheweb_link": "https://r2.finngen.fi/pheno/K11_APPENDOTH"
   },
   {
     "phenocode": "K11_CHOLELITH",
@@ -2760,7 +2760,7 @@
     "n_controls": 87135,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_K11_CHOLELITH.gz",
     "file": "K11_CHOLELITH_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/K11_CHOLELITH"
+    "pheweb_link": "https://r2.finngen.fi/pheno/K11_CHOLELITH"
   },
   {
     "phenocode": "K11_CHRONGASTR",
@@ -2769,7 +2769,7 @@
     "n_controls": 85160,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_K11_CHRONGASTR.gz",
     "file": "K11_CHRONGASTR_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/K11_CHRONGASTR"
+    "pheweb_link": "https://r2.finngen.fi/pheno/K11_CHRONGASTR"
   },
   {
     "phenocode": "K11_CHRONPANC",
@@ -2778,7 +2778,7 @@
     "n_controls": 87135,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_K11_CHRONPANC.gz",
     "file": "K11_CHRONPANC_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/K11_CHRONPANC"
+    "pheweb_link": "https://r2.finngen.fi/pheno/K11_CHRONPANC"
   },
   {
     "phenocode": "K11_COELIAC",
@@ -2787,7 +2787,7 @@
     "n_controls": 93690,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_K11_COELIAC.gz",
     "file": "K11_COELIAC_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/K11_COELIAC"
+    "pheweb_link": "https://r2.finngen.fi/pheno/K11_COELIAC"
   },
   {
     "phenocode": "K11_DIAHER",
@@ -2796,7 +2796,7 @@
     "n_controls": 85350,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_K11_DIAHER.gz",
     "file": "K11_DIAHER_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/K11_DIAHER"
+    "pheweb_link": "https://r2.finngen.fi/pheno/K11_DIAHER"
   },
   {
     "phenocode": "K11_DIVERTIC",
@@ -2805,7 +2805,7 @@
     "n_controls": 82769,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_K11_DIVERTIC.gz",
     "file": "K11_DIVERTIC_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/K11_DIVERTIC"
+    "pheweb_link": "https://r2.finngen.fi/pheno/K11_DIVERTIC"
   },
   {
     "phenocode": "K11_DULC",
@@ -2814,7 +2814,7 @@
     "n_controls": 85160,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_K11_DULC.gz",
     "file": "K11_DULC_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/K11_DULC"
+    "pheweb_link": "https://r2.finngen.fi/pheno/K11_DULC"
   },
   {
     "phenocode": "K11_ENERCOLNONINF",
@@ -2823,7 +2823,7 @@
     "n_controls": 93624,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_K11_ENERCOLNONINF.gz",
     "file": "K11_ENERCOLNONINF_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/K11_ENERCOLNONINF"
+    "pheweb_link": "https://r2.finngen.fi/pheno/K11_ENERCOLNONINF"
   },
   {
     "phenocode": "K11_FISSANAL",
@@ -2832,7 +2832,7 @@
     "n_controls": 82769,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_K11_FISSANAL.gz",
     "file": "K11_FISSANAL_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/K11_FISSANAL"
+    "pheweb_link": "https://r2.finngen.fi/pheno/K11_FISSANAL"
   },
   {
     "phenocode": "K11_GALLBILPANC",
@@ -2841,7 +2841,7 @@
     "n_controls": 87135,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_K11_GALLBILPANC.gz",
     "file": "K11_GALLBILPANC_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/K11_GALLBILPANC"
+    "pheweb_link": "https://r2.finngen.fi/pheno/K11_GALLBILPANC"
   },
   {
     "phenocode": "K11_GASTRODUOULC",
@@ -2850,7 +2850,7 @@
     "n_controls": 85160,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_K11_GASTRODUOULC.gz",
     "file": "K11_GASTRODUOULC_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/K11_GASTRODUOULC"
+    "pheweb_link": "https://r2.finngen.fi/pheno/K11_GASTRODUOULC"
   },
   {
     "phenocode": "K11_GIDISEASES",
@@ -2859,7 +2859,7 @@
     "n_controls": 56860,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_K11_GIDISEASES.gz",
     "file": "K11_GIDISEASES_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/K11_GIDISEASES"
+    "pheweb_link": "https://r2.finngen.fi/pheno/K11_GIDISEASES"
   },
   {
     "phenocode": "K11_HERING",
@@ -2868,7 +2868,7 @@
     "n_controls": 85350,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_K11_HERING.gz",
     "file": "K11_HERING_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/K11_HERING"
+    "pheweb_link": "https://r2.finngen.fi/pheno/K11_HERING"
   },
   {
     "phenocode": "K11_HERNIA",
@@ -2877,7 +2877,7 @@
     "n_controls": 85350,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_K11_HERNIA.gz",
     "file": "K11_HERNIA_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/K11_HERNIA"
+    "pheweb_link": "https://r2.finngen.fi/pheno/K11_HERNIA"
   },
   {
     "phenocode": "K11_ILEUS",
@@ -2886,7 +2886,7 @@
     "n_controls": 82769,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_K11_ILEUS.gz",
     "file": "K11_ILEUS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/K11_ILEUS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/K11_ILEUS"
   },
   {
     "phenocode": "K11_INTESTOTH",
@@ -2895,7 +2895,7 @@
     "n_controls": 82769,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_K11_INTESTOTH.gz",
     "file": "K11_INTESTOTH_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/K11_INTESTOTH"
+    "pheweb_link": "https://r2.finngen.fi/pheno/K11_INTESTOTH"
   },
   {
     "phenocode": "K11_KELAIBD",
@@ -2904,7 +2904,7 @@
     "n_controls": 93624,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_K11_KELAIBD.gz",
     "file": "K11_KELAIBD_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/K11_KELAIBD"
+    "pheweb_link": "https://r2.finngen.fi/pheno/K11_KELAIBD"
   },
   {
     "phenocode": "K11_LIVER",
@@ -2913,7 +2913,7 @@
     "n_controls": 94685,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_K11_LIVER.gz",
     "file": "K11_LIVER_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/K11_LIVER"
+    "pheweb_link": "https://r2.finngen.fi/pheno/K11_LIVER"
   },
   {
     "phenocode": "K11_MALABSORB",
@@ -2922,7 +2922,7 @@
     "n_controls": 93690,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_K11_MALABSORB.gz",
     "file": "K11_MALABSORB_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/K11_MALABSORB"
+    "pheweb_link": "https://r2.finngen.fi/pheno/K11_MALABSORB"
   },
   {
     "phenocode": "K11_OTHDIG",
@@ -2931,7 +2931,7 @@
     "n_controls": 93690,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_K11_OTHDIG.gz",
     "file": "K11_OTHDIG_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/K11_OTHDIG"
+    "pheweb_link": "https://r2.finngen.fi/pheno/K11_OTHDIG"
   },
   {
     "phenocode": "K11_OTHDISSTOMDUOD",
@@ -2940,7 +2940,7 @@
     "n_controls": 85160,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_K11_OTHDISSTOMDUOD.gz",
     "file": "K11_OTHDISSTOMDUOD_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/K11_OTHDISSTOMDUOD"
+    "pheweb_link": "https://r2.finngen.fi/pheno/K11_OTHDISSTOMDUOD"
   },
   {
     "phenocode": "K11_OTHGASTR",
@@ -2949,7 +2949,7 @@
     "n_controls": 85160,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_K11_OTHGASTR.gz",
     "file": "K11_OTHGASTR_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/K11_OTHGASTR"
+    "pheweb_link": "https://r2.finngen.fi/pheno/K11_OTHGASTR"
   },
   {
     "phenocode": "K11_OTHILEUS",
@@ -2958,7 +2958,7 @@
     "n_controls": 82769,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_K11_OTHILEUS.gz",
     "file": "K11_OTHILEUS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/K11_OTHILEUS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/K11_OTHILEUS"
   },
   {
     "phenocode": "K11_UMBHER",
@@ -2967,7 +2967,7 @@
     "n_controls": 85350,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_K11_UMBHER.gz",
     "file": "K11_UMBHER_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/K11_UMBHER"
+    "pheweb_link": "https://r2.finngen.fi/pheno/K11_UMBHER"
   },
   {
     "phenocode": "K11_VENTHER",
@@ -2976,7 +2976,7 @@
     "n_controls": 85350,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_K11_VENTHER.gz",
     "file": "K11_VENTHER_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/K11_VENTHER"
+    "pheweb_link": "https://r2.finngen.fi/pheno/K11_VENTHER"
   },
   {
     "phenocode": "KELA_DIAB_INSUL",
@@ -2985,7 +2985,7 @@
     "n_controls": 85111,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_KELA_DIAB_INSUL.gz",
     "file": "KELA_DIAB_INSUL_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/KELA_DIAB_INSUL"
+    "pheweb_link": "https://r2.finngen.fi/pheno/KELA_DIAB_INSUL"
   },
   {
     "phenocode": "KRA_PSY_ANYMENTAL_SUICID_PREG_NERV",
@@ -2994,7 +2994,7 @@
     "n_controls": 75155,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_KRA_PSY_ANYMENTAL_SUICID_PREG_NERV.gz",
     "file": "KRA_PSY_ANYMENTAL_SUICID_PREG_NERV_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/KRA_PSY_ANYMENTAL_SUICID_PREG_NERV"
+    "pheweb_link": "https://r2.finngen.fi/pheno/KRA_PSY_ANYMENTAL_SUICID_PREG_NERV"
   },
   {
     "phenocode": "KRA_PSY_CHILDOTH",
@@ -3003,7 +3003,7 @@
     "n_controls": 96255,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_KRA_PSY_CHILDOTH.gz",
     "file": "KRA_PSY_CHILDOTH_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/KRA_PSY_CHILDOTH"
+    "pheweb_link": "https://r2.finngen.fi/pheno/KRA_PSY_CHILDOTH"
   },
   {
     "phenocode": "KRA_PSY_DEMENTIA",
@@ -3012,7 +3012,7 @@
     "n_controls": 75268,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_KRA_PSY_DEMENTIA.gz",
     "file": "KRA_PSY_DEMENTIA_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/KRA_PSY_DEMENTIA"
+    "pheweb_link": "https://r2.finngen.fi/pheno/KRA_PSY_DEMENTIA"
   },
   {
     "phenocode": "KRA_PSY_EATING",
@@ -3021,7 +3021,7 @@
     "n_controls": 95999,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_KRA_PSY_EATING.gz",
     "file": "KRA_PSY_EATING_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/KRA_PSY_EATING"
+    "pheweb_link": "https://r2.finngen.fi/pheno/KRA_PSY_EATING"
   },
   {
     "phenocode": "L12_ACTINKERA",
@@ -3030,7 +3030,7 @@
     "n_controls": 94683,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_L12_ACTINKERA.gz",
     "file": "L12_ACTINKERA_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/L12_ACTINKERA"
+    "pheweb_link": "https://r2.finngen.fi/pheno/L12_ACTINKERA"
   },
   {
     "phenocode": "L12_ALLERGICCONTACT",
@@ -3039,7 +3039,7 @@
     "n_controls": 88760,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_L12_ALLERGICCONTACT.gz",
     "file": "L12_ALLERGICCONTACT_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/L12_ALLERGICCONTACT"
+    "pheweb_link": "https://r2.finngen.fi/pheno/L12_ALLERGICCONTACT"
   },
   {
     "phenocode": "L12_ATOPIC",
@@ -3048,7 +3048,7 @@
     "n_controls": 88760,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_L12_ATOPIC.gz",
     "file": "L12_ATOPIC_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/L12_ATOPIC"
+    "pheweb_link": "https://r2.finngen.fi/pheno/L12_ATOPIC"
   },
   {
     "phenocode": "L12_BULLOTH",
@@ -3057,7 +3057,7 @@
     "n_controls": 96232,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_L12_BULLOTH.gz",
     "file": "L12_BULLOTH_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/L12_BULLOTH"
+    "pheweb_link": "https://r2.finngen.fi/pheno/L12_BULLOTH"
   },
   {
     "phenocode": "L12_BULLOUS",
@@ -3066,7 +3066,7 @@
     "n_controls": 96232,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_L12_BULLOUS.gz",
     "file": "L12_BULLOUS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/L12_BULLOUS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/L12_BULLOUS"
   },
   {
     "phenocode": "L12_CELLULITIS",
@@ -3075,7 +3075,7 @@
     "n_controls": 92819,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_L12_CELLULITIS.gz",
     "file": "L12_CELLULITIS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/L12_CELLULITIS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/L12_CELLULITIS"
   },
   {
     "phenocode": "L12_DERMATITISNAS",
@@ -3084,7 +3084,7 @@
     "n_controls": 88760,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_L12_DERMATITISNAS.gz",
     "file": "L12_DERMATITISNAS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/L12_DERMATITISNAS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/L12_DERMATITISNAS"
   },
   {
     "phenocode": "L12_DISORDSKINAPPENDIX",
@@ -3093,7 +3093,7 @@
     "n_controls": 93570,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_L12_DISORDSKINAPPENDIX.gz",
     "file": "L12_DISORDSKINAPPENDIX_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/L12_DISORDSKINAPPENDIX"
+    "pheweb_link": "https://r2.finngen.fi/pheno/L12_DISORDSKINAPPENDIX"
   },
   {
     "phenocode": "L12_FOLICULAROTH",
@@ -3102,7 +3102,7 @@
     "n_controls": 93570,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_L12_FOLICULAROTH.gz",
     "file": "L12_FOLICULAROTH_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/L12_FOLICULAROTH"
+    "pheweb_link": "https://r2.finngen.fi/pheno/L12_FOLICULAROTH"
   },
   {
     "phenocode": "L12_FOLLICULARCYST",
@@ -3111,7 +3111,7 @@
     "n_controls": 93570,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_L12_FOLLICULARCYST.gz",
     "file": "L12_FOLLICULARCYST_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/L12_FOLLICULARCYST"
+    "pheweb_link": "https://r2.finngen.fi/pheno/L12_FOLLICULARCYST"
   },
   {
     "phenocode": "L12_FOLLICULARNAS",
@@ -3120,7 +3120,7 @@
     "n_controls": 93570,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_L12_FOLLICULARNAS.gz",
     "file": "L12_FOLLICULARNAS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/L12_FOLLICULARNAS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/L12_FOLLICULARNAS"
   },
   {
     "phenocode": "L12_INFECT_DERM",
@@ -3129,7 +3129,7 @@
     "n_controls": 88760,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_L12_INFECT_DERM.gz",
     "file": "L12_INFECT_DERM_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/L12_INFECT_DERM"
+    "pheweb_link": "https://r2.finngen.fi/pheno/L12_INFECT_DERM"
   },
   {
     "phenocode": "L12_INFECT_SKIN_OTHER",
@@ -3138,7 +3138,7 @@
     "n_controls": 92819,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_L12_INFECT_SKIN_OTHER.gz",
     "file": "L12_INFECT_SKIN_OTHER_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/L12_INFECT_SKIN_OTHER"
+    "pheweb_link": "https://r2.finngen.fi/pheno/L12_INFECT_SKIN_OTHER"
   },
   {
     "phenocode": "L12_LICHENPLANUS",
@@ -3147,7 +3147,7 @@
     "n_controls": 93959,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_L12_LICHENPLANUS.gz",
     "file": "L12_LICHENPLANUS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/L12_LICHENPLANUS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/L12_LICHENPLANUS"
   },
   {
     "phenocode": "L12_LICHENSCLERATROPH",
@@ -3156,7 +3156,7 @@
     "n_controls": 92525,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_L12_LICHENSCLERATROPH.gz",
     "file": "L12_LICHENSCLERATROPH_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/L12_LICHENSCLERATROPH"
+    "pheweb_link": "https://r2.finngen.fi/pheno/L12_LICHENSCLERATROPH"
   },
   {
     "phenocode": "L12_LICHSIMPANDPRURIGO",
@@ -3165,7 +3165,7 @@
     "n_controls": 88760,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_L12_LICHSIMPANDPRURIGO.gz",
     "file": "L12_LICHSIMPANDPRURIGO_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/L12_LICHSIMPANDPRURIGO"
+    "pheweb_link": "https://r2.finngen.fi/pheno/L12_LICHSIMPANDPRURIGO"
   },
   {
     "phenocode": "L12_OTHPIGMENTATION",
@@ -3174,7 +3174,7 @@
     "n_controls": 92525,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_L12_OTHPIGMENTATION.gz",
     "file": "L12_OTHPIGMENTATION_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/L12_OTHPIGMENTATION"
+    "pheweb_link": "https://r2.finngen.fi/pheno/L12_OTHPIGMENTATION"
   },
   {
     "phenocode": "L12_PAPULOSQUAMOUS",
@@ -3183,7 +3183,7 @@
     "n_controls": 93959,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_L12_PAPULOSQUAMOUS.gz",
     "file": "L12_PAPULOSQUAMOUS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/L12_PAPULOSQUAMOUS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/L12_PAPULOSQUAMOUS"
   },
   {
     "phenocode": "L12_PRURITUS",
@@ -3192,7 +3192,7 @@
     "n_controls": 88760,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_L12_PRURITUS.gz",
     "file": "L12_PRURITUS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/L12_PRURITUS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/L12_PRURITUS"
   },
   {
     "phenocode": "L12_PSORIASIS",
@@ -3201,7 +3201,7 @@
     "n_controls": 93959,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_L12_PSORIASIS.gz",
     "file": "L12_PSORIASIS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/L12_PSORIASIS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/L12_PSORIASIS"
   },
   {
     "phenocode": "L12_PSORI_NAS",
@@ -3210,7 +3210,7 @@
     "n_controls": 93959,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_L12_PSORI_NAS.gz",
     "file": "L12_PSORI_NAS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/L12_PSORI_NAS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/L12_PSORI_NAS"
   },
   {
     "phenocode": "L12_PSORI_VULG",
@@ -3219,7 +3219,7 @@
     "n_controls": 93959,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_L12_PSORI_VULG.gz",
     "file": "L12_PSORI_VULG_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/L12_PSORI_VULG"
+    "pheweb_link": "https://r2.finngen.fi/pheno/L12_PSORI_VULG"
   },
   {
     "phenocode": "L12_RADIATIONRELATEDSKIN",
@@ -3228,7 +3228,7 @@
     "n_controls": 94683,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_L12_RADIATIONRELATEDSKIN.gz",
     "file": "L12_RADIATIONRELATEDSKIN_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/L12_RADIATIONRELATEDSKIN"
+    "pheweb_link": "https://r2.finngen.fi/pheno/L12_RADIATIONRELATEDSKIN"
   },
   {
     "phenocode": "L12_SEBORRHOEIC",
@@ -3237,7 +3237,7 @@
     "n_controls": 88760,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_L12_SEBORRHOEIC.gz",
     "file": "L12_SEBORRHOEIC_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/L12_SEBORRHOEIC"
+    "pheweb_link": "https://r2.finngen.fi/pheno/L12_SEBORRHOEIC"
   },
   {
     "phenocode": "L12_SKIN",
@@ -3246,7 +3246,7 @@
     "n_controls": 76911,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_L12_SKIN.gz",
     "file": "L12_SKIN_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/L12_SKIN"
+    "pheweb_link": "https://r2.finngen.fi/pheno/L12_SKIN"
   },
   {
     "phenocode": "L12_URTICARIAERYTHEMA",
@@ -3255,7 +3255,7 @@
     "n_controls": 94158,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_L12_URTICARIAERYTHEMA.gz",
     "file": "L12_URTICARIAERYTHEMA_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/L12_URTICARIAERYTHEMA"
+    "pheweb_link": "https://r2.finngen.fi/pheno/L12_URTICARIAERYTHEMA"
   },
   {
     "phenocode": "M13_ADHCAPSULITIS",
@@ -3264,7 +3264,7 @@
     "n_controls": 76986,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_ADHCAPSULITIS.gz",
     "file": "M13_ADHCAPSULITIS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_ADHCAPSULITIS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_ADHCAPSULITIS"
   },
   {
     "phenocode": "M13_ALGONEURO",
@@ -3273,7 +3273,7 @@
     "n_controls": 93083,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_ALGONEURO.gz",
     "file": "M13_ALGONEURO_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_ALGONEURO"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_ALGONEURO"
   },
   {
     "phenocode": "M13_ANKYLOSPON",
@@ -3282,7 +3282,7 @@
     "n_controls": 74589,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_ANKYLOSPON.gz",
     "file": "M13_ANKYLOSPON_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_ANKYLOSPON"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_ANKYLOSPON"
   },
   {
     "phenocode": "M13_ARTHRITISNAS",
@@ -3291,7 +3291,7 @@
     "n_controls": 67688,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_ARTHRITISNAS.gz",
     "file": "M13_ARTHRITISNAS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_ARTHRITISNAS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_ARTHRITISNAS"
   },
   {
     "phenocode": "M13_ARTHROPATHIES",
@@ -3300,7 +3300,7 @@
     "n_controls": 67688,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_ARTHROPATHIES.gz",
     "file": "M13_ARTHROPATHIES_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_ARTHROPATHIES"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_ARTHROPATHIES"
   },
   {
     "phenocode": "M13_ARTHROSIS",
@@ -3309,7 +3309,7 @@
     "n_controls": 67688,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_ARTHROSIS.gz",
     "file": "M13_ARTHROSIS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_ARTHROSIS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_ARTHROSIS"
   },
   {
     "phenocode": "M13_ARTHROSIS_KNEE",
@@ -3318,7 +3318,7 @@
     "n_controls": 67688,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_ARTHROSIS_KNEE.gz",
     "file": "M13_ARTHROSIS_KNEE_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_ARTHROSIS_KNEE"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_ARTHROSIS_KNEE"
   },
   {
     "phenocode": "M13_ARTHROSIS_POLY",
@@ -3327,7 +3327,7 @@
     "n_controls": 67688,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_ARTHROSIS_POLY.gz",
     "file": "M13_ARTHROSIS_POLY_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_ARTHROSIS_POLY"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_ARTHROSIS_POLY"
   },
   {
     "phenocode": "M13_BURSOPATHY",
@@ -3336,7 +3336,7 @@
     "n_controls": 76986,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_BURSOPATHY.gz",
     "file": "M13_BURSOPATHY_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_BURSOPATHY"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_BURSOPATHY"
   },
   {
     "phenocode": "M13_CALCIFICTEND",
@@ -3345,7 +3345,7 @@
     "n_controls": 76986,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_CALCIFICTEND.gz",
     "file": "M13_CALCIFICTEND_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_CALCIFICTEND"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_CALCIFICTEND"
   },
   {
     "phenocode": "M13_CARTILAGE",
@@ -3354,7 +3354,7 @@
     "n_controls": 67688,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_CARTILAGE.gz",
     "file": "M13_CARTILAGE_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_CARTILAGE"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_CARTILAGE"
   },
   {
     "phenocode": "M13_CONNECTNAS",
@@ -3363,7 +3363,7 @@
     "n_controls": 94550,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_CONNECTNAS.gz",
     "file": "M13_CONNECTNAS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_CONNECTNAS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_CONNECTNAS"
   },
   {
     "phenocode": "M13_DORSALGIA",
@@ -3372,7 +3372,7 @@
     "n_controls": 74589,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_DORSALGIA.gz",
     "file": "M13_DORSALGIA_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_DORSALGIA"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_DORSALGIA"
   },
   {
     "phenocode": "M13_DORSALGIANAS",
@@ -3381,7 +3381,7 @@
     "n_controls": 74589,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_DORSALGIANAS.gz",
     "file": "M13_DORSALGIANAS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_DORSALGIANAS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_DORSALGIANAS"
   },
   {
     "phenocode": "M13_DORSOPATHY",
@@ -3390,7 +3390,7 @@
     "n_controls": 74589,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_DORSOPATHY.gz",
     "file": "M13_DORSOPATHY_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_DORSOPATHY"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_DORSOPATHY"
   },
   {
     "phenocode": "M13_DUPUTRYEN",
@@ -3399,7 +3399,7 @@
     "n_controls": 76986,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_DUPUTRYEN.gz",
     "file": "M13_DUPUTRYEN_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_DUPUTRYEN"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_DUPUTRYEN"
   },
   {
     "phenocode": "M13_ENTESOPATHYLOW",
@@ -3408,7 +3408,7 @@
     "n_controls": 74589,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_ENTESOPATHYLOW.gz",
     "file": "M13_ENTESOPATHYLOW_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_ENTESOPATHYLOW"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_ENTESOPATHYLOW"
   },
   {
     "phenocode": "M13_FIBROBLASTIC",
@@ -3417,7 +3417,7 @@
     "n_controls": 76986,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_FIBROBLASTIC.gz",
     "file": "M13_FIBROBLASTIC_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_FIBROBLASTIC"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_FIBROBLASTIC"
   },
   {
     "phenocode": "M13_FLATFOOT",
@@ -3426,7 +3426,7 @@
     "n_controls": 67688,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_FLATFOOT.gz",
     "file": "M13_FLATFOOT_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_FLATFOOT"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_FLATFOOT"
   },
   {
     "phenocode": "M13_GIANTCELL",
@@ -3435,7 +3435,7 @@
     "n_controls": 94550,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_GIANTCELL.gz",
     "file": "M13_GIANTCELL_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_GIANTCELL"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_GIANTCELL"
   },
   {
     "phenocode": "M13_GOUT",
@@ -3444,7 +3444,7 @@
     "n_controls": 67688,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_GOUT.gz",
     "file": "M13_GOUT_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_GOUT"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_GOUT"
   },
   {
     "phenocode": "M13_HALLUXRIGIDUS",
@@ -3453,7 +3453,7 @@
     "n_controls": 67688,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_HALLUXRIGIDUS.gz",
     "file": "M13_HALLUXRIGIDUS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_HALLUXRIGIDUS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_HALLUXRIGIDUS"
   },
   {
     "phenocode": "M13_HALLUXVALGUS",
@@ -3462,7 +3462,7 @@
     "n_controls": 67688,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_HALLUXVALGUS.gz",
     "file": "M13_HALLUXVALGUS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_HALLUXVALGUS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_HALLUXVALGUS"
   },
   {
     "phenocode": "M13_KNEEDERANGEMENTS",
@@ -3471,7 +3471,7 @@
     "n_controls": 67688,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_KNEEDERANGEMENTS.gz",
     "file": "M13_KNEEDERANGEMENTS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_KNEEDERANGEMENTS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_KNEEDERANGEMENTS"
   },
   {
     "phenocode": "M13_MEDIALEPICOND",
@@ -3480,7 +3480,7 @@
     "n_controls": 76986,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_MEDIALEPICOND.gz",
     "file": "M13_MEDIALEPICOND_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_MEDIALEPICOND"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_MEDIALEPICOND"
   },
   {
     "phenocode": "M13_MENISCUSDERANGEMENTS",
@@ -3489,7 +3489,7 @@
     "n_controls": 67688,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_MENISCUSDERANGEMENTS.gz",
     "file": "M13_MENISCUSDERANGEMENTS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_MENISCUSDERANGEMENTS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_MENISCUSDERANGEMENTS"
   },
   {
     "phenocode": "M13_MUSCULOSKELETAL",
@@ -3498,7 +3498,7 @@
     "n_controls": 48851,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_MUSCULOSKELETAL.gz",
     "file": "M13_MUSCULOSKELETAL_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_MUSCULOSKELETAL"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_MUSCULOSKELETAL"
   },
   {
     "phenocode": "M13_OTHERJOINT",
@@ -3507,7 +3507,7 @@
     "n_controls": 67688,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_OTHERJOINT.gz",
     "file": "M13_OTHERJOINT_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_OTHERJOINT"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_OTHERJOINT"
   },
   {
     "phenocode": "M13_PLANTARFASC",
@@ -3516,7 +3516,7 @@
     "n_controls": 76986,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_PLANTARFASC.gz",
     "file": "M13_PLANTARFASC_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_PLANTARFASC"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_PLANTARFASC"
   },
   {
     "phenocode": "M13_POLYARTHROPATHIES",
@@ -3525,7 +3525,7 @@
     "n_controls": 67688,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_POLYARTHROPATHIES.gz",
     "file": "M13_POLYARTHROPATHIES_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_POLYARTHROPATHIES"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_POLYARTHROPATHIES"
   },
   {
     "phenocode": "M13_POLYMYALGIA",
@@ -3534,7 +3534,7 @@
     "n_controls": 94550,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_POLYMYALGIA.gz",
     "file": "M13_POLYMYALGIA_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_POLYMYALGIA"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_POLYMYALGIA"
   },
   {
     "phenocode": "M13_PSORIARTH",
@@ -3543,7 +3543,7 @@
     "n_controls": 67688,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_PSORIARTH.gz",
     "file": "M13_PSORIARTH_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_PSORIARTH"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_PSORIARTH"
   },
   {
     "phenocode": "M13_REACTARTH",
@@ -3552,7 +3552,7 @@
     "n_controls": 67688,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_REACTARTH.gz",
     "file": "M13_REACTARTH_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_REACTARTH"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_REACTARTH"
   },
   {
     "phenocode": "M13_RHEUMA",
@@ -3561,7 +3561,7 @@
     "n_controls": 67688,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_RHEUMA.gz",
     "file": "M13_RHEUMA_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_RHEUMA"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_RHEUMA"
   },
   {
     "phenocode": "M13_SACROILIITIS",
@@ -3570,7 +3570,7 @@
     "n_controls": 74589,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_SACROILIITIS.gz",
     "file": "M13_SACROILIITIS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_SACROILIITIS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_SACROILIITIS"
   },
   {
     "phenocode": "M13_SCIATICA",
@@ -3579,7 +3579,7 @@
     "n_controls": 74589,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_SCIATICA.gz",
     "file": "M13_SCIATICA_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_SCIATICA"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_SCIATICA"
   },
   {
     "phenocode": "M13_SCOLIOSIS",
@@ -3588,7 +3588,7 @@
     "n_controls": 74589,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_SCOLIOSIS.gz",
     "file": "M13_SCOLIOSIS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_SCOLIOSIS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_SCOLIOSIS"
   },
   {
     "phenocode": "M13_SHOULDER",
@@ -3597,7 +3597,7 @@
     "n_controls": 76986,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_SHOULDER.gz",
     "file": "M13_SHOULDER_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_SHOULDER"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_SHOULDER"
   },
   {
     "phenocode": "M13_SJOGREN",
@@ -3606,7 +3606,7 @@
     "n_controls": 94550,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_SJOGREN.gz",
     "file": "M13_SJOGREN_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_SJOGREN"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_SJOGREN"
   },
   {
     "phenocode": "M13_SOFTTISSUEOTH",
@@ -3615,7 +3615,7 @@
     "n_controls": 76986,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_SOFTTISSUEOTH.gz",
     "file": "M13_SOFTTISSUEOTH_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_SOFTTISSUEOTH"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_SOFTTISSUEOTH"
   },
   {
     "phenocode": "M13_SPONDYLINFLAMNAS",
@@ -3624,7 +3624,7 @@
     "n_controls": 74589,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_SPONDYLINFLAMNAS.gz",
     "file": "M13_SPONDYLINFLAMNAS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_SPONDYLINFLAMNAS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_SPONDYLINFLAMNAS"
   },
   {
     "phenocode": "M13_SPONDYLOPATHY",
@@ -3633,7 +3633,7 @@
     "n_controls": 74589,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_SPONDYLOPATHY.gz",
     "file": "M13_SPONDYLOPATHY_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_SPONDYLOPATHY"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_SPONDYLOPATHY"
   },
   {
     "phenocode": "M13_SYNOTEND",
@@ -3642,7 +3642,7 @@
     "n_controls": 76986,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_SYNOTEND.gz",
     "file": "M13_SYNOTEND_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_SYNOTEND"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_SYNOTEND"
   },
   {
     "phenocode": "M13_SYSTCONNECT",
@@ -3651,7 +3651,7 @@
     "n_controls": 94550,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_SYSTCONNECT.gz",
     "file": "M13_SYSTCONNECT_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_SYSTCONNECT"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_SYSTCONNECT"
   },
   {
     "phenocode": "M13_TRIGGERFINGER",
@@ -3660,7 +3660,7 @@
     "n_controls": 76986,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_TRIGGERFINGER.gz",
     "file": "M13_TRIGGERFINGER_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_TRIGGERFINGER"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_TRIGGERFINGER"
   },
   {
     "phenocode": "M13_TROCHANTERICBURSITIS",
@@ -3669,7 +3669,7 @@
     "n_controls": 76986,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_M13_TROCHANTERICBURSITIS.gz",
     "file": "M13_TROCHANTERICBURSITIS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/M13_TROCHANTERICBURSITIS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/M13_TROCHANTERICBURSITIS"
   },
   {
     "phenocode": "MENINGITIS",
@@ -3678,7 +3678,7 @@
     "n_controls": 32736,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_MENINGITIS.gz",
     "file": "MENINGITIS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/MENINGITIS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/MENINGITIS"
   },
   {
     "phenocode": "MULTIMORB",
@@ -3687,7 +3687,7 @@
     "n_controls": 60864,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_MULTIMORB.gz",
     "file": "MULTIMORB_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/MULTIMORB"
+    "pheweb_link": "https://r2.finngen.fi/pheno/MULTIMORB"
   },
   {
     "phenocode": "N14_ABNORMALBLEED",
@@ -3696,7 +3696,7 @@
     "n_controls": 31753,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_N14_ABNORMALBLEED.gz",
     "file": "N14_ABNORMALBLEED_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/N14_ABNORMALBLEED"
+    "pheweb_link": "https://r2.finngen.fi/pheno/N14_ABNORMALBLEED"
   },
   {
     "phenocode": "N14_AMENORRHEAPRIM",
@@ -3705,7 +3705,7 @@
     "n_controls": 31753,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_N14_AMENORRHEAPRIM.gz",
     "file": "N14_AMENORRHEAPRIM_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/N14_AMENORRHEAPRIM"
+    "pheweb_link": "https://r2.finngen.fi/pheno/N14_AMENORRHEAPRIM"
   },
   {
     "phenocode": "N14_BENIGNMAMDYSP",
@@ -3714,7 +3714,7 @@
     "n_controls": 50767,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_N14_BENIGNMAMDYSP.gz",
     "file": "N14_BENIGNMAMDYSP_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/N14_BENIGNMAMDYSP"
+    "pheweb_link": "https://r2.finngen.fi/pheno/N14_BENIGNMAMDYSP"
   },
   {
     "phenocode": "N14_BREAST",
@@ -3723,7 +3723,7 @@
     "n_controls": 50767,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_N14_BREAST.gz",
     "file": "N14_BREAST_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/N14_BREAST"
+    "pheweb_link": "https://r2.finngen.fi/pheno/N14_BREAST"
   },
   {
     "phenocode": "N14_CHRONKIDNEYDIS",
@@ -3732,7 +3732,7 @@
     "n_controls": 94913,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_N14_CHRONKIDNEYDIS.gz",
     "file": "N14_CHRONKIDNEYDIS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/N14_CHRONKIDNEYDIS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/N14_CHRONKIDNEYDIS"
   },
   {
     "phenocode": "N14_DYSPLACERVUT",
@@ -3741,7 +3741,7 @@
     "n_controls": 31753,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_N14_DYSPLACERVUT.gz",
     "file": "N14_DYSPLACERVUT_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/N14_DYSPLACERVUT"
+    "pheweb_link": "https://r2.finngen.fi/pheno/N14_DYSPLACERVUT"
   },
   {
     "phenocode": "N14_ENDOMETRIOSIS",
@@ -3750,7 +3750,7 @@
     "n_controls": 31753,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_N14_ENDOMETRIOSIS.gz",
     "file": "N14_ENDOMETRIOSIS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/N14_ENDOMETRIOSIS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/N14_ENDOMETRIOSIS"
   },
   {
     "phenocode": "N14_ENDOMETRIOSIS_OVARY",
@@ -3759,7 +3759,7 @@
     "n_controls": 31753,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_N14_ENDOMETRIOSIS_OVARY.gz",
     "file": "N14_ENDOMETRIOSIS_OVARY_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/N14_ENDOMETRIOSIS_OVARY"
+    "pheweb_link": "https://r2.finngen.fi/pheno/N14_ENDOMETRIOSIS_OVARY"
   },
   {
     "phenocode": "N14_ENDOMETRIOSIS_UTERUS",
@@ -3768,7 +3768,7 @@
     "n_controls": 31753,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_N14_ENDOMETRIOSIS_UTERUS.gz",
     "file": "N14_ENDOMETRIOSIS_UTERUS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/N14_ENDOMETRIOSIS_UTERUS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/N14_ENDOMETRIOSIS_UTERUS"
   },
   {
     "phenocode": "N14_EROSECTROPUT",
@@ -3777,7 +3777,7 @@
     "n_controls": 31753,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_N14_EROSECTROPUT.gz",
     "file": "N14_EROSECTROPUT_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/N14_EROSECTROPUT"
+    "pheweb_link": "https://r2.finngen.fi/pheno/N14_EROSECTROPUT"
   },
   {
     "phenocode": "N14_FEMALEGENNONINF",
@@ -3786,7 +3786,7 @@
     "n_controls": 31753,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_N14_FEMALEGENNONINF.gz",
     "file": "N14_FEMALEGENNONINF_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/N14_FEMALEGENNONINF"
+    "pheweb_link": "https://r2.finngen.fi/pheno/N14_FEMALEGENNONINF"
   },
   {
     "phenocode": "N14_FEMGENPROL",
@@ -3795,7 +3795,7 @@
     "n_controls": 31753,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_N14_FEMGENPROL.gz",
     "file": "N14_FEMGENPROL_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/N14_FEMGENPROL"
+    "pheweb_link": "https://r2.finngen.fi/pheno/N14_FEMGENPROL"
   },
   {
     "phenocode": "N14_GENITOURINARY",
@@ -3804,7 +3804,7 @@
     "n_controls": 55127,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_N14_GENITOURINARY.gz",
     "file": "N14_GENITOURINARY_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/N14_GENITOURINARY"
+    "pheweb_link": "https://r2.finngen.fi/pheno/N14_GENITOURINARY"
   },
   {
     "phenocode": "N14_GLOMEINOTH",
@@ -3813,7 +3813,7 @@
     "n_controls": 94998,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_N14_GLOMEINOTH.gz",
     "file": "N14_GLOMEINOTH_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/N14_GLOMEINOTH"
+    "pheweb_link": "https://r2.finngen.fi/pheno/N14_GLOMEINOTH"
   },
   {
     "phenocode": "N14_GLOMERULAR",
@@ -3822,7 +3822,7 @@
     "n_controls": 94998,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_N14_GLOMERULAR.gz",
     "file": "N14_GLOMERULAR_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/N14_GLOMERULAR"
+    "pheweb_link": "https://r2.finngen.fi/pheno/N14_GLOMERULAR"
   },
   {
     "phenocode": "N14_HYDROCELE",
@@ -3831,7 +3831,7 @@
     "n_controls": 33781,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_N14_HYDROCELE.gz",
     "file": "N14_HYDROCELE_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/N14_HYDROCELE"
+    "pheweb_link": "https://r2.finngen.fi/pheno/N14_HYDROCELE"
   },
   {
     "phenocode": "N14_HYPERTROPHYBREAST",
@@ -3840,7 +3840,7 @@
     "n_controls": 50767,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_N14_HYPERTROPHYBREAST.gz",
     "file": "N14_HYPERTROPHYBREAST_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/N14_HYPERTROPHYBREAST"
+    "pheweb_link": "https://r2.finngen.fi/pheno/N14_HYPERTROPHYBREAST"
   },
   {
     "phenocode": "N14_INFLAMMBREAST",
@@ -3849,7 +3849,7 @@
     "n_controls": 50767,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_N14_INFLAMMBREAST.gz",
     "file": "N14_INFLAMMBREAST_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/N14_INFLAMMBREAST"
+    "pheweb_link": "https://r2.finngen.fi/pheno/N14_INFLAMMBREAST"
   },
   {
     "phenocode": "N14_LUMPNASBREAST",
@@ -3858,7 +3858,7 @@
     "n_controls": 50767,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_N14_LUMPNASBREAST.gz",
     "file": "N14_LUMPNASBREAST_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/N14_LUMPNASBREAST"
+    "pheweb_link": "https://r2.finngen.fi/pheno/N14_LUMPNASBREAST"
   },
   {
     "phenocode": "N14_MALEGEN",
@@ -3867,7 +3867,7 @@
     "n_controls": 33781,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_N14_MALEGEN.gz",
     "file": "N14_MALEGEN_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/N14_MALEGEN"
+    "pheweb_link": "https://r2.finngen.fi/pheno/N14_MALEGEN"
   },
   {
     "phenocode": "N14_MALEINFERT",
@@ -3876,7 +3876,7 @@
     "n_controls": 33781,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_N14_MALEINFERT.gz",
     "file": "N14_MALEINFERT_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/N14_MALEINFERT"
+    "pheweb_link": "https://r2.finngen.fi/pheno/N14_MALEINFERT"
   },
   {
     "phenocode": "N14_MESNRUIRREG",
@@ -3885,7 +3885,7 @@
     "n_controls": 31753,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_N14_MESNRUIRREG.gz",
     "file": "N14_MESNRUIRREG_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/N14_MESNRUIRREG"
+    "pheweb_link": "https://r2.finngen.fi/pheno/N14_MESNRUIRREG"
   },
   {
     "phenocode": "N14_ORHCEPINDIDYMITIS",
@@ -3894,7 +3894,7 @@
     "n_controls": 33781,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_N14_ORHCEPINDIDYMITIS.gz",
     "file": "N14_ORHCEPINDIDYMITIS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/N14_ORHCEPINDIDYMITIS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/N14_ORHCEPINDIDYMITIS"
   },
   {
     "phenocode": "N14_OTHETNASKIDUR",
@@ -3903,7 +3903,7 @@
     "n_controls": 95983,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_N14_OTHETNASKIDUR.gz",
     "file": "N14_OTHETNASKIDUR_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/N14_OTHETNASKIDUR"
+    "pheweb_link": "https://r2.finngen.fi/pheno/N14_OTHETNASKIDUR"
   },
   {
     "phenocode": "N14_OTHINFVAGVULV",
@@ -3912,7 +3912,7 @@
     "n_controls": 49639,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_N14_OTHINFVAGVULV.gz",
     "file": "N14_OTHINFVAGVULV_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/N14_OTHINFVAGVULV"
+    "pheweb_link": "https://r2.finngen.fi/pheno/N14_OTHINFVAGVULV"
   },
   {
     "phenocode": "N14_OTHNONINFUTER",
@@ -3921,7 +3921,7 @@
     "n_controls": 31753,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_N14_OTHNONINFUTER.gz",
     "file": "N14_OTHNONINFUTER_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/N14_OTHNONINFUTER"
+    "pheweb_link": "https://r2.finngen.fi/pheno/N14_OTHNONINFUTER"
   },
   {
     "phenocode": "N14_OVARYCYST",
@@ -3930,7 +3930,7 @@
     "n_controls": 31753,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_N14_OVARYCYST.gz",
     "file": "N14_OVARYCYST_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/N14_OVARYCYST"
+    "pheweb_link": "https://r2.finngen.fi/pheno/N14_OVARYCYST"
   },
   {
     "phenocode": "N14_POSTMENATRVAG",
@@ -3939,7 +3939,7 @@
     "n_controls": 31753,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_N14_POSTMENATRVAG.gz",
     "file": "N14_POSTMENATRVAG_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/N14_POSTMENATRVAG"
+    "pheweb_link": "https://r2.finngen.fi/pheno/N14_POSTMENATRVAG"
   },
   {
     "phenocode": "N14_PROSTHYPERPLA",
@@ -3948,7 +3948,7 @@
     "n_controls": 33781,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_N14_PROSTHYPERPLA.gz",
     "file": "N14_PROSTHYPERPLA_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/N14_PROSTHYPERPLA"
+    "pheweb_link": "https://r2.finngen.fi/pheno/N14_PROSTHYPERPLA"
   },
   {
     "phenocode": "N14_PYELONEPHR",
@@ -3957,7 +3957,7 @@
     "n_controls": 91563,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_N14_PYELONEPHR.gz",
     "file": "N14_PYELONEPHR_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/N14_PYELONEPHR"
+    "pheweb_link": "https://r2.finngen.fi/pheno/N14_PYELONEPHR"
   },
   {
     "phenocode": "N14_RENALTUB",
@@ -3966,7 +3966,7 @@
     "n_controls": 91563,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_N14_RENALTUB.gz",
     "file": "N14_RENALTUB_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/N14_RENALTUB"
+    "pheweb_link": "https://r2.finngen.fi/pheno/N14_RENALTUB"
   },
   {
     "phenocode": "N14_RENFAILNAS",
@@ -3975,7 +3975,7 @@
     "n_controls": 94913,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_N14_RENFAILNAS.gz",
     "file": "N14_RENFAILNAS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/N14_RENFAILNAS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/N14_RENFAILNAS"
   },
   {
     "phenocode": "N14_URETHRAOTH",
@@ -3984,7 +3984,7 @@
     "n_controls": 87680,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_N14_URETHRAOTH.gz",
     "file": "N14_URETHRAOTH_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/N14_URETHRAOTH"
+    "pheweb_link": "https://r2.finngen.fi/pheno/N14_URETHRAOTH"
   },
   {
     "phenocode": "N14_URINOTH",
@@ -3993,7 +3993,7 @@
     "n_controls": 87680,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_N14_URINOTH.gz",
     "file": "N14_URINOTH_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/N14_URINOTH"
+    "pheweb_link": "https://r2.finngen.fi/pheno/N14_URINOTH"
   },
   {
     "phenocode": "NAFLD",
@@ -4002,7 +4002,7 @@
     "n_controls": 96227,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_NAFLD.gz",
     "file": "NAFLD_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/NAFLD"
+    "pheweb_link": "https://r2.finngen.fi/pheno/NAFLD"
   },
   {
     "phenocode": "NEURODIS",
@@ -4011,7 +4011,7 @@
     "n_controls": 32142,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_NEURODIS.gz",
     "file": "NEURODIS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/NEURODIS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/NEURODIS"
   },
   {
     "phenocode": "OTHER_SYSTCON_FG",
@@ -4020,7 +4020,7 @@
     "n_controls": 79075,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_OTHER_SYSTCON_FG.gz",
     "file": "OTHER_SYSTCON_FG_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/OTHER_SYSTCON_FG"
+    "pheweb_link": "https://r2.finngen.fi/pheno/OTHER_SYSTCON_FG"
   },
   {
     "phenocode": "PSOR_ARTHR_OTH",
@@ -4029,7 +4029,7 @@
     "n_controls": 95890,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_PSOR_ARTHR_OTH.gz",
     "file": "PSOR_ARTHR_OTH_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/PSOR_ARTHR_OTH"
+    "pheweb_link": "https://r2.finngen.fi/pheno/PSOR_ARTHR_OTH"
   },
   {
     "phenocode": "PSOR_ENTE_ARTHR",
@@ -4038,7 +4038,7 @@
     "n_controls": 79075,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_PSOR_ENTE_ARTHR.gz",
     "file": "PSOR_ENTE_ARTHR_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/PSOR_ENTE_ARTHR"
+    "pheweb_link": "https://r2.finngen.fi/pheno/PSOR_ENTE_ARTHR"
   },
   {
     "phenocode": "PULMONARYDG",
@@ -4047,7 +4047,7 @@
     "n_controls": 66218,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_PULMONARYDG.gz",
     "file": "PULMONARYDG_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/PULMONARYDG"
+    "pheweb_link": "https://r2.finngen.fi/pheno/PULMONARYDG"
   },
   {
     "phenocode": "RHEUMA_ARHTROPAT_REACTIVE",
@@ -4056,7 +4056,7 @@
     "n_controls": 79075,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_RHEUMA_ARHTROPAT_REACTIVE.gz",
     "file": "RHEUMA_ARHTROPAT_REACTIVE_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/RHEUMA_ARHTROPAT_REACTIVE"
+    "pheweb_link": "https://r2.finngen.fi/pheno/RHEUMA_ARHTROPAT_REACTIVE"
   },
   {
     "phenocode": "RHEUMA_ENDPOINTS",
@@ -4065,7 +4065,7 @@
     "n_controls": 79075,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_RHEUMA_ENDPOINTS.gz",
     "file": "RHEUMA_ENDPOINTS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/RHEUMA_ENDPOINTS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/RHEUMA_ENDPOINTS"
   },
   {
     "phenocode": "RHEUMA_NOS",
@@ -4074,7 +4074,7 @@
     "n_controls": 95244,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_RHEUMA_NOS.gz",
     "file": "RHEUMA_NOS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/RHEUMA_NOS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/RHEUMA_NOS"
   },
   {
     "phenocode": "RHEUMA_OTHER_WIDE",
@@ -4083,7 +4083,7 @@
     "n_controls": 95244,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_RHEUMA_OTHER_WIDE.gz",
     "file": "RHEUMA_OTHER_WIDE_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/RHEUMA_OTHER_WIDE"
+    "pheweb_link": "https://r2.finngen.fi/pheno/RHEUMA_OTHER_WIDE"
   },
   {
     "phenocode": "RHEUMA_SEROPOS",
@@ -4092,7 +4092,7 @@
     "n_controls": 79075,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_RHEUMA_SEROPOS.gz",
     "file": "RHEUMA_SEROPOS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/RHEUMA_SEROPOS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/RHEUMA_SEROPOS"
   },
   {
     "phenocode": "RHEU_ARTHRITIS_OTH",
@@ -4101,7 +4101,7 @@
     "n_controls": 79075,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_RHEU_ARTHRITIS_OTH.gz",
     "file": "RHEU_ARTHRITIS_OTH_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/RHEU_ARTHRITIS_OTH"
+    "pheweb_link": "https://r2.finngen.fi/pheno/RHEU_ARTHRITIS_OTH"
   },
   {
     "phenocode": "SCND_OTH_KNEEARTHROSIS",
@@ -4110,7 +4110,7 @@
     "n_controls": 87389,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_SCND_OTH_KNEEARTHROSIS.gz",
     "file": "SCND_OTH_KNEEARTHROSIS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/SCND_OTH_KNEEARTHROSIS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/SCND_OTH_KNEEARTHROSIS"
   },
   {
     "phenocode": "SLEEP",
@@ -4119,7 +4119,7 @@
     "n_controls": 89516,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_SLEEP.gz",
     "file": "SLEEP_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/SLEEP"
+    "pheweb_link": "https://r2.finngen.fi/pheno/SLEEP"
   },
   {
     "phenocode": "SLE_NOS",
@@ -4128,7 +4128,7 @@
     "n_controls": 96329,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_SLE_NOS.gz",
     "file": "SLE_NOS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/SLE_NOS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/SLE_NOS"
   },
   {
     "phenocode": "SPONDYLOARTHRITIS",
@@ -4137,7 +4137,7 @@
     "n_controls": 89105,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_SPONDYLOARTHRITIS.gz",
     "file": "SPONDYLOARTHRITIS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/SPONDYLOARTHRITIS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/SPONDYLOARTHRITIS"
   },
   {
     "phenocode": "SPONDYLOPATHY_FG",
@@ -4146,7 +4146,7 @@
     "n_controls": 79075,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_SPONDYLOPATHY_FG.gz",
     "file": "SPONDYLOPATHY_FG_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/SPONDYLOPATHY_FG"
+    "pheweb_link": "https://r2.finngen.fi/pheno/SPONDYLOPATHY_FG"
   },
   {
     "phenocode": "SSRI",
@@ -4155,7 +4155,7 @@
     "n_controls": 77278,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_SSRI.gz",
     "file": "SSRI_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/SSRI"
+    "pheweb_link": "https://r2.finngen.fi/pheno/SSRI"
   },
   {
     "phenocode": "STILL_ADULT",
@@ -4164,7 +4164,7 @@
     "n_controls": 89105,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_STILL_ADULT.gz",
     "file": "STILL_ADULT_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/STILL_ADULT"
+    "pheweb_link": "https://r2.finngen.fi/pheno/STILL_ADULT"
   },
   {
     "phenocode": "SULFONYLUREAS",
@@ -4173,7 +4173,7 @@
     "n_controls": 85744,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_SULFONYLUREAS.gz",
     "file": "SULFONYLUREAS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/SULFONYLUREAS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/SULFONYLUREAS"
   },
   {
     "phenocode": "T1D_STRICT1",
@@ -4182,7 +4182,7 @@
     "n_controls": 68345,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_T1D_STRICT1.gz",
     "file": "T1D_STRICT1_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/T1D_STRICT1"
+    "pheweb_link": "https://r2.finngen.fi/pheno/T1D_STRICT1"
   },
   {
     "phenocode": "T1D_WIDE1",
@@ -4191,7 +4191,7 @@
     "n_controls": 81686,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_T1D_WIDE1.gz",
     "file": "T1D_WIDE1_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/T1D_WIDE1"
+    "pheweb_link": "https://r2.finngen.fi/pheno/T1D_WIDE1"
   },
   {
     "phenocode": "T1D_WIDE2",
@@ -4200,7 +4200,7 @@
     "n_controls": 81686,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_T1D_WIDE2.gz",
     "file": "T1D_WIDE2_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/T1D_WIDE2"
+    "pheweb_link": "https://r2.finngen.fi/pheno/T1D_WIDE2"
   },
   {
     "phenocode": "TBC_RESP",
@@ -4209,7 +4209,7 @@
     "n_controls": 95997,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_TBC_RESP.gz",
     "file": "TBC_RESP_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/TBC_RESP"
+    "pheweb_link": "https://r2.finngen.fi/pheno/TBC_RESP"
   },
   {
     "phenocode": "THYROIDITIS",
@@ -4218,7 +4218,7 @@
     "n_controls": 94744,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_THYROIDITIS.gz",
     "file": "THYROIDITIS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/THYROIDITIS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/THYROIDITIS"
   },
   {
     "phenocode": "THYROIDITIS_ILD",
@@ -4227,7 +4227,7 @@
     "n_controls": 89105,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_THYROIDITIS_ILD.gz",
     "file": "THYROIDITIS_ILD_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/THYROIDITIS_ILD"
+    "pheweb_link": "https://r2.finngen.fi/pheno/THYROIDITIS_ILD"
   },
   {
     "phenocode": "THYROTOXICOSIS",
@@ -4236,7 +4236,7 @@
     "n_controls": 94744,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_THYROTOXICOSIS.gz",
     "file": "THYROTOXICOSIS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/THYROTOXICOSIS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/THYROTOXICOSIS"
   },
   {
     "phenocode": "ULCERENTER",
@@ -4245,7 +4245,7 @@
     "n_controls": 93624,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_ULCERENTER.gz",
     "file": "ULCERENTER_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/ULCERENTER"
+    "pheweb_link": "https://r2.finngen.fi/pheno/ULCERENTER"
   },
   {
     "phenocode": "ULCERNAS",
@@ -4254,7 +4254,7 @@
     "n_controls": 93624,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_ULCERNAS.gz",
     "file": "ULCERNAS_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/ULCERNAS"
+    "pheweb_link": "https://r2.finngen.fi/pheno/ULCERNAS"
   },
   {
     "phenocode": "ULCERPROCT",
@@ -4263,7 +4263,7 @@
     "n_controls": 93624,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_ULCERPROCT.gz",
     "file": "ULCERPROCT_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/ULCERPROCT"
+    "pheweb_link": "https://r2.finngen.fi/pheno/ULCERPROCT"
   },
   {
     "phenocode": "VD_U",
@@ -4272,7 +4272,7 @@
     "n_controls": 96306,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_VD_U.gz",
     "file": "VD_U_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/VD_U"
+    "pheweb_link": "https://r2.finngen.fi/pheno/VD_U"
   },
   {
     "phenocode": "VII_EYE_ADNEXA",
@@ -4281,7 +4281,7 @@
     "n_controls": 69421,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_VII_EYE_ADNEXA.gz",
     "file": "VII_EYE_ADNEXA_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/VII_EYE_ADNEXA"
+    "pheweb_link": "https://r2.finngen.fi/pheno/VII_EYE_ADNEXA"
   },
   {
     "phenocode": "WET_AMD",
@@ -4290,7 +4290,7 @@
     "n_controls": 47953,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_WET_AMD.gz",
     "file": "WET_AMD_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/WET_AMD"
+    "pheweb_link": "https://r2.finngen.fi/pheno/WET_AMD"
   },
   {
     "phenocode": "XIX_INJURY_POISON",
@@ -4299,7 +4299,7 @@
     "n_controls": 48511,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_XIX_INJURY_POISON.gz",
     "file": "XIX_INJURY_POISON_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/XIX_INJURY_POISON"
+    "pheweb_link": "https://r2.finngen.fi/pheno/XIX_INJURY_POISON"
   },
   {
     "phenocode": "XI_DIGESTIVE",
@@ -4308,7 +4308,7 @@
     "n_controls": 52828,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_XI_DIGESTIVE.gz",
     "file": "XI_DIGESTIVE_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/XI_DIGESTIVE"
+    "pheweb_link": "https://r2.finngen.fi/pheno/XI_DIGESTIVE"
   },
   {
     "phenocode": "XVII_MALFORMAT_ABNORMAL",
@@ -4317,7 +4317,7 @@
     "n_controls": 91901,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_XVII_MALFORMAT_ABNORMAL.gz",
     "file": "XVII_MALFORMAT_ABNORMAL_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/XVII_MALFORMAT_ABNORMAL"
+    "pheweb_link": "https://r2.finngen.fi/pheno/XVII_MALFORMAT_ABNORMAL"
   },
   {
     "phenocode": "XV_PREGNANCY_BIRTH",
@@ -4326,6 +4326,6 @@
     "n_controls": 60344,
     "download": "https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_XV_PREGNANCY_BIRTH.gz",
     "file": "XV_PREGNANCY_BIRTH_MF.png",
-    "pheweb_link": "http://r2.finngen.fi/pheno/XV_PREGNANCY_BIRTH"
+    "pheweb_link": "https://r2.finngen.fi/pheno/XV_PREGNANCY_BIRTH"
   }
 ]

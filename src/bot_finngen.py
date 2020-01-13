@@ -65,9 +65,9 @@ class FGPoster(GWASPoster):
 
         text = f"""{pheno}
 
-⬇️ Download {post['download_link']}
-
 🇫🇮 PheWeb {post['pheweb_pheno_link']}
+
+⬇️ Download {post['download_link']}
 
 📊 GWAS top hit
 {post['top_variant']} {post['pheweb_variant_link']}

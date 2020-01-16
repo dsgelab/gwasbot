@@ -46,7 +46,7 @@ class FGPoster(GWASPoster):
 
         post_data = {
             'pheno_longname': meta["description"],
-            'download_link': meta["download"],
+            'download_link': "https://www.finngen.fi/en/access_results",
             'pheweb_pheno_link': meta["pheweb_link"],
             'top_variant': top_variant,
             'pheweb_variant_link': variant_link,

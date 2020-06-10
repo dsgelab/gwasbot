@@ -18,7 +18,7 @@ export CONSUMER_KEY=... CONSUMER_SECRET=... ACCESS_TOKEN=... ACCESS_SECRET=...  
 export DATA_PATH=...  # path to the data directory containing the input files
 export URI_PREFIX_UKBB=...  # Google Storage path to GWAS files, excluding filename, starts with gs://
 source venv/bin/activate
-python main.py
+python src/main.py
 ```
 
 For long-running scenario, one could do the previous commands in a `tmux` session:

@@ -95,6 +95,7 @@ def find_top_hit(url):
     # Download the GWAS data
     logging.info(f"Downloading GWAS data at {url}")
     resp = requests.get(url)
+    resp.raise_for_status()
     buffer = BytesIO(resp.content)
 
     # Put data into a DataFrame to get variant ID and p-value

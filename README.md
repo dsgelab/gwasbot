@@ -16,7 +16,6 @@ pip install -r requirements.txt
 ```bash
 export CONSUMER_KEY=... CONSUMER_SECRET=... ACCESS_TOKEN=... ACCESS_SECRET=...  # credentials from Twitter
 export DATA_PATH=...  # path to the data directory containing the input files
-export URI_PREFIX_UKBB=...  # Google Storage path to GWAS files, excluding filename, starts with gs://
 source venv/bin/activate
 python src/main.py
 ```

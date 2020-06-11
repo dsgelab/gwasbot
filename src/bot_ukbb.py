@@ -1,12 +1,13 @@
 import logging
 from csv import excel_tab
+from io import BytesIO
 
 import numpy as np
 import pandas as pd
+import requests
 
 from gwas_poster import GWASPoster
 from utils import check_done_pheno
-from utils import gcloud_download
 
 
 class UKBBPoster(GWASPoster):
@@ -18,14 +19,12 @@ class UKBBPoster(GWASPoster):
             save_file,
             failure_file,
             gwas_dir,
-            gwas_file_suffix,
-            gcloud_uri_prefix):
+            gwas_file_suffix):
         """Setup and load the data for UKBB"""
         super().__init__(save_file, failure_file)
         # Set data paths
         self.gwas_dir = gwas_dir
         self.gwas_file_suffix = gwas_file_suffix
-        self.gcloud_uri_prefix = gcloud_uri_prefix
 
         # Get the phenotypes to post
         posted = check_done_pheno(save_file, failure_file)
@@ -57,7 +56,7 @@ class UKBBPoster(GWASPoster):
         ukbbh2 = f"https://nealelab.github.io/UKBB_ldsc/h2_summary_{pheno}.html"
 
         # Top SNP
-        snp = top_snp(pheno, self.manifest, self.gcloud_uri_prefix)
+        snp = top_snp(pheno_info.dropbox)
         gnomad_snp = snp.replace(":", "-")
         gnomad = f"https://gnomad.broadinstitute.org/variant/{gnomad_snp}"
 
@@ -202,14 +201,22 @@ def h2_ci(pheno, h2):
     }
 
 
-def top_snp(pheno, manifest, gcloud_uri_prefix):
+def top_snp(dropbox_url):
     """Find the top SNP after downloading the phenotype data"""
     logging.info("Finding top SNP")
-    data = download_gwas(pheno, manifest, gcloud_uri_prefix)
+
+    # Dropbox will redirect to the actual file content for user agents
+    # such as curl and wget. If we don't specicify a user agent then
+    # we get an HTML response and would need to parse it to find the
+    # relevant download link.
+    headers = {"user-agent": "curl/7.58"}
+    resp = requests.get(dropbox_url, headers=headers)
+    resp.raise_for_status()
+    buffer = BytesIO(resp.content)
 
     # Load data
     df = pd.read_csv(
-        data,
+        buffer,
         usecols=["variant", "pval", "beta", "se", "low_confidence_variant"],
         dialect=excel_tab,
         compression="gzip"
@@ -221,13 +228,3 @@ def top_snp(pheno, manifest, gcloud_uri_prefix):
     snp = df.sort_values(by="zstat",ascending=False).iloc[0].variant
 
     return snp
-
-
-def download_gwas(pheno, manifest, uri_prefix):
-    """Download GWAS from google cloud storage to memory"""
-    logging.info("Downloading GWAS")
-    # Get the filename for this phenotype
-    filename = manifest.loc[manifest.phenotype == pheno, "filename"].iloc[0]
-    blob = uri_prefix + filename
-    buffer = gcloud_download(blob)
-    return buffer

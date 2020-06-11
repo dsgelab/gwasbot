@@ -6,7 +6,7 @@ import logging
 from os import getenv
 from pathlib import Path
 
-from google.cloud import exceptions
+from requests.exceptions import RequestException
 from tweepy.error import TweepError
 
 from bot_ukbb import UKBBPoster
@@ -23,7 +23,6 @@ def main():
         FAILURE_FILE_UKBB,
         GWAS_DIR_UKBB,
         GWAS_FILE_SUFFIX_UKBB,
-        URI_PREFIX_UKBB
     )
 
     fg = FGPoster(
@@ -46,7 +45,7 @@ def main():
         pheno = poster.get_pheno()
         try:
             poster.tweet(pheno)
-        except (exceptions.NotFound, TweepError) as exc:
+        except (RequestException, TweepError) as exc:
             logging.error(f"Could not tweet: {exc}")
             poster.mark_failure(pheno)
             # Skip the current phenotype and retry immediately with another one

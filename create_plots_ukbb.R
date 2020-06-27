@@ -19,73 +19,87 @@ wrapper <- function(x, ...)
 
 h2 <- fread("data/ukb31063_h2_topline.02Oct2019.tsv", sep="\t", header=T)
 # This should be the right set of phenotypes to include
-#h2 <- h2[h2$confidence %in% c("high","medium") & h2$h2_sig %in% c("z4","z7"),]
+h2 <- h2[h2$confidence %in% c("high","medium") & h2$h2_sig %in% c("z4","z7"),]
 
 # file containing genetic correlations
 load("data/geno_correlation_sig.Rdata")
 # This is instead the traits that we are including
 h2 <- h2[gsub("_irnt","",h2$phenotype) %in% geno_corr_df$p1,]
 
-manifest <- fread("data/Manifest_201807.csv", sep=",", header=T)
-colnames(manifest)[1] <- "phenotype"
-colnames(manifest)[6] <- "dropbox"
+manifest <- fread("data/Pan_UKBB_manifest_22JUN2020.csv", sep=",", header=T)
+#colnames(manifest)[1] <- "phenotype"
+#colnames(manifest)[6] <- "dropbox"
 
 ## Add link to ukbiobank ##
-h2$ukbl <- ifelse(grepl('^([0-9])',h2$phenotype),sapply(strsplit(h2$phenotype,"_"),"[[",1),41202)
+#h2$ukbl <- ifelse(grepl('^([0-9])',h2$phenotype),sapply(strsplit(h2$phenotype,"_"),"[[",1),41202)
 
 ## This is later for closest gene annotation
 genes <- annotateTranscripts(TxDb.Hsapiens.UCSC.hg19.knownGene)
 
+manifest$phenocode2 <- ifelse(manifest$coding!="" & manifest$phenocode != manifest$coding,paste0(manifest$phenocode,"_",manifest$coding),ifelse(manifest$modifier!="",paste0(manifest$phenocode,"_",manifest$modifier),manifest$phenocode))
+
+h2 <- h2[!h2$phenotype %in% c("129_irnt","20015_irnt") & h2$phenotype %in% manifest$phenocode2,]
+
+
 set.seed(123)
 RES <- NULL
-for (i in h2$phenotype)
+for (i in h2$phenotype[256:length(h2$phenotype)])
 {
 
-  maniget <- manifest %>% filter(phenotype==i, Sex=="both_sexes")
+    maniget <- manifest %>% filter(phenocode2==i, pheno_sex=="both_sexes")
 
-	system(maniget$dropbox)
-	original_filename <- strsplit(maniget$dropbox," ")[[1]][4]
+	system(maniget$wget)
+	original_filename <- strsplit(maniget$wget," ")[[1]][4]
 	new_filename <- paste0(remove_file_extension(original_filename),".gz")
 	system(paste0("mv ",original_filename," ",new_filename))
 
-	
-	df <- fread(cmd=paste0("gzcat ",new_filename), header=T, sep="\t", select=c('variant', 'low_confidence_variant', 'pval')) %>%
-        filter(is.finite(pval), pval > 0, low_confidence_variant==FALSE) %>%
-        separate(variant, c('chrom', 'pos', 'ref', 'alt'), sep=':', remove=FALSE) %>%
-        mutate(chrom=gsub('X', '23', chrom), pos=as.integer(pos), pval_t=-log10(pval),indic=if_else(pval < 5e-8,1,2), odd=as.numeric(chrom) %% 2) %>% mutate(chromnum=as.numeric(chrom))
+    rowsnames <- strsplit(system(paste0("zcat ",new_filename, " | head -1"),intern = TRUE),"\t")[[1]]
+    loconfname <- rowsnames[grepl("low_confidence",rowsnames)]
+    loconfname <- ifelse("low_confidence_EUR" %in% loconfname,"low_confidence_EUR",loconfname[1])
+    pvalname <- rowsnames[grepl("pval_",rowsnames)][1]
+
+	df <- fread(cmd=paste0("zcat ",new_filename), header=T, sep="\t", select=c('chr','pos','ref','alt',loconfname, pvalname)) 
+
+    colnames(df)[grepl(loconfname,colnames(df))] <- "low_confidence_EUR"
+    colnames(df)[grepl(pvalname,colnames(df))] <- "pval_meta"
+        
+    df <- df %>% filter(is.finite(pval_meta), pval_meta > 0, low_confidence_EUR==FALSE)  %>%
+        mutate(chr=gsub('X', '23', chr), pos=as.integer(pos), pval_t=-log10(pval_meta),indic=if_else(pval_meta < 5e-8,1,2), odd=as.numeric(chr) %% 2) %>% mutate(chromnum=as.numeric(chr))
+
 
     posmin <- tapply(df$pos,df$chromnum, min)
     posmax <- tapply(df$pos,df$chromnum, max)
     posshift <- head(c(0,cumsum(as.numeric(posmax))),-1)
     names(posshift) <- names(posmin)
 
-    for (k in unique(df$chrom))
+    for (k in unique(df$chr))
     {
-        df$pos_new[df$chrom==k] <-  df$pos[df$chrom==k] + posshift[names(posshift) == k]
+        df$pos_new[df$chr==k] <-  df$pos[df$chr==k] + posshift[names(posshift) == k]
     }
 
-    dfmsplit <- split(df, df$chrom)
+    dfmsplit <- split(df, df$chr)
     xbreaks <- sapply(dfmsplit,function(x) x$pos_new[length(x$pos_new)/2])
 
     df_manhattan <- df %>%
-       filter(pval <= 0.01)
+       filter(pval_meta <= 0.01)
 
     ymax <- ifelse(max(df_manhattan$pval_t) < -log10(5e-8), -log10(5e-8), max(df_manhattan$pval_t)) + 0.2
 
-    s1 <- wrapper(h2$description[h2$pheno==i])
-    case_or_not <- ifelse(is.na(h2$n_cases[h2$pheno==i]),paste0(s1,"\nN=",h2$n[h2$pheno==i]),paste0(s1,"\nN. cases=",h2$n_cases[h2$pheno==i],"; N. controls=",h2$n_controls[h2$pheno==i]))
+    s1 <- wrapper(maniget$description)
+    case_or_not <- ifelse(is.na(maniget$n_controls_EUR),paste0(s1,"\nN=",maniget$n_cases_full_cohort_both_sexes,"\n",maniget$pops),paste0(s1,"\nN. cases=",maniget$n_cases_full_cohort_both_sexes,"; N. controls=",sum(maniget$n_controls_AFR,maniget$n_controls_AMR,maniget$n_controls_CSA,maniget$n_controls_EAS,maniget$n_controls_EUR,maniget$n_controls_MID,na.rm=T),"\n",maniget$pops))
   
     # Closest gene
     labeldf <- NULL
     k <- 0
+    df_manhattan$variant <- paste0(df_manhattan$chr,df_manhattan$pos,df_manhattan$ref,df_manhattan$alt)
     dftemp <- df_manhattan
-    while (k < 5 & (min(dftemp$pval) < 0.00000005))
+    while (k < 5 & (min(dftemp$pval_meta) < 0.00000005))
     {
-      indmin <- which(df_manhattan$variant==dftemp$variant[which.min(dftemp$pval)])
-      posmin <- dftemp$pos[which.min(dftemp$pval)]
-      chromin <- dftemp$chrom[which.min(dftemp$pval)]
+      indmin <- which(df_manhattan$variant==dftemp$variant[which.min(dftemp$pval_meta)])
+      posmin <- dftemp$pos[which.min(dftemp$pval_meta)]
+      chromin <- dftemp$chr[which.min(dftemp$pval_meta)]
       closestgene <- matchGenes(makeGRangesFromDataFrame(data.frame(chr=paste0("chr",chromin),start=posmin,end=posmin+1)),genes, type="any")$name
-      dftemp <- dftemp[!(dftemp$chrom==chromin & dftemp$pos>(posmin-1000000) & dftemp$pos<(posmin+1000000)),]
+      dftemp <- dftemp[!(dftemp$chr==chromin & dftemp$pos>(posmin-1000000) & dftemp$pos<(posmin+1000000)),]
       k <- k + 1
       
       labeldf <- rbind(labeldf,c(indmin,closestgene))
@@ -109,7 +123,7 @@ for (i in h2$phenotype)
     	scale_size_manual(values=c(1,0.4)) +
     	ggtitle(case_or_not) + geom_text_repel(aes(label=label))
 
-    ggsave(paste0("data/manhattan_UKBB/",i,"_MF.png"), width = 12, height = 6, dpi = 200)
+    ggsave(paste0("data/manhattan_UKBB_trans/",i,"_trans_MF.png"), width = 12, height = 6, dpi = 200)
 
     system(paste0("rm ",new_filename))
 

@@ -12,7 +12,7 @@ library(bumphunter) #BiocManager::install("bumphunter")
 library(org.Hs.eg.db) #BiocManager::install("org.Hs.eg.db")
 
 
-pheno <- fread("data/r2_manifest.tsv")
+pheno <- fread("data/r3_manifest.tsv")
 
 wrapper <- function(x, ...) 
 {
@@ -30,7 +30,7 @@ RES <- NULL
 for (i in pheno$phenocode)
 {
   #system(paste0("gsutil cp gs://finngen-public-data-r2/summary_stats/finngen_r2_",i,".gz ."))
-  system(paste0("gsutil cp gs://finngen-production-library-green/R2/summary_stats/release/",i,".gz ."))
+  system(paste0("gsutil cp " , path_bucket$path_bucket[i]))
   
 	df1 <- fread(cmd=paste0("gunzip -c ",i,".gz"), header=T, sep="\t", select=c('#chrom', 'pos', 'pval')) 
 	

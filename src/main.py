@@ -32,7 +32,7 @@ def main():
         GWAS_DIR_FG,
     )
 
-    turn = "UKBB"
+    turn = "FG"
     do_wait = True
     while True:
         if do_wait:
@@ -65,13 +65,13 @@ if __name__ == '__main__':
 
     # UKBB files
     H2_FILE = DATA_PATH / "topline_h2.tsv"
-    MANIFEST_FILE = DATA_PATH / "manifest.csv"
+    MANIFEST_FILE = DATA_PATH / "Pan_UKBB_manifest_22JUN2020.csv"
     SAVE_FILE_UKBB = DATA_PATH / "posted_ukbb.txt"
     FAILURE_FILE_UKBB = DATA_PATH / "failure_ukbb.txt"
 
     # UKBB GWAS picture files
-    GWAS_DIR_UKBB = DATA_PATH / "manhattan_UKBB"
-    GWAS_FILE_SUFFIX_UKBB = "_MF.png"
+    GWAS_DIR_UKBB = DATA_PATH / "manhattan_UKBB_trans"
+    GWAS_FILE_SUFFIX_UKBB = "_trans_MF.png"
 
     # FinnGen files
     SAVE_FILE_FG = DATA_PATH / "posted_fg.txt"

@@ -39,15 +39,16 @@ class UKBBPoster(GWASPoster):
         """Gather all the info we need for the twitter post"""
         logging.info("Building twitter post for UKBB")
 
+        clean_pheno = pheno.replace("_irnt", "")  # for resources that don't use "_irnt" suffix
+
         # Get phenotype info from manifest
         pheno_info = self.manifest.loc[
-            self.manifest.phenotype == pheno,
-            ["pheno_desc", "dropbox", "ukbb"]
+            self.manifest.phenotype == clean_pheno,
+            ["pheno_desc", "dropbox"]
         ].iloc[0]  # go from a pd.Series to a scalar value
 
         # Genetic correlations
-        corr_pheno = pheno.rstrip("_irnt")  # this portal doesn't use _irnt names
-        ukbbrg = f"https://ukbb-rg.hail.is/rg_summary_{corr_pheno}.html"
+        ukbbrg = f"https://ukbb-rg.hail.is/rg_summary_{clean_pheno}.html"
 
         # Heritability
         heritability = h2_ci(pheno, self.h2)
@@ -57,18 +58,18 @@ class UKBBPoster(GWASPoster):
 
         # Top SNP
         snp = top_snp(pheno_info.dropbox)
-        gnomad_snp = snp.replace(":", "-")
-        gnomad = f"https://gnomad.broadinstitute.org/variant/{gnomad_snp}"
+        opentargets_snp = snp.replace(":", "_")
+        opentargets = f"https://genetics.opentargets.org/variant/{opentargets_snp}"
 
         post = {
             "pheno": pheno_info["pheno_desc"],
-            "ukbb_link": pheno_info["ukbb"],
+            "ukbb_link": get_ukbb_link(clean_pheno),
             "download": pheno_info["dropbox"],
             "ukbbrg_link": ukbbrg,
             "ukbbh2_link": ukbbh2,
             "heritability": heritability,
             "top_snp": snp,
-            "gnomad_link": gnomad,
+            "opentargets_link": opentargets,
         }
         return post
 
@@ -82,8 +83,8 @@ class UKBBPoster(GWASPoster):
         else:
             pheno = post['pheno']
 
-        # Don't show description link if it is "nan"
-        if pd.isna(post['ukbb_link']):
+        # Don't show description link if it's not on UKBB portal
+        if post['ukbb_link'] is not None:
             desc = ""
         else:
             desc = f"\n🇬🇧 Description {post['ukbb_link']}\n"
@@ -98,7 +99,7 @@ class UKBBPoster(GWASPoster):
 {post['heritability']['h2']:.2f} [{post['heritability']['ci_min']:.2f}, {post['heritability']['ci_max']:.2f}] {post['ukbbh2_link']}
 
 📊 GWAS top hit
-{post['top_snp']} {post['gnomad_link']}"""
+{post['top_snp']} {post['opentargets_link']}"""
 
         return text
 
@@ -109,8 +110,32 @@ class UKBBPoster(GWASPoster):
 
 def load_phenos(gwas_dir):
     """Get all the phenocodes"""
-    phenos = [plot.stem.rstrip("_MF") for plot in gwas_dir.iterdir()]
+    phenos = [plot.stem.replace("_trans_MF", "") for plot in gwas_dir.iterdir()]
     return phenos
+
+
+def get_ukbb_link(pheno):
+    """Try to guess the UKBB portal link for a phenotype.
+
+    Not all phenotypes are in the UKBB portal, so this function checks
+    the UKBB portal first.
+
+    This is made harder by the UKBB portal not returning a 404 for
+    phenotypes not found.
+    """
+    link = f"https://biobank.ctsu.ox.ac.uk/crystal/field.cgi?id={pheno}"
+    error_msg = "Sorry, an internal error prevents field listing"
+    resp = requests.get(link)
+
+    try:
+        resp.raise_for_status()
+    except requests.exceptions.HTTPError:
+        link = None
+    else:
+        if error_msg in resp.text:
+            link = None
+
+    return link
 
 
 def load_h2(filename, phenos):
@@ -144,29 +169,35 @@ def load_manifest(filename, phenos):
     manifest = pd.read_csv(
         filename,
         usecols=[
-            "Phenotype Code",
-            "Phenotype Description",
-            "UK Biobank Data Showcase Link",
-            "File",
-            "Dropbox File",
-            "Sex",
-        ]
+            "phenocode",
+            "coding",
+            "description",
+            "dropbox_link",
+            "pheno_sex",
+        ],
+        dtype={
+            "phenocode": "object",
+            "coding": "object",
+        }
     )
+
+    # Create phenotype column as phenocode_coding
+    has_coding = manifest.coding.notna()
+    manifest["phenotype"] = ""
+    manifest.loc[has_coding, "phenotype"] = manifest.loc[has_coding, :].phenocode.map(str) + "_" + manifest.loc[has_coding, :].coding.map(str)
+    manifest.loc[~ has_coding, "phenotype"] = manifest.loc[~ has_coding, "phenocode"]
 
     manifest.rename(
         columns={
-            "Phenotype Code": "phenotype",
-            "Phenotype Description": "pheno_desc",
-            "UK Biobank Data Showcase Link": "ukbb",
-            "File": "filename",
-            "Dropbox File": "dropbox",
-            "Sex": "sex",
+            "description": "pheno_desc",
+            "dropbox_link": "dropbox",
+            "pheno_sex": "sex",
         },
         inplace=True
     )
 
     # Remove NaN phenotypes
-    nan_phenos = manifest["phenotype"].isna()
+    nan_phenos = manifest["phenocode"].isna()
     manifest = manifest[~ nan_phenos]
 
     # Keep only "both sexes"
@@ -174,11 +205,12 @@ def load_manifest(filename, phenos):
     manifest = manifest[both_sexes]
 
     # Remove traits ending in _raw
-    raw_phenos = manifest["phenotype"].str.endswith("_raw")
+    raw_phenos = manifest["phenocode"].str.endswith("_raw")
     manifest = manifest[~ raw_phenos]
 
     # Merge with the traits of interest
-    keep = manifest["phenotype"].isin(phenos)
+    clean_phenos = [p.replace("_irnt", "") for p in phenos]
+    keep = manifest["phenotype"].isin(clean_phenos)
     manifest = manifest[keep]
 
     # Remove duplicated phenos
@@ -209,22 +241,46 @@ def top_snp(dropbox_url):
     # such as curl and wget. If we don't specicify a user agent then
     # we get an HTML response and would need to parse it to find the
     # relevant download link.
+    logging.debug("Downloading GWAS from Dropbox")
     headers = {"user-agent": "curl/7.58"}
     resp = requests.get(dropbox_url, headers=headers)
     resp.raise_for_status()
     buffer = BytesIO(resp.content)
 
     # Load data
+    logging.debug("Loading GWAS in Pandas and finding top SNP")
     df = pd.read_csv(
         buffer,
-        usecols=["variant", "pval", "beta", "se", "low_confidence_variant"],
+        usecols=[
+            "chr",
+            "pos",
+            "ref",
+            "alt",
+            "beta_meta",
+            "se_meta",
+            "low_confidence_EUR"
+        ],
+        dtype={
+            # We specify column types to prevent "Column type mismatch".
+            # We don't specify "low_confidence_EUR" here so Pandas can
+            # magically assign True, False and NaN.
+            "chr": "object",
+            "pos": "int",
+            "ref": "object",
+            "alt": "object",
+            "beta_meta": "float",
+            "se_meta": "float",
+        },
         dialect=excel_tab,
         compression="gzip"
     )
 
+    # Combine chr, pos, ref, alt into a "variant" column
+    df["variant"] = df.chr + ":" + df.pos.map(str) + ":" + df.ref + ":" + df.alt
+
     # Find top SNP
-    df = df[df.low_confidence_variant==False]
-    df['zstat'] = abs(df.beta/df.se)
+    df = df[df.low_confidence_EUR==False]
+    df['zstat'] = abs(df.beta_meta/df.se_meta)
     snp = df.sort_values(by="zstat",ascending=False).iloc[0].variant
 
     return snp

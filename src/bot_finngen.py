@@ -9,6 +9,7 @@ import pandas as pd
 
 from gwas_poster import GWASPoster
 from utils import check_done_pheno
+from utils import gcloud_download
 
 
 class FGPoster(GWASPoster):
@@ -42,12 +43,15 @@ class FGPoster(GWASPoster):
         meta = self.get_meta(pheno)
 
         top_variant = find_top_hit(meta["download"])
-        variant_link = f"https://r2.finngen.fi/variant/{top_variant}"
+        variant_link = f"https://r3.finngen.fi/variant/{top_variant}"
+
+        risteys_link = f"https://r3.risteys.finngen.fi/phenocode/{pheno}"
 
         post_data = {
             'pheno_longname': meta["description"],
             'download_link': "https://www.finngen.fi/en/access_results",
             'pheweb_pheno_link': meta["pheweb_link"],
+            'risteys_link': risteys_link,
             'top_variant': top_variant,
             'pheweb_variant_link': variant_link,
         }
@@ -57,7 +61,7 @@ class FGPoster(GWASPoster):
     def format_post(self, post):
         """Textual representation of the twitter post"""
         logging.info("Formatting twitter post")
-        limit = 150
+        limit = 130
         if len(post['pheno_longname']) > limit:
             pheno = post['pheno'][:limit - 2] + "…"
         else:
@@ -66,6 +70,8 @@ class FGPoster(GWASPoster):
         text = f"""{pheno}
 
 🇫🇮 PheWeb {post['pheweb_pheno_link']}
+
+🧭 Risteys {post['risteys_link']}
 
 ⬇️ Download {post['download_link']}
 
@@ -94,9 +100,7 @@ def find_top_hit(url):
 
     # Download the GWAS data
     logging.info(f"Downloading GWAS data at {url}")
-    resp = requests.get(url)
-    resp.raise_for_status()
-    buffer = BytesIO(resp.content)
+    buffer = gcloud_download(url)
 
     # Put data into a DataFrame to get variant ID and p-value
     logging.info("Finding top hit with Pandas")
@@ -110,6 +114,6 @@ def find_top_hit(url):
     variant = df.iloc[df.pval.idxmin()]
 
     # Convert variant info to variant CPRA
-    cpra = f"{variant['#chrom']}:{variant.pos}-{variant.ref}-{variant.alt}"
+    cpra = f"{variant['#chrom']}-{variant.pos}-{variant.ref}-{variant.alt}"
 
     return cpra

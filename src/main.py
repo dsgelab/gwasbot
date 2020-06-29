@@ -63,7 +63,6 @@ if __name__ == '__main__':
     assert DATA_PATH is not None, "DATA_PATH is not set"
     DATA_PATH = Path(DATA_PATH)
 
-
     # UKBB files
     H2_FILE = DATA_PATH / "topline_h2.tsv"
     MANIFEST_FILE = DATA_PATH / "manifest.csv"
@@ -73,13 +72,6 @@ if __name__ == '__main__':
     # UKBB GWAS picture files
     GWAS_DIR_UKBB = DATA_PATH / "manhattan_UKBB"
     GWAS_FILE_SUFFIX_UKBB = "_MF.png"
-
-    # UKBB Google Storage API
-    URI_PREFIX_UKBB = getenv("URI_PREFIX_UKBB")
-    assert URI_PREFIX_UKBB is not None, "URI_PREFIX_UKBB is not set"
-    if not URI_PREFIX_UKBB.endswith('/'):
-        URI_PREFIX_UKBB += "/"
-
 
     # FinnGen files
     SAVE_FILE_FG = DATA_PATH / "posted_fg.txt"

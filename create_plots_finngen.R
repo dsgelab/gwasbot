@@ -30,9 +30,9 @@ RES <- NULL
 for (i in pheno$phenocode)
 {
   #system(paste0("gsutil cp gs://finngen-public-data-r2/summary_stats/finngen_r2_",i,".gz ."))
-  system(paste0("gsutil cp " , path_bucket$path_bucket[i]))
+  system(paste0("gsutil cp " , pheno$path_bucket[pheno$phenocode==i]," ."))
   
-	df1 <- fread(cmd=paste0("gunzip -c ",i,".gz"), header=T, sep="\t", select=c('#chrom', 'pos', 'pval')) 
+	df1 <- fread(cmd=paste0("gunzip -c finngen_r3_",i,".gz"), header=T, sep="\t", select=c('#chrom', 'pos', 'pval')) 
 	
 	if(min(df1$pval,na.rm=T)<0.00000005)
 	{
@@ -101,10 +101,10 @@ for (i in pheno$phenocode)
 	  
 	   ggsave(paste0("data/manhattan_FINNGEN/",i,"_MF.png"), width = 12, height = 6, dpi = 200)
 	  
-	   RES <- rbind(RES,cbind(pheno[pheno$phenocode==i,c("phenocode","name","n_cases","n_controls")],paste0("https://storage.googleapis.com/finngen-public-data-r2/summary_stats/finngen_r2_",i,".gz"), paste0(i,"_MF.png"), paste0("http://r2.finngen.fi/pheno/",i)))
+	   RES <- rbind(RES,cbind(pheno[pheno$phenocode==i,c("phenocode","name","n_cases","n_controls")],pheno$path_bucket[pheno$phenocode==i], paste0(i,"_MF.png"), paste0("http://r3.finngen.fi/pheno/",i)))
 	}
 
-    system(paste0("rm ",i,".gz"))
+    system(paste0("rm finngen_r3_",i,".gz"))
 
     print(which(i==pheno$phenocode))
 }

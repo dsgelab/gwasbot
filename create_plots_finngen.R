@@ -101,7 +101,7 @@ for (i in pheno$phenocode)
 	  
 	   ggsave(paste0("data/manhattan_FINNGEN/",i,"_MF.png"), width = 12, height = 6, dpi = 200)
 	  
-	   RES <- rbind(RES,cbind(pheno[pheno$phenocode==i,c("phenocode","name","n_cases","n_controls")],pheno$path_bucket[pheno$phenocode==i], paste0(i,"_MF.png"), paste0("http://r3.finngen.fi/pheno/",i)))
+	   RES <- rbind(RES,cbind(pheno[pheno$phenocode==i,c("phenocode","name","n_cases","n_controls")],pheno$path_bucket[pheno$phenocode==i], paste0(i,"_MF.png"), paste0("http://r3.finngen.fi/pheno/",i),paste0("https://r3.risteys.finngen.fi/phenocode/",i)))
 	}
 
     system(paste0("rm finngen_r3_",i,".gz"))
@@ -110,6 +110,6 @@ for (i in pheno$phenocode)
 }
 
 df <- data.frame(RES)
-colnames(df) <- c("phenocode","description","n_cases","n_controls","download","file","pheweb_link")
+colnames(df) <- c("phenocode","description","n_cases","n_controls","download","file","pheweb_link","risteys_link")
 
 write(toJSON(df, pretty=TRUE),file="data/images_finngen.js")

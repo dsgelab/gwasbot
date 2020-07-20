@@ -43,7 +43,7 @@ class UKBBPoster(GWASPoster):
 
         # Get phenotype info from manifest
         pheno_info = self.manifest.loc[
-            self.manifest.phenotype == clean_pheno,
+            (self.manifest.phenocode == clean_pheno) | (self.manifest.phenocode_coding == clean_pheno),
             ["pheno_desc", "dropbox"]
         ].iloc[0]  # go from a pd.Series to a scalar value
 
@@ -182,10 +182,12 @@ def load_manifest(filename, phenos):
     )
 
     # Create phenotype column as phenocode_coding
+    # Some GWAS filename are "phenocode", some are "phenocode_coding".
+    # Need to look for both.
     has_coding = manifest.coding.notna()
-    manifest["phenotype"] = ""
-    manifest.loc[has_coding, "phenotype"] = manifest.loc[has_coding, :].phenocode.map(str) + "_" + manifest.loc[has_coding, :].coding.map(str)
-    manifest.loc[~ has_coding, "phenotype"] = manifest.loc[~ has_coding, "phenocode"]
+    manifest["phenocode_coding"] = ""
+    manifest.loc[has_coding, "phenocode_coding"] = manifest.loc[has_coding, :].phenocode.map(str) + "_" + manifest.loc[has_coding, :].coding.map(str)
+    manifest.loc[~ has_coding, "phenocode_coding"] = manifest.loc[~ has_coding, "phenocode"]
 
     manifest.rename(
         columns={
@@ -208,13 +210,8 @@ def load_manifest(filename, phenos):
     raw_phenos = manifest["phenocode"].str.endswith("_raw")
     manifest = manifest[~ raw_phenos]
 
-    # Merge with the traits of interest
-    clean_phenos = [p.replace("_irnt", "") for p in phenos]
-    keep = manifest["phenotype"].isin(clean_phenos)
-    manifest = manifest[keep]
-
     # Remove duplicated phenos
-    dups = manifest["phenotype"].duplicated(keep="last")
+    dups = manifest["phenocode_coding"].duplicated(keep="last")
     manifest = manifest[~ dups]
 
     return manifest

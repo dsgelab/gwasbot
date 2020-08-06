@@ -84,7 +84,7 @@ class UKBBPoster(GWASPoster):
             pheno = post['pheno']
 
         # Don't show description link if it's not on UKBB portal
-        if post['ukbb_link'] is not None:
+        if post['ukbb_link'] is None:
             desc = ""
         else:
             desc = f"\n🇬🇧 Description {post['ukbb_link']}\n"

@@ -65,7 +65,7 @@ if __name__ == '__main__':
 
     # UKBB files
     H2_FILE = DATA_PATH / "topline_h2.tsv"
-    MANIFEST_FILE = DATA_PATH / "Pan_UKBB_manifest_22JUN2020.csv"
+    MANIFEST_FILE = DATA_PATH / "Pan_UKBB_manifest_2020-09-07.csv"
     SAVE_FILE_UKBB = DATA_PATH / "posted_ukbb.txt"
     FAILURE_FILE_UKBB = DATA_PATH / "failure_ukbb.txt"
 

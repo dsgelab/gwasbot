@@ -44,7 +44,7 @@ class UKBBPoster(GWASPoster):
         # Get phenotype info from manifest
         pheno_info = self.manifest.loc[
             (self.manifest.phenocode == clean_pheno) | (self.manifest.phenocode_coding == clean_pheno),
-            ["pheno_desc", "dropbox"]
+            ["pheno_desc", "aws"]
         ].iloc[0]  # go from a pd.Series to a scalar value
 
         # Genetic correlations
@@ -57,14 +57,14 @@ class UKBBPoster(GWASPoster):
         ukbbh2 = f"https://nealelab.github.io/UKBB_ldsc/h2_summary_{pheno}.html"
 
         # Top SNP
-        snp = top_snp(pheno_info.dropbox)
+        snp = top_snp(pheno_info.aws)
         opentargets_snp = snp.replace(":", "_")
         opentargets = f"https://genetics.opentargets.org/variant/{opentargets_snp}"
 
         post = {
             "pheno": pheno_info["pheno_desc"],
             "ukbb_link": get_ukbb_link(clean_pheno),
-            "download": pheno_info["dropbox"],
+            "download": pheno_info["aws"],
             "ukbbrg_link": ukbbrg,
             "ukbbh2_link": ukbbh2,
             "heritability": heritability,
@@ -172,7 +172,7 @@ def load_manifest(filename, phenos):
             "phenocode",
             "coding",
             "description",
-            "dropbox_link",
+            "aws_link",
             "pheno_sex",
         ],
         dtype={
@@ -192,7 +192,7 @@ def load_manifest(filename, phenos):
     manifest.rename(
         columns={
             "description": "pheno_desc",
-            "dropbox_link": "dropbox",
+            "aws_link": "aws",
             "pheno_sex": "sex",
         },
         inplace=True
@@ -230,17 +230,12 @@ def h2_ci(pheno, h2):
     }
 
 
-def top_snp(dropbox_url):
+def top_snp(aws_url):
     """Find the top SNP after downloading the phenotype data"""
     logging.info("Finding top SNP")
 
-    # Dropbox will redirect to the actual file content for user agents
-    # such as curl and wget. If we don't specicify a user agent then
-    # we get an HTML response and would need to parse it to find the
-    # relevant download link.
-    logging.debug("Downloading GWAS from Dropbox")
-    headers = {"user-agent": "curl/7.58"}
-    resp = requests.get(dropbox_url, headers=headers)
+    logging.debug("Downloading GWAS from AWS")
+    resp = requests.get(aws_url)
     resp.raise_for_status()
     buffer = BytesIO(resp.content)
 

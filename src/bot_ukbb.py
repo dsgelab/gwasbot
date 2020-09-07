@@ -57,9 +57,14 @@ class UKBBPoster(GWASPoster):
         ukbbh2 = f"https://nealelab.github.io/UKBB_ldsc/h2_summary_{pheno}.html"
 
         # Top SNP
-        snp = top_snp(pheno_info.aws)
-        opentargets_snp = snp.replace(":", "_")
-        opentargets = f"https://genetics.opentargets.org/variant/{opentargets_snp}"
+        snp_cpra = top_snp(pheno_info.aws)
+
+        # Look up SNP on h38, as UKBB uses h37 but OpenTargets uses h38
+        gnomad_cpra_h37 = snp_cpra.replace(":", "-")
+        gnomad_cpra_h38 = h37_to_h38(gnomad_cpra_h37)
+
+        opentargets_cpra = gnomad_cpra_h38.replace("-", "_")
+        opentargets = f"https://genetics.opentargets.org/variant/{opentargets_cpra}"
 
         post = {
             "pheno": pheno_info["pheno_desc"],
@@ -68,7 +73,7 @@ class UKBBPoster(GWASPoster):
             "ukbbrg_link": ukbbrg,
             "ukbbh2_link": ukbbh2,
             "heritability": heritability,
-            "top_snp": snp,
+            "top_snp": snp_cpra,
             "opentargets_link": opentargets,
         }
         return post
@@ -276,3 +281,45 @@ def top_snp(aws_url):
     snp = df.sort_values(by="zstat",ascending=False).iloc[0].variant
 
     return snp
+
+
+def h37_to_h38(gnomad_cpra):
+    """Translate a SNP ID (as CPRA) on h37 to h38"""
+    gnomad_api = 'https://gnomad.broadinstitute.org/api/'
+
+    # 1. h37 -> rsid
+    payload = {
+        # Set the query as raw GrahQL query because we don't need a library just for that
+        'query': 'query GnomadVariant($variantId: String, $rsid: String, $datasetId: DatasetId!) { variant(variantId: $variantId, rsid: $rsid, dataset: $datasetId) {rsid} }',
+        'variables': {
+            'datasetId': 'gnomad_r2_1',
+            'variantId': gnomad_cpra
+        }
+    }
+    resp = requests.post(gnomad_api, json=payload)
+    resp.raise_for_status()
+    rsid = (
+        resp.json()
+        ["data"]
+        ["variant"]
+        ["rsid"]
+    )
+
+    # 2. rsid -> h38
+    payload = {
+        'query': 'query GnomadVariant($variantId: String, $rsid: String, $datasetId: DatasetId!) { variant(variantId: $variantId, rsid: $rsid, dataset: $datasetId) {variantId} }',
+        'variables': {
+            'datasetId': 'gnomad_r3',
+            'rsid': rsid
+        }
+    }
+    resp = requests.post(gnomad_api, json=payload)
+    resp.raise_for_status()
+    cpra_h38 = (
+        resp.json()
+        ["data"]
+        ["variant"]
+        ["variantId"]
+    )
+
+    return cpra_h38

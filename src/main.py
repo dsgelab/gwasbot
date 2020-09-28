@@ -50,6 +50,11 @@ def main():
             poster.mark_failure(pheno)
             # Skip the current phenotype and retry immediately with another one
             do_wait = False
+        except Exception as exc:  # Catch anything except KeyboardInterrupt
+            # Don't retry posting so we can see that something has
+            # gone wrong and investigate, whilst still allowing the
+            # bot to post the next day.
+            logging.error(f"Uncaught exception: {type(exc)} {exc}")
         else:
             poster.mark_posted(pheno)
             do_wait = True

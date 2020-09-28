@@ -5,6 +5,7 @@ from io import BytesIO
 import numpy as np
 import pandas as pd
 import requests
+from requests.exceptions import RequestException
 
 from gwas_poster import GWASPoster
 from utils import check_done_pheno
@@ -60,11 +61,15 @@ class UKBBPoster(GWASPoster):
         snp_cpra = top_snp(pheno_info.aws)
 
         # Look up SNP on h38, as UKBB uses h37 but OpenTargets uses h38
+        import ipdb; ipdb.set_trace() 
         gnomad_cpra_h37 = snp_cpra.replace(":", "-")
-        gnomad_cpra_h38 = h37_to_h38(gnomad_cpra_h37)
-
-        opentargets_cpra = gnomad_cpra_h38.replace("-", "_")
-        opentargets = f"https://genetics.opentargets.org/variant/{opentargets_cpra}"
+        try:
+            cpra_h38 = h37_to_h38(gnomad_cpra_h37)
+        except (IndexError, KeyError, TypeError, RequestException) as exc:
+            logging.error(f"Could not h37->h38 for SNP {gnomad_cpra_h37}: {exc}")
+            opentargets = ""
+        else:
+            opentargets = f"https://genetics.opentargets.org/variant/{cpra_h38}"
 
         post = {
             "pheno": pheno_info["pheno_desc"],
@@ -286,10 +291,11 @@ def top_snp(aws_url):
 def h37_to_h38(gnomad_cpra):
     """Translate a SNP ID (as CPRA) on h37 to h38"""
     gnomad_api = 'https://gnomad.broadinstitute.org/api/'
+    opentargets_api = 'https://genetics-api.opentargets.io/graphql'
 
-    # 1. h37 -> rsid
+    # 1. h37 -> rsid via gnomAD
     payload = {
-        # Set the query as raw GrahQL query because we don't need a library just for that
+        # Set the query as raw GraphQL query because we don't need a library just for that
         'query': 'query GnomadVariant($variantId: String, $rsid: String, $datasetId: DatasetId!) { variant(variantId: $variantId, rsid: $rsid, dataset: $datasetId) {rsid} }',
         'variables': {
             'datasetId': 'gnomad_r2_1',
@@ -305,21 +311,23 @@ def h37_to_h38(gnomad_cpra):
         ["rsid"]
     )
 
-    # 2. rsid -> h38
+    # 2. rsid -> h38 via opentargets
     payload = {
-        'query': 'query GnomadVariant($variantId: String, $rsid: String, $datasetId: DatasetId!) { variant(variantId: $variantId, rsid: $rsid, dataset: $datasetId) {variantId} }',
+        'query':'query SearchQuery($queryString: String!) { search(queryString: $queryString) { variants { id }}}',
         'variables': {
-            'datasetId': 'gnomad_r3',
-            'rsid': rsid
-        }
+            'queryString': rsid
+        },
+        'operationName': 'SearchQuery'
     }
-    resp = requests.post(gnomad_api, json=payload)
+    resp = requests.post(opentargets_api, json=payload)
     resp.raise_for_status()
     cpra_h38 = (
         resp.json()
         ["data"]
-        ["variant"]
-        ["variantId"]
+        ["search"]
+        ["variants"]
+        [0]
+        ['id']
     )
 
     return cpra_h38

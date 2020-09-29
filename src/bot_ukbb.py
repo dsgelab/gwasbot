@@ -61,7 +61,6 @@ class UKBBPoster(GWASPoster):
         snp_cpra = top_snp(pheno_info.aws)
 
         # Look up SNP on h38, as UKBB uses h37 but OpenTargets uses h38
-        import ipdb; ipdb.set_trace() 
         gnomad_cpra_h37 = snp_cpra.replace(":", "-")
         try:
             cpra_h38 = h37_to_h38(gnomad_cpra_h37)

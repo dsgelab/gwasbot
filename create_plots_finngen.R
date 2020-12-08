@@ -12,7 +12,7 @@ library(bumphunter) #BiocManager::install("bumphunter")
 library(org.Hs.eg.db) #BiocManager::install("org.Hs.eg.db")
 
 
-pheno <- fread("data/r3_manifest.tsv")
+pheno <- fread("data/finngen_R4_pheno_n.tsv")
 
 wrapper <- function(x, ...) 
 {
@@ -29,10 +29,9 @@ set.seed(123)
 RES <- NULL
 for (i in pheno$phenocode)
 {
-  #system(paste0("gsutil cp gs://finngen-public-data-r2/summary_stats/finngen_r2_",i,".gz ."))
-  system(paste0("gsutil cp " , pheno$path_bucket[pheno$phenocode==i]," ."))
+    system(paste0("gsutil cp gs://finngen-public-data-r4/summary_stats/finngen_R4_" ,i,".gz ."))
   
-	df1 <- fread(cmd=paste0("gunzip -c finngen_r3_",i,".gz"), header=T, sep="\t", select=c('#chrom', 'pos', 'pval')) 
+	df1 <- fread(cmd=paste0("gunzip -c finngen_R4_",i,".gz"), header=T, sep="\t", select=c('#chrom', 'pos', 'pval')) 
 	
 	if(min(df1$pval,na.rm=T)<0.00000005)
 	{
@@ -61,7 +60,7 @@ for (i in pheno$phenocode)
 	  ymax <- ifelse(max(df_manhattan$pval_t) < -log10(5e-8), -log10(5e-8), max(df_manhattan$pval_t)) + 0.2
 	  
 	  s1 <- wrapper(pheno$name[pheno$phenocode==i])
-	  case_or_not <- paste0(s1,"\nN. cases=",pheno$n_cases[pheno$phenocode==i],"; N. controls=",pheno$n_controls[pheno$phenocode==i])
+	  case_or_not <- paste0(s1,"\nN. cases=",pheno$num_cases[pheno$phenocode==i],"; N. controls=",pheno$num_controls[pheno$phenocode==i])
 	  
 	  
 	  # Closest gene
@@ -101,15 +100,15 @@ for (i in pheno$phenocode)
 	  
 	   ggsave(paste0("data/manhattan_FINNGEN/",i,"_MF.png"), width = 12, height = 6, dpi = 200)
 	  
-	   RES <- rbind(RES,cbind(pheno[pheno$phenocode==i,c("phenocode","name","n_cases","n_controls")],pheno$path_bucket[pheno$phenocode==i], paste0(i,"_MF.png"), paste0("http://r3.finngen.fi/pheno/",i),paste0("https://r3.risteys.finngen.fi/phenocode/",i)))
+	   RES <- rbind(RES,cbind(pheno[pheno$phenocode==i,c("phenocode","name","num_cases","num_controls")],pheno$path_bucket[pheno$phenocode==i], paste0(i,"_MF.png"), paste0("http://r4.finngen.fi/pheno/",i),paste0("https://r4.risteys.finngen.fi/phenocode/",i)))
 	}
 
-    system(paste0("rm finngen_r3_",i,".gz"))
+    system(paste0("rm finngen_R4_",i,".gz"))
 
     print(which(i==pheno$phenocode))
 }
 
 df <- data.frame(RES)
-colnames(df) <- c("phenocode","description","n_cases","n_controls","download","file","pheweb_link","risteys_link")
+colnames(df) <- c("phenocode","description","num_cases","num_controls","file","pheweb_link","risteys_link")
 
 write(toJSON(df, pretty=TRUE),file="data/images_finngen.js")

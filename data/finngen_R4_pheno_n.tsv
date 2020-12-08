@@ -1,0 +1,2265 @@
+phenocode	name	num_cases	num_controls	gc_lambda	num_gw_significant
+AB1_ARTHROPOD	Arthropod-borne viral fevers and viral haemorrhagic fevers	1108	175791	1.0378	5
+AB1_BACT_BIR_OTHER_INF_AGENTS	Bacterial, viral and other infectious agents	1086	175813	1.0326	1
+AB1_HELMINTIASES	Helminthiases	192	176707	0.85684	1
+AB1_HIV	Human immunodeficiency virus [HIV] disease	295	176604	0.95593	0
+AB1_INFECTIONS	Certain infectious and parasitic diseases	43011	133888	1.0388	3
+AB1_INTESTINAL_INFECTIONS	Intestinal infectious diseases	16735	160164	1.0259	2
+AB1_MYCOSES	Mycoses	2995	173904	1.0188	0
+AB1_OTHER_BACTERIAL	Other bacterial diseases	15222	161677	1.0094	1
+AB1_OTHER_CHLAMYDIAE	Other diseases caused by chlamydiae	141	176758	0.79055	1
+AB1_OTHER_INFECTIONS	Other infectious diseases	936	175963	1.0402	1
+AB1_OTHER_SPIROCHAETAL	Other spirochaetal diseases	904	175995	1.045	0
+AB1_OTHER_VIRAL	Other viral diseases	2836	174063	1.0028	0
+AB1_PEDICULOSIS_ACARIASIS_OTHERINFEST	Pediculosis, acariasis and other infestations	517	176382	1.0278	3
+AB1_PROTOZOAL	Protozoal diseases	226	176673	0.90023	0
+AB1_SEQULEAE_OF_INFECTIONS_AND_PARASITES	Sequelae of infectious and parasitic diseases	1062	175837	1.0378	0
+AB1_SEXUAL_TRANSMISSION	Infections with a predominantly sexual mode of transmission	4620	172279	1.0269	2
+AB1_TUBERCULOSIS	Tuberculosis	939	175960	1.0441	0
+AB1_VIRAL_CNS	Viral infections of the central nervous system	784	176115	1.0402	0
+AB1_VIRAL_HEPATITIS	Viral hepatitis	869	176030	1.0436	0
+AB1_VIRAL_SKIN_MUCOUS_MEMBRANE	Viral infections characterized by skin and mucous membrane lesions	3912	172987	1.0075	0
+AB1_ZOONOTIC_BACTERIAL	Certain zoonotic bacterial diseases	204	176695	0.87792	0
+ABDOM_HERNIA	Hernia of abodminal wall	5790	171109	1.0489	6
+ABDOM_HERNIA_POSTOP	Hernia of abodminal wall, postoperative	1817	114488	1.0259	0
+ACUTE_RESPIRATORY_INFECTIONS	Asthma/COPD-related acute respiratory infections	31588	131682	1.0562	3
+AD_AM	Alzheimer's disease (Atypical or mixed)	615	173836	1.0292	1
+AD_AM_EXMORE	Alzheimer's disease (Atypical or mixed) (more controls excluded)	615	93979	1.0235	1
+AD_EO	Alzheimer's disease (Early onset)	502	173833	1.0226	1
+AD_EO_EXMORE	Alzheimer's disease (Early onset) (more controls excluded)	502	93979	1.0269	1
+AD_LO	Alzheimer's disease (Late onset)	2143	173823	1.0422	7
+AD_LO_EXMORE	Alzheimer's disease (Late onset) (more controls excluded)	2143	93979	1.0316	7
+AD_U	Alzheimer's disease (undefined)	150	173839	0.81412	1
+AD_U_EXMORE	Alzheimer's disease (undefined) (more controls excluded)	150	93979	0.81211	1
+ALCOGASTRITIS	Alcoholic gastritis	206	176693	0.8686	0
+ALCOHOLACUTE10	Acute alcohol intoxication	2442	174017	1.0345	2
+ALCOHOLMENTAL	Mental and behavioural disorders due to alcohol, excluding acute intoxication	7406	169493	1.0689	1
+ALCOHOL_RELATED	Alcohol related diseases and deaths, all endoints	10235	166664	1.0802	2
+ALCOLIVER	Alcoholic liver disease	1071	175828	1.0465	1
+ALCONEURODEGEN	Degeneration of nervous system due to alcohol	249	176650	0.90891	1
+ALCOPANCACU	Acohol-induced acute pancreatitis	342	176557	0.96727	3
+ALCOPANCCHRON	Alcohol-induced chronic pancreatitis	719	176180	1.0407	3
+ALCO_PRESCRIPTION	Use of disulfiram, acamprosate or naltrexone	1266	175633	1.0359	0
+ALLERG_ASTHMA	Allergic asthma (mode)	3768	113428	1.0455	2
+ALLERG_ASTHMA_EXMORE	Allergic asthma (mode) (more controls excluded)	3768	110120	1.0446	3
+ALLERG_RHINITIS	Allergic rhinitis	4300	171926	1.0446	2
+AMN2	Transient global amnesia	996	170139	1.0552	0
+ANOSMIA	Anosmia	298	50989	0.95864	1
+ANTIDEPRESSANTS	Depression medications	46441	50989	1.1101	4
+APPENDACUT_COMPLIC	Acute appendicitis, with complications	3018	163396	1.0278	2
+APPENDACUT_NOCOMPLIC	Acute appendicitis, no complications	9458	163396	1.0441	3
+APPENDICITIS_BROAD	Appendicitis, broad definition	13396	163396	1.0547	3
+ARTHRO_SPEC	Other specific arthropathies	244	141876	0.90935	1
+ARTRHO_POSTDYSENTERIC	Postydysenteric arthropathy	108	176053	0.73347	1
+ASTHMA_ACUTE_RESPIRATORY_INFECTIONS	Asthma-related acute respiratory infections	31588	131682	1.0562	3
+ASTHMA_ALLERG	Asthma and allergy	1696	113428	1.0412	0
+ASTHMA_ALLERG_EXMORE	Asthma and allergy (more controls excluded)	1696	110120	1.0398	0
+ASTHMA_CHILD	Childhood asthma (age<16)	2258	113428	1.0431	2
+ASTHMA_CHILD_EXMORE	Childhood asthma (age<16) (more controls excluded)	2258	110120	1.045	2
+ASTHMA_EOSINOPHIL_SUGG	Suggestive for eosinophilic asthma	925	113428	1.0422	2
+ASTHMA_HOSPITAL_MAIN	Asthma, hospital admissions , main diagnosis only	13526	163373	1.0896	14
+ASTHMA_INFECTIONS	Asthma-related infections	45217	131682	1.0581	1
+ASTHMA_MIXED	Asthma mixed form (mode)	540	113428	1.0283	0
+ASTHMA_MIXED_EXMORE	Asthma mixed form (mode) (more controls excluded)	540	110120	1.0283	0
+ASTHMA_MODE	Asthma (mode)	15132	113686	1.0966	15
+ASTHMA_NAS	Asthma, unspecified (mode)	7168	113428	1.0513	2
+ASTHMA_NAS_EXMORE	Asthma, unspecified (mode) (more controls excluded)	7168	110120	1.0508	3
+ASTHMA_NONALLERG	Non-allergic asthma	2464	149905	1.0388	0
+ASTHMA_NOS	Undetermined asthma	1318	113428	1.0393	0
+ASTHMA_NOS_EXMORE	Undetermined asthma (more controls excluded)	1318	110120	1.0412	0
+ASTHMA_OBESITY	Obesity related asthma	2984	113428	1.0518	0
+ASTHMA_OPPORTUNIST_INFECTIONS	Asthma and opportunit respiratory infection	401	113428	1.007	0
+ASTHMA_PNEUMONIA	Asthma-related pneumonia	20545	131682	1.0226	3
+ASTHMA_PNEUMONIA_AND_SEPSIS	Asthma-related pneumonia or sepsis	20619	156280	1.0112	2
+ASTHMA_SEPTICHE_PNEUMONIA	Pneumonia derived septichemia	319	131682	0.96864	1
+ATOPIC_STRICT	Atopic  dermatitis, strict definition	4055	172657	1.0465	11
+ATOPIC_STRICT_REIMB	Atopic dermatitis, strict definition with reimbursement	4242	161620	1.0436	11
+AUD_SWEDISH	Alcohol use disorder, Swedish definition	9372	167527	1.0802	1
+BACT_INTEST_INFECTION_NOS	Other specified/unspecified bacterial intestinal infections	706	174856	1.0426	0
+BRONCHITIS	Bronchitis	20964	155935	1.0547	0
+C3_BLADDER	Malignant neoplasm of bladder	875	176024	1.0475	1
+C3_BLADDER_EXALLC	Malignant neoplasm of bladder (other cancers excluded from controls)	875	147282	1.0484	1
+C3_BRAIN	Malignant neoplasm of brain	366	176533	0.99395	0
+C3_BRAIN_EXALLC	Malignant neoplasm of brain (other cancers excluded from controls)	366	147282	0.9907	0
+C3_BREAST	Malignant neoplasm of breast	6023	94338	1.0383	18
+C3_BREAST_EXALLC	Malignant neoplasm of breast (other cancers excluded from controls)	6023	83817	1.0407	15
+C3_BRONCHUS_LUNG	Malignant neoplasm of bronchus and lung	1385	175514	1.047	2
+C3_BRONCHUS_LUNG_EXALLC	Malignant neoplasm of bronchus and lung (other cancers excluded from controls)	1385	146279	1.0465	2
+C3_CANCER	Malignant neoplasm	29617	147282	1.0422	16
+C3_CERVIX_UTERI	Malignant neoplasm of cervix uteri	1313	99048	1.034	2
+C3_CERVIX_UTERI_EXALLC	Malignant neoplasm of cervix uteri (other cancers excluded from controls)	1313	83817	1.0345	2
+C3_CLL	Chronic lymphocytic leukaemia	202	176697	0.88261	0
+C3_CLL_EXALLC	Chronic lymphocytic leukaemia (other cancers excluded from controls)	202	147277	0.87537	0
+C3_COLON	Malignant neoplasm of colon	1448	175451	1.0292	0
+C3_COLON_ADENO	Colon adenocarcinoma	1131	175768	1.0383	0
+C3_COLON_ADENO_EXALLC	Colon adenocarcinoma (other cancers excluded from controls)	1131	147282	1.035	0
+C3_COLON_EXALLC	Malignant neoplasm of colon (other cancers excluded from controls)	1448	147282	1.0273	0
+C3_COLORECTAL	Colorectal cancer	2435	174464	1.0264	2
+C3_COLORECTAL_EXALLC	Colorectal cancer (other cancers excluded from controls)	2435	147282	1.025	3
+C3_CONNECTIVE_SOFT_NAS	Malignant neoplasm of other connective and soft tissue	213	176686	0.8856	0
+C3_CONNECTIVE_SOFT_NAS_EXALLC	Malignant neoplasm of other connective and soft tissue (other cancers excluded from controls)	213	147282	0.8856	0
+C3_CORPUS_UTERI	Malignant neoplasm of corpus uteri	879	99482	1.045	0
+C3_CORPUS_UTERI_EXALLC	Malignant neoplasm of corpus uteri (other cancers excluded from controls)	879	83817	1.0465	0
+C3_DIGESTIVE_ORGANS	Malignant neoplasm of digestive organs	4298	172601	1.0297	1
+C3_DIGESTIVE_ORGANS_EXALLC	Malignant neoplasm of digestive organs (other cancers excluded from controls)	4298	147282	1.0316	1
+C3_DLBCL	Diffuse large B-cell lymphoma	176	176723	0.85559	1
+C3_DLBCL_EXALLC	Diffuse large B-cell lymphoma (other cancers excluded from controls)	176	147281	0.85601	0
+C3_ENDOCRINE	Malignant neoplasm of endocrine gland	870	176029	1.045	3
+C3_ENDOCRINE_EXALLC	Malignant neoplasm of endocrine gland (other cancers excluded from controls)	870	147282	1.0407	3
+C3_EYE_ADNEXA	Malignant neoplasm of eye and adnexa	127	176772	0.7725	0
+C3_EYE_ADNEXA_EXALLC	Malignant neoplasm of eye and adnexa (other cancers excluded from controls)	127	147282	0.77289	0
+C3_EYE_BRAIN_NEURO	Malignant neoplasm of eye, brain and central nervous system	1160	175739	1.0426	0
+C3_EYE_BRAIN_NEURO_EXALLC	Malignant neoplasm of eye, brain and central nervous system (other cancers excluded from controls)	1160	147282	1.0412	0
+C3_FEMALE_GENITAL	malignant neoplasm of female genital organs	2994	97367	1.0188	1
+C3_FEMALE_GENITAL_EXALLC	malignant neoplasm of female genital organs (other cancers excluded from controls)	2994	83817	1.0202	1
+C3_KIDNEY_NOTRENALPELVIS	Malignant neoplasm of kidney, except renal pelvis	775	176124	1.0475	0
+C3_KIDNEY_NOTRENALPELVIS_EXALLC	Malignant neoplasm of kidney, except renal pelvis (other cancers excluded from controls)	775	147282	1.0455	0
+C3_LARYNX	Malignant neoplasm of larynx	144	176755	0.79929	0
+C3_LARYNX_EXALLC	Malignant neoplasm of larynx (other cancers excluded from controls)	144	147176	0.80048	0
+C3_LIP_ORAL_PHARYNX	Malignant neoplasm of lip, oral cavity and pharynx	110	176789	0.73535	1
+C3_LIP_ORAL_PHARYNX_EXALLC	Malignant neoplasm of lip, oral cavity and pharynx (other cancers excluded from controls)	110	147282	0.73159	0
+C3_LIVER_INTRAHEPATIC3_BILE_DUCTS_EXALLC	Malignant neoplasm of liver and intrahepatic bile ducts (other cancers excluded from controls)	238	147282	0.90543	1
+C3_LIVER_INTRAHEPATIC_BILE_DUCTS	Malignant neoplasm of liver and intrahepatic bile ducts	266	176633	0.93132	1
+C3_LIVER_INTRAHEPATIC_BILE_DUCTS_EXALLC	Malignant neoplasm of liver and intrahepatic bile ducts (other cancers excluded from controls)	266	147282	0.92734	1
+C3_LUNG_NONSMALL	Non-small cell lung cancer	999	175900	1.0431	1
+C3_LUNG_NONSMALL_EXALLC	Non-small cell lung cancer (other cancers excluded from controls)	999	146591	1.045	1
+C3_LYMPHNODES_SECONDARY_NAS	Secondary and unspecified malignant neoplasm of lymph nodes	811	176088	1.0446	0
+C3_LYMPHNODES_SECONDARY_NAS_EXALLC	Secondary and unspecified malignant neoplasm of lymph nodes (other cancers excluded from controls)	811	147282	1.0441	0
+C3_MALE_GENITAL	malignant neoplasm of male genital organs	4945	71593	1.0316	31
+C3_MALE_GENITAL_EXALLC	malignant neoplasm of male genital organs (other cancers excluded from controls)	4945	63465	1.0321	28
+C3_MENINGES	Malignant neoplasm of meninges	513	176386	1.0292	0
+C3_MENINGES_EXALLC	Malignant neoplasm of meninges (other cancers excluded from controls)	513	147282	1.0297	0
+C3_MESOTHELIOMA	Mesothelioma	100	176799	0.72522	0
+C3_MESOTHELIOMA_EXALLC	Mesothelioma (other cancers excluded from controls)	100	147282	0.72113	0
+C3_MESTOTHEL_SOFTTISSUE	Melignant neoplasm of mesothelium and soft tissue	384	176515	0.98746	0
+C3_MESTOTHEL_SOFTTISSUE_EXALLC	Melignant neoplasm of mesothelium and soft tissue (other cancers excluded from controls)	384	147282	0.98746	0
+C3_NSCLC_ADENO	Non-small cell lung cancer, adenocarcinoma	475	176424	1.0197	0
+C3_NSCLC_ADENO_EXALLC	Non-small cell lung cancer, adenocarcinoma (other cancers excluded from controls)	475	146940	1.0188	0
+C3_NSCLC_SQUAM	Non-small cell lung cancer, squamous	290	176609	0.94738	0
+C3_NSCLC_SQUAM_EXALLC	Non-small cell lung cancer, squamous (other cancers excluded from controls)	290	147064	0.94828	0
+C3_OESOPHAGUS	Malignant neoplasm of oesophagus	193	176706	0.87792	0
+C3_OESOPHAGUS_EXALLC	Malignant neoplasm of oesophagus (other cancers excluded from controls)	193	147282	0.87835	0
+C3_OTHER_SKIN	Other malignant neoplasms of skin (=non-melanoma skin cancer)	8431	168468	1.0542	25
+C3_OTHER_SKIN_EXALLC	Other malignant neoplasms of skin (=non-melanoma skin cancer) (other cancers excluded from controls)	8431	147282	1.0499	23
+C3_OVARY	Malignant neoplasm of ovary	604	99757	1.0407	0
+C3_OVARY_EXALLC	Malignant neoplasm of ovary (other cancers excluded from controls)	604	83817	1.0398	0
+C3_PANCREAS	Malignant neoplasm of pancreas	519	176380	1.0231	0
+C3_PANCREAS_EXALLC	Malignant neoplasm of pancreas (other cancers excluded from controls)	519	147282	1.024	0
+C3_PROSTATE	Malignant neoplasm of prostate	4754	71784	1.0378	29
+C3_PROSTATE_EXALLC	Malignant neoplasm of prostate (other cancers excluded from controls)	4754	63465	1.0378	29
+C3_RECTOSIGMOID_JUNCTION	Malignant neoplasm of rectosigmoid junction	152	176747	0.81898	1
+C3_RECTOSIGMOID_JUNCTION_EXALLC	Malignant neoplasm of rectosigmoid junction (other cancers excluded from controls)	152	147282	0.82019	1
+C3_RECTUM	Malignant neoplasm of rectum	884	176015	1.0374	1
+C3_RECTUM_EXALLC	Malignant neoplasm of rectum (other cancers excluded from controls)	884	147282	1.0364	1
+C3_RESPIRATORY_INTRATHORACIC	Malignant neoplasm of respiratory system and intrathoracic organs	1703	175196	1.0412	1
+C3_RESPIRATORY_INTRATHORACIC_EXALLC	Malignant neoplasm of respiratory system and intrathoracic organs (other cancers excluded from controls)	1703	146121	1.0378	1
+C3_SCLC	Small cell lung cancer	155	176744	0.81938	0
+C3_SCLC_EXALLC	Small cell lung cancer (other cancers excluded from controls)	155	147152	0.82019	0
+C3_SECONDARY_NAS	Secondary malignant neoplasm of other and unspecified sites	123	176776	0.76745	0
+C3_SECONDARY_NAS_EXALLC	Secondary malignant neoplasm of other and unspecified sites (other cancers excluded from controls)	123	147282	0.76784	0
+C3_SECONDARY_WITHOUT_SITESPEC	Malignant neoplasm, without specification of site	325	176574	0.96864	0
+C3_SECONDARY_WITHOUT_SITESPEC_EXALLC	Malignant neoplasm, without specification of site (other cancers excluded from controls)	325	147282	0.96864	0
+C3_SKIN	Malignant neoplasm of skin	8433	168466	1.0542	25
+C3_SKIN_EXALLC	Malignant neoplasm of skin (other cancers excluded from controls)	8433	147282	1.0489	23
+C3_SMALL_INTESTINE	Malignant neoplasm of small intestine	207	176692	0.88218	1
+C3_SMALL_INTESTINE_EXALLC	Malignant neoplasm of small intestine (other cancers excluded from controls)	207	147282	0.8856	1
+C3_SPINAL_CORD_CRANIAL_AND_OTHER_CNS	Malignant neoplasm of spinal cord, cranial nerves and other parts of central nervous system	167	176732	0.84106	0
+C3_SPINAL_CORD_CRANIAL_AND_OTHER_CNS_EXALLC	Malignant neoplasm of spinal cord, cranial nerves and other parts of central nervous system (other cancers excluded from controls)	167	147282	0.84188	0
+C3_STOMACH	Malignant neoplasm of stomach	506	176393	1.025	0
+C3_STOMACH_EXALLC	Malignant neoplasm of stomach (other cancers excluded from controls)	506	147282	1.0235	0
+C3_TESTIS	Malignant neoplasm of testis	160	76378	0.83817	1
+C3_TESTIS_EXALLC	Malignant neoplasm of testis (other cancers excluded from controls)	160	63465	0.83817	1
+C3_THYROID_GLAND	Malignant neoplasm of thyroid gland	811	176088	1.0441	3
+C3_THYROID_GLAND_EXALLC	Malignant neoplasm of thyroid gland (other cancers excluded from controls)	811	147282	1.0441	3
+C3_UNCERTAIN_SECONDARY	Secondary uncertain malignant neoplasm	1313	175586	1.0254	1
+C3_UNCERTAIN_SECONDARY_EXALLC	Secondary uncertain malignant neoplasm (other cancers excluded from controls)	1313	147282	1.0264	1
+C3_URINARY_TRACT	Malignant neoplasm of urinary organs	1708	175191	1.0297	0
+C3_URINARY_TRACT_EXALLC	Malignant neoplasm of urinary organs (other cancers excluded from controls)	1708	147282	1.0288	0
+C3_VULVA	Malignant neoplasm of vulva	105	100256	0.73874	0
+C3_VULVA_EXALLC	Malignant neoplasm of vulva (other cancers excluded from controls)	105	83817	0.73799	0
+CAMPYLOENTERITIS	Campylobacter enteritis	271	174856	0.94022	0
+CARDIAC_ARRHYTM	Cardiac arrhytmias, COPD co-morbidities	25210	114642	1.0802	18
+CD2_BENIGN	Benign neoplasms	40783	136116	1.0762	19
+CD2_BENIGN_ADRENAL	Benign neoplasm: Adrenal gland	510	176389	1.0264	0
+CD2_BENIGN_ADRENAL_EXALLC	Benign neoplasm: Adrenal gland (other cancers excluded from controls)	510	146939	1.0288	0
+CD2_BENIGN_ANUS_ANAL_CANAL	Benign neoplasm: Anus and anal canal	285	176614	0.95458	0
+CD2_BENIGN_ANUS_ANAL_CANAL_EXALLC	Benign neoplasm: Anus and anal canal (other cancers excluded from controls)	285	147109	0.95684	0
+CD2_BENIGN_ASCENDING_COLON	Benign neoplasm: Ascending colon	921	175978	1.0383	0
+CD2_BENIGN_ASCENDING_COLON_EXALLC	Benign neoplasm: Ascending colon (other cancers excluded from controls)	921	146737	1.0374	0
+CD2_BENIGN_BONE_CARTILAGE	Benign neoplasm of bone and articular cartilage	931	175968	1.0393	0
+CD2_BENIGN_BONE_CARTILAGE_EXALLC	Benign neoplasm of bone and articular cartilage (other cancers excluded from controls)	931	146541	1.0393	0
+CD2_BENIGN_BONE_LONG_LOWER	Benign neoplasm: Long bones of lower limb	338	176561	0.97595	0
+CD2_BENIGN_BONE_LONG_LOWER_EXALLC	Benign neoplasm: Long bones of lower limb (other cancers excluded from controls)	338	147013	0.97595	0
+CD2_BENIGN_BONE_SHORT_LOWER	Benign neoplasm: Short bones of lower limb	102	176797	0.7241	0
+CD2_BENIGN_BONE_SHORT_LOWER_EXALLC	Benign neoplasm: Short bones of lower limb (other cancers excluded from controls)	102	147197	0.72299	0
+CD2_BENIGN_BONE_SHORT_UPPER	Benign neoplasm: Short bones of upper limb	161	176738	0.82222	0
+CD2_BENIGN_BONE_SHORT_UPPER_EXALLC	Benign neoplasm: Short bones of upper limb (other cancers excluded from controls)	161	147149	0.82344	0
+CD2_BENIGN_BRAIN_CNS	Benign neoplasm of brain and other parts of central nervous system	724	176175	1.0398	0
+CD2_BENIGN_BRAIN_CNS_EXALLC	Benign neoplasm of brain and other parts of central nervous system (other cancers excluded from controls)	724	146973	1.0393	1
+CD2_BENIGN_BRAIN_SUPRATENT	Benign neoplasm: Brain, supratentorial	168	176731	0.83859	0
+CD2_BENIGN_BRAIN_SUPRATENT_EXALLC	Benign neoplasm: Brain, supratentorial (other cancers excluded from controls)	168	147209	0.83941	0
+CD2_BENIGN_BREAST	Benign neoplasm of breast	1692	98669	1.0369	1
+CD2_BENIGN_BREAST_EXALLC	Benign neoplasm of breast (other cancers excluded from controls)	1692	82650	1.034	1
+CD2_BENIGN_BRONCHUS_LUNG	Benign neoplasm: Bronchus and lung	100	176799	0.71113	0
+CD2_BENIGN_BRONCHUS_LUNG_EXALLC	Benign neoplasm: Bronchus and lung (other cancers excluded from controls)	100	147213	0.7115	0
+CD2_BENIGN_CAECUM	Benign neoplasm: Caecum	681	176218	1.0465	1
+CD2_BENIGN_CAECUM_EXALLC	Benign neoplasm: Caecum (other cancers excluded from controls)	681	146875	1.045	1
+CD2_BENIGN_CHOROID	Benign neoplasm: Choroid	393	176506	0.99256	0
+CD2_BENIGN_CHOROID_EXALLC	Benign neoplasm: Choroid (other cancers excluded from controls)	393	147008	0.99488	0
+CD2_BENIGN_COLON	Benign neoplasm: Colon	5420	171479	1.0518	2
+CD2_BENIGN_COLON_EXALLC	Benign neoplasm: Colon (other cancers excluded from controls)	5420	143789	1.0455	3
+CD2_BENIGN_COLON_NOS	Benign neoplasm: Colon, unspecified	2497	174402	1.0388	2
+CD2_BENIGN_COLON_NOS_EXALLC	Benign neoplasm: Colon, unspecified (other cancers excluded from controls)	2497	145648	1.0374	2
+CD2_BENIGN_COLORECANI	Benign neoplasm of colon, rectum, anus and anal canal	6761	170138	1.0499	4
+CD2_BENIGN_COLORECANI_EXALLC	Benign neoplasm of colon, rectum, anus and anal canal (other cancers excluded from controls)	6761	142929	1.0494	4
+CD2_BENIGN_CONJUNCTIVA	Benign neoplasm: Conjunctiva	315	176584	0.965	0
+CD2_BENIGN_CONJUNCTIVA_EXALLC	Benign neoplasm: Conjunctiva (other cancers excluded from controls)	315	147045	0.96454	0
+CD2_BENIGN_CONNECTIVE_SOFT	Other benign neoplasms of connective and other soft tissue	1153	175746	1.0231	0
+CD2_BENIGN_CONNECTIVE_SOFT_EXALLC	Other benign neoplasms of connective and other soft tissue (other cancers excluded from controls)	1153	146405	1.0221	0
+CD2_BENIGN_CONNSOFT_HEADFACETRUNK	Benign neoplasm: Connective and other soft tissue of head, face and neck	209	176690	0.87835	0
+CD2_BENIGN_CONNSOFT_HEADFACETRUNK_EXALLC	Benign neoplasm: Connective and other soft tissue of head, face and neck (other cancers excluded from controls)	209	147126	0.87792	0
+CD2_BENIGN_CONNSOFT_LOWERLIMB	Benign neoplasm: Connective and other soft tissue of lower limb, including hip	264	176635	0.93487	0
+CD2_BENIGN_CONNSOFT_LOWERLIMB_EXALLC	Benign neoplasm: Connective and other soft tissue of lower limb, including hip (other cancers excluded from controls)	264	147087	0.93621	0
+CD2_BENIGN_CONNSOFT_NOS	Benign neoplasm: Connective and other soft tissue, unspecified	118	176781	0.73648	1
+CD2_BENIGN_CONNSOFT_NOS_EXALLC	Benign neoplasm: Connective and other soft tissue, unspecified (other cancers excluded from controls)	118	147196	0.72934	1
+CD2_BENIGN_CONNSOFT_UPPERLIMB	Benign neoplasm: Connective and other soft tissue of upper limb, including shoulder	442	176457	0.9972	0
+CD2_BENIGN_CONNSOFT_UPPERLIMB_EXALLC	Benign neoplasm: Connective and other soft tissue of upper limb, including shoulder (other cancers excluded from controls)	442	146926	0.99581	0
+CD2_BENIGN_CRANIAL_NERVE	Benign neoplasm: Cranial nerves	275	176624	0.94603	0
+CD2_BENIGN_CRANIAL_NERVE_EXALLC	Benign neoplasm: Cranial nerves (other cancers excluded from controls)	275	147167	0.94738	0
+CD2_BENIGN_DESCENDING_COLON	Benign neoplasm: Descending colon	487	176412	1.0231	0
+CD2_BENIGN_DESCENDING_COLON_EXALLC	Benign neoplasm: Descending colon (other cancers excluded from controls)	487	146995	1.0193	0
+CD2_BENIGN_DUODENUM	Benign neoplasm: Duodenum	227	176672	0.90369	0
+CD2_BENIGN_DUODENUM_EXALLC	Benign neoplasm: Duodenum (other cancers excluded from controls)	227	147137	0.90586	0
+CD2_BENIGN_EAR_NASAL_SINUS	Benign neoplasm: Middle ear, nasal cavity and accessory sinuses	378	176521	0.99441	0
+CD2_BENIGN_EAR_NASAL_SINUS_EXALLC	Benign neoplasm: Middle ear, nasal cavity and accessory sinuses (other cancers excluded from controls)	378	147013	0.99209	1
+CD2_BENIGN_EAR_RESP	Benign neoplasm of middle ear and respiratory system	757	176142	1.0354	0
+CD2_BENIGN_EAR_RESP_EXALLC	Benign neoplasm of middle ear and respiratory system (other cancers excluded from controls)	757	146723	1.035	0
+CD2_BENIGN_ENDOCRINE_OTH	Benign neoplasm of other and unspecified endocrine glands	1154	175745	1.047	0
+CD2_BENIGN_ENDOCRINE_OTH_EXALLC	Benign neoplasm of other and unspecified endocrine glands (other cancers excluded from controls)	1154	146451	1.0475	0
+CD2_BENIGN_EXALLC	Benign neoplasms (other cancers excluded from controls)	40783	117904	1.0782	20
+CD2_BENIGN_EYE	Benign neoplasm of eye and adnexa	872	176027	1.0264	0
+CD2_BENIGN_EYE_EXALLC	Benign neoplasm of eye and adnexa (other cancers excluded from controls)	872	146655	1.0254	0
+CD2_BENIGN_FEMALE_GEN_OTH	Benign neoplasm of other and unspecified female genital organs	537	99824	1.0288	0
+CD2_BENIGN_FEMALE_GEN_OTH_EXALLC	Benign neoplasm of other and unspecified female genital organs (other cancers excluded from controls)	537	83410	1.0297	0
+CD2_BENIGN_HEAMANGIOMA_LYMPHANGIOMA	Haemangioma and lymphangioma, any site	928	175971	1.0311	2
+CD2_BENIGN_HEAMANGIOMA_LYMPHANGIOMA_EXALLC	Haemangioma and lymphangioma, any site (other cancers excluded from controls)	928	146571	1.0354	2
+CD2_BENIGN_HEMANGIOMA	Haemangioma, any site	863	176036	1.0326	1
+CD2_BENIGN_HEMANGIOMA_EXALLC	Haemangioma, any site (other cancers excluded from controls)	863	146621	1.0364	2
+CD2_BENIGN_KIDNEY	Benign neoplasm: Kidney	279	176620	0.94335	0
+CD2_BENIGN_KIDNEY_EXALLC	Benign neoplasm: Kidney (other cancers excluded from controls)	279	147105	0.94335	0
+CD2_BENIGN_LARYNX	Benign neoplasm: Larynx	285	176614	0.94067	0
+CD2_BENIGN_LARYNX_EXALLC	Benign neoplasm: Larynx (other cancers excluded from controls)	285	147058	0.94111	0
+CD2_BENIGN_LEIOMYOMA_UTERI	Leiomyoma of uterus	14569	85792	1.0752	42
+CD2_BENIGN_LEIOMYOMA_UTERI_EXALLC	Leiomyoma of uterus (other cancers excluded from controls)	14569	72789	1.0698	40
+CD2_BENIGN_LIP	Benign neoplasm: Lip	244	176655	0.92205	0
+CD2_BENIGN_LIPOMATOUS	Benign lipomatous neoplasm	3815	173084	1.0193	0
+CD2_BENIGN_LIPOMATOUS_EXALLC	Benign lipomatous neoplasm (other cancers excluded from controls)	3815	144400	1.0207	0
+CD2_BENIGN_LIPO_NOS	Benign lipomatous neoplasm of other sites/unspecified	1135	175764	1.0441	0
+CD2_BENIGN_LIPO_NOS_EXALLC	Benign lipomatous neoplasm of other sites/unspecified (other cancers excluded from controls)	1135	146440	1.045	0
+CD2_BENIGN_LIPO_SKIN_HEADFACENECK	Benign lipomatous neoplasm of skin and subcutaneous tissue of head, face and neck	740	176159	1.0335	0
+CD2_BENIGN_LIPO_SKIN_HEADFACENECK_EXALLC	Benign lipomatous neoplasm of skin and subcutaneous tissue of head, face and neck (other cancers excluded from controls)	740	146725	1.0326	0
+CD2_BENIGN_LIPO_SKIN_LIMBS	Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs	857	176042	1.0417	0
+CD2_BENIGN_LIPO_SKIN_LIMBS_EXALLC	Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs (other cancers excluded from controls)	857	146638	1.0422	0
+CD2_BENIGN_LIPO_SKIN_TRUNK	Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk	1410	175489	1.0283	0
+CD2_BENIGN_LIPO_SKIN_TRUNK_EXALLC	Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk (other cancers excluded from controls)	1410	146209	1.0359	1
+CD2_BENIGN_LIP_EXALLC	Benign neoplasm: Lip (other cancers excluded from controls)	244	147113	0.92293	0
+CD2_BENIGN_LIVER	Benign neoplasm: Liver	181	176718	0.85893	0
+CD2_BENIGN_LIVER_EXALLC	Benign neoplasm: Liver (other cancers excluded from controls)	181	147156	0.85768	0
+CD2_BENIGN_LIVE_BILE	Benign neoplasm: Liver/bile ducts	208	176691	0.8916	0
+CD2_BENIGN_LIVE_BILE_EXALLC	Benign neoplasm: Liver/bile ducts (other cancers excluded from controls)	208	147138	0.8916	0
+CD2_BENIGN_MALE_GEN	Benign neoplasm of male genital organs	217	76321	0.89807	0
+CD2_BENIGN_MALE_GEN_EXALLC	Benign neoplasm of male genital organs (other cancers excluded from controls)	217	63355	0.89807	0
+CD2_BENIGN_MELANOCYTIC	Melanocytic naevi	3026	173873	1.0297	0
+CD2_BENIGN_MELANOCYTIC_EXALLC	Melanocytic naevi (other cancers excluded from controls)	3026	145280	1.0307	0
+CD2_BENIGN_MELANOCYTIC_EYELID	Melanocytic naevi of eyelid, including canthus	101	176798	0.72187	1
+CD2_BENIGN_MELANOCYTIC_EYELID_EXALLC	Melanocytic naevi of eyelid, including canthus (other cancers excluded from controls)	101	147205	0.72187	1
+CD2_BENIGN_MELANOCYTIC_FACE	Melanocytic naevi of other and unspecified parts of face	646	176253	1.0278	0
+CD2_BENIGN_MELANOCYTIC_FACE_EXALLC	Melanocytic naevi of other and unspecified parts of face (other cancers excluded from controls)	646	146818	1.0278	0
+CD2_BENIGN_MELANOCYTIC_LIP	Melanocytic naevi of lip	102	176797	0.72038	0
+CD2_BENIGN_MELANOCYTIC_LIP_EXALLC	Melanocytic naevi of lip (other cancers excluded from controls)	102	147202	0.72075	0
+CD2_BENIGN_MELANOCYTIC_LOWERLIMB	Melanocytic naevi of lower limb, including hip	371	176528	0.98607	0
+CD2_BENIGN_MELANOCYTIC_LOWERLIMB_EXALLC	Melanocytic naevi of lower limb, including hip (other cancers excluded from controls)	371	147054	0.98654	0
+CD2_BENIGN_MELANOCYTIC_NOS	Melanocytic naevi, other sites/unspecified	583	176316	1.0311	0
+CD2_BENIGN_MELANOCYTIC_NOS_EXALLC	Melanocytic naevi, other sites/unspecified (other cancers excluded from controls)	583	146943	1.0311	0
+CD2_BENIGN_MELANOCYTIC_SCALPNECK	Melanocytic naevi of scalp and neck	251	176648	0.92602	0
+CD2_BENIGN_MELANOCYTIC_SCALPNECK_EXALLC	Melanocytic naevi of scalp and neck (other cancers excluded from controls)	251	147105	0.92734	0
+CD2_BENIGN_MELANOCYTIC_TRUNK	Melanocytic naevi of trunk	1065	175834	1.0402	0
+CD2_BENIGN_MELANOCYTIC_TRUNK_EXALLC	Melanocytic naevi of trunk (other cancers excluded from controls)	1065	146628	1.0407	0
+CD2_BENIGN_MELANOCYTIC_UPPERLIMB	Melanocytic naevi of upper limb, including shoulder	200	176699	0.87877	0
+CD2_BENIGN_MELANOCYTIC_UPPERLIMB_EXALLC	Melanocytic naevi of upper limb, including shoulder (other cancers excluded from controls)	200	147155	0.87877	0
+CD2_BENIGN_MENINGES	Benign neoplasm of meninges	934	175965	1.0426	1
+CD2_BENIGN_MENINGES_CEREBRAL	Benign neoplasm: Cerebral meninges	831	176068	1.047	0
+CD2_BENIGN_MENINGES_CEREBRAL_EXALLC	Benign neoplasm: Cerebral meninges (other cancers excluded from controls)	831	147052	1.047	0
+CD2_BENIGN_MENINGES_EXALLC	Benign neoplasm of meninges (other cancers excluded from controls)	934	147003	1.0422	1
+CD2_BENIGN_MENINGES_NOS	Beningn neoplasm: Meninges, unspecified	159	176740	0.82466	0
+CD2_BENIGN_MENINGES_NOS_EXALLC	Beningn neoplasm: Meninges, unspecified (other cancers excluded from controls)	159	147241	0.82385	0
+CD2_BENIGN_MOUTH_NOS	Benign neoplasm: Other and unspecified parts of mouth	394	176505	0.9986	1
+CD2_BENIGN_MOUTH_NOS_EXALLC	Benign neoplasm: Other and unspecified parts of mouth (other cancers excluded from controls)	394	146984	0.99767	1
+CD2_BENIGN_MOUTH_PHARYNX	Benign neoplasm of mouth and pharynx	1275	175624	1.0197	0
+CD2_BENIGN_MOUTH_PHARYNX_EXALLC	Benign neoplasm of mouth and pharynx (other cancers excluded from controls)	1275	146365	1.0197	0
+CD2_BENIGN_NOS	Benign neoplasm: Other/unspecified site	169	176730	0.82588	0
+CD2_BENIGN_NOS_EXALLC	Benign neoplasm: Other/unspecified site (other cancers excluded from controls)	169	147153	0.82548	0
+CD2_BENIGN_OESOPHAGUS	Benign neoplasm: Oesophagus	111	176788	0.73196	0
+CD2_BENIGN_OESOPHAGUS_EXALLC	Benign neoplasm: Oesophagus (other cancers excluded from controls)	111	147209	0.72821	0
+CD2_BENIGN_OTHERDIGESTIVE	Benign neoplasm of other and ill-defined parts of digestive system	1792	175107	1.0278	0
+CD2_BENIGN_OTHERDIGESTIVE_EXALLC	Benign neoplasm of other and ill-defined parts of digestive system (other cancers excluded from controls)	1792	146129	1.0269	0
+CD2_BENIGN_OTHER_NOS	Benign neoplasm of other and unspecified sites	353	176546	0.97183	0
+CD2_BENIGN_OTHER_NOS_EXALLC	Benign neoplasm of other and unspecified sites (other cancers excluded from controls)	353	147021	0.97229	0
+CD2_BENIGN_OVARY	Benign neoplasm of ovary	2400	97961	1.0264	1
+CD2_BENIGN_OVARY_EXALLC	Benign neoplasm of ovary (other cancers excluded from controls)	2400	82050	1.0283	1
+CD2_BENIGN_PANCREAS	Benign neoplasm: Pancreas	113	176786	0.74291	1
+CD2_BENIGN_PANCREAS_EXALLC	Benign neoplasm: Pancreas (other cancers excluded from controls)	113	147226	0.74215	1
+CD2_BENIGN_PAROTID	Benign neoplasm: Parotid gland	721	176178	1.0436	0
+CD2_BENIGN_PAROTID_EXALLC	Benign neoplasm: Parotid gland (other cancers excluded from controls)	721	146787	1.0426	0
+CD2_BENIGN_PERIPH_AUTO_NEURO	Benign neoplasm: Peripheral nerves and autonomic nervous system	163	176736	0.81817	0
+CD2_BENIGN_PERIPH_AUTO_NEURO_EXALLC	Benign neoplasm: Peripheral nerves and autonomic nervous system (other cancers excluded from controls)	163	147168	0.81857	0
+CD2_BENIGN_PITUITARY_CRANIPHAR	Benign neoplasm: Pituitary gland, craniopharyngeal duct	527	176372	1.0316	1
+CD2_BENIGN_PITUITARY_CRANIPHAR_EXALLC	Benign neoplasm: Pituitary gland, craniopharyngeal duct (other cancers excluded from controls)	527	146887	1.0321	1
+CD2_BENIGN_RECTOSIGMOID_JUNC	Benign neoplasm: Rectosigmoid junction	372	176527	0.9972	0
+CD2_BENIGN_RECTOSIGMOID_JUNC_EXALLC	Benign neoplasm: Rectosigmoid junction (other cancers excluded from controls)	372	147057	0.9986	0
+CD2_BENIGN_RECTUM	Benign neoplasm: Rectum	1566	175333	1.0193	0
+CD2_BENIGN_RECTUM_ANAL	Benign neoplasm: Rectum, anus and anal canal	1790	175109	1.0188	0
+CD2_BENIGN_RECTUM_ANAL_CANAL_ICD9	Benign neoplasm: Rectum/anal canal icd-9	122	176777	0.76667	0
+CD2_BENIGN_RECTUM_ANAL_CANAL_ICD9_EXALLC	Benign neoplasm: Rectum/anal canal icd-9 (other cancers excluded from controls)	122	147205	0.76706	0
+CD2_BENIGN_RECTUM_ANAL_EXALLC	Benign neoplasm: Rectum, anus and anal canal (other cancers excluded from controls)	1790	146166	1.0216	1
+CD2_BENIGN_RECTUM_EXALLC	Benign neoplasm: Rectum (other cancers excluded from controls)	1566	146301	1.0278	0
+CD2_BENIGN_SALIVARY	Benign neoplasm of major salivary glands	987	175912	1.0388	0
+CD2_BENIGN_SALIVARY_EXALLC	Benign neoplasm of major salivary glands (other cancers excluded from controls)	987	146601	1.0374	0
+CD2_BENIGN_SALIVARY_NOS	Benign neoplasm: other/unspecified salivary gland	305	176594	0.96363	2
+CD2_BENIGN_SALIVARY_NOS_EXALLC	Benign neoplasm: other/unspecified salivary gland (other cancers excluded from controls)	305	147069	0.96272	1
+CD2_BENIGN_SIGMOID_COLON	Benign neoplasm: Sigmoid colon	1560	175339	1.0378	0
+CD2_BENIGN_SIGMOID_COLON_EXALLC	Benign neoplasm: Sigmoid colon (other cancers excluded from controls)	1560	146301	1.0364	0
+CD2_BENIGN_SKIN	Other benign neoplasms of skin	4997	171902	1.0005	0
+CD2_BENIGN_SKIN_EAR	Benign neoplasm: Skin of ear and external auricular canal	445	176454	1.0122	0
+CD2_BENIGN_SKIN_EAR_EXALLC	Benign neoplasm: Skin of ear and external auricular canal (other cancers excluded from controls)	445	147001	1.0117	0
+CD2_BENIGN_SKIN_EXALLC	Other benign neoplasms of skin (other cancers excluded from controls)	4997	143966	1.0178	0
+CD2_BENIGN_SKIN_EYELID	Benign neoplasm: Skin of eyelid, including canthus	1679	175220	1.0155	0
+CD2_BENIGN_SKIN_EYELID_EXALLC	Benign neoplasm: Skin of eyelid, including canthus (other cancers excluded from controls)	1679	146095	1.0164	0
+CD2_BENIGN_SKIN_FACE	Benign neoplasm: Skin of other and unspecified parts of face	1378	175521	1.0383	0
+CD2_BENIGN_SKIN_FACE_EXALLC	Benign neoplasm: Skin of other and unspecified parts of face (other cancers excluded from controls)	1378	146479	1.0364	0
+CD2_BENIGN_SKIN_LIP	Benign neoplasm: Skin of lip	157	176742	0.82263	0
+CD2_BENIGN_SKIN_LIP_EXALLC	Benign neoplasm: Skin of lip (other cancers excluded from controls)	157	147177	0.82222	0
+CD2_BENIGN_SKIN_LOWERLIMB	Benign neoplasm: Skin of lower limb, including hip	260	176639	0.93933	2
+CD2_BENIGN_SKIN_LOWERLIMB_EXALLC	Benign neoplasm: Skin of lower limb, including hip (other cancers excluded from controls)	260	147097	0.93933	2
+CD2_BENIGN_SKIN_NOS	Benign neoplasm: Skin, unspecified	425	176474	0.99907	0
+CD2_BENIGN_SKIN_NOS_EXALLC	Benign neoplasm: Skin, unspecified (other cancers excluded from controls)	425	146977	0.99907	0
+CD2_BENIGN_SKIN_SCALPNECK	Benign neoplasm: Skin of scalp and neck	258	176641	0.93265	0
+CD2_BENIGN_SKIN_SCALPNECK_EXALLC	Benign neoplasm: Skin of scalp and neck (other cancers excluded from controls)	258	147128	0.93265	0
+CD2_BENIGN_SKIN_TRUNK	Benign neoplasm: Skin of trunk	476	176423	1.0122	0
+CD2_BENIGN_SKIN_TRUNK_EXALLC	Benign neoplasm: Skin of trunk (other cancers excluded from controls)	476	146973	1.0084	0
+CD2_BENIGN_SKIN_UPPERLIMB	Benign neoplasm: Skin of upper limb, including shoulder	204	176695	0.88005	0
+CD2_BENIGN_SKIN_UPPERLIMB_EXALLC	Benign neoplasm: Skin of upper limb, including shoulder (other cancers excluded from controls)	204	147146	0.87962	0
+CD2_BENIGN_SMALL_INTESTINE	Benign neoplasm: Small intestine	446	176453	1.0009	0
+CD2_BENIGN_SMALL_INTESTINE_EXALLC	Benign neoplasm: Small intestine (other cancers excluded from controls)	446	147007	1.0014	0
+CD2_BENIGN_SMALL_INTESTINE_OTH	Benign neoplasm: Other and unspecified parts of small intestine	231	176668	0.89375	0
+CD2_BENIGN_SMALL_INTESTINE_OTH_EXALLC	Benign neoplasm: Other and unspecified parts of small intestine (other cancers excluded from controls)	231	147148	0.89677	0
+CD2_BENIGN_SPINAL_CORD	Benign neoplasm: Spinal cord	150	176749	0.81412	1
+CD2_BENIGN_SPINAL_CORD_EXALLC	Benign neoplasm: Spinal cord (other cancers excluded from controls)	150	147225	0.81412	1
+CD2_BENIGN_STOMACH	Benign neoplasm: Stomach	950	175949	1.0359	0
+CD2_BENIGN_STOMACH_EXALLC	Benign neoplasm: Stomach (other cancers excluded from controls)	950	146660	1.0345	1
+CD2_BENIGN_THYROID	Benign neoplasm of thyroid gland	361	176538	0.98238	0
+CD2_BENIGN_THYROID_EXALLC	Benign neoplasm of thyroid gland (other cancers excluded from controls)	361	147056	0.98146	0
+CD2_BENIGN_TONGUE	Benign neoplasm: Tongue	279	176620	0.94111	0
+CD2_BENIGN_TONGUE_EXALLC	Benign neoplasm: Tongue (other cancers excluded from controls)	279	147079	0.94111	0
+CD2_BENIGN_TRANSVERSE_COLON	Benign neoplasm: Transverse colon	743	176156	1.0417	0
+CD2_BENIGN_TRANSVERSE_COLON_EXALLC	Benign neoplasm: Transverse colon (other cancers excluded from controls)	743	146805	1.0407	0
+CD2_BENIGN_URINARY	Benign neoplasm of urinary organs	419	176480	1.0028	1
+CD2_BENIGN_URINARY_EXALLC	Benign neoplasm of urinary organs (other cancers excluded from controls)	419	147035	1.0023	1
+CD2_BENIGN_UTERUS_NOS	Other benign neoplasm of uterus: Other parts/unspecified	648	99713	1.0441	0
+CD2_BENIGN_UTERUS_NOS_EXALLC	Other benign neoplasm of uterus: Other parts/unspecified (other cancers excluded from controls)	648	83379	1.0422	0
+CD2_BENIGN_UTERUS_OTH	Other benign neoplasms of uterus	774	99587	1.0417	0
+CD2_BENIGN_UTERUS_OTH_EXALLC	Other benign neoplasms of uterus (other cancers excluded from controls)	774	83277	1.0388	0
+CD2_BENIGN_VAGINA	Benign neoplasm: Vulva	238	100123	0.91853	0
+CD2_BENIGN_VAGINA_EXALLC	Benign neoplasm: Vulva (other cancers excluded from controls)	238	83636	0.91634	0
+CD2_BENIGN_VULVA	Benign neoplasm: Vagina	159	100202	0.8267	1
+CD2_BENIGN_VULVA_EXALLC	Benign neoplasm: Vagina (other cancers excluded from controls)	159	83701	0.82874	2
+CD2_FOLLICULAR_LYMPHOMA	Follicular lymphoma	393	176506	0.99767	2
+CD2_FOLLICULAR_LYMPHOMA_EXALLC	Follicular lymphoma (other cancers excluded from controls)	393	147282	1	2
+CD2_HODGKIN_LYMPHOMA	Hodgkin lymphoma	251	176648	0.93399	0
+CD2_HODGKIN_LYMPHOMA_EXALLC	Hodgkin lymphoma (other cancers excluded from controls)	251	147282	0.93443	0
+CD2_INSITU	In situ neoplasms	2433	174466	1.0288	2
+CD2_INSITU_BREAST	Carcinoma in situ of breast	768	99593	1.0441	0
+CD2_INSITU_BREAST_EXALLC	Carcinoma in situ of breast (other cancers excluded from controls)	768	83801	1.0441	0
+CD2_INSITU_BREAST_INTRADUCTAL	Carcinoma in situ of breast, intraductal	688	99673	1.0431	0
+CD2_INSITU_BREAST_INTRADUCTAL_EXALLC	Carcinoma in situ of breast, intraductal (other cancers excluded from controls)	688	83809	1.0431	0
+CD2_INSITU_BREAST_NOS	Carcinoma in situ of breast, other/unspecified	107	100254	0.71408	0
+CD2_INSITU_BREAST_NOS_EXALLC	Carcinoma in situ of breast, other/unspecified (other cancers excluded from controls)	107	83814	0.71593	0
+CD2_INSITU_CERVIX_UTERI	Carcinoma in situ of cervix uteri	221	100140	0.89979	1
+CD2_INSITU_CERVIX_UTERI_EXALLC	Carcinoma in situ of cervix uteri (other cancers excluded from controls)	221	83806	0.89979	1
+CD2_INSITU_EXALLC	In situ neoplasms (other cancers excluded from controls)	2433	146754	1.0326	2
+CD2_INSITU_MELANOMA	Melanoma in situ	293	176606	0.96136	0
+CD2_INSITU_MELANOMA_EXALLC	Melanoma in situ (other cancers excluded from controls)	293	147185	0.95864	0
+CD2_INSITU_SKIN	Carcinoma in situ of skin	966	175933	1.0484	2
+CD2_INSITU_SKIN_EXALLC	Carcinoma in situ of skin (other cancers excluded from controls)	966	146931	1.0441	4
+CD2_INSITU_SKIN_FACE	Carcinoma in situ of skin of other and unspecified parts of face	535	176364	1.0354	1
+CD2_INSITU_SKIN_FACE_EXALLC	Carcinoma in situ of skin of other and unspecified parts of face (other cancers excluded from controls)	535	147098	1.0326	2
+CD2_INSITU_SKIN_LOWERLIMB	Carcinoma in situ of skin of lower limb, including hip	122	176777	0.76745	0
+CD2_INSITU_SKIN_LOWERLIMB_EXALLC	Carcinoma in situ of skin of lower limb, including hip (other cancers excluded from controls)	122	147240	0.76861	0
+CD2_INSITU_SKIN_SCALPNECK	Carcinoma in situ of skin of scalp and neck	105	176794	0.72224	1
+CD2_INSITU_SKIN_SCALPNECK_EXALLC	Carcinoma in situ of skin of scalp and neck (other cancers excluded from controls)	105	147245	0.72448	1
+CD2_INSITU_SKIN_TRUNK	Carcinoma in situ of skin of trunk	148	176751	0.8113	0
+CD2_INSITU_SKIN_TRUNK_EXALLC	Carcinoma in situ of skin of trunk (other cancers excluded from controls)	148	147242	0.80488	0
+CD2_INSITU_SKIN_UPPERLIMB	Carcinoma in situ of skin of upper limb, including shoulder	116	176783	0.74633	1
+CD2_INSITU_SKIN_UPPERLIMB_EXALLC	Carcinoma in situ of skin of upper limb, including shoulder (other cancers excluded from controls)	116	147245	0.74633	1
+CD2_LYMPHOID_LEUKAEMIA	Lymphoid leukaemia	477	176422	1.0269	0
+CD2_LYMPHOID_LEUKAEMIA_EXALLC	Lymphoid leukaemia (other cancers excluded from controls)	477	147282	1.0254	0
+CD2_MULTIPLE_MYELOMA_PLASMA_CELL	Multiple myeloma and malignant plasma cell neoplasms	418	176481	1.0009	0
+CD2_MULTIPLE_MYELOMA_PLASMA_CELL_EXALLC	Multiple myeloma and malignant plasma cell neoplasms (other cancers excluded from controls)	418	147282	1.0023	0
+CD2_MYELOID_LEUKAEMIA	Myeloid leukaemia	211	176688	0.89375	0
+CD2_MYELOID_LEUKAEMIA_EXALLC	Myeloid leukaemia (other cancers excluded from controls)	211	147282	0.8886	0
+CD2_NONFOLLICULAR_LYMPHOMA	Non-follicular lymphoma	873	176026	1.0378	0
+CD2_NONFOLLICULAR_LYMPHOMA_EXALLC	Non-follicular lymphoma (other cancers excluded from controls)	873	147282	1.0369	0
+CD2_NONHODGKIN_NAS	Other and unspecified types of non-Hodgkin lymphoma	392	176507	0.99163	0
+CD2_NONHODGKIN_NAS_EXALLC	Other and unspecified types of non-Hodgkin lymphoma (other cancers excluded from controls)	392	147282	0.99116	0
+CD2_PRIMARY_LYMPHOID_HEMATOPOIETIC	Primary_lymphoid and hematopoietic malignant neoplasms	2476	174423	1.0273	0
+CD2_PRIMARY_LYMPHOID_HEMATOPOIETIC_EXALLC	Primary_lymphoid and hematopoietic malignant neoplasms (other cancers excluded from controls)	2476	147282	1.0292	1
+CHARCOT	Charcot foot	102	133027	0.71445	0
+CHILDHOOD_ALLERGY	Childhood allergy (age < 16)	2003	174896	1.0378	0
+CHIRBIL_PRIM	Biliary chirrosis, primary	201	176698	0.89375	1
+CHIRHEP_NAS	Chirrosis of liver, NAS	322	175474	0.95503	1
+CHOLELITH_BROAD	Cholelithiasis, broad definition with cholecystitis	15683	158425	1.0926	26
+CHRONHEP_NAS	Chronic hepatitis NAS	161	176738	0.821	0
+CHRONLARGE	Crohn's disease of large intestine	601	170386	1.0307	2
+CHRONNAS	Chron's disease NAS	759	170386	1.0388	6
+CHRONOTH	Other Chron's disease	717	170386	1.0426	1
+CHRONSMALL	Crohn's disease of small interstine	694	170386	1.0508	3
+CIRRHOSIS_BROAD	Cirrhosis, broad definition used in the article https://doi.org/10.1101/594523	1425	175474	1.0383	2
+CMV_NOS	Other/unspecified cytomegaloviral diseases	139	176721	0.7811	0
+CONGEN_HEART_ARTER	Congenital malformations of heart and great arteries	1447	175452	1.0302	1
+COPD_ASTHMA_INFECTIONS	COPD/asthma related infections	45217	131682	1.0581	1
+COPD_ASTHMA_PNEUMONIA_SEPSIS	COPD/asthma related pneumonia or pneumonia derived septichaemia	20619	131682	1.0212	3
+COPD_EARLY	Early onset COPD	2694	171934	1.0431	1
+COPD_EARLYANDLATER	COPD, early/later onset	4965	171934	1.0533	2
+COPD_HOSPITAL	COPD, hospital admissions	4891	172008	1.0523	2
+COPD_INSUFFICIENCY	COPD-related respiratory insufficiency	4925	171974	1.0345	2
+COPD_LATER	Later onset COPD	2271	171934	1.0523	0
+COPD_MODE	COPD (mode)	4241	114589	1.0489	1
+COPD_OPPORTUNIST_INFECTIONS	COPD related to chronic (opportunist) infections	163	152176	0.82752	0
+COX_ARTHROSIS	Coxarthrosis [arthrosis of hip](FG)	7950	141876	1.0679	5
+CPAP	Continuous positive airway pressure	2603	90980	1.0273	2
+CREST	CR(E)ST syndrome	130	176769	0.75818	1
+C_DIFFICILE_ENTEROCOLITIS	Enterocolitis due to Clostridium difficile	1054	174856	1.0402	0
+C_STROKE	STROKE	14171	133027	1.0345	1
+D3_ACQHAEMOLYTICANAEMIA	Acquired haemolytic anaemia	205	176601	0.87792	0
+D3_ACUTEPOSTBLEEDANAEMIA	Acute posthaemorrhagic anaemia	346	172180	0.97549	0
+D3_AGRANULOCYTOSIS	Agranulocytosis	1055	174737	1.0374	2
+D3_ALLERGPURPURA	Allergic purpura	362	174901	0.98607	0
+D3_ANAEMIA	Anaemias	9145	50989	1.0075	5
+D3_ANAEMIAINCHRONICDISEASE	Anaemia in chronic diseases classified elsewhere	125	172180	0.78424	1
+D3_ANAEMIANAS	Other and unspecified anaemias	4279	172180	1.0226	2
+D3_ANAEMIA_B12_DEF	Vitamin B12 deficiency anaemia	1364	171204	1.0518	2
+D3_ANAEMIA_IRONDEF	Iron deficiency anaemia	4420	171204	1.0245	5
+D3_ANAEMIA_IRONDEF_BLOODLOSS	Iron deficiency anaemia secondary to blood loss (chronic)	1734	171204	1.0326	1
+D3_ANAEMIA_IRONDEF_NAS	Other and unspecified iron deficiency	3078	171204	1.0207	5
+D3_APLASTICANDOTHANAEMIA	Aplastic and other anaemias	4719	172180	1.0259	2
+D3_BLOOD	Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism	14375	162524	1.0117	7
+D3_BLOODNAS	Other and unspecified diseases of blood and blood-forming organs	194	174737	0.85559	1
+D3_BLOODOTHER	Other diseases of blood and blood-forming organs	2162	174737	1.0231	1
+D3_COAGDEF	Chronic Coagulation defects	218	176681	0.86734	14
+D3_COAGDEFNAS	Other and unspecified coagulation defects	418	174901	1.0075	15
+D3_COAGDEF_PURPUR_HAEMORRHAGIC	Coagulation defects, purpura and other haemorrhagic conditions	1998	174901	1.0273	18
+D3_COAGOTHER	Other coagulation defects	659	174901	1.046	24
+D3_COMBIMMUDEF	Combined immunodeficiencies	137	174604	0.78582	0
+D3_EOSINOPHILIA	Eosinophilia	139	174737	0.79372	0
+D3_HAEMOLYTICANAEMIA	Haemolytic anaemias	298	176601	0.95593	3
+D3_HAEMORRHAGICNAS	Otherand unspecified haemorrhagic conditions	150	174901	0.81857	0
+D3_IMMUDEF	Immunodeficiencies	527	176372	1.0297	1
+D3_IMMUDEFANTIBODY	Immunodeficiency with predominantly antibody defects	283	174604	0.95323	0
+D3_IMMUDEFANTIBODYNAS	Other and unspecified immunodeficiencies with predominantly antibody defects	129	174604	0.71556	0
+D3_IMMUNEMECHANISM	Certain disorders involving the immune mechanism	2295	174604	1.0455	1
+D3_IMMUNEMECHANISMNAS	Other and unspecified disorders involving the immune mechanism, not elsewhere classified	271	174604	0.94783	0
+D3_IMMUNEMECHANISMOTHER	Other disorders involving the immune mechanism, not elsewhere classified	290	174604	0.96	0
+D3_ITP	Idiopathic thrombocytopenic purpura	304	174901	0.96227	1
+D3_NONHEREDHYPOGAMMA	Nonhereditary hypogammaglobulinemia	116	174604	0.73648	0
+D3_NUTRIANAEMIA	Nutritional anaemias	5695	171204	1.0273	4
+D3_NUTRIANAEMIAOTHER	Other nutritional anaemias	113	171204	0.74443	0
+D3_OTHERANAEMIA	Other anaemias	4337	172180	1.024	2
+D3_OTHERBLOOD	Oher diseases of blood and blood-forming organs	530	174737	1.0331	2
+D3_OTHERWHITECELL	Other disorders of white blood cells	501	174737	1.0164	1
+D3_PURPURA_AND3_OTHER_HAEMORRHAGIC	Purpura and other haemorrhagic conditions	1347	174901	1.0297	0
+D3_SARCOIDOSIS	Sarcoidosis	1527	174604	1.0508	1
+D3_SCNDPOLYCYTHAEMIA	Secondary polycythaemia	149	174737	0.8101	0
+D3_SPLEENDISEASE	Diseases of spleen	115	174737	0.75703	0
+D3_THROMBOCYTOPENIANAS	Thrombocytopenia, unspecified	608	174901	1.0321	0
+D3_VONVILLEBRAND	Von Willebrand disease	116	174901	0.77328	5
+D3_WHITEBLOODCELLNAS	Other and unspecified disorders of white blood cells	358	174737	0.98469	0
+DEATH	Any death	12786	164113	1.0369	0
+DERMATOPOLY_FG	Dermatopolymyositis (FG)	146	141876	0.80849	4
+DIABETES_FG	Diabetes, varying definitions	29176	147723	1.1588	45
+DIS_THYROID_OTH	Other disorders of thyroid	136	173061	0.77992	0
+DM_AION	AION (anterior ischemic optic neuropathy)	186	176341	0.8581	0
+DM_BCKGRND_RETINA	Background diabetic retinopathy	1625	165660	1.0264	4
+DM_BCKGRND_RETINA_NONPROLIF	Severe non-proliferative background diabetic retinopathy	345	165660	0.95503	2
+DM_COMORB_EXMORE	Diabetes-related co-morbidities/complications (more controls excluded)	43872	120555	1.0698	9
+DM_HYPOGLYC	Diabetic hypoglycemia	3065	133027	1.0216	4
+DM_KETOACIDOSIS	Diabetic ketoacidosis	3793	133027	0.99163	7
+DM_MACULOPATHY	Diabetic maculopathy	1408	171249	1.0475	4
+DM_MACULOPATHY_EXMORE	Diabetic maculopathy (more controls excluded)	1408	147718	1.047	4
+DM_NEOVASCULAR_GLAUCOMA	Neovascular glaucoma	403	165660	0.9986	0
+DM_NEPHROPATHY	Diabetic nephropathy	2468	170499	1.0378	2
+DM_NEPHROPATHY_EXMORE	Diabetic nephropathy (more controls excluded)	2468	147143	1.0354	2
+DM_NEUROPATHY	Diabetic neuropathy	1125	133027	1.0484	2
+DM_OPTHALMIC_COMORB	Diabetes, opthalmic co-morbidities	426	142853	1.008	0
+DM_OTHER_WIDE	Other diabetes, wide definition	24662	144670	1.1499	40
+DM_PERIPHATHERO	Peripheral atherosclerosis	4933	133027	1.0426	3
+DM_PERIPH_ANGIOPATHY	Peripheral angiopathy	151	133027	0.80448	1
+DM_POLYNEURO	Diabetic polyneuropathy	267	175774	0.94201	1
+DM_RETINA_NOS	Unspecified diabetic retinopathy	1386	165660	1.0412	3
+DM_RETINA_PROLIF	Proliferative diabetic retinopathy	6861	165660	1.0283	5
+DM_RETINOPATHY	Diabetic retinopathy	11239	164092	1.0335	7
+DM_RETINOPATHY_EXMORE	Diabetic retinopathy (more controls excluded)	11239	142853	1.0364	6
+DM_RET_VEIN_OCCLU	Retinal vein occlusion (central or branch)	285	147723	0.94245	0
+DM_SEVERAL_COMPLICATIONS	Diabetes, several complications	5090	133027	1.0374	6
+DM_VITREOUS_BLEEDING	Vitreous bleeding (caused by prolif. dmrp when together with H36.03*)	1009	165660	1.0402	1
+DRY_AMD	Dry age-related macular degeneration (includes geographic atrophy)	1825	167177	1.0378	7
+E4_ACIDOSIS	Acidosis	128	160461	0.74861	0
+E4_ADDISON	Adrenocortical insufficiency	287	171017	0.95323	0
+E4_ADRENAL	Other disorders of adrenal gland	373	171017	0.99302	0
+E4_AMYLNAS	Amyloidosis, other/unspecified	137	160461	0.74747	10
+E4_AMYLOIDOSIS	Amyloidosis	175	160461	0.82385	9
+E4_CARCISDR	Carcinoid syndrome	117	171017	0.74519	0
+E4_CA_MET	Disorders of calcium metabolism	501	160461	1.0197	1
+E4_CONGEIOD	Congenital iodine-deficiency syndrome/hypothyroidism	270	152762	0.94648	0
+E4_CUSHING	Cushing syndrome	122	171017	0.77094	0
+E4_DIABETES	Diabetes mellitus	28709	148190	1.1567	47
+E4_DIABINSIPIDUS	Diabetes insipidus	114	171017	0.74861	0
+E4_DISPUB	Disorders of puberty	156	171017	0.82426	0
+E4_DM1	Type 1 diabetes	4933	148190	0.9972	15
+E4_DM1COMA	Type 1 diabetes with coma	1055	148190	1.0103	4
+E4_DM1KETO	Type 1 diabetes with ketoacidosis	1092	148190	1.0164	5
+E4_DM1NASCOMP	Type 1 diabetes with other specified/multiple/unspecified complications	2775	148190	1.0098	12
+E4_DM1NEU	Type 1 diabetes with neurological complications	461	148190	1.0089	1
+E4_DM1NOCOMP	Type 1 diabetes without complications	4129	148190	0.98192	13
+E4_DM1OPTH	Type 1 diabetes with ophthalmic complications	2339	148190	0.98146	9
+E4_DM1PERIPH	Type 1 diabetes with peripheral circulatory complications	303	148190	0.95232	2
+E4_DM1REN	Type 1 diabetes with renal complications	782	148190	1.035	3
+E4_DM1_STRICT	Type 1 diabetes, strict (exclude DM2)	2265	148605	0.97275	7
+E4_DM2	Type 2 diabetes	26029	148190	1.1819	57
+E4_DM2COMA	Type 2 diabetes with coma	1851	148190	1.047	2
+E4_DM2KETO	Type 2 diabetes with ketoacidosis	267	148190	0.93443	2
+E4_DM2NASCOMP	Type 2 diabetes with other specified/multiple/unspecified complications	19165	148190	1.165	42
+E4_DM2NEU	Type 2 diabetes with neurological complications	725	148190	1.035	0
+E4_DM2NOCOMP	Type 2 diabetes without complications	11360	148190	1.1026	15
+E4_DM2OPTH	Type 2 diabetes with ophthalmic complications	1703	148190	1.035	2
+E4_DM2PERIPH	Type 2 diabetes with peripheral circulatory complications	820	148190	1.0475	3
+E4_DM2REN	Type 2 diabetes with renal complications	1020	148190	1.0475	0
+E4_DM2_STRICT	Type 2 diabetes, strict (exclude DM1)	23338	148190	1.1708	45
+E4_DMNAS	Unspecified diabetes	2863	148190	1.0455	5
+E4_DMNASNASCOMP	Unspecified diabetes with multiple/unspecified complications	361	148190	0.98931	0
+E4_DMNASNOCOMP	Unspecified diabetes without complications	897	148190	1.045	1
+E4_ENDODIS	Other endocrine disorders	567	171017	1.0164	0
+E4_ENDODISNAS	Endocrine disorders, other/unspecified	220	171017	0.86649	0
+E4_ENDOGLAND	Disorders of other endocrine glands	5882	171017	1.0188	0
+E4_ENDOMETPOSTOP	Postprocedural endocrine and metabolic disorders, not elsewhere classified	1061	160461	1.0533	3
+E4_ENDONUTRMET	Endocrine, nutritional and metabolic diseases	61193	115706	1.1376	21
+E4_FLUIDELECTRO	Other disorders of fluid, electrolyte and acid-base balance	3014	160461	1.024	1
+E4_GLUCOPANCREAS	Other disorders of glucose regulation and pancreatic internal secretion	1012	175887	1.045	2
+E4_GOITREDIFF	Nontoxic diffuse goitre	377	152762	0.9972	0
+E4_GOITREMULTINOD	Nontoxic multinodular goitre	2728	152762	1.0359	17
+E4_GOITRENAS	Other and/or unspecified nontoxic goitre	977	152762	1.046	3
+E4_GOITRENOD	Nontoxic single thyroid nodule	886	152762	1.0393	0
+E4_HYPERALDO	Hyperaldosteronism	255	171017	0.93532	0
+E4_HYPERCHOL	Pure hypercholesterolaemia	6840	160461	1.0446	12
+E4_HYPERGLYCER	Pure hyperglyceridaemia	177	160461	0.86061	2
+E4_HYPERKALAEMIA	Hyperkalaemia	390	160461	0.99395	0
+E4_HYPERLIPMIX	Mixed hyperlipidaemia	391	160461	1.0061	0
+E4_HYPERLIPNAS	Hyperlipidaemia, other/unspecified	3630	160461	1.0321	3
+E4_HYPEROSMHNAT	Hyperosmolality and hypernatraemia	106	160461	0.72113	0
+E4_HYPERPARA	Hyperparathyroidism	2403	171017	1.0302	0
+E4_HYPERPIT	Hyperfunction of pituitary gland	585	171017	1.0311	0
+E4_HYPERPRO	Hyperprolactinaemia	452	171017	1.0098	0
+E4_HYPODRUG	Drug-induced hypoglycaemia without coma	174	175887	0.85434	1
+E4_HYPOGLYC	Hypoglycaemia, other or unspecified	767	175887	1.046	1
+E4_HYPOKALAEMIA	Hypokalaemia	993	160461	1.0431	0
+E4_HYPOOSMNAT	Hypo-osmolality and hyponatraemia	1648	160461	1.0292	0
+E4_HYPOPARA	Hypoparathyroidism	369	171017	0.9907	1
+E4_HYPOPIT	Hypopituitarism	680	171017	1.0283	0
+E4_HYTHYNAS	Hypothyroidism,other/unspecified	20360	152762	1.1177	43
+E4_IRON_MET	Disorders of iron metabolism	101	160461	0.66924	11
+E4_LACTONAS	Lactose intolerance, other/unspecified	310	160461	0.96409	5
+E4_LACTOSEINT	Lactose intolerance	354	160461	0.98885	5
+E4_LIPOPROT	Disorders of lipoprotein metabolism and other lipidaemias	11042	160461	1.0533	21
+E4_LIPOPROTNAS	Disorder of lipoprotein metabolism, unspecified	1362	160461	1.0518	1
+E4_MALNUTRITION	Malnutrition	130	176769	0.77133	0
+E4_METABO	Other metabolic disorders	1167	160461	1.0499	4
+E4_METABOLIA	Metabolic disorders	16438	160461	1.0504	13
+E4_MINERAL_MET	Disorders of mineral metabolism	685	160461	1.0484	2
+E4_NUTRIDEF	Other nutritional deficiencies	6696	170203	1.0901	1
+E4_OBESITY	Obesity	6523	170323	1.0896	5
+E4_OBESITYCAL	Obesity due to excess calories	4272	170376	1.0708	1
+E4_OBESITYNAS	Obesity, other/unspecified	3489	170376	1.064	2
+E4_OBESITYXTRMALV	Extreme obesity with alveolar hypoventilation	303	170376	0.95684	0
+E4_OBESITY_HYPER	Obesity and other hyperalimentation	6576	170323	1.0891	3
+E4_OVARDYS	Ovarian dysfunction	665	96172	1.0335	1
+E4_OVARFAIL	Primary ovarian failure	162	96172	0.83817	1
+E4_PARATHYRO	Disorders of parathyroid gland	2714	171017	1.0288	0
+E4_POCS	Polycystic ovarian syndrome	462	96172	1.0193	3
+E4_PORBILIR	Disorders of porphyrin and bilirubin metabolism	112	160461	0.73459	1
+E4_SHORT	Short stature, not elsewhere classified	186	171017	0.87537	0
+E4_TESTICHYPO	Testicular hypofunction	180	74845	0.85309	0
+E4_TESTIDYS	Testicular dysfunction	203	74845	0.87835	0
+E4_THYROID	Disorders of the thyroid gland	24137	152762	1.1066	32
+E4_THYROIDITAUTOIM	Autoimmune thyroiditis	197	152762	0.88774	0
+E4_THYROIDITNAS	Thyroiditis, unspecified	170	152762	0.84065	1
+E4_THYROIDITSUBAC	Subacute thyroiditis	325	152762	0.97366	1
+E4_THYROIDNASOTH	Disorder of thyroid, unspecified	132	152762	0.78463	0
+E4_THYTOXGOITDIF	Thyrotoxicosis with diffuse goitr	1712	152762	1.0374	8
+E4_THYTOXGOITMULT	Thyrotoxicosis with toxic multinodular goitre	612	173823	1.0407	3
+E4_THYTOXNAS	Thyrotoxicosis, other and/or unspecified	2268	152762	1.045	5
+E4_VIT_B_DEF	Deficiency of other B group vitamins	229	170203	0.91153	1
+E4_VIT_DEF	Vitamin deficiency	470	170203	1.0288	1
+E4_VIT_D_DEF	Vitamin D deficiency	124	170203	0.76165	0
+E4_VOLUME	Volume depletion	766	160461	1.0269	0
+ENCEPHALITIS	Encephalitis	281	50989	0.94962	1
+ERECTILE_DYSFUNCTION	Erectile dysfunction	890	75623	1.0455	3
+ESOSINOPHIL_DISEASE	Eosinophilic disease (BM)	139	114589	0.79491	0
+F5_ADHD	Disturbance of activity and attention	539	174749	1.0288	0
+F5_ALCOHOL	Mental and behavioural disorders due to alcohol, excluding acute intoxication	8474	166915	1.0743	1
+F5_ALCOHOLAC	Acute alcohol intoxication	3584	166915	1.0494	2
+F5_ALCOHOL_DEPENDENCE	Alcohol dependence	4502	166915	1.0547	1
+F5_ALLANXIOUS	All anxiety disorders	9258	161390	1.0523	0
+F5_ALZHDEMENT	Dementia in Alzheimer disease	1782	169744	1.0393	5
+F5_ANAPER	Anankastic personality disorder	361	171894	0.987	1
+F5_ANOREX	Anorexia (incl.atypical)	807	173440	1.0326	0
+F5_ANXIETY	Other anxiety disorders	6188	161390	1.0441	0
+F5_ANXPER	Anxious personality disorder	206	171894	0.86945	0
+F5_AUTISM	Autism	213	175519	0.8916	1
+F5_BEHAVE	Behavioural syndromes associated with physiological disturbances and physical factors	3459	173440	1.0019	1
+F5_BEHEMOCHILD	Behauvioural and emotional disorders with onset usually occuring in childhood and adolescence	2150	174749	1.0321	0
+F5_BEHEMOTH	Other behavioural and emotional disorders with onset usually occuring in childhood and adolescence	631	174749	1.0335	0
+F5_BIPO	Bipolar affective disorders	3385	156611	1.0212	1
+F5_BULIMIA	Bulimia nervosa (incl. atypical)	400	173440	1.0065	0
+F5_CANNABIS	Mental and behavioural disorders due to cannabinoids	443	174101	0.99627	0
+F5_CONDUCT	Conduct disorder	283	174749	0.94111	0
+F5_CONDUCTEMO	Mixed disorders of conduct and emotions	309	174749	0.95368	0
+F5_DELIRIUM	Delirium, not induced by alcohol and other psychoactive substances	921	169744	1.0369	1
+F5_DELUSIO	Persistent delusional disorders	1347	168900	1.0117	0
+F5_DEMENTIA	Dementia	5675	169744	1.0321	7
+F5_DEMINOTH	Dementia in other diseases classified elsewhere	486	169744	1.0193	0
+F5_DEMNAS	Unspecified dementia	1384	169744	1.0359	2
+F5_DEPPER	Dependent personality disorder	322	171894	0.95458	0
+F5_DEPRESSIO	Depression	17794	156611	1.0747	2
+F5_DISPER	Dissocial personality disorder	275	171894	0.92557	0
+F5_DISSOCIATIVE	Dissociative [conversion] disorders	504	161390	1.0136	0
+F5_Dementia_U	Undefined dementia	1383	172992	1.0393	2
+F5_Dementia_U_EXMORE	Undefined dementia (more controls excluded)	1383	93979	1.0288	2
+F5_EATING	Eating disorders	1427	175472	1.025	1
+F5_EATOTH	Other eating disorders	619	173440	1.0326	0
+F5_EMOCHILD	Emotional disorders and disorders of social functioning with onset specific to childhood	659	174749	1.0145	0
+F5_EMOPER	Emotionally unstable personality disorder	1946	171894	1.0547	0
+F5_GAD	Generalized anxiety disorder	1554	161390	1.0407	0
+F5_HABIT	Habit and impulse disorders	199	171894	0.87877	1
+F5_HYPERKIN	Hyperkinetic disorders (excl. ADHD)	172	174749	0.83038	0
+F5_KELAMENT	Kela-cod for severe mental illness	8952	167277	1.0393	2
+F5_KELARET	Kela-code for behavioural disturbances in mental retardation	116	176324	0.72336	0
+F5_MANIA	Manic episode	506	156611	1.0183	0
+F5_MENTALUNSPE	Mental disorders, not otherwise specified	1152	167277	1.0383	0
+F5_MENTORG	Other mental disorders due to brain damage and dysfunction and to physical disease	1085	169744	1.0354	1
+F5_MENTPUER	Mental and behauvioural disorders associated with the puerperium	158	173440	0.81817	0
+F5_MENTRET	Mental retardation	575	176324	1.0273	2
+F5_MILDRET	Mild mental retardation	381	176324	0.98008	0
+F5_MIXEDDEV	Mixed specific developmental disorders	177	175519	0.84478	0
+F5_MIXPER	Mixed and other personality disorders	1277	171894	1.0374	0
+F5_MOOD	Mood [affective] disorders	20288	156611	1.0836	2
+F5_MOODOTH	Other and unspecidied mood [affective] disorders	929	156611	1.0273	1
+F5_MOTOR	Specific developmental disorder of motor function	163	175519	0.84892	0
+F5_NEUROTIC	Neurotic, stress-related and somatoform disorders	15509	161390	1.0615	0
+F5_NEUROTICOTH	Other neurotic disorders	802	161390	1.0388	0
+F5_OCD	Obsessive-compulsive disorder	790	161390	1.0354	0
+F5_OPIOIDS	Mental and behavioural disorders due to opioids	428	174101	1.0089	1
+F5_ORGANIC	Organic, including symptomatic, mental disorders	7155	169744	1.0226	6
+F5_OTHERSUB	Mental and behavioural disorders due to multiple drug use and use of multiple drugs and use of other psycoactive substances	1119	174101	1.0311	0
+F5_OTHPER	Other specified and unspecified personality disorders	1563	171894	1.0302	0
+F5_OTHRET	Other and unspecified mental retardation	170	176324	0.82997	0
+F5_PANIC	Panic disorder	1760	161390	1.0283	0
+F5_PARAPER	Paranoid personality disorder	290	171894	0.9331	0
+F5_PERSBEHORG	Personality and behavioural disorders due to brain disease, damage and dysfunction	189	169744	0.85225	0
+F5_PERSMOOD	Persistent mood disorders	3021	156611	1.0278	0
+F5_PERSOBEH	Disorders of adult personality and behaviour	5005	171894	1.0426	1
+F5_PERSONALITY	Specific personality disorders	4126	171894	1.0388	0
+F5_PERVASIVE	Pervasive developmental disorders excl. Autism + Asperger	107	175519	0.74481	0
+F5_PHOBANX	Phobic anxiety disorders	1642	161390	1.0264	0
+F5_PHYSBEHOTH	Unspefcified behauvioural syndromes associated with physiological disturbances and physical factors +Phsyiological and behauvioural factors associated with disorders of diseases classified elsewhere	192	173440	0.87029	0
+F5_PSYCH	Psychiatric diseases	41704	135195	1.0981	1
+F5_PSYCHDEV	Disorders of psychological developtment	1380	175519	1.0378	0
+F5_PSYCHDEVOTH	Other and unspecified disorders of psychological development	129	175519	0.76822	0
+F5_PSYCHOTH	Other and unspecified nonorganic psychotic disorders	4609	168900	1.0061	0
+F5_PSYTRANS	Acute and transient psychotic disorders	2628	168900	0.99953	0
+F5_PTSD	Post-traumatic stress disorder	781	161390	1.0402	0
+F5_SCHIZO	Schizophrenia, schizotypal and delusional disorders	7999	168900	1.0364	0
+F5_SCHIZOAFF	Schizoaffective disorder	1807	168900	0.97366	1
+F5_SCHIZOTYP	Schizotypal disorder	553	168900	0.99441	1
+F5_SCHIZPER	Schizoid personality disorder	348	171894	0.96182	0
+F5_SCHOLA	Specific development disorders of scholastic skills	417	175519	0.99581	0
+F5_SCHZPHR	Schizophrenia	4516	168900	0.98885	0
+F5_SEDAHYP	Mental and behavioural disorders due to sedatives or hypnotics	924	174101	1.0417	0
+F5_SEXDYS	Sexual dysfunction	124	173440	0.75934	0
+F5_SLEEP	Sleep disorders	1646	173440	1.0221	0
+F5_SOMATOFORM	Somatoform disorder	2004	161390	1.0297	0
+F5_SPEECH	Specific development disorders of speech and language	595	175519	1.0283	0
+F5_STIMUL	Mental and behavioural disorders due to use of other stimulants, including caffeine	386	174101	0.97962	0
+F5_STRESSOTH	Other reactioin to severe stress, and adjustment disorders	5462	161390	1.035	1
+F5_SUBSNOALCO	Substance use, excluding alcohol	2798	166915	1.024	0
+F5_SUBSTANCE	Mental and behavioural disorders due to psychoctive substance use	9984	166915	1.0762	1
+F5_TIC	Tic disorders	120	174749	0.74823	0
+F5_TOBAC	Mental and behavioural disorders due to tobacco	709	174101	1.0518	1
+F5_UNSMENDIS	Unspecified mental disorder	9622	167277	1.0402	0
+F5_VASCDEM	Vascular dementia	724	171224	1.0431	2
+FALLS	Falls/tendenct to fall	1053	175846	1.0479	1
+FE	Focal epilepsy	731	172311	1.0398	0
+FEMHER_UNILATERAL	Femoral hernia, unilateral	304	154928	0.96136	0
+FEMINGHER_BILATERAL	Inguinal or femoral hernia, bilateral	1174	154928	1.0446	1
+FEMNINGHER_UNILATERAL	Inguinal of femoral hernia, unilateral	304	154928	0.96136	0
+FE_MODE	Focal epilepsy	430	172311	1	0
+FE_STRICT	Focal epilepsy	481	172311	1.0207	0
+FG_CARDMYO	Cardiomyopathy (excluding other)	1730	132963	1.0479	16
+FG_CEREBVASC	Cerebrovascular diseases (FINNGEN)	10367	97214	1.034	1
+FG_CVD	Cardiovascular diseases (excluding rheumatic etc)	79685	97214	1.1202	11
+FG_DISVEINLYMPH	Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified (FINNGEN)	19930	97214	1.0961	14
+FG_DOAAC	Diseases of arteries, arterioles and capillaries (FINNGEN)	6988	97214	1.0374	1
+FG_HYPERTENSION	Hypertensive diseases (excluding secondary)	43576	97214	1.1598	41
+FG_OTH	Other CVD (FINNGEN)	1398	97214	1.0335	0
+FG_OTHHEART	Other heart diseases	43936	97214	1.0762	15
+FG_PULMHEART	Pulmonary heart disease	3016	173883	1.0417	5
+G6_AD_WIDE	Alzheimer's disease, wide definition	4466	172433	1.0388	6
+G6_AD_WIDE_EXMORE	Alzheimer's disease, wide definition (more controls excluded)	4466	93979	1.0302	7
+G6_ALCODEGEN	Degeneration of the brain due to alcohol	249	173328	0.91065	1
+G6_ALS	Motor neuron disease	147	94096	0.76203	1
+G6_ALZHEIMER	Alzheimer disease	3060	173839	1.0407	7
+G6_ALZHEIMER_EXMORE	Alzheimer disease (more controls excluded)	3060	93979	1.0269	8
+G6_ANOXBRAINDAM	Anoxic brain damage	123	167072	0.76706	0
+G6_ATROPHCIRCUM	Circumscribed brain atrophy	182	173328	0.84354	2
+G6_ATYFAC	Atypical facial pain	540	158705	1.0288	0
+G6_AUTONOM	Autonomic disorders	190	167072	0.86103	0
+G6_BELLPA	Bell's palsy	1303	158705	1.0422	0
+G6_BRACHPLE	Brachial plexus disorders	936	158705	1.0479	1
+G6_CARPTU	Carpal tunnel syndrome	8576	158705	1.0916	6
+G6_CAUDA	Cauda equina syndrome	113	175490	0.73799	1
+G6_CAUSALGIA	Causalgia	157	158705	0.82019	0
+G6_CERCYST	Cerebral cysts	523	167072	1.0174	0
+G6_CERVROOT	Cervical root disorders	105	158705	0.7163	0
+G6_CP	Cerebral palsy	218	175490	0.89591	0
+G6_CPETAL	Cerebral palsy and other paralytic syndromes	1409	175490	1.0288	0
+G6_DEGENOTH	Other and unspecified degenerative diseases of nervous system	182	173328	0.85434	0
+G6_DEMYEL	Demyelenating diseases of the central nervous system	978	175921	1.0504	3
+G6_DIABETNEUR	Diabethic neuropathy	1127	158705	1.0499	2
+G6_DISBROTHUNS	Disorders of brain, other and unspecified	112	167072	0.73874	0
+G6_DYSTON	Dystonia	584	173215	1.0354	0
+G6_ENCEPHOTH	Other encephalitis	257	175924	0.9269	1
+G6_EPIPAROX	Episodal and paroxysmal disorders	32119	144780	1.0782	2
+G6_EPLEPSY	Epilepsy	4588	144780	1.0264	0
+G6_FACOTH	Other facial nerve disorders	275	158705	0.93487	0
+G6_FEMLAPOP	Lesion of lateral popliteal nerve	467	158705	1.0141	0
+G6_GUILBAR	Guillain-Barre syndrome	162	174596	0.83406	0
+G6_HCCOMM	Communicating hydrocephalus	160	176382	0.81614	0
+G6_HCNP	Normal-pressure hydrocephalus	220	176382	0.89246	0
+G6_HCOBSTR	Obstructive hydrocephalus	131	176382	0.77601	0
+G6_HCOTHUNS	Other and unspecified hydrocephalus	121	176382	0.77172	0
+G6_HEADACHE	Other headache syndromes	6292	144780	1.0345	0
+G6_HEMIPLE	Hemiplegia	646	175490	1.0398	1
+G6_HERATAXIA	Hereditary ataxia	124	176509	0.74291	0
+G6_HORNER	Horner syndrome	116	176709	0.75473	0
+G6_HYDROCEPH	Hydrocephalus	517	167072	1.0273	0
+G6_LSROOT	Lumbosacral root disorders, not elsewhere classified	204	158705	0.87665	0
+G6_MEDLEOTH	Other lesions of median nerve	311	158705	0.95864	0
+G6_MENINGBACT	Bacterial meningitis	450	175924	1.015	0
+G6_MENINGOTH	Other meningitis	134	175924	0.75972	0
+G6_MERALGIA	Meralgia paraesthetica	309	158705	0.96136	0
+G6_MIGRAINE	Migraine	6687	144780	1.0398	0
+G6_MIGRAINE_NO_AURA	Migraine without aura	2528	144780	1.0402	1
+G6_MIGRAINE_WITH_AURA	Migraine with aura	2777	144780	1.0316	0
+G6_MONOLOWOTHUNS	Other and unspecified mononeuropathies of lower limb	353	158705	0.98146	0
+G6_MONONPOTHUS	Other and unspecified mononeuropathies of upper limb	330	158705	0.9659	0
+G6_MONOOTHUNS	Other and unsepcified mononeuropathies, also in other diseases	357	158705	0.98423	0
+G6_MONOPLE	Monoplegia	135	175490	0.76551	2
+G6_MS	MS-disease / Multiple Sclerosis	805	175660	1.0518	1
+G6_MYASTHENIA	Myasthenia gravis	178	175631	0.85977	1
+G6_MYONEU	Diseases of the myoneural junction and muscle	1268	175631	1.0398	5
+G6_MYOPOTHUNS	Other and unspecified myopathies	827	175631	1.0407	0
+G6_NERPLEX	Nerve, nerve root and plexus disorders	18194	158705	1.0851	2
+G6_NEUATR	Systemic atrophies primarly affecting the central nervous system	390	176509	0.99348	0
+G6_NEUINFL	Inflammatory diseases of the central nervous system	975	175924	1.0441	1
+G6_NEURO	Neurological diseases	53668	123231	1.1051	0
+G6_NEURODEG	Other degenerative diseases of the nervous system	3571	173328	1.0316	5
+G6_NEUROOTH	Other disorders of nervous system	609	167072	1.0359	0
+G6_OTHDEMYEL	Other demyelinating diseases of the central nervous system	362	175921	0.99395	1
+G6_OTHNEU	Other neurological diseases	9827	167072	1.0359	0
+G6_PARALOTHUNS	Other and unspecified paralytic syndromes	141	175490	0.78779	0
+G6_PARDIPLE	Paraplegia, diplegia of upper limbs	221	175490	0.89979	0
+G6_PARKINSON	Parkinson's disease	1587	175312	1.0335	2
+G6_PARKINSON_EXMORE	Parkinson's disease (more controls excluded)	1587	94096	1.0326	3
+G6_PARKSCND	Secondary parkinsonism+Parkinsonism in other disease	334	173215	0.96773	0
+G6_PLANTAR	Lesion of plantar nerve	819	158705	1.0479	0
+G6_POLYNEU	Polyneuropathies and other disorders of the peripheral nervous system	2303	174596	1.0264	2
+G6_POLYOTHUNS	Other and unspecified polyneuropathies, also in other diseases	1967	174596	1.0216	1
+G6_POSTOPNEURO	Postprocedural disorders of nervous system	823	167072	1.0378	0
+G6_POSTZOST	Postzoster neuralgia	117	158705	0.74405	0
+G6_RADLES	Lesion of radial nerve	425	158705	1.0009	0
+G6_ROOTPLEXOTHUNS	Other and unspecified nerve root and plexus disorders, also in other diseases	1780	158705	1.0475	0
+G6_SCIALE	Lesion of sciatic nerve	629	158705	1.0326	0
+G6_SLEEPAPNO	Sleep apnoea	11937	164295	1.0901	2
+G6_SLEEPDISOTH	Other sleepdisorders	1208	144780	1.0402	0
+G6_SPINOTH	Other diseases of spinal cord	288	167072	0.95503	0
+G6_STATUSEPI	Status epilepticus	355	144780	0.97275	0
+G6_TARSTUN	Tarsal tunnel syndrome	107	158705	0.72859	0
+G6_TIA	Transient ischemic attack	6729	167072	1.0417	0
+G6_TRINEU	Trigeminal neuralgia	590	158705	1.0245	0
+G6_TRIOTHUNS	Other and unspecified trigeminal disorders	179	158705	0.86061	0
+G6_ULLNLE	Lesion of ulnar nerve	1508	158705	1.0354	0
+G6_VASCSYND	Vascular syndromes of brain in cerebrovascular disorders	458	167072	1.0089	0
+G6_XTRAPYR	Extrapyramidal and movement disorders	3684	173215	1.0326	1
+G6_XTRAPYROTH	Other extrapyramidal and movement disorders+ in other diseases	1607	173215	1.0398	0
+GAST_OPER	Any gastric operation	56761	120138	1.0625	1
+GE	Generalized epilepsy	1353	172311	1.0359	0
+GEST_DIABETES	Gestational diabetes (for exclusion)	4171	96190	1.0335	3
+GE_MODE	Generalized epilepsy, mode (most common among epilepsy diagnosis)	765	172311	1.0378	0
+GE_STRICT	Generalized epilepsy, strict edfinition	1103	172311	1.0378	0
+GIANT_CELL_TEMP_ARTERITIS	Giant cell arteritis with polymyalgia rheumatica	293	176311	0.95413	1
+GLOMER_NEPHRITIS	Glomerulonephritis	3375	173524	1.0402	2
+GOUT	Gout, FINNGEN	2505	165656	1.0422	7
+GOUT_IDIO	Idiopathic gout	591	174394	1.0288	3
+GOUT_NOS	Gout, unspecified	1438	174394	1.0383	3
+GOUT_STRICT	Gout, strict definition	1199	175082	1.0479	4
+H7_ALLERGICCONJUNCTIVITIS	Allergic conjunctivitis	8006	168893	1.0586	3
+H7_AMBLYANOPSIA	Amblyopia ex anopsia	409	171027	0.99674	0
+H7_AMD	Age-related macular degeneration (whether dry or wet)	2692	166620	1.0321	8
+H7_ANISOMETROPIA	Anisometropia and aniseikonia	277	170976	0.92999	0
+H7_ANOMAPUPFUNC	Anomalies of pupillary function	169	175459	0.84395	0
+H7_APHAKIA	Aphakia	189	154905	0.86481	0
+H7_ASTIGMATISM	Astigmatism	478	170976	1.0141	0
+H7_BCKRNDRETINOPAT	Background retinopathy and retinal vascular changes	237	164973	0.91109	0
+H7_BINOCUMOVOTH	Other disorders of binocular movement	225	170976	0.89289	0
+H7_BINODISTOTH	Other disorders of binocular vision	144	171027	0.74063	0
+H7_BLEPHAROCHALASIS	Blepharochalasis	3188	165083	1.0441	1
+H7_BLINDANDVISIMPAIRMENT	Visual impairment including blindness (binocular or monocular)	691	171027	1.0374	0
+H7_CATARACTOTHER	Other cataract	6034	154905	1.0193	2
+H7_CATARACTSENILE	Senile cataract	20157	154905	1.0484	7
+H7_CENTRRETARTOCC	Central retinal artery occlusion	179	164973	0.85225	1
+H7_CHALAZION	Chalazion	1363	165083	1.0359	0
+H7_CHORIORETINFLAM	Chorioretinal inflammation	289	164973	0.95458	1
+H7_CHOROIDOTH	Other disorders of choroid	146	164973	0.7973	0
+H7_CHOROIDRETINA	Disorders of choroid and retina	11926	164973	1.0311	4
+H7_CONJUHAEMOR	conjunctival haemorrhage	603	164762	1.0278	0
+H7_CONJUNCTDEGDEPOT	conjunctival degenerations and deposits	261	164762	0.92867	0
+H7_CONJUNCTIVA	Disorders of conjunctiva	12137	164762	1.0402	0
+H7_CONJUNCTIVITIS	Conjunctivitis	10910	164762	1.0426	0
+H7_CONJUNCTIVITISACUNONATOPIC	Conjunctivitis (acute, non atopic)	3196	164762	1.0014	0
+H7_CONJUNCTIVITISATOPIC	Atopic conjunctivitis	450	164762	1.0112	0
+H7_CONJUNCTIVITISCHRON	Chronic conjunctivitis	304	164762	0.95548	1
+H7_CONJUVASC	Other conjunctival vascular disorders and cysts	225	164762	0.90153	0
+H7_CONVERGINSUFF	Convergence insufficiency and excess	142	170976	0.78188	0
+H7_CONVERSTRAB	Convergent concomitant strabismus	737	170976	1.0504	0
+H7_CORNEALDEFORM	Keratoconus	231	169604	0.90283	0
+H7_CORNEALNAS	Other and unspecified corneal deformities and disorders	330	169604	0.97366	1
+H7_CORNEALOTH	Other disorders of cornea	906	169604	1.0388	2
+H7_CORNEALSCAR	Corneal scars and opacities	197	169604	0.86692	0
+H7_CORNULCER	Corneal ulcer	1998	169604	1.0169	2
+H7_DIPLOPIA	Diplopia	1320	171027	1.0331	0
+H7_DIVERGSTRAB	Divergent concomitant strabismus	1059	170976	1.0479	0
+H7_ECTROPION	Ectropion of eyelid	335	165083	0.98238	0
+H7_ENTROPION	Entropion and trichiasis of eyelid	789	165083	1.0417	3
+H7_EPIPHORA	Epiphora	220	165083	0.89893	0
+H7_EPISCLERITIS	Episcleritis	505	169604	1.0207	1
+H7_EXOPTHALMUS	Exophthalmic conditions	111	165083	0.74291	0
+H7_EYE	Diseases of the eye and adnexa	58498	118401	1.0441	5
+H7_EYEADNEXOTH	Other specified and unspecified disorders of eye and adnexa	509	175459	1.0269	0
+H7_EYELIDDIS	Other disorders of eyelid	5195	165083	1.0412	2
+H7_EYELIDINFLAMMATION	Other inflammation of eyelid	991	165083	1.0417	0
+H7_EYELIDINOTH	Disorders of eyelid in diseases classified elsewhere	366	165083	0.98746	0
+H7_EYEOTH	Other disorders of eye and adnexa	1440	175459	1.0359	0
+H7_GLAUCCLOSEPRIM	Primary angle-closure glaucoma	466	170362	1.0269	0
+H7_GLAUCNAS	Other and unspecified glaucoma	510	170362	1.0288	0
+H7_GLAUCOMA	Glaucoma	6537	170362	1.0649	16
+H7_GLAUCOMAMEDICATION	Use of antiglaucoma preparations and miotics	995	170362	1.0494	1
+H7_GLAUCOMA_NTG	Normotensive glaucoma	653	170362	1.0321	4
+H7_GLAUCOMA_OPER	Glucoma-related operations	369	176530	0.98654	1
+H7_GLAUCOMA_POAG	Primary open-angle glaucoma, strict	2597	170362	1.0436	9
+H7_GLAUCOMA_XFG	Glaucoma, exfoliation	1185	170362	1.046	4
+H7_GLAUCPRIMOPEN	Primary open-angle glaucoma	3375	170362	1.0499	13
+H7_GLAUCSECDISEASE	Glaucoma secondary to other eye disorders	406	170362	1.0019	0
+H7_GLAUCSUSP	Glaucoma suspect	3588	170362	1.0523	7
+H7_GLOBE	Disorders of globe	251	171483	0.92161	0
+H7_HEREDRETINADYST	Hereditary retinal dystrophy	152	164973	0.77992	14
+H7_HERPESKERATITIS	Herpesviral keratitis and keratoconjunctivitis	455	169604	1.0051	0
+H7_HETEROPHORIA	Heterophoria	799	170976	1.0475	0
+H7_HORDEOLUM	Hordeolum and other deep inflammation of eyelid	465	165083	1.0216	0
+H7_HYPERMETRO	Hypermetropia	580	170976	1.0264	0
+H7_INTERHETEROTRO	Intermittent heterotropia	603	170976	1.0278	0
+H7_IRIDOACUTE	Acute and subacute iridocyclitis	2414	169604	1.0354	10
+H7_IRIDOCHRONIC	Chronic iridocyclitis	497	169604	1.0264	2
+H7_IRIDOCYCLITIS	Iridocyclitis	2764	169604	1.0335	8
+H7_IRIDOCYCLITISINOTH	Iridocyclitis in diseases classified elsewhere	155	169604	0.81938	4
+H7_IRIDONAS	Other and unspecified iridocyclitis	289	169604	0.95142	1
+H7_KERATITIS	Keratitis	4295	169604	1.0183	5
+H7_KERATITISINOTH	Keratitis and keratoconjunctivitis in other diseases classified elsewhere	367	169604	0.98285	1
+H7_KERATITISOTH	Other keratitis	1191	169604	1.0393	1
+H7_KERATOCONUS	Hereditary corneal dystrophies	246	169604	0.92117	2
+H7_LACRIGLAND	Other disorders of lacrimal gland	3423	165083	1.0207	0
+H7_LACRIMALORBITINOTH	Disorders of lacrimal system and orbit in diseases classified elsewhere	261	165083	0.93977	2
+H7_LACRIMALSYSTEM	Disorders of lacrimal system	4674	165083	1.0264	0
+H7_LACRIMINFLAMACU	Inflammation of lacrimal passages (acute and unspecified)	167	165083	0.83776	0
+H7_LACRIMINFLAMCHRON	Inflammation of lacrimal passages (chronic)	188	165083	0.839	0
+H7_LAGOPHTALMOS	Lagophthalmos	110	165083	0.72896	0
+H7_LENS	Disorders of lens	21994	154905	1.0378	8
+H7_LENSDISLOCATIO	Dislocation of lens	146	154905	0.7961	1
+H7_LIDLACRIMALORBIT	Disorders of eyelid, lacrimal system and orbit	11816	165083	1.0354	0
+H7_MACULADEGEN	Degeneration of macula and posterior pole	4746	164973	1.0307	4
+H7_MACULOPATHYDIAB	Diabetic maculopathy	1408	164973	1.0422	4
+H7_MODVISIMPBINOC	Moderate visual impairment, binocular	320	171027	0.96454	0
+H7_MYOPIA	Myopia	1232	170976	1.046	1
+H7_NYSTAGMUS	Nystagmus and other irregular eye movements	117	175459	0.74785	0
+H7_OCUMUSCLE	Disorders of ocular muscles, binocular movement, accommodation and refraction	5923	170976	1.0335	0
+H7_OCUPAIN	Ocular pain	662	175459	1.0499	0
+H7_OPTATROPHY	Optic atrophy	160	175917	0.82507	0
+H7_OPTNERVE	Disorders of optic nerve and visual pathways	982	175917	1.0398	0
+H7_OPTNERVNAS	Disorders of optic nerve, not elsewhere classified	186	175917	0.85768	0
+H7_OPTNEURITIS	Optic neuritis	451	175917	1.0221	1
+H7_OPTNEUROTH	Other disorders of optic [2nd] nerve and visual pathways	583	175917	1.0297	0
+H7_ORBIT	Disorders of orbit	464	165083	1.0207	1
+H7_OTHERCONJ	Other disorders of conjunctiva	1433	164762	1.0226	0
+H7_OTHIRISCILIARY	Other disorders of iris and ciliary body	241	169604	0.91153	0
+H7_OTHRETARTOCC	Other retinal artery occlusion	203	164973	0.87707	0
+H7_PAPILLOEDEMA	Papilloedema, unspecified	175	175917	0.84685	0
+H7_PARASTRA3	Third [oculomotor] nerve palsy	166	170976	0.83406	0
+H7_PARASTRA4	Fourth [trochlear] nerve palsy	197	170976	0.87792	0
+H7_PARASTRA6	Sixth [abducent] nerve palsy	294	170976	0.96409	0
+H7_PARASTRAB	Paralytic strabismus	693	170976	1.0359	0
+H7_PERIPHRETINADEGEN	Peripheral retinal degeneration	323	164973	0.96545	0
+H7_PRESBYOPIA	Presbyopia	394	170976	0.98607	0
+H7_PTERYGIUM	Pterygium	282	164762	0.95232	2
+H7_PTOSIS	Ptosis of eyelid	1008	165083	1.0489	1
+H7_REFRAACCOMMODIS	Disorders of refraction and accommodation	2564	170976	1.024	0
+H7_RETINAHAEMORR	Retinal haemorrhage	181	164973	0.85601	0
+H7_RETINALBREAK	Retinal breaks without detachment	1573	164973	1.0393	1
+H7_RETINALDETACH	Retinal detachments and breaks	4198	164973	1.0259	2
+H7_RETINALDETACHBREAK	Retinal detachment with retinal break	1514	164973	1.0369	0
+H7_RETINALDETACHOTH	Other, unspecified and serous retinal detachments	289	164973	0.94648	0
+H7_RETINALDISOTH	Other retinal disorders	8414	164973	1.0398	6
+H7_RETINANAS	Other specified and unspecified retinal disorders	287	164973	0.94738	0
+H7_RETINASEPAR	Separation of retinal layers (serosa)	392	164973	0.99116	1
+H7_RETINAVASC	Retinal vascular disorders	1238	164973	1.0202	0
+H7_RETINOCHISISCYST	Retinoschisis and retinal cysts	208	164973	0.89117	0
+H7_RETINOPATHYDIAB	Diabetic retinopathy	2943	164973	1.0207	5
+H7_RETINOPATHYDIAB_BKG	Diabetic background retinopathy	1625	164973	1.0264	4
+H7_RETINOPATHYDIAB_BKG_SEVERE	Severe diabetic background retinopathy	345	164973	0.95593	2
+H7_RETINOPATHYDIAB_NAS	Other diabetic retinopathy	808	164973	1.0307	4
+H7_RETINOPATHYDIAB_PROLIF	Proliferative diabetic retinopathy	1090	164973	1.0335	4
+H7_RETIVASCOCCLUSION	Retinal vascular occlusion	1201	164973	1.0231	0
+H7_RETVASCNAS	Other and unspecified vascular occlusions	939	164973	1.0345	0
+H7_SCLERACORNEA	Disorders of sclera, cornea, iris and ciliary body	7295	169604	1.0297	6
+H7_SCLERITISEPISCLERITIS	Scleritis and episcleritis	572	169604	1.0307	1
+H7_STENOLACRI	Stenosis and insufficiency of lacrimal passages	1046	165083	1.0388	0
+H7_STRABISMUS	Strabismus	3515	173384	1.0278	0
+H7_STRABNAS	Other specified and unspecified strabismus	105	170976	0.71853	0
+H7_STRABOTH	Other strabismus	2915	170976	1.0302	0
+H7_USEOFEYEANTIALLERGENS	Use of eye-antiallergens (taken as indicator of allergic/atopic conjunctivitis)	7700	164762	1.0576	4
+H7_VASCCILIARY	Hyphaema and other vascular disorders of iris and ciliary body	163	169604	0.82997	0
+H7_VERTISTRAB	Vertical strabismus	317	170976	0.95955	0
+H7_VISDISTNAS	Other and unspecified visual disturbances	650	171027	1.0335	0
+H7_VISFIELDDEF	Visual field defects	885	171027	1.034	0
+H7_VISUALDISTBLIND	Visual disturbances and blindness	5872	171027	0.99767	1
+H7_VISUDISTURB	Visual disturbances	5312	171027	0.99674	1
+H7_VISUDISTURBSUB	Subjective visual disturbances	2325	171027	1.0345	0
+H7_VITRBODYGLOBE	Disorders of vitreous body	5193	171483	1.0273	1
+H7_VITREOUS	Disorders of vitreous body and globe	5416	171483	1.0254	2
+H7_VITRHAEMORR	Vitreous haemorrhage	1030	171483	1.0422	1
+H7_VITROPACIT	Other vitreous opacities	350	171483	0.9732	0
+H7_VITROTH	Other and unspecified disorders of vitreous body	4089	171483	1.0288	3
+H8_BPV	Benign paroxysmal vertigo	2843	169746	1.0297	0
+H8_CERUMEN	Impacted cerumen	631	173303	1.0283	0
+H8_CHOLEASTOMA	Cholesteatoma of middle ear	630	167108	1.0417	3
+H8_CHRON_SUPOTITIS	Chronic suppurative otitis media	458	167108	1.0202	0
+H8_CONSENHEARINGLOSS	Conductive and sensorineural hearing loss	13319	159818	1.062	7
+H8_EAR	Diseases of the ear and mastoid process	31579	145320	1.0412	1
+H8_EUSTNAS	Other disorders of Eustachian tube	221	167108	0.89332	1
+H8_EUSTSALP	Eustachian salpingitis and obstruction	985	167108	1.0484	1
+H8_EXTDISINOTH	Disorder of external ear, unspecified	253	173303	0.91678	0
+H8_EXTDISNAS	Other specified disorders of external ear	369	173303	0.99814	1
+H8_EXTERNAL	Diseases of external ear	3596	173303	1.0269	0
+H8_EXTOTITIS	Otitis externa	2368	173303	1.035	0
+H8_EXT_ABSC	Abscess of external ear	179	173303	0.85517	0
+H8_EXT_INFNAS	Other infective otitis externa	687	173303	1.0446	0
+H8_EXT_NAS	Otitis externa, unspecified	939	173303	1.0499	0
+H8_EXT_NONINF	Acute otitis externa, noninfective	192	173303	0.86145	1
+H8_EXT_OTH	Other otitis externa (chronic)	666	173303	1.046	0
+H8_HL_CON_NAS	Conductive hearing loss, unspecified	987	159818	1.0494	0
+H8_HL_IDIOP	Sudden idiopathic hearing loss	1142	159818	1.0422	4
+H8_HL_MIX_NAS	Mixed conductive and sensorineural hearing loss	1461	159818	1.0398	0
+H8_HL_NAS	Other specified/unspecified hearing loss	739	159818	1.035	0
+H8_HL_PRESBY	Presbycusis	1253	159818	1.0407	1
+H8_HL_SEN_NAS	Sensorineural hearing loss	12250	159818	1.064	8
+H8_INNER	Diseases of inner ear	7153	169746	1.0388	1
+H8_MASTACU	Acute mastoiditis	105	167108	0.72747	0
+H8_MASTCHRON	Chronic mastoiditis	339	167108	0.97871	0
+H8_MED_SUPP	Suppurative and unspecified otitis media	5507	167108	1.0354	1
+H8_MENIERE	Meniere disease	1202	169746	1.0422	1
+H8_MIDDLEADDH	Adhesive middle ear disease	176	167108	0.84023	0
+H8_MIDDLEMASTOID	Diseases of middle ear and mastoid	9791	167108	1.0311	2
+H8_NOISEINNER	Noise effects on inner ear	435	169746	1.0084	0
+H8_NONSUPPNAS	Nonsuppurative otitis media	3284	167108	1.0292	0
+H8_OTALGIA	Otalgia	605	159818	1.0407	0
+H8_OTHEREAR	Other disorders of ear	17081	159818	1.0581	5
+H8_OTHHEARINGLOSS	Other hearing loss	3082	159818	1.0193	1
+H8_OTIMEDNAS	Otitis media, unspecified	1380	167108	1.0278	0
+H8_OTOSCLE	Otosclerosis	1071	169746	1.0557	9
+H8_PERCHRONDR	Perichondritis of external ear	168	173303	0.83119	0
+H8_PERFORATION	Perforation of tympanic membrane	1149	167108	1.0426	1
+H8_PERIPHVERTIGO	Other peripheral vertigo	1055	169746	1.0417	2
+H8_SUP_ACUTE	Acute suppurative otitis media	3951	167108	1.0402	0
+H8_SUP_OTINAS	Suppurative otitis media, unspecified	308	167108	0.96454	0
+H8_TINNITUS	Tinnitus	2739	159818	1.0331	0
+H8_VERTIGO	Disorders of vestibular function (Vertigo)	5667	169746	1.0441	1
+H8_VERTIGOCENT	Vertigo of central origin	154	169746	0.82711	1
+H8_VESTIBNEUR	Vestibular neuronitis	953	169746	1.0417	2
+H8_VESTIFUNCNAS	Other/unspecified disorders of vestibular function	325	169746	0.97412	0
+HEPATITIS_ACUTE_OTHER_VIRAL	Other acute viral hepatitis	131	176187	0.77914	0
+HEPATITIS_CHRONIC_VIRAL	Chronic viral hepatitis	556	176187	1.034	0
+HERING_BILATERAL	Inguinal hernia, bilateral	1151	154928	1.045	1
+HERING_UNILATERAL	Inguinal hernia, unilateralk	304	154928	0.96136	0
+HYPOTHYROIDISM	Hypothyroidism (congenital or acquired)	20388	50989	1.0733	22
+HYPOTHY_LEVOTHY	Hypothyroidism, levothyroxin purchases	20171	51060	1.0718	23
+HYPOTHY_PURCHASE	Hypothyroidism and >3 levothyroxin purchases	20171	50989	1.0718	23
+HYPOTHY_REIMB	Hypothyroidism, drug reimbursement	5717	51006	1.0221	9
+I9_AF	Atrial fibrillation and flutter	17325	97214	1.0605	22
+I9_AF_REIMB	Atrial fibrillation and flutter with reimbursement	8171	97214	1.0398	14
+I9_ANEUR	Endovascular or surgical operations to intracerebral aneurysms	495	165040	1.0193	0
+I9_ANEURYSM	Cerebral aneurysm, nonruptured	720	165040	1.0359	0
+I9_ANGINA	Angina pectoris	14712	152621	1.0881	13
+I9_ANGIO	Coronary angiopasty	6699	166928	1.0533	5
+I9_AORTANEUR	Aortic aneurysm	1919	167843	1.0417	0
+I9_AORTDIS	Dissection of aorta	339	167843	0.98792	1
+I9_ARTEMBTHR	Arterial embolism and thrombosis	580	167843	1.0269	0
+I9_ARTEMBTHRLOW	Arterial embolism and thrombosis of lower extremity artery	342	167843	0.96955	0
+I9_ARTEMBTHRNAS	Other arterial embolism and thrombosis	256	167843	0.92513	0
+I9_ARTOTH	Other diseases of arteries and capillaries	1046	167843	1.0316	0
+I9_ATHSCLE	Atherosclerosis, excluding cerebral, coronary and PAD	4937	167843	1.0547	2
+I9_AVBLOCK	AV-block	1727	129908	1.0216	1
+I9_CABG	Coronary artery bypass grafting	4449	166928	1.0537	16
+I9_CARDARR	Cardiac arrest	772	97214	1.0402	1
+I9_CARDMPRI	Cardiomyopathies, Primary/intrinsic	1678	129908	1.0513	14
+I9_CARDMYO	Cardiomyopathy	2342	129908	1.0441	19
+I9_CARDMYOHYP	Cardiomyopathy, Hypertrophic obstructive	251	129908	0.92602	17
+I9_CARDMYOOTH	Cardiomyopathy, other and unspecified	971	129908	1.0436	1
+I9_CEREBDOTH	Other specified cerebrovascular diseases, other cerebrovascular disorders in diseases classified elsewhere	729	165040	1.0426	0
+I9_CEREBVASC	Cerebrovascular diseases	11859	165040	1.0465	1
+I9_CHD	Major coronary heart disease event	16631	160268	1.0856	20
+I9_CHD_NOREV	Major coronary heart disease event excluding revascularizations	13809	160163	1.0723	10
+I9_CONDUCTIO	Conduction disorders	3271	129908	1.0178	0
+I9_CORATHER	Coronary atherosclerosis	18295	152621	1.0991	23
+I9_CVD	Cardiovascular diseases	86957	89942	1.1197	14
+I9_CVD_HARD	Hard cardiovascular diseases	22860	154039	1.0851	10
+I9_DISVEINLYMPH	Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified	22948	153951	1.1345	26
+I9_DOAAC	Diseases of arteries, arterioles and capillaries	9056	167843	1.0422	3
+I9_DVTANDPULM	DVT of lower extremities and pulmonary embolism	6019	170880	1.046	15
+I9_ENDOCARD	Endocarditis	312	129908	0.96091	0
+I9_E_DRONE	Dronedarone medication	354	129908	0.99209	2
+I9_HEARTFAIL	Heart failure,strict	9576	159286	1.0431	1
+I9_HEARTFAIL_ALLCAUSE	All-cause Heart Failure	17387	159058	1.0576	2
+I9_HEARTFAIL_NS	Heart failure, not strict	17613	159286	1.0576	2
+I9_HYPERTENSION	Hypertensive diseases	43576	133323	1.2026	54
+I9_HYPERTROCARDMYOP	Hypertrophic cardiomyopathy	432	176467	1.0117	17
+I9_HYPOTE	Hypotension	1398	175178	1.0393	1
+I9_HYPTENS	Hypertension	43545	133323	1.2091	54
+I9_HYPTENSEC	Secondary hypertension	982	133323	1.0518	0
+I9_HYPTENSESS	Hypertension, essential	33229	133323	1.1666	31
+I9_HYPTENSHD	Hypertensive Heart Disease	3252	133323	1.0499	2
+I9_HYPTENSHR	Hypertensive heart and/or renal disease	3674	133323	1.0591	1
+I9_HYPTENSPREG	Hypertension complicating pregnancy, childbirth, and the puerperium	6120	94241	1.0542	6
+I9_HYPTENSRD	Hypertensive Renal Disease	373	133323	1.0047	0
+I9_ICH	Intracerebral haemmorrhage	1224	163533	1.0499	0
+I9_IHD	Ischaemic heart disease, wide definition	25366	151533	1.1136	24
+I9_INTRACRA	Nontraumatic intracranial haemmorrhage	2086	165040	1.0378	0
+I9_ISCHHEART	Ischemic heart diseases	24278	152621	1.1081	21
+I9_K_CARDIAC	Death due to cardiac causes	6314	170585	1.045	0
+I9_LBBB	Left bundle-branch block	582	129908	1.0326	0
+I9_LYMPHADE	Nonspesific lymphadenitis	806	153951	1.0302	2
+I9_LYMPHOTH	Other noninfective disordersof lymphatic vessels and lymph nodes	301	153951	0.95684	1
+I9_MI	Myocardial infarction	10003	152621	1.0586	10
+I9_MI_STRICT	Myocardial infarction, strict	9145	152621	1.0547	10
+I9_MYOCARD	Myocarditis	626	97214	1.0345	0
+I9_NONISCHCARDMYOP	Non-ischemic cardiomyopathy	8300	143233	1.0417	0
+I9_NONISCHCARDMYOP_STRICT	Nonischemic cardiomyopathy	653	150661	1.0354	1
+I9_NONRHEVALV	Non-rheumatic valve diseases	7440	129908	1.034	2
+I9_OTH	Other CVD	1721	175178	1.0364	1
+I9_OTHANEUR	Other aneurysm	444	167843	1.0112	0
+I9_OTHARR	Other arrhytmias	10101	129908	1.0378	2
+I9_OTHHEART	Other heart diseases	46991	129908	1.0635	15
+I9_OTHILLHEART	Other or ill-defined heart diseases	583	129908	1.025	0
+I9_OTHINTRACRA	Other intracranial haemorrhages	230	165040	0.90848	0
+I9_OTHOTH	Other other unspecified disorders of the circulatory system	340	175178	0.97916	0
+I9_OTHPER	Other peripheral vascular diseases	799	167843	1.047	0
+I9_PAD	Peripheral artery disease	5323	167843	1.0508	4
+I9_PAROXTAC	Paroxysmal tachycardia	3667	97214	1.0326	0
+I9_PERICAOTH	Other diseases of pericardium	307	129908	0.95864	0
+I9_PERICARD	Pericarditis	379	129908	0.98885	0
+I9_PERIPH	Peripheral artery operations in Hilmo	1254	167843	1.0479	1
+I9_PHLETHROM	Phlebitis and thrombophlebitis (not including DVT)	2506	153951	1.0359	6
+I9_PHLETHROMBDVTLOW	DVT of lower extremities	3592	153951	1.0326	21
+I9_POSTAMI	Status post-ami	1141	152621	1.0426	0
+I9_PROGVASC	Progressive vascular leukoencephalopathy	196	165040	0.87665	1
+I9_PULMEMB	Pulmonary embolism	3016	173597	1.0407	5
+I9_PULMHEART	Pulmonary heart disease, diseases of pulmonary circulation	3302	173597	1.035	5
+I9_PULMOTHHD	Other pulmonary heart/vessel disease	363	173597	0.98008	1
+I9_PVT	Portal vein thrombosis	110	153951	0.73988	0
+I9_RBBB	Right bundle-branch block	314	129908	0.96682	0
+I9_REVASC	Coronary revascularization (ANGIO or CABG)	9971	152621	1.0836	29
+I9_RHEUFEV	Rheumatic fever incl heart disease	462	176437	1.0103	0
+I9_RHEUVALV	Rheumatic valve diseases	334	176437	0.96409	0
+I9_SAH	Subarachnoid haemmorrhage	1019	163508	1.0475	0
+I9_SAHANEUR	Aneurysms, operations, SAH	1582	165040	1.0354	0
+I9_SECONDRIGHT	Secondary right heart disease	315	173597	0.95548	2
+I9_SEQULAE	Sequelae of cerebrovascular disease	3520	165040	1.0269	2
+I9_STENOSIS	Occlusion and stenosis of arteries, not leading to stroke	147	165040	0.80088	0
+I9_STR	Stroke, excluding SAH	8877	163535	1.0542	1
+I9_STR_EXH	Ischaemic Stroke, excluding all haemorrhages	8046	164286	1.0513	2
+I9_STR_SAH	Stroke, including SAH	9592	162861	1.0479	3
+I9_THROMBOTH	Other embolism and thrombosis	1416	153951	1.034	7
+I9_TIA	Transient ischemic attack	6729	164286	1.0364	0
+I9_UAP	Unstable angina pectoris	5774	160163	1.0552	3
+I9_VALVES	Valvular operations	26015	129908	1.0713	5
+I9_VARICVE	Varicose veins	13928	153951	1.1319	36
+I9_VARICVEOES	Oesophageal varices	340	153951	0.97916	1
+I9_VARICVESOTH	Varicose veins of other sites	865	153951	1.0479	1
+I9_VASCDEM	Vascular dementia	706	171075	1.0455	2
+I9_VASCINT	Vascular diseases of the intestine	306	167843	0.95593	0
+I9_VASCSYND	Vascular syndromes of brain in cerebrovascular disorders	458	170687	1.0084	0
+I9_VEINSOTH	Other disorders of veins	4588	153951	1.0518	5
+I9_VHD	Valvular heart disease including rheumatic fever	27684	129908	1.063	4
+I9_VTE	Venous thromboembolism	6913	169986	1.0465	27
+IBD_VIRAL_HEPATITIS	Viral hepatitis, IBD co-morbidity	712	54876	1.0388	0
+ILD	Interstitial lung disease	1458	160295	1.0245	7
+ILD_COMORB	ILD-related co-morbidities	85919	90980	1.1071	8
+ILD_CVDMETABOCOMORB	ILD Co-morbidites, CVD and metabolic diseases	62257	90980	1.1036	12
+ILD_DIFF_DG	ILD differential diagnosis	63213	113686	1.0911	1
+ILD_ENDPOINTS	Interstitial lung disease endpoints	16604	160295	1.0708	12
+ILD_HOSPITAL	ILD, hospital admissions	1427	175472	1.024	6
+ILD_HOSPITAL_MAIN	ILD, hospital admissions 1, main diag only	1272	175627	1.0297	6
+ILD_HOSPITAL_PNEUMONIA_SEPSIS	ILD, hospital admissions 3, with pneumonia sepsis	695	131682	1.0269	1
+ILD_HOSPITAL_PULM_INFECT	ILD, hospital admission 2, with pulmonary infections	828	131682	1.0321	1
+ILD_INSUFFICIENCY	ILD-related respiratory insufficiency	3614	173285	1.0297	1
+ILD_SYST_AUTO	ILD related to systemic autoimmune disease	301	160295	0.94783	0
+ILD_SYST_AUTO_DISEASES	Autoimmune diseases related-to ILD	15447	160295	1.0752	14
+INFLUENZA	All influenza (not pneumonia)	1913	154769	1.0307	3
+INV_VENT	Invasive ventilation	444	171974	1.0108	0
+IPF	Idiopathic pulmonary fibrosis (attempt to specificity)	795	160295	1.0212	7
+J10_ABSCLUNGPNEUMO	Abscess of lung	110	176442	0.73009	0
+J10_ACUTELOWERNAS	Unspecified acute lower respiratory infection	1762	169210	1.0364	0
+J10_ACUTEUPPERINFEC	Acute upper respiratory infections of multiple and unspecified sites	13802	148969	1.0508	1
+J10_ARDS	Adult respiratory distress syndrome	108	175093	0.7104	0
+J10_ASBESTPNEUMOC	Pneumoconiosis due to asbestos and other mineral fibres	185	175512	0.85852	0
+J10_ASTHMA	Asthma	15926	113428	1.1026	14
+J10_ASTHMACOPDKELA	Asthma/COPD (KELA code 203)	15279	152176	1.1021	17
+J10_ASTHMA_EXMORE	Asthma (more controls excluded)	15926	110120	1.1046	14
+J10_ASTHMA_MAIN	Asthma (only as main-diagnosis)	13531	113428	1.0936	12
+J10_ASTHMA_MAIN_EXMORE	Asthma (only as main-diagnosis) (more controls excluded)	13531	110120	1.0916	12
+J10_BRONCH	Bronchitis, not specified as acute or chronic	1294	152176	1.0417	0
+J10_BRONCHIECTASIS	Bronchiectasis	815	152176	1.045	0
+J10_BRONCHIOLITIS	Acute bronchiolitis	652	169210	1.0178	0
+J10_BRONCHITIS	Acute bronchitis	5600	169210	1.025	0
+J10_BRONCHNAS	Unspecified chronic bronchitis	368	152176	0.99674	0
+J10_CHRONLARYNGITIS	Chronic laryngitis and laryngotracheitis	1611	136923	1.0475	0
+J10_CHRONRHINITIS	Chronic rhinitsi, nasopharyngitis and pharyngitis	4097	136923	1.0264	1
+J10_CHRONSINUSITIS	Chronic sinusitis	6579	136923	1.0465	4
+J10_CHRONTONSADEN	Chronic diseases of tonsils and adenoids	19389	136923	1.1228	9
+J10_COLD	Acute nasopharyngitis(common cold)	1841	148969	1.0283	0
+J10_COPD	COPD	5210	152176	1.0596	2
+J10_COPDNAS	Other chronic obstructive pulmonary disease	4965	152176	1.0562	2
+J10_EMPHYSEMA	Emphysema	495	152176	1.0216	1
+J10_EPIGLOTTITIS	Acute epiglottitis	155	148969	0.80728	0
+J10_EXTERLUNG	Lung diseases due to external agents	1387	175512	1.0354	0
+J10_HYPERSPNEUMONI	Hypersensitivity pneumonitis due to organic dust	201	175512	0.86776	0
+J10_INFLUENZA	All influenza	2799	154769	1.0193	0
+J10_INFLUPNEU	Influenza and pneumonia	22130	154769	1.016	3
+J10_INTERSTITIUM	Other respiratory diseases principally affecting the interstitium	1806	175093	1.0264	7
+J10_LARYNGITIS	Acute laryngitis and tracheitis	1631	148969	1.0417	2
+J10_LOWCHRON	Chronic lower respiratory diseases	24723	152176	1.1162	20
+J10_LOWERINF	Other acute lower respiratory infections	7689	169210	1.0302	1
+J10_NASALPOLYP	Nasal polyp	2551	136923	1.0446	9
+J10_NECROTIC	Suppurative and necrotic conditions of lower respiratory tract	457	176442	1.0075	0
+J10_OTHERINSTPULM	Other insterstitial pulmonary diseases	1458	175093	1.024	6
+J10_PERITONSABSC	Peritonsillar abscess	3129	136923	1.0388	8
+J10_PHARYNGITIS	Acute pharyngitis	1701	148969	1.0292	0
+J10_PLEURA	Other diseases of pleura	4748	172151	1.0155	0
+J10_PLEUREFFUSION	Pleural effusion	1386	172151	1.0316	1
+J10_PLEUROTH	Other pleural conditions	870	172151	1.0417	1
+J10_PLEURPLAGUE	Pleural plaque	947	172151	1.0479	0
+J10_PNEUMOBACT	Bacterial pneumoniae	6055	154769	1.0378	0
+J10_PNEUMOBACTEROTH	Bacterial pneumonia, not elsewhere classified	5710	154769	1.0369	0
+J10_PNEUMONAS	Pneumonia, organism unsepcified	17352	154769	1.0033	2
+J10_PNEUMONIA	All pneumoniae	20389	156510	1.0108	2
+J10_PNEUMONISOLLIQ	Pneumonitis due to solids and liquids	696	175512	1.0378	0
+J10_PNEUMONONBACT	Pneumonia due to other infectious organisms, not elsewhere classified	240	154769	0.91853	0
+J10_PNEUMOPNEUMO	Pneumonia due to Streptococcus pneumoniae	482	154769	1.0136	0
+J10_PNEUMOPROBBAC	Pneumonia (excl. viral and due to other infectious organisms not elsewhere classified)	20003	156896	1.0098	1
+J10_PNEUMOTHORAX	Pneumothorax	623	172151	1.034	0
+J10_PULMEOS	Pulmonary eosinophilia, not elsewhere classified	144	175093	0.76281	0
+J10_PULMOEDEMA	Pulmonary oedema	151	175093	0.80568	0
+J10_PYOTHORAX	Pyothorax	349	176442	0.981	0
+J10_RESPCONDEXT	Respiratory conditions due to other external agents	139	175512	0.79253	0
+J10_RESPDISOTH	Other respiratory disorders and diseases	1842	175057	1.0207	0
+J10_RESPIRATORY	Diseases of the respiratory system	83791	93108	1.1182	6
+J10_RESPOTHER	Other diseases of the respiratory system	1842	175057	1.0207	0
+J10_SEPTDEV	Deviated nasal septum	5160	136923	1.045	1
+J10_SIMPLBRONCH	Simple and mucoplurulent chronic bronchitis	432	152176	1.0122	0
+J10_SINUSITIS	Acute sinusitis	8541	148969	1.0407	2
+J10_TONSILLITIS	Other and unspecified tonssillitis	5586	148969	1.0359	2
+J10_UPPERDIS	Other diseases of upper respiratory tract	39976	136923	1.1233	5
+J10_UPPERINFEC	Acute upper respiratory infections	27930	148969	1.0383	0
+J10_VASOALLERRHIN	Vasomotor and allergic rhinitis	5746	136923	1.0504	0
+J10_VIRALPNEUMO	Viral pneumonia	476	154769	1.0164	2
+J10_VOCALLARYNX	Diseases of vocal cords and larynx+other diseases of upper respiratory tract, no elsewhere classified	7754	136923	1.0316	1
+JOINTPAIN	Pain in joint	10087	109346	1.0605	0
+JUVEN_ARTHR	Juvenile arthritis (FINNGEN)	570	141876	1.0369	2
+K11_ABSCANAL	Abscess of anal and rectal regions	985	149001	1.0422	0
+K11_ACHAL	Achalasia of cardia	196	154218	0.8758	0
+K11_ACUTGASTR	Acute gastritis	1036	154218	1.0402	0
+K11_ACUTPANC	Acute pancreatitis	2289	158425	1.034	4
+K11_ADHE	Intestinal adhesions without obstruction	818	149001	1.0393	0
+K11_ALCGASTR	Alcoholic gastritis	206	154218	0.8686	0
+K11_ALCOLIV	Alcoholic liver disease	1071	173014	1.046	1
+K11_APPENDACUT	Acute appendicitis	12476	163396	1.0518	4
+K11_APPENDIX	Diseases of appendix	13503	163396	1.0542	3
+K11_APPENDOTH	Other appendicitis	1088	163396	1.0354	0
+K11_BARRET	Barret oesophagus	333	154218	0.9732	0
+K11_BILIAOTH	Other diseases of biliary tract	738	158425	1.0431	0
+K11_CD_STRICT	Crohn disease (strict definition, require KELA)	614	176200	1.0407	2
+K11_CD_STRICT0	Crohn disease ( strict definition, all UC cases excluded)	472	170386	1.0307	2
+K11_CD_STRICT2	Crohn disease ( strict definition, require KELA, min 2 HDR)	553	176200	1.0383	2
+K11_CHOLANGI	Cholangitis (primary sclerosing, PSC)	536	158425	1.0273	2
+K11_CHOLANGI_STRICT	Cholangitis (primary sclerosing, PSC), with reimbursement 202	158	168996	0.82711	1
+K11_CHOLECYST	Chlocystitis	1564	158425	1.0278	1
+K11_CHOLELITH	Cholelithiasis	15012	158425	1.0916	29
+K11_CHRONGASTR	Chronic gastritis	4175	154218	1.0235	1
+K11_CHRONHEP	Chronic hepatitis, not elsewhere classified	362	173014	0.98285	0
+K11_CHRONPANC	Chronic pancreatitis	1303	158425	1.0378	4
+K11_COELIAC	Coeliac disease	1502	171097	1.015	7
+K11_CROHN	Crohn disease	1520	170386	1.0402	3
+K11_DIAHER	Diaphragmatic hernia	4402	154928	1.0431	4
+K11_DISLIVOTH	Other diseases of liver	1715	173014	1.0288	3
+K11_DISOESINOTH	Disorders of oesophagus in diseases classified elsewhere	170	154218	0.84312	0
+K11_DIVERTIC	Diverticular disease of intestine	10978	149001	1.0767	10
+K11_DULC	Duodenal ulcer	1314	154218	1.035	3
+K11_ENERCOLNONINF	Noninfective enteritis and colitis	6513	170386	1.0557	7
+K11_FEMHER	Femoral hernia	568	154928	1.025	0
+K11_FIBROCHIRLIV	Fibrosis and chirrhosis of liver	569	173014	1.0331	2
+K11_FISSANAL	Fissure and fistula of anal and rectal regions	3483	149001	1.0393	0
+K11_FUNCDYSP	Functional dyspepsia	3480	154218	1.0221	0
+K11_GALLBILPANC	Disorders of gallbladder, biliary tract and pancreas	18474	158425	1.0921	25
+K11_GALLBLAOTH	Other diseases of gallbladder	493	158425	1.0212	2
+K11_GASTRODUOULC	Gastroduodenal ulcer	3484	154218	1.0231	1
+K11_GIBLEEDING	GI-bleeding	3621	171097	1.0061	0
+K11_GIDISEASES	Gastrointestinal diseases	83873	93026	1.0941	5
+K11_GULC	Gastric ulcer	2238	154218	1.0197	0
+K11_HAEMORR	Haemmorrhoids and perianal venous thrombosis	3072	149001	1.0484	0
+K11_HEPFAIL	Hepatic failure, not elsewhere classified	318	173014	0.96909	2
+K11_HERING	Inguinal hernia	13449	154928	1.0601	20
+K11_HERNIA	Hernia	21971	154928	1.0792	18
+K11_IBD	Inflammatory bowel disease	4420	172479	1.0533	14
+K11_IBD_STRICT	Inflammatory bowel disease, strict (require KELA)	2813	170386	1.0513	15
+K11_IBS	Irritable bowel syndrome	3584	149001	1.0292	1
+K11_ILEUS	Paralytic ileus and intestinal obstruction	2999	149001	1.0269	0
+K11_INTESTOTH	Other diseases of intestines	27898	149001	1.0484	0
+K11_INTUSS	Intussusception	161	149001	0.80769	0
+K11_KELACROHN	Crohn's disease patients in KELA-register (KELA code 209, or 208 with ICD K50)	699	176200	1.0494	2
+K11_KELAIBD	IBD patients in KELA-register	3061	170386	1.0562	13
+K11_KELAUC	UC patients in KELA-register ( KELA 208 prior to 1994, or ICD K51)	2292	174607	1.047	10
+K11_LIVER	Diseases of liver	3885	173014	1.0292	4
+K11_MALABSORB	Intestinal malabsorbtion	429	171097	1.0094	3
+K11_OESITIS	Oesophagitis	585	154218	1.0316	0
+K11_OESOBST	Oesophageal obstruction	343	154218	0.97733	1
+K11_OESSTODUO	Diseases of oesophagus, stomach and duodenum	22681	154218	1.0615	1
+K11_OESULC	Ulcer of oesophagus	863	154218	1.0528	0
+K11_OTHABDHER	Other and unspecified abdominal hernia	401	154928	1.0009	1
+K11_OTHANRECT	Other diseases of anus and rectum	3636	149001	1.0061	1
+K11_OTHAPPEND	Other diseases of appendix	127	163396	0.76281	0
+K11_OTHDIG	Other diseases of the digestive system	5802	171097	1.0359	5
+K11_OTHDISDIG	Other diseases of the digestive system	3552	171097	1.0094	0
+K11_OTHDISOES	Other diseases of oesophagus	1187	154218	1.0302	0
+K11_OTHDISSTOMDUOD	Other diseases of stomach and duodenum	664	154218	1.0254	0
+K11_OTHENTERCOL	Other noninfective gastroenteritis and colitis	2828	170386	1.0235	0
+K11_OTHFUNC	Other functional intestinal disroders	5638	149001	1.0245	0
+K11_OTHGASTR	Other gastritis (incl. Duodenitis)	3014	154218	1.0297	0
+K11_OTHILEUS	Other or unspecified ileus, impaction or obstruction	2058	149001	1.0283	0
+K11_OTHINFLIV	Other inflammatory liver diseases	715	173014	1.0354	0
+K11_OTHINT	Other diseases of intestine	874	149001	1.0426	2
+K11_OTHPERITON	Other diseases of peritoneum	550	175701	1.0278	0
+K11_PANCOTH	Other diseases of pancreas	538	158425	1.0226	0
+K11_PARALIL	Paralytic ileus	394	149001	0.98931	0
+K11_PERITON	Diseases of peritoneum	1198	175701	1.035	0
+K11_PERITONITIS	Acute peritonitis	658	175701	1.0417	0
+K11_POSTOPDIS	Postprocedural disorders of digestive system, not elsewhere classified	292	171097	0.94918	0
+K11_PSC_COLITIS	Colitis, primary sclerosing	131	158425	0.78739	1
+K11_PSC_COLITIS_STRICT	Colitis, primary sclerosing, strict definition	106	158425	0.73459	2
+K11_PULC	Peptic ulcer	109	154218	0.72784	0
+K11_REFLUX	Gastro-oesophageal reflux disease	10167	154218	1.064	0
+K11_REIMB_202	KELA_REIMBURSEMENT_202	7903	168996	1.0484	12
+K11_TOXLIV	Toxic liver disease	138	173014	0.78739	1
+K11_UC_STRICT	Ulcerative colitis ( strict definition, require KELA)	2013	174607	1.0446	9
+K11_UC_STRICT0	Ulcerative colitis ( strict definition, all Crohn cases excluded)	1721	170386	1.0479	8
+K11_UC_STRICT2	Ulcerative colitis (strict definition, require KELA, min 2 HDR)	1772	174607	1.0465	9
+K11_ULCER	Ulcerative colitis	3325	170386	1.0441	8
+K11_UMBHER	Umbilical hernia	3214	154928	1.045	5
+K11_VASCINT	Vascular disorders of the intestines	543	149001	1.0231	0
+K11_VENTHER	Ventral hernia	2844	154928	1.0369	3
+K11_VOLVU	Volvulus	228	149001	0.90153	0
+KELA_DIAB_INSUL	Diabetes, insuline treatment (Kela reimbursement)	22797	154102	1.1453	38
+KELA_DIAB_INSUL_EXMORE	Diabetes, insuline treatment (Kela reimbursement) (more controls excluded)	22797	147714	1.152	44
+KNEE_ARTHROSIS	Gonarthrosis [arthrosis of knee](FG)	17803	141876	1.1258	10
+KRA_PSY_ALCOH	Alcohol abuse, main dg	1984	174915	1.0369	0
+KRA_PSY_ALCOH_EXMORE	Alcohol abuse, main dg (more controls excluded)	1984	136530	1.0369	0
+KRA_PSY_ANXIETY	Anxiety disorders	15770	161129	1.064	0
+KRA_PSY_ANXIETY_EXMORE	Anxiety disorders (more controls excluded)	15770	136530	1.0674	0
+KRA_PSY_ANYMENTAL	Any mental disorder	40369	136530	1.1026	3
+KRA_PSY_ANYMENTAL_SUICID_PREG_NERV	Any mental disorder, or suicide (or attempt), or psychic disorders complicating pregnancy, partum or puerperum or nerve system disorders	40572	136327	1.1036	3
+KRA_PSY_AUTISM	Autism spe	207	176692	0.88731	0
+KRA_PSY_AUTISM_EXMORE	Autism spe (more controls excluded)	207	136530	0.77523	0
+KRA_PSY_BEHAV	Behavioural disorders	279	176620	0.94022	0
+KRA_PSY_BEHAV_EXMORE	Behavioural disorders (more controls excluded)	279	136530	0.83283	1
+KRA_PSY_CHILDEMOT	Emotional disorders starting during childhood or adolecense	594	176305	1.0216	0
+KRA_PSY_CHILDEMOT_EXMORE	Emotional disorders starting during childhood or adolecense (more controls excluded)	594	136530	0.97641	0
+KRA_PSY_CHILDOTH	Other disorders starting during childhood or adolecense	527	176372	1.024	0
+KRA_PSY_CHILDOTH_EXMORE	Other disorders starting during childhood or adolecense (more controls excluded)	0	0	0.99488	1
+KRA_PSY_CHILDSOC	Social disorders starting during childhood or adolecense	100	176799	0.71482	1
+KRA_PSY_CHILDSOC_EXMORE	Social disorders starting during childhood or adolecense (more controls excluded)	100	136530	0.62864	0
+KRA_PSY_CODUCTEMOT	Mixed disorders of conduct and emotions	309	176590	0.95774	1
+KRA_PSY_CODUCTEMOT_EXMORE	Mixed disorders of conduct and emotions (more controls excluded)	309	136530	0.8535	0
+KRA_PSY_DEMENTIA	Any dementia	4760	172139	1.0269	6
+KRA_PSY_DEMENTIA_EXMORE	Any dementia (more controls excluded)	4760	136530	1.0269	7
+KRA_PSY_DEVWIDE	Wide developmental disorders	281	176618	0.95007	0
+KRA_PSY_DEVWIDE_EXMORE	Wide developmental disorders (more controls excluded)	281	136530	0.83817	0
+KRA_PSY_EATING	KRA_PSY_EATING	1127	175772	1.0369	0
+KRA_PSY_EATING_EXMORE	KRA_PSY_EATING (more controls excluded)	1127	136530	1.0345	0
+KRA_PSY_HYPERKIN	Hyperkinetic disorders	629	176270	1.0369	0
+KRA_PSY_HYPERKIN_EXMORE	Hyperkinetic disorders (more controls excluded)	629	136530	0.9972	0
+KRA_PSY_MENTALRET	Mental retardation	536	176363	1.0231	1
+KRA_PSY_MENTALRET_EXMORE	Mental retardation (more controls excluded)	536	136499	0.93576	0
+KRA_PSY_MOOD	Mood disorders	20255	156644	1.0846	1
+KRA_PSY_MOOD_EXMORE	Mood disorders (more controls excluded)	20255	136530	1.0936	0
+KRA_PSY_MOTOR	Motor disorders	163	176736	0.84436	0
+KRA_PSY_MOTOR_EXMORE	Motor disorders (more controls excluded)	163	136530	0.81372	0
+KRA_PSY_PERSON	Personality disorders	4774	172125	1.0436	0
+KRA_PSY_PERSON_EXMORE	Personality disorders (more controls excluded)	4774	136527	1.0465	2
+KRA_PSY_PUERPER	Mental and behabioural disorders of puerperum, not classified elsewhere	158	176741	0.81857	0
+KRA_PSY_PUERPER_EXMORE	Mental and behabioural disorders of puerperum, not classified elsewhere (more controls excluded)	158	136530	0.73837	1
+KRA_PSY_SCHIZODEL	Schizophrenia or delusion	7979	168920	1.0359	0
+KRA_PSY_SCHIZODEL_EXMORE	Schizophrenia or delusion (more controls excluded)	7979	136530	1.0518	0
+KRA_PSY_SLEEP_NONORG	Nonorganic sleeping disorders	1646	175253	1.0226	0
+KRA_PSY_SLEEP_NONORG_EXMORE	Nonorganic sleeping disorders (more controls excluded)	1646	136530	1.0226	0
+KRA_PSY_SPEELING	Speech and linguistic disorders	918	175981	1.0402	0
+KRA_PSY_SPEELING_EXMORE	Speech and linguistic disorders (more controls excluded)	918	136530	1.0283	0
+KRA_PSY_SUBSTANCE	Substance abuse	9768	167131	1.0767	0
+KRA_PSY_SUBSTANCE_EXMORE	Substance abuse (more controls excluded)	9768	136501	1.0797	1
+KRA_PSY_TIC	Tic disorders	131	176768	0.77017	0
+KRA_PSY_TIC_EXMORE	Tic disorders (more controls excluded)	131	136530	0.75014	0
+L12_ABSCESS_CUT	Cutaneous abscess, furuncle and carbuncle	2713	169219	1.0226	0
+L12_ACNE	Acne	972	170997	1.046	0
+L12_ACNE_NAS	Other  and unspecified acne	109	170997	0.73837	0
+L12_ACNE_VULGARIS	Acne vulgaris	807	170997	1.0446	0
+L12_ACTINKERA	Actinic keratosis	3471	172882	1.0475	8
+L12_ALLERGICCONTACT	Alergic contact dermatitis	1689	161699	1.0307	0
+L12_ALOPECAREATA	Alopecia areata	219	170997	0.88261	0
+L12_ATOPIC	Atopic dermatitis	5311	161699	1.0489	15
+L12_ATROPHICSKIN	Atrophic disorders of skin	1238	168348	1.0354	1
+L12_BULLOTH	Other bullous disorders	286	176356	0.94603	3
+L12_BULLOUS	Bullous disorders	543	176356	1.0311	1
+L12_CELLULITIS	Cellulitis	2290	169219	1.0302	0
+L12_CHRONICULCEROFSKIN	Chronic ulcer of skin, not elsewhere classified	571	168348	1.0264	1
+L12_CORNSANDCALLOS	Corns and callosities	836	168348	1.0479	0
+L12_DECUBITANSULCERANDPRESSURE	Decubitus ulcer and pressure area	485	168348	1.0169	1
+L12_DERMATHERP	Dermatitis herpetiformis	218	176356	0.88988	3
+L12_DERMATITISECZEMA	Dermatitis and eczema	15200	161699	1.0586	7
+L12_DERMATITISNAS	Other and unspecified dermatitis	7780	161699	1.0354	2
+L12_DERM_NAS	Other and unspecified dermatitis	6215	161699	1.0321	1
+L12_DERM_NUMMULAR	Nummular dermatitis	847	161699	1.0484	0
+L12_DISORDSKINAPPENDIX	Disorders of skin appendages	5902	170997	1.0407	1
+L12_DYSHIDROSIS	Dyshidrosis [pompholyx]	158	161699	0.81736	0
+L12_EPIDERMALTHICKOTH	Other epidermal thickening	375	168348	0.98607	1
+L12_EPIDERMTHICKNAS	Other and unspecified epidermal thickening	269	168348	0.93354	0
+L12_ERYTHEMAMULTIF	Erythema multiforme	250	172081	0.92469	0
+L12_ERYTHEMANODOSUM	Erythema nodosum	327	172081	0.9732	0
+L12_ERYTHEMATOUSOTH	Other erythematous conditions	320	172081	0.96409	0
+L12_ERYTHRO_KELA	Universal eryhrodermia, KELA reimbursement	112	172081	0.74367	1
+L12_ERYTH_NAS	Other and unspecified erythematous conditions	274	172081	0.93665	0
+L12_ERYT_INTERTRIG	Erythema intertrigo	169	161699	0.82915	0
+L12_EXFOLIATIVE	Exfoliative dermatitis	107	161699	0.72597	0
+L12_FOLICULAROTH	Other follicular disorders	625	170997	1.0374	1
+L12_FOLLICULARCYST	Follicular cysts of skin and subcutaneous tissue	2171	170997	1.0455	3
+L12_FOLLICULARNAS	Other and unspecified follicular disorders	335	170997	0.97366	0
+L12_FOODDERMAT	Dermatitis due to ingested food	311	161699	0.96409	0
+L12_GRANUANNU	Granuloma annulare	146	168348	0.79412	0
+L12_GRANULOMATOUSSKIN	Granulomatous disorders of skin and subcutaneous tissue	284	168348	0.95684	0
+L12_HIDRADENITISSUP	Hidradenitis suppurativa	282	170997	0.92073	0
+L12_HIRSUTISM	Hirsutism	166	170997	0.83324	0
+L12_HYPERTRICHOSIS	Hypertrichosis	191	170997	0.86313	1
+L12_HYPERTROPHICSKIN	Hypertrophic disorders of skin	625	168348	1.0426	0
+L12_HYPETROPHICSCAR	Hypertrophic scar	591	168348	1.0383	1
+L12_IMPETIGO	Impetigo	457	169219	1.008	0
+L12_INFECT_DERM	Infective dermatitis	1306	161699	1.0359	0
+L12_INFECT_SKIN	Infections of the skin and subcutaneous tissue	7680	169219	1.0316	0
+L12_INFECT_SKIN_NAS	Other and unspecified local infections of skin and subcutaneous tissue	842	169219	1.0326	0
+L12_INFECT_SKIN_OTHER	Other local infections of skin and subcutaneous tissue	951	169219	1.034	0
+L12_INTERNALSUBSTANCEDERM	Dermatitis due to substances taken internally	826	161699	1.0374	0
+L12_LICHENPLANUS	Lichen planus	1431	171917	1.047	1
+L12_LICHENSCLERATROPH	Lichen sclerosus et atrophicus	738	168348	1.0441	2
+L12_LICHENSIMPLEX	Lichen simplex chronicus	338	161699	0.97412	0
+L12_LICHSIMPANDPRURIGO	Lichen simplex chronicus and prurigo	638	161699	1.0321	2
+L12_LOCALDCONNECTISSUEOTH	Other localized connective tissue disorders	180	168348	0.84478	0
+L12_LOCALSCLERODERMA	Localized scleroderma [morphea]	131	168348	0.76203	0
+L12_LUPUS	Lupus erythematosus	249	168348	0.92734	0
+L12_LYMPHADENITIS	Acute lymphadenitis	788	169219	1.0441	0
+L12_NAILDIS	Nail disorders	846	170997	1.0494	0
+L12_NAILNAS	Other and unspecified nail disorders	135	170997	0.78582	0
+L12_NAIL_INGROW	Ingrowing nail	596	170997	1.0436	0
+L12_NONIONRADISKIN	Skin changes due to chronic exposure to nonionizing radiation	3619	172882	1.0465	9
+L12_NONIONRADISKINNAS	Other and unspecified skin changes due to chronic exposure to nonionizing radiation	138	172882	0.78306	1
+L12_OTHACUSKINSUN	Other acute skin changes due to ultraviolet radiation	390	172882	0.99814	0
+L12_OTHACUSKINSUNNAS	Other and unspecified acute skin changes due to ultraviolet radiation	294	172882	0.95007	0
+L12_OTHERCONTACT	Other contact dermatitis	1035	161699	1.0494	0
+L12_OTHERDISSKINANDSUBCUTIS	Other disorders of skin and subcutaneous tissue, not elsewhere classified	1668	168348	1.034	1
+L12_OTHERMELANIN	Other melanin hyperpigmentation	198	168348	0.87453	0
+L12_OTHERSKINSUBCUTIS	Other disorders of skin and subcutaneous tissue	8551	168348	1.034	1
+L12_OTHPIGMENTATION	Other disorders of pigmentation	418	168348	1.0084	0
+L12_PAPULOSQUAMOUS	Papulosquamous disorders	4982	171917	1.047	6
+L12_PAPULOSQUAOTH	Other papulosquamous disorders	107	171917	0.72373	0
+L12_PARAPSORI	Parapsoriasis	197	171917	0.87283	1
+L12_PEMPHIGOID	Pemphigoid	206	176356	0.87877	1
+L12_PEMPHIGOID_BULL	Bullous pemphigoid	158	176356	0.80929	1
+L12_PERIORALDERM	Perioral dermatitis	152	170997	0.8109	0
+L12_PILONIDALCYST	Pilonidal cyst	1134	169219	1.0369	0
+L12_PRURIGONAS	Other  prurigo	106	161699	0.71853	2
+L12_PRURIGONOD	Prurigo nodularis	230	161699	0.90023	1
+L12_PRURITUS	Pruritus	1022	161699	1.0475	1
+L12_PSORIASIS	Psoriasis	3399	171917	1.0518	7
+L12_PSORI_ARTHRO	Arthropathic psoriasis	1171	171917	1.0513	1
+L12_PSORI_GUTTATE	Guttate psoriasis	136	171917	0.77718	1
+L12_PSORI_NAS	Other and unspecified psoriasis	566	171917	1.047	1
+L12_PSORI_PUSTUPALM	Pustulosis palmaris et plantaris	404	171917	1.0136	0
+L12_PSORI_VULG	Psoriasis vulgaris	2112	171917	1.0398	5
+L12_PYODERMA	Pyoderma	218	169219	0.88432	1
+L12_PYOGENGRANUL	Pyogenic granuloma	154	168348	0.82385	0
+L12_RADIATIONRELATEDSKIN	Radiation-related disorders of the skin and subcutaneous tissue	4017	172882	1.0383	7
+L12_ROSACEA	Rosacea	917	170997	1.0494	0
+L12_ROSACEANAS	Other and unspcified rosacea	753	170997	1.0436	0
+L12_SCARCONDITIONS	Scar conditions and fibrosis of skin	366	168348	0.97962	0
+L12_SEBORRHOEIC	Seborrhoeic dermatitis	960	161699	1.0383	0
+L12_SEBORRKERAT	Seborrhoeic keratosis	1857	168348	1.0335	1
+L12_SKIN	Diseases of the skin and subcutaneous tissue	39223	137676	1.0596	8
+L12_SKINSUBCUTISNAS	Other and unspecified disorders of skin and subcutaneous tissue	865	168348	1.045	0
+L12_ULCERLOWLIMB	Ulcer of lower limb, not elsewhere classified	1151	168348	1.0383	2
+L12_URTICARIA	Urticaria	3876	172081	1.0117	0
+L12_URTICARIAERYTHEMA	Urticaria and erythema	4818	172081	1.0164	1
+L12_URTICA_ALLERG	Allergic urticaria	896	172081	1.045	0
+L12_URTICA_DERTMATOG	Dermatographic urticaria	621	172081	1.0269	0
+L12_URTICA_IDIOPAT	Idiopathic urticaria	164	172081	0.83982	0
+L12_URTICA_NAS	Other and unspecified urticaria	2502	172081	1.0235	0
+L12_VASCULITISNAS	Other and unspecified vasculitis limited to skin	192	168348	0.86355	0
+L12_VASCULITISSKIN	Vasculitis limited to skin, not elsewhere classified	208	168348	0.88389	0
+L12_VITILIGO	Vitiligo	107	168348	0.73347	0
+LUNG_TRANSPLANTATION	Lung transplantation	1022	175877	1.0393	1
+M13_ACHILLESTEND	Achilles tendinitis	1295	134889	1.0494	1
+M13_ADHCAPSULITIS	Adhesive capsulitis of shoulder	2340	137165	1.0388	1
+M13_ALGONEURO	Alogoneurodystrophy	331	169858	0.97687	0
+M13_ANKYLOSPON	Ankylosing spondylitis	1103	134889	1.0202	7
+M13_ANKYLOSPON_STRICT	Ankylosing spondylitis, strict definition	423	175883	1.0037	8
+M13_ARTHINOTH	Arthropathies in other diseases classified elsewhere	372	121222	0.99395	1
+M13_ARTHRITISNAS	Ohter specific/unspecified arthritis	3128	121222	1.0235	3
+M13_ARTHROPATHIES	Arthropathies	55677	121222	1.1468	7
+M13_ARTHROSIS	Arthrosis	28783	121222	1.1443	6
+M13_ARTHROSIS_KNEE	Gonarthrosis	17803	121222	1.1304	11
+M13_ARTHROSIS_KNEE_PRIM_ICD10	Gonarthrosis,primary	15990	160909	1.1152	12
+M13_ARTHROSIS_KNEE_PRIM_KNEESURG	Gonarthrosis, primary, with knee surgery	6462	160909	1.0896	14
+M13_ARTHROSIS_OTH	Other arthrosis	7807	121222	1.0625	2
+M13_ARTHROSIS_POLY	Polyarhtrosis	1975	121222	1.0326	1
+M13_ARTHTROSIS_COX	Coxarthrosis,	7950	121222	1.0728	3
+M13_ARTHTROSIS_COX_PRIM_HIPSURG	Coxarthrosis, primary, with hip surgery	5193	169725	1.0586	4
+M13_ARTHTROSIS_COX_PRIM_ICD10	Coxarthrosis, primary	7174	169725	1.0649	5
+M13_BAKERCYST	Synovial cyst of popliteal space [Baker]	765	137165	1.0426	0
+M13_BICIPITALTEND	Bicipital tendinitis	548	137165	1.0273	2
+M13_BIOMECHLESIO	Biomechanical lesions, not elsewhere classified	412	175416	0.99814	0
+M13_BONECONTINUITY	Disorders of continuity of bone	788	169858	1.0412	1
+M13_BONEDENSOTH	Other disorders of bone density and structure	283	169858	0.94245	0
+M13_BONEDISNAS	Other specified/unspecified disorders of  bone/cartilage	335	169858	0.98008	0
+M13_BURSCYSTOTH	Other bursal cyst	152	137165	0.81171	0
+M13_BURSITISHIPOTH	Other bursitis of hip	195	137165	0.85768	0
+M13_BURSITISKNEEOTH	Other bursitis of knee	133	137165	0.78582	0
+M13_BURSITISOTH	Other bursitis, not elsewhere classified	124	137165	0.76126	1
+M13_BURSOPATHY	Other bursopathies	1520	137165	1.0283	0
+M13_CALCANSPUR	Calcaneal spur	135	137165	0.78424	0
+M13_CALCIFICTEND	Calcific tendinitis of shoulder	640	137165	1.0359	0
+M13_CARTILAGE	Other articular cartilage disorders	335	121222	0.97549	0
+M13_CERVICALGIA	Cervicalgia	2548	134889	1.0331	0
+M13_CERVICDISC	Cervical disc disorders	5709	134889	1.0645	0
+M13_CERVICOBRACHSDR	Cervicobrachial syndrome	2773	134889	1.0321	0
+M13_CERVICOCRANSDR	Cervicocranial syndrome	1121	134889	1.0504	0
+M13_CHONDROMALACIA	Chondromalacia	366	174217	0.99348	0
+M13_CHRONDROPATHIES	Chrondropathies	2029	174217	1.0216	0
+M13_CHRONSYNOVITISHANDWRIST	Chronic crepitant synovitis/bursitis of hand and wrist/periarhritis of wrist	162	137165	0.83079	0
+M13_CONNECTNAS	Other specified/unspecified systemic involvement of connective tissue	621	172722	1.0407	2
+M13_CONTRACTUREJOINT	Contracture of joint	148	121222	0.80688	0
+M13_CRYSTALARTH	Other crystal arthropathies	115	121222	0.76242	0
+M13_DEFORMACQ	Other acquired deformities of musculoskeletal system and connective tissue	534	175416	1.0273	0
+M13_DEFORMDORSO	Deforming dorsopathies	3462	134889	1.0407	0
+M13_DEFORMDORSONAS	Other specified/unsepecified deforming dorsopathies	252	134889	0.92205	0
+M13_DEQUERVAIN	Radial styloid tenosynovitis [de Quervain]	605	137165	1.0436	0
+M13_DERMATOPOLY	Dermatopolymyositis	150	172722	0.81493	3
+M13_DISCITIS	Discitis, unspecified	121	134889	0.74747	1
+M13_DISSYNOTENDNAS	Other specified/unspecified disorders of synovium and tendon +Other specified/unspecified bursopathies	567	137165	1.0335	0
+M13_DORSALGIA	Dorsalgia	22181	134889	1.0981	2
+M13_DORSALGIANAS	Other/unspecified dorsalgia	5617	134889	1.0378	2
+M13_DORSOPATHY	Dorsopathies	42010	134889	1.1309	4
+M13_DORSOPATHYNAS	Other specified/unspecified dorsopathies	422	134889	1.0014	0
+M13_DORSOPATHYOTH	Other dorsopathies, not elsewhere classified	30573	134889	1.1126	2
+M13_DUPUTRYEN	Palmar fascial fibromatosis [Dupuytren]	1998	137165	1.046	7
+M13_ENTEROARTHR	Enteropathic arthropathies	221	121222	0.89893	3
+M13_ENTESOPATHYFOOT	Oher enthesopathy of foot (+metatarsalgia)	996	137165	1.0489	0
+M13_ENTESOPATHYLOW	Enthesopathies of lower limb, excluding foot	2721	134889	1.0245	0
+M13_ENTESOPATHYLOWNAS	Other/unspecified enthesopathies of lower limb, excluding foot	780	134889	1.0292	0
+M13_ENTESOPATHYNAS	Other/unspecified enthesopathies, not elsewhere classified	1179	137165	1.0345	0
+M13_ENTESOPATHYOTH	Other enthesopathies	4221	137165	1.0426	1
+M13_FATPADHYPERTROPHY	Hypertrophy of (infrapatellar) fat pad	112	137165	0.74481	0
+M13_FIBROBLASTIC	Fibroblastic disorders	3176	137165	1.0398	4
+M13_FIBROMYALGIA	Fibromyalgia	486	137165	1.0188	0
+M13_FLATFOOT	Flat foot [pes planus] (acquired)	946	121222	1.0422	0
+M13_FOREIGNBODY	Residual foreign body in soft tissue	533	137165	1.0183	0
+M13_FORESTIER	Ankylosing hyperostosis [Forestier]	130	134889	0.77562	0
+M13_GANGLION	Ganglion	2999	137165	1.0278	0
+M13_GIANTCELL	Giant cell arteritis	317	172722	0.97001	1
+M13_GLUTEALTEND	Gluteal tendinitis	253	134889	0.93132	1
+M13_GOUT	Gout	2505	121222	1.0446	7
+M13_HALLUXRIGIDUS	Hallux rigidus	1898	121222	1.0513	2
+M13_HALLUXVALGUS	Hallux valgus (acquired)	6861	121222	1.0591	4
+M13_HAMMERTOE	Other hammer toe(s) (acquired)	2395	121222	1.0393	0
+M13_HYPERMOBILITY	Hypermobility syndrome	551	172722	1.0345	0
+M13_ILIOTIBBAND	Iliotibial band syndrome	108	134889	0.72934	0
+M13_IMPINGEMENT	Impingement syndrome of shoulder	4168	137165	1.0479	1
+M13_INFBURSA	Infective bursitis	297	137165	0.95097	2
+M13_INTERVERTEB	Other intervertebral disc disorders	15565	134889	1.0941	5
+M13_JOINTOTH	Other specific joint derangements/joint disorders	12225	121222	1.063	1
+M13_JUVEARTH	Other juvenile arthritis	472	121222	1.024	3
+M13_JUVERHEU	Juvenile rheuma	246	121222	0.92029	3
+M13_JUVOSTEOCHONRHIP	Juvenile osteochondrosis	393	174217	0.99674	0
+M13_KNEEDERANGEMENTS	Internar derangement of knee	15632	121222	1.0981	1
+M13_KYPHOSIS	Kyphosis	106	134889	0.71704	0
+M13_LATERALEPICOND	Lateral epicondylitis	1788	137165	1.0326	0
+M13_LIMBPAIN	Pain in limb	9158	137165	1.0475	1
+M13_LOOSEJOINT	Loose body in joint	274	121222	0.93044	0
+M13_LOWBACKPAIN	Low back pain	9917	134889	1.0605	1
+M13_LOWBACKPAINORANDSCIATICA	Lower back pain or/and sciatica	14806	162093	1.0698	3
+M13_MEDIALEPICOND	Medial epicondylitis	414	137165	1.0061	1
+M13_MENISCUSDERANGEMENTS	Meniscus derangement	10864	121222	1.0767	0
+M13_METATARSALGIA	Metatarsalgia	917	137165	1.047	0
+M13_MONOARTHRITIS	Monoarthritis, not elsewhere classified	493	121222	1.0164	1
+M13_MUSCLE	Disorders of muscles	1135	137165	1.0417	0
+M13_MUSCLEDISNAS	Other specified disorders of muscle	362	137165	0.98054	0
+M13_MUSCLESTRAIN	Muscle strain	276	137165	0.95368	0
+M13_MUSCULOSKELEOTH	Other disorders of the musculoskeletal system and connective tissue	1483	175416	1.0393	0
+M13_MUSCULOSKELETAL	Diseases of the musculoskeletal system and connective tissue	90872	86027	1.1541	4
+M13_MYALGIA	Myalgia	2229	137165	1.0297	0
+M13_MYOSITIS	Myositis	249	137165	0.92381	0
+M13_NECROVASC	Other necrotizing vasculopathies	675	172722	1.0331	1
+M13_NECROVASCNAS	Other specified/unspecified necrotizing vasculopathies	139	172722	0.79809	0
+M13_NEURALGIA	Neuralgia and neuritis, unspecified	504	137165	1.0288	0
+M13_OLECRANONBURSITIS	Olecranon bursitis	602	137165	1.0331	1
+M13_OSTEOCHONDRO	Osteopathies and chondropathies	7041	169858	1.0326	0
+M13_OSTEOCHONDROPATHY	Other osteochondropathies	913	174217	1.0455	0
+M13_OSTEOMYELITIS	Osteomyelitis	634	169858	1.0316	0
+M13_OSTEONECROSIS	Osteonecrosis	430	169858	1.0098	0
+M13_OSTEOPOROSIS	Osteoporosis	2452	169858	1.0297	1
+M13_OTHCONN	Other systemic involvement of connective tissue	3142	172722	1.0288	3
+M13_OTHERBONE	Otherdisorders of bone	2682	169858	1.0283	0
+M13_OTHERJOINT	Other joint disorders	34576	121222	1.1289	5
+M13_OVERLAP	Other overlap syndromes	176	172722	0.83079	0
+M13_OVERUSENAS	Other/unspecified soft tissue disorders related to use, overuse and pressure	301	137165	0.96272	0
+M13_PALINDROMIC	Palindromic rheumatism	101	121222	0.69577	0
+M13_PANNICULITIS	Panniculitis affecting regions of neck and back	506	134889	1.0278	0
+M13_PANNICULITISNAS	Panniculitis, unspecified	111	137165	0.74291	0
+M13_PATELLADISLOCATIO	Recurrent dislocation of patella	652	121222	1.0369	0
+M13_PATELLAOTH	Other disorders of patella	2843	121222	1.0426	0
+M13_PATELLARTEND	Patellar tendinitis	166	134889	0.83406	0
+M13_PATHODISLOCATIO	Pathological/recurrent dislocation and subluxation of joint, not elsewhere classified	1143	121222	1.046	0
+M13_PERONEALTEND	Peroneal tendinitis	113	134889	0.74177	0
+M13_PLANTARFASC	Plantar fascial fibromatosis	1169	137165	1.0359	0
+M13_POLYARTERETAL	Polyarteritis nodosa and related conditions	123	172722	0.74937	0
+M13_POLYARTHRITIS	Polyarthritis, unspecified	406	121222	0.99395	1
+M13_POLYARTHROPATHIES	Polyarthropathies	11243	121222	1.0479	9
+M13_POLYMYALGIA	Polymyalgia rheumatica	1099	172722	1.0431	1
+M13_POSTOPMUSCULOSKE	Postprocedural musculoskeletal disorders, not elsewhere classified	577	175416	1.0383	0
+M13_PREPATELLARBURSITIS	Prepatellar bursitis	483	137165	1.0174	0
+M13_PSORIARTH	Psoriatic arthropathies	1111	121222	1.045	2
+M13_PSORIARTH_ICD10	Psoriatic arthropathies, ICD10	1040	175859	1.0504	1
+M13_PYOGARTH	Pyogenic arthritis	807	121222	1.0354	1
+M13_RADICULOPATHY	Radiculopathy	2310	134889	1.0374	0
+M13_REACTARTH	Reactive arthropathies	1174	121222	1.0422	3
+M13_RECUDISLOCATIO	Recurrent dislocation and subluxation of joint	970	121222	1.0393	0
+M13_RHEUMA	Rheumatoid arthritis	4701	121222	1.0431	3
+M13_RHEUMATISM	Rheumatism, unspecified	2041	137165	1.0269	1
+M13_ROTATORCUFF	Rotator cuff syndrome	9884	137165	1.0767	0
+M13_SACROCOGG	Sacrococcygeal disorders, not elsewhere classified	372	134889	0.98746	0
+M13_SACROILIITIS	Sacroiliitis, not elsewhere classified	437	134889	1.007	2
+M13_SCIATICA	Siatica+with lumbago	6827	134889	1.0436	1
+M13_SCOLIOSIS	Scoliosis	870	134889	1.0441	0
+M13_SHORTACHILLES	Short Achilles tendon (acquired)	239	137165	0.85642	0
+M13_SHOULDER	Shoulder lesions	14396	137165	1.0966	1
+M13_SHOULDERBURSITIS	Bursitis of shoulder	243	137165	0.91153	0
+M13_SHOULDERNAS	Other shoulder lesions	854	137165	1.0499	0
+M13_SJOGREN	Sicca syndrome [Sjogren]	977	172722	1.0552	4
+M13_SLE	Systemic lupus erythematosus	417	172722	1.0127	3
+M13_SOFTOVERUSE	Soft tissue disorders related to use, overuse and pressure	3067	137165	1.0288	1
+M13_SOFTTISSUE	Soft tissue disorders	39734	137165	1.1086	1
+M13_SOFTTISSUENAS	Other specified/unspecified soft tissue disorders	652	137165	1.0369	0
+M13_SOFTTISSUEOTH	Other soft tissue disorders, not elsewhere classified	14140	137165	1.0591	1
+M13_SPINALOSTEOCHON	Spinal osteochondrosis	138	134889	0.79214	0
+M13_SPINENTHES	Spinal enthesopathy	445	134889	1.0117	1
+M13_SPININSTAB	Spinal instabilities	356	134889	0.98746	0
+M13_SPINSTENOSIS	Spinal stenosis	6886	134889	1.0733	5
+M13_SPONDYLINFLAMNAS	Other specified/unspecified inflammatory spondylopathies	487	134889	1.0197	2
+M13_SPONDYLOLISTHESIS	Spondylolisthesis/Spondylolysis	1944	134889	1.0523	0
+M13_SPONDYLOPATHY	Spondylopathies	14006	134889	1.0911	2
+M13_SPONDYLOPATHYNAS	Other specified/unspecified spondylopathies	287	134889	0.95187	0
+M13_SPONDYLOSIS	Spondylosis	7084	134889	1.0601	0
+M13_SPONTRUPTSYNOTEND	Spontaneous rupture of synovium and tendon	871	137165	1.0475	0
+M13_SYNOHYPERTROPH	Synovial hypertrophy, not elsewhere classified	117	137165	0.74823	0
+M13_SYNOTEND	Disorders of synovium and tendon	8095	137165	1.0499	0
+M13_SYNOTENDINOTH	Disorders of synovium and tendon in diseases classified elsewhere	195	137165	0.87665	0
+M13_SYSTCONNECT	Systemic connective tissue disorders	4177	172722	1.0264	4
+M13_SYSTSLCE	Systemic sclerosis	227	172722	0.90283	2
+M13_TEMPARTERIT	Temporal arteritis	293	172722	0.95413	1
+M13_TENDOSYNOVITISNAS	Other/unspecified synovitis and tenosynovitis	1541	137165	1.0311	0
+M13_THORACISPINEPAIN	Pain in thoracic spine	1722	134889	1.0302	0
+M13_TIBIALCOLLATERAL	Tibial collateral bursitis [Pellegrini-Stieda]	112	134889	0.74253	0
+M13_TIETZE	Chondrocostal junction syndrome [Tietze]	291	174217	0.95097	0
+M13_TOEDEFORMOTH	Other deformities of toe(s)	383	121222	0.99627	0
+M13_TORTICOLLIS	Torticollis	213	134889	0.89548	0
+M13_TRIGGERFINGER	Trigger finger	1485	137165	1.047	0
+M13_TROCHANTERICBURSITIS	Trochanteric bursitis	1264	137165	1.0374	0
+M13_VARUS	Varus deformity, not elsewhere classified	123	121222	0.74785	1
+M13_WEGENER	Wegener granulomatosis	166	172722	0.84188	1
+MACULAR_CYST	Macular cyst	125	164973	0.75358	0
+MACULAR_HOLE	Macular hole	391	164973	1.0075	0
+MACULAR_PUCKER	Macular pucker	922	164973	1.047	0
+MACULA_NAS	Degenerative macular diseases	1359	164973	1.0431	0
+MEMLOSS	Memory loss	1104	170315	1.0307	1
+MENINGITIS	Meningitis	599	50989	1.0335	0
+MIGRAINE_TRIPTAN	Migraine, single triptan purchase ok & required. ICD-code if available is included	9773	160846	1.0826	9
+MND	Motor neuron disease (with DMD)	159	94096	0.76706	1
+MUCOPROCT	Mucosal proctocolitis	1493	170386	1.0528	4
+MYCOBLUNGATYPICA	Atypical mycobacterium lung infection	100	156354	0.70233	2
+MYELOPROF	Myeloproliferative diseases	640	176259	1.0407	6
+MYELOPROF_NONCML	Myeloproliferative diseases (CML excluded)	557	176259	1.0345	7
+N14_ABNORMALBLEED	Other abnormal uterine and caginal bleeding	5216	57407	1.035	1
+N14_ACUTENEPHRITIC	Acute nephritic syndrome	265	173689	0.92867	0
+N14_ACUTERENFAIL	Acute renal failure	1527	172745	1.0331	2
+N14_AMENORRHEAPRIM	Amenorrhoea	907	57407	1.0402	0
+N14_BARTHOABSCESS	Abscess of Bartholin gland	277	91131	0.94873	0
+N14_BARTHOCYS	Cyst of Bartholin Gland	438	91131	1.0131	0
+N14_BARTHOOTHNAS	Other and unspecified disease of Bartholin gland	421	91131	1.0141	0
+N14_BENIGNMAMDYSP	Benign mammary dysplasia	2107	93700	1.0254	0
+N14_BREAST	Disorders of breast	6661	93700	1.035	4
+N14_BREASTDISOTH	Other disorders of breast	1198	93700	1.0326	0
+N14_CALCUKIDUR	Calculus of kidney and ureter	3856	172757	1.0412	2
+N14_CALCULOWER	Calculus of lower urinary tract	477	172757	1.0174	0
+N14_CHRONEPHROPATH	Chronic nephritic syndrome	600	173689	1.0374	0
+N14_CHRONKIDNEYDIS	Chronic kidney disease	2821	172745	1.0422	1
+N14_CHRONTUBULOINTNEPHRITIS	Chronic tubulo-interstitial nephritis	512	163763	1.0311	0
+N14_COMPLICARTFERT	Complications associated with artificial fertilization	170	95434	0.85142	1
+N14_CYSTITIS	Cystitis	6194	158826	1.0207	0
+N14_CYSTKID	Cyst of kidney	553	175722	1.025	0
+N14_DIALYSIS	Dialysis	465	172745	1.0098	3
+N14_DISIMPAIRRENTUB	Disorders resulting from impaired renal tubular function	283	175722	0.94379	0
+N14_DYSPLACERVUT	Dysplasia of cervi uteri	3242	57407	1.0283	1
+N14_ENDOMETRIOSIS	Endometriosis	6502	57407	1.0431	10
+N14_ENDOMETRIOSIS_INTESTINE	Endometriosis of intestine	110	57407	0.75205	0
+N14_ENDOMETRIOSIS_NOS	Unspecified/other endometriosis	1056	57407	1.045	0
+N14_ENDOMETRIOSIS_OVARY	Endometriosis of ovary	2520	57407	1.0388	6
+N14_ENDOMETRIOSIS_PELVICPERITONEUM	Endometriosis of pelvic peritoneum	2286	57407	1.0407	4
+N14_ENDOMETRIOSIS_RECTPVAGSEPT_VAGINA	Endometriosis of rectovaginal septum and vagina	1044	57407	1.0364	2
+N14_ENDOMETRIOSIS_UTERUS	Endometriosis of uterus	1840	57407	1.0383	1
+N14_EROSECTROPUT	Erosion and ectropion of cervix uteri	401	57407	1.0075	0
+N14_FEMALEGENINF	Inflammatory diseases of female pelvic organs	9230	91131	1.045	1
+N14_FEMALEGENNONINF	Noninflammatory disorders of female genital tract	42954	57407	1.0831	2
+N14_FEMALEINFERT	Female infertility	4927	57407	1.0388	0
+N14_FEMGENFISTUL	Fistulae involving female genital tract	156	57407	0.82956	0
+N14_FEMGENPAIN	Pain and other conditions associated with female genital organs and menstrual cycle	2495	57407	1.0221	0
+N14_FEMGENPROL	Female genital prolapse	7053	57407	1.0513	6
+N14_FIANOV	Female infertility, associated with anovulation	765	95434	1.0422	0
+N14_FIOTHNAS	Female infertility, cervigal, vaginal, other or unspecified origin	4323	95434	1.0302	0
+N14_FITUB	Female infertility, tubal origin	595	95434	1.0388	1
+N14_GENITOURINARY	Genitourinary diseases	80594	96305	1.0747	1
+N14_GENITOUROTH	Other disorders of the genitourinary system	1305	175594	1.0273	0
+N14_GLOMEINOTH	Glomerular disorders in diseases classified elsewhere	1329	173689	1.0484	1
+N14_GLOMERULAR	Glomerular diseases	3210	173689	1.0321	1
+N14_HABITABORT	Habitual aborter	180	57407	0.85475	0
+N14_HYDROCELE	Hydrocele	2045	59455	1.0283	3
+N14_HYDRONEPHR	Hydronephrosis	1043	163763	1.035	2
+N14_HYPERTROPHYBREAST	Hypertrophy of breast	1774	93700	1.046	2
+N14_IMPOTENCE	Impotence	439	59455	1.0094	3
+N14_INFCERVIX	Inflammatory disease of cervix uteri	884	91131	1.0393	0
+N14_INFLAMALEGEN	Inflammatory disorders of male genital organs, not elsewhere classified	131	59455	0.78463	0
+N14_INFLAMMBREAST	Inflammatory disorders of breast	563	93700	1.0278	2
+N14_INFLUTH	Inflammatory disease of uterus	1690	91131	1.0259	0
+N14_ISOLPROTEINURIA	Isolated proteinuria with specified morphological lesion	297	173689	0.95007	0
+N14_KIDUROTH	Other disorders of kidney and ureter	1177	175722	1.0264	0
+N14_LUMPNASBREAST	Unspecified lump in breast	1992	93700	1.0307	2
+N14_MALEGEN	Diseases of male genital organs	17083	59455	1.0302	1
+N14_MALEINFERT	Male infertility	477	59455	1.016	1
+N14_MENOPAUSOT	Other menopausal disorders	911	57407	1.047	0
+N14_MESNRUIRREG	Excessive, freguent and irrelgular menstruation	14030	57407	1.0557	3
+N14_NEPHRITICNAS	Unspesified nephritic syndrome	892	173689	1.0316	1
+N14_NEPHROTICSYND	Nephrotic syndrome	369	173689	0.9972	3
+N14_NEUROMUSCDYSBLADD	Neuromuscular dysfuntion of bladder	932	158826	1.0407	0
+N14_OBSTRUREFLUROPATH	Other obstructive and reflux uropathy	1253	163763	1.0245	0
+N14_OLIGOMEN	Oligomenorrhoea	464	57407	1.0136	0
+N14_ORHCEPINDIDYMITIS	Orchitis and epididymitis	978	59455	1.0412	0
+N14_OTHBLADD	Other disorders of  bladder	1142	158826	1.035	0
+N14_OTHDISMALEGEN	Other disorders of male genital organs	361	59455	0.98561	0
+N14_OTHETNASKIDUR	Other specified disorders of kidney and ureter	310	175722	0.95593	0
+N14_OTHFEMPELINF	Other female pelvic inflammatory diseases	2311	91131	1.0316	0
+N14_OTHINFVAGVULV	Other inflammation of vagina/vulva	416	91131	1.0094	0
+N14_OTHNONINFCERVIX	Other noninflammatory disorders of cervix uteri	654	57407	1.0345	0
+N14_OTHNONINFOVA	Other and unspesified noninflammatory disorders of ovary, fallopian tube and broad ligament	307	57407	0.97001	1
+N14_OTHNONINFUTER	Other noninflammatory disorders of uterus, except cervix	4360	57407	1.0369	2
+N14_OTHNONINFVAG	Other noninflammatory disorders of vagina	983	57407	1.0407	0
+N14_OTHNONINFVULV	Other noninflammatory disorders of vulva and perineum	946	57407	1.0393	0
+N14_OTHPENIS	Other disorders of penis	984	59455	1.0489	0
+N14_OVARTORS	Torsion of ovary, ovarian pedicle and fallobian tube	227	57407	0.91065	0
+N14_OVARYCYST	Ovarian cyst	8345	57407	1.0316	1
+N14_PHIMOSIS	Redundant prepuce, phimosis and paraphimosis	2871	59455	1.0302	1
+N14_POLYPFEMGEN	Polyp of the female genital tract	5952	57407	1.0383	1
+N14_POSTMENATRVAG	Postmenopausal atrophic vaginitsi	439	57407	1.0131	1
+N14_POSTMENBLEED	Postmenopausal bleeding	4650	57407	1.0297	0
+N14_PROHERNOV	Prolapse and hernia of ovary and fallopian tube	651	57407	1.0283	0
+N14_PROSTAOTH	Other disorders of prostate	349	59455	0.97275	0
+N14_PROSTATITIS	Inflammatory diseases of prostate (prostatitis)	1447	59455	1.0316	0
+N14_PROSTHYPERPLA	Hyperplasia of prostate	9805	59455	1.046	7
+N14_PYELONEPHR	Acute tubulo-interstitial nephritis	8457	163763	1.0019	1
+N14_RECURANDPERHEAMATUR	Recurrent and persistent haematuria	225	173689	0.90153	0
+N14_RENALTUB	Renal tubulo-intestitial diseases	13136	163763	1.0019	1
+N14_RENALTUBULOOTH	Other renal tubulo-interstitial diseases	281	163763	0.95232	0
+N14_RENFAIL	Renal failure	4154	172745	1.0316	1
+N14_RENFAILNAS	Unspesified kidney failure	711	172745	1.0369	2
+N14_SALPHOOPH	Salphingitis and oophoritis	2607	91131	1.0278	0
+N14_SPERMATOCELE	Spermatocele	837	59455	1.0494	1
+N14_TORSIOTEST	Torsion of testis	247	59455	0.91022	0
+N14_TUBULOINTNEPHRNAS	Tubulo-interstitial nephritis, not spesified as acute or chronic	845	163763	1.035	1
+N14_ULCERVAGVUL	Ulcer of vagina/vulva	157	91131	0.81574	0
+N14_URETHRALSTRICT	Urethral stricture	569	158826	1.0188	1
+N14_URETHRAOTH	Other disorders of urethra and urinary system	12186	158826	1.0436	0
+N14_URETHRITISANDURSYNDR	Urehtritis and urethral syndrome	238	158826	0.91196	0
+N14_URINOTH	Other diseases of urinary system	18073	158826	1.0494	0
+N14_UROLITHIASIS	Urolithiasis	4142	172757	1.0369	5
+N14_VAGINITIS	Vaginitis/vulvovaginitis/vulvitis/abscess of vulva	1560	91131	1.0245	0
+N14_VULVOVAGINFINOTH	Vulvovaginal ulceration/inflammation in other diseases	473	91131	1.0264	0
+NAFLD	Nonalcoholic fatty liver disease	651	176248	1.0393	2
+NECROVASC_FG	Other necrotizing vasculopathies (FG)	588	141876	1.0302	1
+NEURODEGOTH	Other degenerative diseases of the nervous system	4454	113935	1.0005	4
+NIV	Non-invasive ventilation	365	90980	0.99302	0
+NONALLERG_ASTHMA	Non-allergic asthma (mode)	2879	113428	1.0412	0
+NONALLERG_ASTHMA_EXMORE	Non-allergic asthma (mode) (more controls excluded)	2879	110120	1.0398	0
+O15_ABORT_FAILED	Failed attempted abortion	138	84564	0.78345	2
+O15_ABORT_MEDICAL	Medical abortion	8331	84564	1.0571	0
+O15_ABORT_SPONTAN	Spontaneous abortion	4468	84564	1.0254	1
+O15_ABORT_UNS	Unspecified abortion	621	84564	1.0383	1
+O15_AMNIOT_OTHER	Other disorders of amniotic fluid and membranes	1359	85851	1.0369	0
+O15_ANTENAT_ABNORM	Abnormal findings on antenatal screening of mother	648	91139	1.0359	1
+O15_ANTEPART_HAEM_NAS	Antepartum haemorrhage, not elsewhere classified	869	85851	1.0398	0
+O15_BIRTH_BREAT_INFECT	Infections of breast associated with childbirth	298	98398	0.94873	1
+O15_BREAST_LACT_OTHER_DIS	Other disorders of breast and lactation associated with childbirth	129	98398	0.76706	1
+O15_COMPLIC_ABORT_ECTOP_MOLAR	Complications following abortion and ectopic and molar pregnancy	123	84564	0.77562	0
+O15_COMPLIC_LAB_DELIV	Complications of labour and delivery	15255	85106	1.0297	0
+O15_COMPLIC_PUERP	Complications predominantly related to the puerperium	1963	98398	1.0245	0
+O15_CONCEPT_ABNORM	Other abnormal products of conception	4554	84564	1.0245	0
+O15_DELIVERY	Delivery	31790	68571	1.0297	0
+O15_DELIV_CAESAR	Single delivery by caesarean section	4164	68571	1.035	0
+O15_DELIV_FORCEP_VAC	Single delivery by forceps and vacuum extractor	2461	68571	1.0378	0
+O15_DELIV_MULTIP	Multiple delivery	633	68571	1.0321	0
+O15_DELIV_OTHER_ASSIST	Other assisted single delivery	133	68571	0.7866	0
+O15_DELIV_PERIN_LACER	Perineal laceration during delivery	1395	85106	1.0489	0
+O15_DELIV_SPONT	Single spontaneous delivery	27762	68571	1.0345	0
+O15_EXCESS_VOMIT_PREG	Excessive vomiting in pregnancy	626	91139	1.0311	0
+O15_EXIST_HYPERT_COMPLIC	Pre-existing hypertension complicating pregnancy, childbirth and the puerperium	872	96440	1.0542	1
+O15_FAILED_INDUCT	Failed induction of labour	400	85106	1.0037	0
+O15_FALSE_LAB	False labour	5001	85851	1.0422	0
+O15_GESTAT_HYPERT	Gestational [pregnancy-induced] hypertension	1856	96440	1.045	0
+O15_GESTAT_OEDEM_PREINUR	Gestational [pregnancy-induced] oedema and proteinuria without hypertension	339	96440	0.97825	0
+O15_HAEMORRH_EARLY_PREG	Haemorrhage in early pregnancy	2375	91139	1.0259	0
+O15_HYPTENSPREG	Pregnancy hypertension	6120	94241	1.0542	6
+O15_ICP	Intrahepatic Cholestasis of Pregnancy (ICP)	740	99621	1.046	7
+O15_LABOUR_ABNORM_FORCES	Abnormalities of forces of labour	1358	85106	1.034	1
+O15_LABOUR_FETAL_STRESS	Labour and delivery complicated by fetal stress [distress]	2693	85106	1.0321	0
+O15_LABOUR_INTRAPART_HAEMORRH	Labour and delivery complicated by intrapartum haemorrhage, not elsewhere classified	133	85106	0.78976	0
+O15_LABOUR_LONG	Long labour	2433	85106	1.035	0
+O15_LABOUR_MALPOS	Obstructed labour due to malposition and malpresentation of fetus	2761	85106	1.0259	1
+O15_LABOUR_OBSTR_OTHER	Other obstructed labour	516	85106	1.0245	0
+O15_LABOUR_OTHER	Other complications of labour and delivery, not elsewhere classified	819	85106	1.0412	1
+O15_LABOUR_PELVIC_ABNORM	Obstructed labour due to maternal pelvic abnormality	1287	85106	1.0398	0
+O15_LABOUR_UMBILICAL	Labour and delivery complicated by umbilical cord complications	389	85106	0.9907	0
+O15_MATERN_CARE	Maternal care related to the fetus and amniotic cavity and possible delivery problems	14510	85851	1.0489	0
+O15_MATERN_CARE_DISPROP	Maternal care for known or suspected disproportion	528	85851	1.0259	0
+O15_MATERN_CARE_FETAL_ABNORM	Maternal care for known or suspected fetal abnormality and damage	1738	85851	1.0288	0
+O15_MATERN_CARE_OTHER	Maternal care for other known or suspected fetal problems	3017	85851	1.034	1
+O15_MATERN_CARE_PELVIC_ABNORM	Maternal care for known or suspected abnormality of pelvic organs	2965	85851	1.0426	2
+O15_MATERN_HYPERT_UNS	Unspecified maternal hypertension	114	96440	0.66747	0
+O15_MATERN_INFECT_ELSEWHERE	Maternal infectious and parasitic diseases classifiable elsewhere but complicating pregnancy, childbirth and  the puerperium	206	96800	0.88731	0
+O15_MAT_CARE_MALPRESENT	Maternal care for known or suspected malpresentation of fetus	2073	85851	1.035	0
+O15_MEMBR_PREMAT_RUPT	Premature rupture of membranes	2089	85851	1.0446	0
+O15_MULTIP_GEST	Multiple gestation	939	85851	1.0307	0
+O15_OBSTET_NAS	Other obstetric conditions, not elsewhere classified	3561	96800	1.0369	1
+O15_OBSTET_TRAUMA_OTHER	Other obstetric trauma	528	85106	1.0254	0
+O15_OEDEM_PROTUR_HYPERT	Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium	3921	96440	1.0436	4
+O15_OTHER_MATERN_DIS_ELSEWHERE	Other maternal diseases classifiable elsewhere but complicating pregnancy, childbirth and the puerperium	3403	96800	1.0417	0
+O15_PLAC_PRAEVIA	Placenta praevia	444	85851	1.0136	1
+O15_PLAC_PREMAT_SEPAR	Premature separation of placenta [abruptio placentae]	249	85851	0.91941	0
+O15_POLYHYDR	Polyhydramnios	388	85851	0.99581	1
+O15_POSTPART_HEAMORRH	Postpartum haemorrhage	2540	85106	1.0207	0
+O15_PREECLAMPS	Pre-eclampsia	1801	96440	1.0402	0
+O15_PREG_ABORT	Pregnancy with abortive outcome	15797	84564	1.0378	0
+O15_PREG_BIRTH_PUERP	Pregnancy, childbirth and the puerperium	40728	59633	1.0164	0
+O15_PREG_DM	Diabetes mellitus in pregnancy	4451	91139	1.0383	4
+O15_PREG_ECTOP	Ectopic pregnancy	1584	84564	1.0269	0
+O15_PREG_GU_INFECT	Infections of genitourinary tract in pregnancy	491	91139	1.0047	0
+O15_PREG_HYDAT	Hydatidiform mole	117	84564	0.74595	0
+O15_PREG_MATERN_CARE	Maternal care for other conditions predominantly related to pregnancy	2427	91139	1.0354	0
+O15_PREG_OTHER_MAT_DISORD	Other maternal disorders predominantly related to pregnancy	9222	91139	1.045	4
+O15_PREG_PROLONGED	Prolonged pregnancy	1417	85851	1.0426	0
+O15_PREG_VENOUS_HAEMORRH	Venous complications and haemorrhoids in pregnancy	161	91139	0.82588	1
+O15_PRETERM	Preterm labour and delivery	2990	85106	1.0098	0
+O15_PRE_OR_ECLAMPSIA	Pre-eclampsia or eclampsia	3130	95197	1.035	1
+O15_PUERP_COMPL_NAS	Complications of the puerperium, not elsewhere classified	416	98398	0.98977	0
+O15_PUERP_INFECT_OTHER	Other puerperal infections	606	98398	1.0378	0
+O15_PUERP_SEPSIS	Puerperal sepsis	574	98398	1.0383	1
+O15_RETAINED_PLAC_MEMB_NO_HEAMORRH	Retained placenta and membranes, without haemorrhage	803	85106	1.034	0
+OFFICIAL_TILASTOKESKUS	Alcohol related diseases, tilastokeskus definition	9537	167362	1.0757	1
+OFFICIAL_TILASTOKESKUS_DEATH	Alcohol related diseases, tilastokeskus definition, death only	821	176078	1.0417	0
+OPER_COLECTOMY	Colectomy operation	1445	175454	1.0283	1
+OPER_TOTAL_COLECTOMY	Total colectomy operation	401	176498	0.9986	0
+OSTEOPOROSIS_FRACTURE_FG	Osteoporosis with pathological fracture (FG)	591	141876	1.0326	0
+OSTPOPATFRACTURE	Drug-induced osteoporosis with pathological fracture	109	176308	0.73046	0
+OSTPOPATFRCTURE_POSTEMENO	Postmenopausal osteoporosis with pathological fracture	469	99824	1.0226	0
+OTHER_ILD_CVD_COMORB	Other ILD-related CVD-co-morbidities	3260	114642	1.0269	4
+OTHER_SYSTCON_FG	Other systemic involvement of connective tissue (FG)	3076	141876	1.0292	3
+P16_DISORD_RELATED_GESTATION_LOW_BIRTHWGHTT_NECIFIED	Disorders related to short gestation and low birth weight, not elsewhere classified	172	176698	0.86187	0
+P16_DISORD_RELATED_LENGTH_GESTATION_FETAL_GROWTH	Disorders related to length of gestation and fetal growth	201	176698	0.89375	0
+P16_HAEMORRHAGIC_HAEMATOL_DISORD_FETUS_NEWBO	Haemorrhagic and haematological disorders of fetus and newborn	113	176786	0.76513	1
+P16_RESPI_CARDIOV_DISORD_SPECIFIC_PERINA_PERIOD	Respiratory and cardiovascular disorders specific to the perinatal period	159	176740	0.83571	0
+P16_RESPI_DISTR_NEWBO	Respiratory distress of newborn	106	176740	0.75281	0
+PAIN	Pain (limb, back, neck, head abdominally)	67553	109000	1.1551	6
+PD2ND	Secondary parkinsonism	321	175085	0.96182	0
+PD2ND_EXMORE	Secondary parkinsonism (more controls excluded)	321	94096	0.85517	1
+PDSTRICT	Parkinson's disease, strict definition	1495	175312	1.035	1
+PDSTRICT_EXMORE	Parkinson's disease, strict definition (more controls excluded)	1495	94096	1.0354	2
+PD_DEMENTIA	Dementia due to Parkinsons disease	235	175310	0.90717	0
+PD_DEMENTIA_EXMORE	Dementia due to Parkinsons disease (more controls excluded)	235	94096	0.91109	0
+PNEUMOBACTKNOWN	Bacterial pneumonia (organism specified)	6231	156354	1.0378	0
+PNEUMONIA	Pneumonias (Asthma/COPD co-morbidities)	20545	156249	1.0108	2
+PNEUMO_SEPTHICHE	Pneumococcal septichemia	307	176580	0.96091	0
+POLLENALLERG	Pollen allergy	2284	173573	1.0374	2
+POLYCYTVERA	Polycythaemia vera	288	176259	0.95593	7
+PRIM_COXARTHROSIS	Primary coxarthrosis, bilateral	3123	168949	1.0504	2
+PRIM_KNEEARTHROSIS	Primary gonarthrosis, bilateral	6305	159096	1.0718	13
+PSORI_STRICT	Psoriasis (vulgaris), strict definition	247	171917	0.92513	2
+PSOR_ARTHR_OTH	Other psoriatic arthropathies	1023	175622	1.0508	1
+PSOR_ENTE_ARTHR	Psoriatic and enteropathic arthropathies	1277	141876	1.047	2
+PULM_IMMUNECOMORB	Immune disease comorbidities	14229	84686	1.062	8
+PULM_INFECTIONS	COPD/asthma/ILD related infections	45217	131682	1.0581	1
+PULM_MEDICATIO_COMORB	Medication related adverse effects (Asthma/COPD)	27549	149350	1.0188	4
+PULM_PNEUMONIA_SEPSIS	COPD/asthma/ILD related pneumonia or pneumonia derived septichaemia	20619	131682	1.0212	3
+PULM_PSYCH_COMORB	Psychiatric comorbidites (Asthma/COPD)	29200	84686	1.1011	3
+Q17_CHROMOSOMAL_ABNORMALITI_NOT_ELSEW_CLASSIFIED	Chromosomal abnormalities, not elsewhere classified	143	176756	0.79095	0
+Q17_CLEFT_LIP_CLEFT_PALATE	Cleft lip and cleft palate	130	176769	0.77017	5
+Q17_CONGEN_DEFORMITI_FEET	Congenital deformities of feet	260	175937	0.93576	0
+Q17_CONGEN_DEFORMITI_HIP	Congenital deformities of hip	158	175937	0.83038	1
+Q17_CONGEN_MALFO_AORTIC_MITRAL_VALVES	Congenital malformations of aortic and mitral valves	321	175448	0.96136	0
+Q17_CONGEN_MALFO_BREAST	Congenital malformations of breast	139	175936	0.78779	1
+Q17_CONGEN_MALFO_CARDIAC_SEPTA	Congenital malformations of cardiac septa	612	175448	1.0273	2
+Q17_CONGEN_MALFO_CIRCULATO_SYSTEM	Congenital malformations of the circulatory system	1451	175448	1.0264	0
+Q17_CONGEN_MALFO_DEFORMAT_MUSCULOS_SYSTEM	Congenital malformations and deformations of the musculoskeletal system	962	175937	1.0441	0
+Q17_CONGEN_MALFO_EYE_EAR_FACE_NECK	Congenital malformations of eye, ear, face and neck	772	176127	1.0417	0
+Q17_CONGEN_MALFO_GENITAL_ORGANS	Congenital malformations of genital organs	1046	175853	1.0311	0
+Q17_CONGEN_MALFO_GREAT_ARTERIES	Congenital malformations of great arteries	212	175448	0.89031	1
+Q17_CONGEN_MALFO_MUSCULOS_SYSTEM_NOT_ELSEW_CLASSIFIED	Congenital malformations of the musculoskeletal system, not elsewhere classified	122	175937	0.7509	0
+Q17_CONGEN_MALFO_NERVOUS_SYSTEM	Congenital malformations of the nervous system	187	176712	0.85852	1
+Q17_CONGEN_MALFO_OVARIES_FALLOP_TUBES_BROAD_LIGAM	Congenital malformations of ovaries, fallopian tubes and broad ligaments	580	175853	1.0202	0
+Q17_CONGEN_MALFO_RESPI_SYSTEM	Congenital malformations of the respiratory system	146	176753	0.8109	1
+Q17_CONGEN_MALFO_URINARY_SYSTEM	Congenital malformations of the urinary system	610	176289	1.0586	2
+Q17_CONGEN_MALFO_UTERUS_CERVIX	Congenital malformations of uterus and cervix	183	175853	0.84685	0
+Q17_CONGEN_MUSCULOS_DEFORMITI_HEAD_FACE_SPINE_CHEST	Congenital musculoskeletal deformities of head, face, spine and chest	127	175937	0.7659	1
+Q17_CONGEN_OBSTRUCTIVE_DEFECTS_RENAL_PELVIS_CONGEN_MALFO_URETER	Congenital obstructive defects of renal pelvis and congenital malformations of ureter	176	176289	0.86145	0
+Q17_CYSTIC_KIDNEY_DISEA	Cystic kidney disease	374	176289	0.99581	7
+Q17_OTHER_CONGEN_MALFO	Other congenital malformations	963	175936	1.0412	0
+Q17_OTHER_CONGEN_MALFO_CIRCULATO_SYSTEM	Other congenital malformations of circulatory system	236	175448	0.91371	0
+Q17_OTHER_CONGEN_MALFO_DIGES_SYSTEM1	Other congenital malformations of the digestive system	394	176505	0.9907	6
+Q17_OTHER_CONGEN_MALFO_EAR	Other congenital malformations of ear	141	176127	0.80128	0
+Q17_OTHER_CONGEN_MALFO_FACE_NECK	Other congenital malformations of face and neck	326	176127	0.97733	0
+Q17_OTHER_CONGEN_MALFO_PERIP_VASCULAR_SYSTEM	Other congenital malformations of peripheral vascular system	105	175448	0.72821	0
+Q17_OTHER_CONGEN_MALFO_SKIN	Other congenital malformations of skin	468	175936	1.0235	4
+Q17_OTHER_CONGEN_MALFO_TONGUE_MOUTH_PHARYNX	Other congenital malformations of tongue, mouth and pharynx	124	176505	0.76203	0
+Q17_OTHER_SPECIFE_CONGEN_MALFO_SYNDR_AFFECTING_MULTIPLE_SYSTEMS	Other specified congenital malformation syndromes affecting multiple systems	157	175936	0.8316	0
+Q17_PHAKOMATOSES_NOT_ELSEW_CLASSIFIED	Phakomatoses, not elsewhere classified	113	175936	0.71853	0
+Q17_UNDES_TESTICLE	Undescended testicle	105	175853	0.73572	0
+R18_ABDOMI_PELVIC_PAIN	Abdominal and pelvic pain	38127	133272	1.0866	4
+R18_ABNORMALITI_BREAT	Abnormalities of breathing	19016	134196	1.0738	0
+R18_ABNORMALITI_GAIT_MOBIL	Abnormalities of gait and mobility	952	170085	1.0417	0
+R18_ABNORMALITI_HEART_BEAT	Abnormalities of heart beat	4334	134196	1.0465	1
+R18_ABNORMAL_BLOOD_P_READI_WO_DIAGNOSIS	Abnormal blood-pressure reading, without diagnosis	326	134196	0.97366	0
+R18_ABNORMAL_FINDI_DIAGNOST_IMAGI_BREAST	Abnormal findings on diagnostic imaging of breast	121	170221	0.769	0
+R18_ABNORMAL_FINDI_DIAGNOST_IMAGI_CENTRAL_NERVOUS_SYSTEM	Abnormal findings on diagnostic imaging of central nervous system	270	170221	0.93576	0
+R18_ABNORMAL_FINDI_DIAGNOST_IMAGI_FUNCTION_STUDI_WO_DIAGNOSIS	Abnormal findings on diagnostic imaging and in function studies, without diagnosis	6678	170221	1.0009	0
+R18_ABNORMAL_FINDI_DIAGNOST_IMAGI_LUNG	Abnormal findings on diagnostic imaging of lung	4811	170221	1.007	0
+R18_ABNORMAL_FINDI_DIAGNOST_IMAGI_OTHER_BODY_STRUCTURES	Abnormal findings on diagnostic imaging of other body structures	919	170221	1.0273	0
+R18_ABNORMAL_FINDI_EXAMI_BLOOD_WO_DIAGNOSIS	Abnormal findings on examination of blood, without diagnosis	4920	171979	1.0207	1
+R18_ABNORMAL_FINDI_EXAMI_OTHER_BODY_FLUIDS_SUBST_TISSU_WO_DIAGNOSIS	Abnormal findings on examination of other body fluids, substances and tissues, without diagnosis	7402	169497	1.0212	1
+R18_ABNORMAL_FINDI_EXAMI_URINE_WO_DIAGNOSIS	Abnormal findings on examination of urine, without diagnosis	448	176451	1.0098	1
+R18_ABNORMAL_FINDI_NIPPLE_DISCH_SYNOVIAL_FLUID_WOUND_SECRE	Abnormal findings in nipple discharge synovial fluid wound secretions	112	169497	0.72784	0
+R18_ABNORMAL_FINDI_SECRE_SMEARS_CERVIX_UTERI_VAGINA_VULVA	Abnormal findings in secretions and smears from cervix uteri vagina vulva	6619	169497	1.0197	4
+R18_ABNORMAL_INVOLU_MOVEM	Abnormal involuntary movements	1332	170085	1.0426	0
+R18_ABNORMAL_RESULTS_FUNCTION_STUDI	Abnormal results of function studies	718	170221	1.0407	0
+R18_ABNORMAL_SERUM_ENZYME_LEVELS	Abnormal serum enzyme levels	2925	171979	1.0254	4
+R18_ABNORMAL_SPERMATOZ	Abnormal spermatozoa	595	169497	1.0202	0
+R18_ASCITES	Ascites	526	133272	1.025	3
+R18_CARDIAC_MURMU_OTHER_CARDIAC_SOUNDS	Cardiac murmurs and other cardiac sounds	1025	134196	1.0393	1
+R18_CONVU_NOT_ELSEW_CLASSIFIED	Convulsions, not elsewhere classified	3441	142910	1.0197	0
+R18_COUGH	Cough	5910	134196	1.0388	0
+R18_CRAMP_SPASM	Cramp and spasm	419	175943	1.0169	0
+R18_DISTU_SKIN_SENSA	Disturbances of skin sensation	2842	168625	1.0288	0
+R18_DISTU_SMELL_TASTE	Disturbances of smell and taste	419	159787	1.0136	0
+R18_DIZZI_GIDDI	Dizziness and giddiness	11478	159787	1.0412	2
+R18_DYSPHAGIA	Dysphagia	2525	133272	1.0316	0
+R18_DYSPNOEA	Dyspnoea	12317	164107	1.0552	0
+R18_ELEVATED_BLOOD_GLUCOSE_LEVEL	Elevated blood glucose level	670	171979	1.034	0
+R18_ELEVATED_ERYTHROCYTE_SEDIM_RATE_ABNORMALITY_PLASMA_VISCO	Elevated erythrocyte sedimentation rate and abnormality of plasma viscosity	793	171979	1.045	0
+R18_ENLARGED_LYMPH_NODES	Enlarged lymph nodes	1691	142910	1.0297	0
+R18_FAECAL_INCONTINENCE	Faecal incontinence	884	133272	1.0426	0
+R18_FEVER_OTHER_UNKNO_ORIGIN	Fever of other and unknown origin	6849	142910	1.0042	1
+R18_GENERAL_SYMPTOMS_SIGNS	General symptoms and signs	33989	142910	1.0567	0
+R18_HAEMORRHAGE_NOT_ELSEW_CLASSIFIED	Haemorrhage, not elsewhere classified	276	142910	0.94648	0
+R18_HAEMORRHAGE_RESPI_PASSA	Haemorrhage from respiratory passages	4223	134196	1.0264	0
+R18_HEADACHE1	Headache	10340	142910	1.0586	0
+R18_HEARTBURN	Heartburn	822	133272	1.0407	1
+R18_HEPATOM_SPLENO_NOT_ELSEW_CLASSIFIED	Hepatomegaly and splenomegaly, not elsewhere classified	102	133272	0.72597	0
+R18_HYPERHIDROSIS	Hyperhidrosis	298	142910	0.96409	0
+R18_ILL_D_UNKNO_CAUSES_MORTA	Ill-defined and unknown causes of mortality	316	176583	0.95638	0
+R18_ISOLATED_PROTEINU	Isolated proteinuria	307	176451	0.95684	0
+R18_LACK_EXPEC_NORMAL_PHYSIO_DEVELOPMENT	Lack of expected normal physiological development	279	142910	0.94022	0
+R18_LOCALIZED_SWELL_MASS_LUMP_SKIN_SUBCU_TISSUE	Localized swelling, mass and lump of skin and subcutaneous tissue	3594	168625	1.0231	0
+R18_MALAI_FATIG	Malaise and fatigue	5260	142910	1.016	1
+R18_MOUTH_BREAT	Mouth breathing	5669	170714	1.0446	0
+R18_NAUSEA_VOMITI	Nausea and vomiting	3013	133272	1.035	0
+R18_OEDEMA_NOT_ELSEW_CLASSIFIED	Oedema, not elsewhere classified	3012	142910	1.0273	2
+R18_OTHER_ABNORMALITI_PLASMA_PROTEINS	Other abnormalities of plasma proteins	110	171979	0.73988	0
+R18_OTHER_ABNORMAL_FINDI_BLOOD_CHEMIS	Other abnormal findings of blood chemistry	239	171979	0.89936	1
+R18_OTHER_ABNORMAL_FINDI_URINE	Other abnormal findings in urine	126	176451	0.769	0
+R18_OTHER_ABNORMAL_IMMUNOL_FINDI_SERUM	Other abnormal immunological findings in serum	167	171979	0.85017	0
+R18_OTHER_GENERAL_SYMPTOMS_SIGNS	Other general symptoms and signs	379	142910	0.98561	0
+R18_OTHER_ILL_D_UNSPE_CAUSES_MORTA	Other ill-defined and unspecified causes of mortality	239	176583	0.89763	1
+R18_OTHER_LACK_COORD	Other lack of coordination	149	170085	0.8101	1
+R18_OTHER_SKIN_CHANG	Other skin changes	951	168625	1.0311	0
+R18_OTHER_SYMPTOMS_SIGNS_INVOLVI_CIRCULATO_RESPI_SYSTEMS	Other symptoms and signs involving the circulatory and respiratory systems	524	134196	1.0254	0
+R18_OTHER_SYMPTOMS_SIGNS_INVOLVI_COGNITIVE_FUNCTIONS_AWARE	Other symptoms and signs involving cognitive functions and awareness	5351	159787	1.0273	2
+R18_OTHER_SYMPTOMS_SIGNS_INVOLVI_DIGES_SYSTEM_ABDOMEN	Other symptoms and signs involving the digestive system and abdomen	1903	133272	1.0311	1
+R18_OTHER_SYMPTOMS_SIGNS_INVOLVI_GENERAL_SENSA_PERCEP	Other symptoms and signs involving general sensations and perceptions	358	159787	0.97366	0
+R18_OTHER_SYMPTOMS_SIGNS_INVOLVI_NERVOUS_MUSCULOS_SYSTEMS	Other symptoms and signs involving the nervous and musculoskeletal systems	4736	170085	1.0412	1
+R18_OTHER_SYMPTOMS_SIGNS_INVOLVI_URINARY_SYSTEM	Other symptoms and signs involving the urinary system	748	165187	1.0446	0
+R18_PAIN_ASSOCIATED_W_MICTU	Pain associated with micturition	1156	165187	1.0412	0
+R18_PAIN_NOT_ELSEW_CLASSIFIED	Pain, not elsewhere classified	2728	142910	1.0183	1
+R18_PAIN_THROAT_CHEST	Pain in throat and chest	19156	134196	1.0728	1
+R18_POLYURIA	Polyuria	2485	165187	1.0326	0
+R18_RASH_OTHER_NONSPECIFIC_SKIN_ERUPT	Rash and other nonspecific skin eruption	1235	168625	1.0354	1
+R18_RETEN_URINE	Retention of urine	3603	165187	1.0183	0
+R18_SOMNO_STUPOR_COMA	Somnolence, stupor and coma	501	159787	1.0197	0
+R18_SPEECH_DISTU_NOT_ELSEW_CLASSIFIED	Speech disturbances, not elsewhere classified	742	173185	1.0422	0
+R18_SYMPTOMS_SIGNS_CONCERNI_FOOD_FLUID_INTAKE	Symptoms and signs concerning food and fluid intake	1019	142910	1.0302	0
+R18_SYMPTOMS_SIGNS_INVOLVI_CIRCULATO_RESPI_SYSTEMS	Symptoms and signs involving the circulatory and respiratory systems	42703	134196	1.0951	3
+R18_SYMPTOMS_SIGNS_INVOLVI_COGNITION_PERCEP_EMOTIONAL_STATE_BEHVI	Symptoms and signs involving cognition, perception, emotional state and behaviour	17112	159787	1.0202	1
+R18_SYMPTOMS_SIGNS_INVOLVI_DIGES_SYSTEM_ABDOMEN	Symptoms and signs involving the digestive system and abdomen	43627	133272	1.0836	2
+R18_SYMPTOMS_SIGNS_INVOLVI_EMOTIONAL_STATE	Symptoms and signs involving emotional state	315	159787	0.96136	1
+R18_SYMPTOMS_SIGNS_INVOLVI_NERVOUS_MUSCULOS_SYSTEMS	Symptoms and signs involving the nervous and musculoskeletal systems	6814	170085	1.0374	0
+R18_SYMPTOMS_SIGNS_INVOLVI_SKIN_SUBCU_TISSUE	Symptoms and signs involving the skin and subcutaneous tissue	8274	168625	1.0331	0
+R18_SYMPTOMS_SIGNS_INVOLVI_SPEECH_VOICE	Symptoms and signs involving speech and voice	3714	173185	1	0
+R18_SYMPTOMS_SIGNS_INVOLVI_URINARY_SYSTEM	Symptoms and signs involving the urinary system	11712	165187	1.0273	1
+R18_SYNCO_COLLAP	Syncope and collapse	6227	142910	1.0326	1
+R18_UNKNO_UNSPE_CAUSES_MORBIDI	Unknown and unspecified causes of morbidity	860	142910	1.0431	0
+R18_UNSPE_HAEMATU	Unspecified haematuria	4842	165187	1.0183	0
+R18_UNSPE_JAUND	Unspecified jaundice	521	133272	1.0197	0
+R18_UNSPE_URINARY_INCONTINENCE	Unspecified urinary incontinence	1036	165187	1.0504	0
+R18_VOICE_DISTU	Voice disturbances	2978	173185	1.0221	1
+REAC_ARTHRO_NOS	Other/unspecified reactive arthropathies	732	176053	1.0378	2
+RESPIRATORYINSUFF	Respiratory insufficiency	591	114589	1.0345	1
+RESP_ILL_DIS_CLASS_ELSEWHERE	Respiratory disorders in diseases classified elsewhere	107	176792	0.72001	1
+RHEUMA_ARHTROPAT_REACTIVE	Reactive arthropathies, FINNGEN	846	141876	1.0388	2
+RHEUMA_CHRYSTAL	Chrystal arthropathies, rheuma endpoint	115	141876	0.76011	0
+RHEUMA_ENDPOINTS	Finngen Rheumatological endpoints	35023	141876	1.1111	4
+RHEUMA_NOS	Other/unspecified rheumatoid arthritis	1498	174312	1.0426	6
+RHEUMA_OTHER_WIDE	Other (seronegative) rheumatoid arthritis, wide	2247	174312	1.0307	4
+RHEUMA_SERONEG	Seronegative rheumatoid arthritis	1436	141876	1.0316	2
+RHEUMA_SEROPOS	Seropositive rheumatoid arthritis	3468	141876	1.0417	3
+RHEUMA_SEROPOS_OTH	Other/unspecified seropositiverheumatoid arthritis	3423	173431	1.0402	3
+RHEUMA_SEROPOS_STRICT	Seropositive rheumatoid arthritis, strict definition	788	173572	1.0465	2
+RHEUMA_SEROPOS_WIDE	Seropositive rheumatoid arthritis, wide	3466	173431	1.0417	3
+RHEU_ARTHRITIS_OTH	Other arthritis (FG)	3776	141876	1.0169	3
+RHINITIS_VASOMOTOR	Vasomotor rhinitis (mode)	744	174935	1.0359	1
+RX_STATIN	Statin medication	53518	123381	1.1792	84
+SCND_OTH_COXARTHROSIS	Other secondary coxarthrosis	326	168949	0.96318	0
+SCND_OTH_KNEEARTHROSIS	Other secondary gonarthrosis	488	159096	1.0155	0
+SEPTICHE_PNEUMONIA	Pneumonia derived septichemia	319	131682	0.96864	1
+SFN	Small fibre neuropathy	190	174596	0.86818	1
+SLEEP	Sleep disorders (combined)	13760	161498	1.0886	2
+SLE_FG	SLE (Finngen)	417	141876	1.016	6
+SLE_NOS	Systemic lupus erythematosus, unspecified	339	176482	0.97962	3
+SMOKING	Smoking	948	114589	1.0523	1
+SMOKING_DEPEND	Smoking dependancy	709	175951	1.0441	0
+SPONDYLOARTHRITIS	Spondyloarthritis	2284	161452	1.0359	8
+SPONDYLOPATHY_FG	Spondylopathies (FG)	1689	141876	1.0288	7
+ST19_ADVER_EFFEC_NOT_ELSEW_CLASSIFIED	Adverse effects, not elsewhere classified	2139	173701	1.0292	1
+ST19_ALIQU_COMPLICATI_PRAECO_TRAUMAT	!Aliquae complicationes praecoces traumatis	377	176522	0.987	0
+ST19_BURNS_CORROSIO	Burns and corrosions	1570	175329	1.0326	0
+ST19_BURNS_CORROSIO_CONFIN_EYE_INTERNAL_ORGANS	Burns and corrosions confined to eye and internal organs	330	175329	0.9732	0
+ST19_BURNS_CORROSIO_EXTER_BODY_SURFA_SPECIFE_SITE	Burns and corrosions of external body surface, specified by site	1125	175329	1.0369	0
+ST19_BURNS_CORROSIO_MULTIPLE_UNSPE_BODY_REGIONS	Burns and corrosions of multiple and unspecified body regions	225	175329	0.88817	0
+ST19_BURN_CORROSION_ANKLE_FOOT	Burn and corrosion of ankle and foot	131	176231	0.77445	0
+ST19_BURN_CORROSION_CONFIN_EYE_ADNEXA	Burn and corrosion confined to eye and adnexa	291	176074	0.95323	0
+ST19_BURN_CORROSION_HEAD_NECK	Burn and corrosion of head and neck	227	176135	0.89936	1
+ST19_BURN_CORROSION_HIP_LOWER_LIMB_ANKLE_FOOT	Burn and corrosion of hip and lower limb, except ankle and foot	192	176171	0.86439	0
+ST19_BURN_CORROSION_SHOUL_UPPER_LIMB_WRIST_HAND	Burn and corrosion of shoulder and upper limb, except wrist and hand	186	176176	0.85059	3
+ST19_BURN_CORROSION_TRUNK	Burn and corrosion of trunk	265	176097	0.92205	0
+ST19_BURN_CORROSION_WRIST_HAND	Burn and corrosion of wrist and hand	336	176026	0.98192	0
+ST19_COMPLICATIO_CARDIAC_VASCULAR_PROSTHET_DEVICES_IMPLANTS_GRAFTS	Complications of cardiac and vascular prosthetic devices, implants and grafts	191	162801	0.86945	0
+ST19_COMPLICATIO_FOLLOWI_INFUS_TRANSFU_THERAPE_INJEC	Complications following infusion, transfusion and therapeutic injection	134	162801	0.78267	0
+ST19_COMPLICATIO_GENITO_PROSTHET_DEVICES_IMPLANTS_GRAFTS	Complications of genitourinary prosthetic devices, implants and grafts	221	162801	0.905	0
+ST19_COMPLICATIO_INTERNAL_ORTHOPA_PROSTHET_DEVICES_IMPLANTS_GRAFTS	Complications of internal orthopaedic prosthetic devices, implants and grafts	2292	162801	1.0331	0
+ST19_COMPLICATIO_OTHER_INTERNAL_PROSTHET_DEVICES_IMPLANTS_GRAFTS	Complications of other internal prosthetic devices, implants and grafts	262	162801	0.93132	0
+ST19_COMPLICATIO_PROCED_NOT_ELSEW_CLASSIFIED	Complications of procedures, not elsewhere classified	11191	162801	1.0288	2
+ST19_COMPLICATIO_SURGI_MEDICAL_CARE_NOT_ELSEW_CLASSIFIED	Complications of surgical and medical care, not elsewhere classified	14098	162801	1.0145	0
+ST19_CONCUSSION	Concussion	8136	113935	1.0393	1
+ST19_CONTU_ANKLE	Contusion of ankle	347	167639	0.97504	0
+ST19_CONTU_OTHER_UNSPE_PARTS_FOOT	Contusion of other and unspecified parts of foot	406	167639	1.0051	0
+ST19_CONTU_TOES_WO_DAMAGE_NAIL	Contusion of toe(s) without damage to nail	186	167639	0.85601	0
+ST19_CRUSHI_INJURY_WRIST_HAND	Crushing injury of wrist and hand	130	161655	0.78071	1
+ST19_DIFFU_BRAIN_INJURY	Diffuse brain injury	484	113935	1.0065	0
+ST19_DISLO_SPRAIN_STRAIN_JOINTS_LIGAM_ANKLE_FOOT_LEVEL	Dislocation, sprain and strain of joints and ligaments at ankle and foot level	4539	167639	1.0269	0
+ST19_DISLO_SPRAIN_STRAIN_JOINTS_LIGAM_ELBOW	Dislocation, sprain and strain of joints and ligaments of elbow	642	166893	1.0402	0
+ST19_DISLO_SPRAIN_STRAIN_JOINTS_LIGAM_HEAD	Dislocation, sprain and strain of joints and ligaments of head	416	159846	1.0005	0
+ST19_DISLO_SPRAIN_STRAIN_JOINTS_LIGAM_KNEE	Dislocation, sprain and strain of joints and ligaments of knee	9674	155283	1.0407	0
+ST19_DISLO_SPRAIN_STRAIN_JOINTS_LIGAM_LUMBAR_SPINE_PELVIS	Dislocation, sprain and strain of joints and ligaments of lumbar spine and pelvis	246	172399	0.9159	0
+ST19_DISLO_SPRAIN_STRAIN_JOINTS_LIGAM_NECK_LEVEL	Dislocation, sprain and strain of joints and ligaments at neck level	1641	174391	1.0245	0
+ST19_DISLO_SPRAIN_STRAIN_JOINTS_LIGAM_SHOUL_GIRDLE	Dislocation, sprain and strain of joints and ligaments of shoulder girdle	3597	164456	1.0359	0
+ST19_DISLO_SPRAIN_STRAIN_JOINTS_LIGAM_THORAX	Dislocation, sprain and strain of joints and ligaments of thorax	238	171641	0.91109	0
+ST19_DISLO_SPRAIN_STRAIN_JOINTS_LIGAM_WRIST_HAND_LEVEL	Dislocation, sprain and strain of joints and ligaments at wrist and hand level	3332	161655	1.0202	0
+ST19_DISLO_SPRAIN_STRAIN_JOINT_LIGAM_HIP	Dislocation, sprain and strain of joint and ligaments of hip	299	171283	0.95684	1
+ST19_EARLY_COMPLICATIO_TRAUMA	Early complications of trauma	377	176522	0.987	0
+ST19_EFFEC_FOREI_BODY_ENTERING_NATURAL_ORIFI	Effects of foreign body entering through natural orifice	3074	173825	1.0094	2
+ST19_EFFEC_OTHER_EXTER_CAUSES	Effects of other external causes	254	173701	0.91765	1
+ST19_EPIDU_HAEMORRHAGE	Epidural haemorrhage	104	113935	0.72038	0
+ST19_FOCAL_BRAIN_INJURY	Focal brain injury	794	113935	1.0407	0
+ST19_FOREI_BODY_ALIME_TRACT	Foreign body in alimentary tract	549	173825	1.0278	11
+ST19_FOREI_BODY_EAR	Foreign body in ear	167	173825	0.84065	0
+ST19_FOREI_BODY_EXTER_EYE	Foreign body on external eye	1798	173825	1.0288	2
+ST19_FOREI_BODY_RESPI_TRACT	Foreign body in respiratory tract	549	173825	1.0197	2
+ST19_FRACT_FEMUR	Fracture of femur	3065	171283	1.016	0
+ST19_FRACT_FOOT_ANKLE	Fracture of foot, except ankle	2707	167639	1.024	0
+ST19_FRACT_FOREA	Fracture of forearm	7714	166893	1.0436	6
+ST19_FRACT_LOWER_LEG_INCLU_ANKLE	Fracture of lower leg, including ankle	8174	155283	1.0407	2
+ST19_FRACT_LUMBAR_SPINE_PELVIS	Fracture of lumbar spine and pelvis	2163	172399	1.0316	0
+ST19_FRACT_NECK	Fracture of neck	479	174391	1.0019	0
+ST19_FRACT_RIBS_STERNUM_THORACIC_SPINE	Fracture of rib(s), sternum and thoracic spine	3064	171641	1.0188	1
+ST19_FRACT_SHOUL_UPPER_ARM	Fracture of shoulder and upper arm	4443	164456	1.0326	0
+ST19_FRACT_SKULL_FACIAL_BONES	Fracture of skull and facial bones	2558	159846	1.0212	0
+ST19_FRACT_WRIST_HAND_LEVEL	Fracture at wrist and hand level	4415	161655	1.024	2
+ST19_FROSTBITE	Frostbite	116	176783	0.74747	0
+ST19_HYPOTHERMIA	Hypothermia	172	173701	0.83324	1
+ST19_ICTRAUOTHUNS	Other and unspecified intracranial injuries	277	166864	0.93888	0
+ST19_INJURI_ABDOMEN_LOWER_BACK_LUMBAR_SPINE_PELVIS	Injuries to the abdomen, lower back, lumbar spine and pelvis	4500	172399	1.0103	1
+ST19_INJURI_ANKLE_FOOT	Injuries to the ankle and foot	9260	167639	1.0383	2
+ST19_INJURI_ELBOW_FOREA	Injuries to the elbow and forearm	10006	166893	1.0441	2
+ST19_INJURI_HEAD	Injuries to the head	17053	159846	1.0212	0
+ST19_INJURI_HIP_THIGH	Injuries to the hip and thigh	5616	171283	1.0122	0
+ST19_INJURI_INVOLVI_MULTIPLE_BODY_REGIONS	Injuries involving multiple body regions	313	176586	0.95548	0
+ST19_INJURI_KNEE_LOWER_LEG	Injuries to the knee and lower leg	21616	155283	1.025	1
+ST19_INJURI_NECK	Injuries to the neck	2508	174391	1.0127	0
+ST19_INJURI_SHOUL_UPPER_ARM	Injuries to the shoulder and upper arm	12443	164456	1.0374	2
+ST19_INJURI_THORAX	Injuries to the thorax	5258	171641	1.0188	0
+ST19_INJURI_UNSPE_PART_TRUNK_LIMB_BODY_REGION	Injuries to unspecified part of trunk, limb or body region	769	176130	1.0393	0
+ST19_INJURI_WRIST_HAND	Injuries to the wrist and hand	15244	161655	1.0446	2
+ST19_INJURY_EYE_ORBIT	Injury of eye and orbit	1761	159846	1.0245	0
+ST19_INJURY_INTRA_AB_ORGANS	Injury of intra-abdominal organs	258	172399	0.92117	0
+ST19_INJURY_MUSCLE_TENDON_ANKLE_FOOT_LEVEL	Injury of muscle and tendon at ankle and foot level	226	167639	0.89203	0
+ST19_INJURY_MUSCLE_TENDON_FOREA_LEVEL	Injury of muscle and tendon at forearm level	188	166893	0.84976	0
+ST19_INJURY_MUSCLE_TENDON_HIP_THIGH_LEVEL	Injury of muscle and tendon at hip and thigh level	803	171283	1.0398	0
+ST19_INJURY_MUSCLE_TENDON_LOWER_LEG_LEVEL	Injury of muscle and tendon at lower leg level	1700	155283	1.0311	0
+ST19_INJURY_MUSCLE_TENDON_SHOUL_UPPER_ARM_LEVEL	Injury of muscle and tendon at shoulder and upper arm level	4444	164456	1.0465	0
+ST19_INJURY_MUSCLE_TENDON_WRIST_HAND_LEVEL	Injury of muscle and tendon at wrist and hand level	1686	161655	1.0278	1
+ST19_INJURY_NERVES_FOREA_LEVEL	Injury of nerves at forearm level	133	166893	0.78228	1
+ST19_INJURY_NERVES_LOWER_LEG_LEVEL	Injury of nerves at lower leg level	102	155283	0.71113	1
+ST19_INJURY_NERVES_SPINAL_CORD_NECK_LEVEL	Injury of nerves and spinal cord at neck level	183	174391	0.85517	0
+ST19_INJURY_NERVES_WRIST_HAND_LEVEL	Injury of nerves at wrist and hand level	423	161655	1	0
+ST19_INJURY_OTHER_UNSPE_INTRAT_ORGANS	Injury of other and unspecified intrathoracic organs	606	171641	1.0231	0
+ST19_INJURY_UNSPE_BODY_REGION	Injury of unspecified body region	566	176130	1.025	0
+ST19_INJURY_URINARY_PELVIC_ORGANS	Injury of urinary and pelvic organs	187	172399	0.85434	0
+ST19_INTRACRATRAUMA	Intracranial trauma	10035	113935	1.0374	1
+ST19_INTRACR_INJURY	Intracranial injury	7340	159846	1.0221	0
+ST19_MALTR_SYNDR	Maltreatment syndromes	489	173701	1.0221	1
+ST19_OPEN_WOUND_ABDOMEN_LOWER_BACK_PELVIS	Open wound of abdomen, lower back and pelvis	299	172399	0.95007	1
+ST19_OPEN_WOUND_ANKLE_FOOT	Open wound of ankle and foot	977	167639	1.0422	0
+ST19_OPEN_WOUND_FOREA	Open wound of forearm	855	166893	1.0402	0
+ST19_OPEN_WOUND_HEAD	Open wound of head	6146	159846	1.0283	1
+ST19_OPEN_WOUND_HIP_THIGH	Open wound of hip and thigh	306	171283	0.95864	1
+ST19_OPEN_WOUND_LOWER_LEG	Open wound of lower leg	1382	155283	1.0297	0
+ST19_OPEN_WOUND_SHOUL_UPPER_ARM	Open wound of shoulder and upper arm	170	164456	0.83817	1
+ST19_OPEN_WOUND_THORAX	Open wound of thorax	167	171641	0.82222	0
+ST19_OPEN_WOUND_WRIST_HAND	Open wound of wrist and hand	5361	161655	1.035	0
+ST19_OTHER_COMPLICATIO_SURGI_MEDICAL_CARE_NOT_ELSEW_CLASSIFIED	Other complications of surgical and medical care, not elsewhere classified	782	162801	1.0426	0
+ST19_OTHER_SPECIFE_INJURI_HIP_THIGH1	Other and specified injuries of hip and thigh	170	171283	0.83653	0
+ST19_OTHER_UNSPE_EFFEC_EXTER_CAUSES	Other and unspecified effects of external causes	3198	173701	1.0307	0
+ST19_OTHER_UNSPE_INJURI_ABDOMEN_LOWER_BACK_PELVIS	Other and unspecified injuries of abdomen, lower back and pelvis	120	172399	0.75972	0
+ST19_OTHER_UNSPE_INJURI_ANKLE_FOOT	Other and unspecified injuries of ankle and foot	352	167639	0.99163	1
+ST19_OTHER_UNSPE_INJURI_HEAD	Other and unspecified injuries of head	354	159846	0.98885	0
+ST19_OTHER_UNSPE_INJURI_LOWER_LEG	Other and unspecified injuries of lower leg	617	155283	1.0374	0
+ST19_OTHER_UNSPE_INJURI_SHOUL_UPPER_ARM	Other and unspecified injuries of shoulder and upper arm	215	164456	0.89332	0
+ST19_OTHER_UNSPE_INJURI_THORAX	Other and unspecified injuries of thorax	138	171641	0.79769	0
+ST19_OTHER_UNSPE_INJURI_WRIST_HAND	Other and unspecified injuries of wrist and hand	316	161655	0.9591	0
+ST19_POISO_DRUGS_MEDICAM_BIOLO_SUBST	Poisoning by drugs, medicaments and biological substances	3783	173116	1.0393	0
+ST19_POISO_MEDICI	Poisoning by medicine	3356	173116	1.0388	0
+ST19_POISO_NARCOT_PSYCHOD_HALLUCINOG	Poisoning by narcotics and psychodysleptics [hallucinogens]	170	173116	0.82507	0
+ST19_POST_TRAU_WOUND_INFECTION_NOT_ELSEW_CLASSIFIED	Post-traumatic wound infection, not elsewhere classified	200	176522	0.87707	0
+ST19_SEQUEL_INJURI_HEAD	Sequelae of injuries of head	512	173902	1.0202	0
+ST19_SEQUEL_INJURI_LOWER_LIMB	Sequelae of injuries of lower limb	1162	173902	1.0354	0
+ST19_SEQUEL_INJURI_NECK_TRUNK	Sequelae of injuries of neck and trunk	265	173902	0.93621	1
+ST19_SEQUEL_INJURI_POISO_OTHER_CONSE_EXTER_CAUSES	Sequelae of injuries, of poisoning and of other consequences of external causes	2997	173902	1.016	0
+ST19_SEQUEL_INJURI_UPPER_LIMB	Sequelae of injuries of upper limb	1080	173902	1.0359	0
+ST19_SUPERF_INJURI_INVOLVI_MULTIPLE_BODY_REGIONS	Superficial injuries involving multiple body regions	206	176586	0.8792	0
+ST19_SUPERF_INJURY_ABDOMEN_LOWER_BACK_PELVIS	Superficial injury of abdomen, lower back and pelvis	1490	172399	1.0354	1
+ST19_SUPERF_INJURY_ANKLE_FOOT	Superficial injury of ankle and foot	1098	167639	1.0331	0
+ST19_SUPERF_INJURY_FOREA	Superficial injury of forearm	914	166893	1.0479	0
+ST19_SUPERF_INJURY_HEAD	Superficial injury of head	2144	159846	1.0302	2
+ST19_SUPERF_INJURY_HIP_THIGH	Superficial injury of hip and thigh	1376	171283	1.0302	0
+ST19_SUPERF_INJURY_LOWER_LEG	Superficial injury of lower leg	2476	155283	1.0331	1
+ST19_SUPERF_INJURY_NECK	Superficial injury of neck	186	174391	0.85517	0
+ST19_SUPERF_INJURY_SHOUL_UPPER_ARM	Superficial injury of shoulder and upper arm	1048	164456	1.0383	1
+ST19_SUPERF_INJURY_THORAX	Superficial injury of thorax	1610	171641	1.0269	1
+ST19_SUPERF_INJURY_WRIST_HAND	Superficial injury of wrist and hand	1926	161655	1.0393	1
+ST19_TOXIC_EFFECT_ALCOHOL	Toxic effect of alcohol	285	175509	0.9269	0
+ST19_TOXIC_EFFECT_CARBON_MONOX	Toxic effect of carbon monoxide	171	175509	0.82426	0
+ST19_TOXIC_EFFECT_CONTACT_W_VENOMO_ANIMALS	Toxic effect of contact with venomous animals	365	175509	0.98885	0
+ST19_TOXIC_EFFECT_ETHAN	Toxic effect of ethanol	554	176345	1.0273	0
+ST19_TOXIC_EFFECT_OTHER_UNSPE_SUBST	Toxic effect of other and unspecified substances	138	175509	0.7764	0
+ST19_TOXIC_EFFEC_SUBST_CHIEF_NONME_SOURCE	Toxic effects of substances chiefly nonmedicinal as to source	1390	175509	1.0292	0
+ST19_TRAUMAT_AMPUT_WRIST_HAND	Traumatic amputation of wrist and hand	478	161655	1.0145	0
+ST19_TRAUMAT_ISCHA_MUSCLE	Traumatic ischaemia of muscle	144	176522	0.78582	0
+ST19_TRAUMAT_SUBAR_HAEMORRHAGE	Traumatic subarachnoid haemorrhage	269	113935	0.9331	0
+ST19_TRAUMAT_SUBDU_HAEMORRHAGE	Traumatic subdural haemorrhage	1160	113935	1.0398	1
+STILL_ADULT	Adult-onset Still disease	2587	161452	1.0311	7
+T1D	Type1 diabetes, definitions combined	2298	147723	0.9732	6
+T1D_STRICT	Type 1 diabetes, strict definition	2014	147723	0.96272	8
+T1D_STRICT1	Type 1 diabetes, strict definition, subgroup 1	1785	146313	0.96955	8
+T1D_WIDE	Type 1 diabetes, wide definition	5657	147723	1.0042	12
+T1D_WIDE1	Type 1 diabetes, wide definition, subgroup 1	3963	146313	0.98285	13
+T1D_WIDE2	Type 1 diabetes, wide definition, subgroup 2	188	146313	0.85642	2
+T2D	Type 2 diabetes, definitions combined	23364	147723	1.1792	47
+T2D_WIDE	Type 2 diabetes, wide definition	13418	149703	1.1116	22
+TBC_RESP	Respiratory tuberculosis	683	175961	1.0407	2
+TEMPOROMANDIB	Temporomandibular joint disorders	2105	109346	1.0311	1
+THROMBOCYTAEMIA	Essential (haemorrhagic) thrombocythaemia	280	176259	0.94156	1
+THYROIDITIS	Thyroiditis	752	173061	1.0446	3
+THYROID_DISORDER_IBD	Disorders of thyroid, IBD co-morbidities	3838	54876	1.0402	9
+THYROTOXICOSIS	Thyrotoxicosis	3076	173061	1.046	9
+TONGUEABNORMALITY	Tongue abnormality	599	176300	1.0292	0
+TRAUMBRAIN_NONCONCUS	severe traumatic brain injury, does not include concussion	2296	174603	1.0231	0
+TUBERCULOSIS	Tuberculosis	801	176098	1.0465	1
+ULCERENTER	Ulcerative enterocolitis	375	170386	0.99163	2
+ULCERILEO	Ulcerative ileocolitis	508	170386	1.0393	1
+ULCERNAS	Ulcerative colitis, NAS	1649	170386	1.0465	2
+ULCEROTH	Other ulcerative colitis	609	170386	1.0402	0
+ULCERPROCT	Ulcerative proctitis	663	170386	1.0446	0
+ULCERRECT	Ulcerative rectosigmoiditis	931	170386	1.0499	3
+ULCER_ARTHR	Arthropathy in ulcerative colitis	113	175622	0.74063	1
+VD_MI	Vascular dementia (multiple infarctations)	157	171075	0.83119	0
+VD_SC	Vascular dementia (subcortical)	201	171075	0.87198	1
+VD_U	Vascular dementia (undefined)	332	171075	0.98377	2
+VIRALPNEUMOKNOWN	Viral pneumonia (known virus, not influenza)	453	156354	1.0169	0
+VIRALPNEUMONAS	Viral pneumonia (unknown virus, not influenza)	388	156354	0.98977	1
+VIT_DEF	Vitamin deficiency	470	170203	1.0288	1
+VOCALCORDDYS	Vocal cord dysfunction	366	80365	0.99163	0
+VWXY20_ACCIDENTS	Accidents	1394	175505	1.0475	0
+VWXY20_BLOOD_ALCOHOL_ALCOHOL_INTOX_LEVEL	Blood alcohol or alcohol intoxication level	192	176518	0.85434	1
+VWXY20_EVIDE_ALCOHOL_INVOLVM_DETERM_BLOOD_ALCOHOL_LEVEL	Evidence of alcohol involvement determined by blood alcohol level	105	176257	0.67527	0
+VWXY20_FALL_SAME_LEVEL	Fall on same level	415	133625	1.0019	0
+VWXY20_OTHER_EXTER_CAUSES_ACCIDENTAL_INJURY	Other external causes of accidental injury	1224	175505	1.0455	0
+VWXY20_SUICI_OTHER_INTENTI_SELF_H	Suicide or other Intentional self-harm	40369	136530	1.1026	3
+VWXY20_SUPPLE_FACTO_RELATED_CAUSES_MORBIDI_MORTA_CLASSIFIED_ELSEW	Supplementary factors related to causes of morbidity and mortality classified elsewhere	381	176518	0.98285	0
+VWXY20_TRANSPO_ACCIDENTS	Transport accidents	177	175505	0.81857	0
+VWXY20_TYPE_ACCIDENT	Type of accident	160	176518	0.80568	1
+VWXY20_UNSPE_FALL	Unspecified fall	114	133852	0.71556	0
+VWXY20_VAPAA_TAPATURMAT	!!!Vapaa-ajan tapaturmat	122	176241	0.74215	0
+WEIGHTLOSS	Weight loss	862	176037	1.0345	0
+WET_AMD	Wet age-related macular degeneration	1477	167536	1.0359	6
+Z21_ACQUI_ABSENCE_ORGANS_NOT_ELSEW_CLASSIFIED	Acquired absence of organs, not elsewhere classified	102	159527	0.70306	0
+Z21_ADDIT_CODES_LOCAT_DEFECT_INJURY_ILLNE	Additional codes for the location of defect, injury or illness	386	176513	0.99674	0
+Z21_ADJUS_MANAG_IMPLANTNTED_DEVICE	Adjustment and management of implanted device	1473	158735	1.0259	1
+Z21_ALCOHOL_ABUSE_COUNSELLI_SURVE	Alcohol abuse counselling and surveillance	107	176792	0.71667	2
+Z21_ANTEN_SCREE	Antenatal screening	13491	148885	1.0664	22
+Z21_ARTIF_OPENI_STATUS	Artificial opening status	302	159527	0.95548	0
+Z21_ATTN_ARTIF_OPENI	Attention to artificial openings	241	158735	0.90543	0
+Z21_CARE_INVOLVI_DIALY	Care involving dialysis	797	158735	1.0441	0
+Z21_CARE_INVOLVI_USE_REHAB_PROCED	Care involving use of rehabilitation procedures	8970	158735	1.0576	0
+Z21_CARRIER_INFECTIOUS_DISEA	Carrier of infectious disease	164	175461	0.79095	0
+Z21_CONTACT_W_EXPOS_COMMUNICAB_DISEA	Contact with and exposure to communicable diseases	888	175461	1.0388	0
+Z21_CONTRACEPTIVE_MANAG	Contraceptive management	10056	148885	1.0388	0
+Z21_CONVALESCENCE	Convalescence	604	158735	1.045	1
+Z21_COUNSELLI_RELATED_SEXUAL_ATTIT_BEHVI_ORIEN	Counselling related to sexual attitude, behaviour and orientation	127	156955	0.72336	1
+Z21_DEPENDENCE_ENABL_MACHINES_DEVICES_NOT_ELSEW_CLASSIFIED	Dependence on enabling machines and devices, not elsewhere classified	106	159527	0.71003	1
+Z21_DESEN_ALLERGE	Desensitization to allergens	556	175806	1.0407	0
+Z21_EXAM_ENCOUNTER_ADMINISTR_PURPO	Examination and encounter for administrative purposes	123	99123	0.76242	0
+Z21_EXAM_OBSER_OTH_REASO	Examination and observation for other reasons	10520	99123	1.0826	1
+Z21_FAMILY_HISTORY_CERTA_DISABILITI_CHRONIC_DISEA_LEADI_DISABL	Family history of certain disabilities and chronic diseases leading to disablement	363	159527	1.0009	11
+Z21_FAMILY_HISTORY_MALIG_NEOPLASM	Family history of malignant neoplasm	713	159527	1.0528	7
+Z21_FIT_ADJ_OTH_DEVICES	Fitting and adjustment of other devices	3292	158735	1.0479	0
+Z21_FOLLOW__CARE_INVOLVI_PLASTIC_SURGE	Follow-up care involving plastic surgery	529	158735	1.025	0
+Z21_FOLLOW__EXAM_TREAT_CONDI_OTH_MALIG_NEOPLASMS	Follow-up examination after treatment for conditions other than malignant neoplasms	9872	99123	1.0547	0
+Z21_FOLLOW__EXAM_TREAT_MALIG_NEOPLASMS	Follow-up examination after treatment for malignant neoplasms	1191	99123	1.0378	0
+Z21_GENERAL_EXAM_INVES_PERSONS_WO_COMPLA_REPOR_DIAGNOSIS	General examination and investigation of persons without complaint and reported diagnosis	16589	99123	1.1136	1
+Z21_MEDICAL_OBSER_EVALU_SUSPECTED_DISEA_CONDI	Medical observation and evaluation for suspected diseases and conditions	25671	99123	1.1101	1
+Z21_NEED_IMMUNI_OTH_SINGLE_VIRAL_DISEA	Need for immunization against other single viral diseases	261	175461	0.93265	1
+Z21_OCCUPAT_EXPOS_RISK_	Occupational exposure to risk-factors	290	173018	0.94648	0
+Z21_OTHER_MEDICAL_CARE	Other medical care	2366	158735	1.0273	0
+Z21_OTHER_ORTHOPA_FOLLOW__CARE	Other orthopaedic follow-up care	722	158735	1.0302	0
+Z21_OTHER_POSTS_STATES	Other postsurgical states	570	159527	1.0117	0
+Z21_OTHER_PROBL_RELATED_PRIMARY_SUPPORT_GROUP_INCLU_FAMILY_CIRCUMSTANC	Other problems related to primary support group, including family circumstances	1433	173018	1.0364	0
+Z21_OTHER_SPECIAL_EXAM_INVES_PERSONS_WO_COMPLA_REPOR_DIAGNOSIS	Other special examinations and investigations of persons without complaint or reported diagnosis	40388	99123	1.1248	4
+Z21_OTHER_SURGI_FOLLOW__CARE	Other surgical follow-up care	262	158735	0.92602	0
+Z21_OUTCO_DELIV	Outcome of delivery	4475	148885	1.0513	3
+Z21_PERSONAL_HISTORY_CERTA_OTH_DISEA	Personal history of certain other diseases	122	159527	0.76551	0
+Z21_PERSONAL_HISTORY_MALIG_NEOPLASM	Personal history of malignant neoplasm	199	159527	0.8985	0
+Z21_PERSONAL_HISTORY_OTH_DISEA_CONDI	Personal history of other diseases and conditions	988	159527	1.0345	0
+Z21_PERSONAL_HISTORY_RISK__NOT_ELSEW_CLASSIFIED	Personal history of risk-factors, not elsewhere classified	134	159527	0.76745	0
+Z21_PERSONS_ENCOUNTERI_HEALTH_SERVI_CIRCUMSTANC_RELATED_REPRODUCTION	Persons encountering health services in circumstances related to reproduction	28014	148885	1.0331	0
+Z21_PERSONS_ENCOUNTERI_HEALTH_SERVI_EXAM_INVES	Persons encountering health services for examination and investigation	77776	99123	1.1629	2
+Z21_PERSONS_ENCOUNTERI_HEALTH_SERVI_OTH_CIRCUMSTANC1	Persons encountering health services in other circumstances	19944	156955	1.0664	0
+Z21_PERSONS_ENCOUNTERI_HEALTH_SERVI_OTH_CIRCUMSTANC2	Persons encountering health services in other circumstances	4853	156955	1.0455	2
+Z21_PERSONS_ENCOUNTERI_HEALTH_SERVI_OTH_COUNSELLI_MEDICAL_ADVICE_NOT_ELSEW_CLASSIFIED	Persons encountering health services for other counselling and medical advice, not elsewhere classified	13639	156955	1.0601	0
+Z21_PERSONS_ENCOUNTERI_HEALTH_SERVI_SPECIFIC_PROCED_HEALTH_CARE	Persons encountering health services for specific procedures and health care	18164	158735	1.0364	3
+Z21_PERSONS_ENCOUNTERI_HEALTH_SERVI_SPECIFIC_PROCED_NOT_CARRIED	Persons encountering health services for specific procedures, not carried out	452	158735	1.0141	0
+Z21_PERSONS_W_POTEN_HEALTH_HAZARDS_RELATED_COMMUNICAB_DISEA	Persons with potential health hazards related to communicable diseases	1438	175461	1.0331	0
+Z21_PERSONS_W_POTEN_HEALTH_HAZARDS_RELATED_FAMILY_PERSONAL_HISTORY_CERTA_CONDI_INFLUENCI_HEALTH_STATUS	Persons with potential health hazards related to family and personal history and certain conditions influencing health status	17372	159527	1.0117	2
+Z21_PERSONS_W_POTEN_HEALTH_HAZARDS_RELATED_SOCIO_PSYCHOSO_CIRCUMSTANC	Persons with potential health hazards related to socioeconomic and psychosocial circumstances	3881	173018	1.0359	2
+Z21_POSTPA_CARE_EXAMI	Postpartum care and examination	2163	148885	1.0297	3
+Z21_PREGNAC_EXAM_TEST	Pregnancy examination and test	3729	148885	1.0326	1
+Z21_PRESENCE_CARDIAC_VASCULAR_IMPLANTNTS_GRAFTS	Presence of cardiac and vascular implants and grafts	5991	159527	1.0417	3
+Z21_PRESENCE_OTH_DEVICES	Presence of other devices	2065	159527	1.0378	1
+Z21_PRESENCE_OTH_FUNCTIONAL_IMPLANTNTS	Presence of other functional implants	6234	159527	1.0259	2
+Z21_PROBL_RELATED_CERTA_PSYCHOSO_CIRCUMSTANC	Problems related to certain psychosocial circumstances	1199	173018	1.0388	0
+Z21_PROBL_RELATED_EMPLO_UNEMP	Problems related to employment and unemployment	233	173018	0.86061	0
+Z21_PROBL_RELATED_HOUSI_ECONO_CIRCUMSTANC	Problems related to housing and economic circumstances	158	173018	0.80769	0
+Z21_PROBL_RELATED_LIFESTYLE	Problems related to lifestyle	978	156955	1.0436	0
+Z21_PROBL_RELATED_LIFE_M_DIFFICULTY	Problems related to life-management difficulty	1103	156955	1.0316	0
+Z21_PROBL_RELATED_MEDICAL_FACILITI_OTH_HEALTH_CARE	Problems related to medical facilities and other health care	626	156955	1.0221	0
+Z21_PROBL_RELATED_NEGAT_LIFE_EVENTS_CHILDH	Problems related to negative life events in childhood	200	173018	0.87707	0
+Z21_PROBL_RELATED_SOCIAL_ENVIRONMENT	Problems related to social environment	313	173018	0.94424	0
+Z21_PROCED_PURPO_OTH_REMED_HEALTH_STATE	Procedures for purposes other than remedying health state	308	158735	0.95864	0
+Z21_PROCREATIVE_MANAG	Procreative management	3297	148885	1.0518	1
+Z21_ROUTI_GENERAL_HEALTH_CHECK_DEFIN_SUBPO	Routine general health check-up of defined subpopulation	163	99123	0.78897	0
+Z21_SPECIAL_SCREEN_EXAM_INFECTIOUS_PARASITIC_DISEA	Special screening examination for infectious and parasitic diseases	5246	99123	1.0436	1
+Z21_SPECIAL_SCREEN_EXAM_NEOPLASMS	Special screening examination for neoplasms	493	99123	1.0231	0
+Z21_SPECIAL_SCREEN_EXAM_OTH_DISEA_DISORD	Special screening examination for other diseases and disorders	1276	99123	1.0738	1
+Z21_SUPERV_HIGH_R_PREGNAC	Supervision of high-risk pregnancy	6171	148885	1.0475	2
+Z21_SUPERV_NORMAL_PREGNAC1	Supervision of normal pregnancy	11489	148885	1.0557	22
+Z21_TOBAC_USE	Tobacco use	263	176636	0.92822	1
+Z21_TRANSPLANTED_ORGAN_TISSUE_STATUS	Transplanted organ and tissue status	1022	159527	1.0393	1

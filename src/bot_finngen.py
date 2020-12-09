@@ -19,7 +19,8 @@ class FGPoster(GWASPoster):
             save_file,
             failure_file,
             metadata_file,
-            gwas_dir):
+            gwas_dir,
+            gwas_gs_prefix):
         """Setup and load the data for FinnGen"""
         super().__init__(save_file, failure_file)
 
@@ -29,6 +30,7 @@ class FGPoster(GWASPoster):
 
         # Set data path
         self.gwas_dir = gwas_dir
+        self.gwas_gs_prefix = gwas_gs_prefix
 
         # Get the phenotypes to post
         posted = check_done_pheno(save_file, failure_file)
@@ -42,10 +44,11 @@ class FGPoster(GWASPoster):
         logging.info("Building twitter post for FinnGen")
         meta = self.get_meta(pheno)
 
-        top_variant = find_top_hit(meta["download"])
-        variant_link = f"https://r3.finngen.fi/variant/{top_variant}"
+        gwas_dl = self.gwas_gs_prefix + pheno + ".gz"
+        top_variant = find_top_hit(gwas_dl)
+        variant_link = f"https://r4.finngen.fi/variant/{top_variant}"
 
-        risteys_link = f"https://r3.risteys.finngen.fi/phenocode/{pheno}"
+        risteys_link = f"https://r4.risteys.finngen.fi/phenocode/{pheno}"
 
         post_data = {
             'pheno_longname': meta["description"],

@@ -30,9 +30,10 @@ def main():
         FAILURE_FILE_FG,
         METADATA_FILE_FG,
         GWAS_DIR_FG,
+        GWAS_GS_PREFIX,
     )
 
-    turn = "FG"
+    turn = "UKBB"
     do_wait = True
     while True:
         if do_wait:
@@ -83,5 +84,6 @@ if __name__ == '__main__':
     FAILURE_FILE_FG = DATA_PATH / "failed_fg.txt"
     METADATA_FILE_FG = DATA_PATH / "images_finngen.js"
     GWAS_DIR_FG = DATA_PATH / "manhattan_FINNGEN"
+    GWAS_GS_PREFIX = "gs://finngen-public-data-r4/summary_stats/finngen_R4_"
 
     main()

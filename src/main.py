@@ -9,9 +9,19 @@ from pathlib import Path
 from requests.exceptions import RequestException
 from tweepy.error import TweepError
 
-from bot_ukbb import UKBBPoster
+from bot_bbj import BBJPoster
 from bot_finngen import FGPoster
+from bot_ukbb import UKBBPoster
 from utils import wait
+
+
+def poster_turn(iter):
+    turns = [
+        "UKBB", "FG",   "UKBB", "BBJ",
+        "FG",   "UKBB", "FG",   "BBJ"
+    ]
+    select = iter % len(turns)
+    return turns[select]
 
 
 def main():
@@ -33,15 +43,26 @@ def main():
         GWAS_GS_PREFIX,
     )
 
-    turn = "UKBB"
+    bbj = BBJPoster(
+        SAVE_FILE_BBJ,
+        FAILURE_FILE_BBJ,
+        MANIFEST_FILE_BBJ,
+        GWAS_DIR_BBJ,
+    )
+
     do_wait = True
+    iter = 0
     while True:
         if do_wait:
             wait(hour=8, timezone='America/New_York')
+
+        turn = poster_turn(iter)
         if turn == "UKBB":
             poster = ukbb
         elif turn == "FG":
             poster = fg
+        elif turn == "BBJ":
+            poster = bbj
 
         pheno = poster.get_pheno()
         try:
@@ -55,7 +76,7 @@ def main():
             poster.mark_posted(pheno)
             do_wait = True
 
-        turn = "FG" if turn == "UKBB" else "UKBB"
+        iter += 1
 
 
 if __name__ == '__main__':
@@ -80,5 +101,11 @@ if __name__ == '__main__':
     METADATA_FILE_FG = DATA_PATH / "images_finngen.js"
     GWAS_DIR_FG = DATA_PATH / "manhattan_FINNGEN"
     GWAS_GS_PREFIX = "gs://finngen-public-data-r4/summary_stats/finngen_R4_"
+
+    # BioBank Japan files
+    SAVE_FILE_BBJ = DATA_PATH / "posted_bbj.txt"
+    FAILURE_FILE_BBJ = DATA_PATH / "failure_bbj.txt"
+    MANIFEST_FILE_BBJ = DATA_PATH / "images_bbj.js"
+    GWAS_DIR_BBJ = DATA_PATH / "manhattan_BBJ"
 
     main()

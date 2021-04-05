@@ -26,7 +26,7 @@ load("data/geno_correlation_sig.Rdata")
 # This is instead the traits that we are including
 h2 <- h2[gsub("_irnt","",h2$phenotype) %in% geno_corr_df$p1,]
 
-manifest <- fread("data/Pan_UKBB_manifest_22JUN2020.csv", sep=",", header=T)
+manifest <- fread("data/Pan_UKBB_manifest_2020-09-07.csv", sep=",", header=T)
 #colnames(manifest)[1] <- "phenotype"
 #colnames(manifest)[6] <- "dropbox"
 
@@ -43,22 +43,22 @@ h2 <- h2[!h2$phenotype %in% c("129_irnt","20015_irnt") & h2$phenotype %in% manif
 
 set.seed(123)
 RES <- NULL
-for (i in h2$phenotype[256:length(h2$phenotype)])
+for (i in h2$phenotype)
 {
 
     maniget <- manifest %>% filter(phenocode2==i, pheno_sex=="both_sexes")
 
 	system(maniget$wget)
-	original_filename <- strsplit(maniget$wget," ")[[1]][4]
+	original_filename <- strsplit(maniget$wget,"/")[[1]][5]
 	new_filename <- paste0(remove_file_extension(original_filename),".gz")
 	system(paste0("mv ",original_filename," ",new_filename))
 
-    rowsnames <- strsplit(system(paste0("zcat ",new_filename, " | head -1"),intern = TRUE),"\t")[[1]]
+    rowsnames <- strsplit(system(paste0("zcat < ",new_filename, " | head -1"),intern = TRUE),"\t")[[1]]
     loconfname <- rowsnames[grepl("low_confidence",rowsnames)]
     loconfname <- ifelse("low_confidence_EUR" %in% loconfname,"low_confidence_EUR",loconfname[1])
     pvalname <- rowsnames[grepl("pval_",rowsnames)][1]
 
-	df <- fread(cmd=paste0("zcat ",new_filename), header=T, sep="\t", select=c('chr','pos','ref','alt',loconfname, pvalname)) 
+	df <- fread(cmd=paste0("zcat < ",new_filename), header=T, sep="\t", select=c('chr','pos','ref','alt',loconfname, pvalname)) 
 
     colnames(df)[grepl(loconfname,colnames(df))] <- "low_confidence_EUR"
     colnames(df)[grepl(pvalname,colnames(df))] <- "pval_meta"

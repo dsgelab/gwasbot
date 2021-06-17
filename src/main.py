@@ -100,7 +100,7 @@ if __name__ == '__main__':
     FAILURE_FILE_FG = DATA_PATH / "failed_fg.txt"
     METADATA_FILE_FG = DATA_PATH / "images_finngen.js"
     GWAS_DIR_FG = DATA_PATH / "manhattan_FINNGEN"
-    GWAS_GS_PREFIX = "gs://finngen-public-data-r4/summary_stats/finngen_R4_"
+    GWAS_GS_PREFIX = "gs://finngen-public-data-r5/summary_stats/finngen_R5_"
 
     # BioBank Japan files
     SAVE_FILE_BBJ = DATA_PATH / "posted_bbj.txt"

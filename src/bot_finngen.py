@@ -46,9 +46,8 @@ class FGPoster(GWASPoster):
 
         gwas_dl = self.gwas_gs_prefix + pheno + ".gz"
         top_variant = find_top_hit(gwas_dl)
-        variant_link = f"https://r4.finngen.fi/variant/{top_variant}"
-
         risteys_link = f"https://r4.risteys.finngen.fi/phenocode/{pheno}"
+        variant_link = f"https://r5.finngen.fi/variant/{top_variant}"
 
         post_data = {
             'pheno_longname': meta["description"],

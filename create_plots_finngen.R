@@ -5,14 +5,13 @@ library(jsonlite)
 library(tidyr)
 library(ggplot2)
 library(ggrepel)
-library(gdalUtils)
 library(BiocManager)
 library(TxDb.Hsapiens.UCSC.hg38.knownGene) #BiocManager::install("TxDb.Hsapiens.UCSC.hg38.knownGene")
 library(bumphunter) #BiocManager::install("bumphunter")
 library(org.Hs.eg.db) #BiocManager::install("org.Hs.eg.db")
 
 
-pheno <- fread("data/finngen_R4_pheno_n.tsv")
+pheno <- fread("data/finngen_R5_pheno_n.tsv")
 
 wrapper <- function(x, ...) 
 {
@@ -25,13 +24,14 @@ genes <- annotateTranscripts(TxDb.Hsapiens.UCSC.hg38.knownGene)
 
 
 
+
 set.seed(123)
 RES <- NULL
-for (i in pheno$phenocode)
+for (i in pheno$phenocode[pheno$num_gw_significant>0])
 {
-    system(paste0("gsutil cp gs://finngen-public-data-r4/summary_stats/finngen_R4_" ,i,".gz ."))
+    system(paste0("gsutil cp gs://finngen-public-data-r5/summary_stats/finngen_R5_" ,i,".gz ."))
   
-	df1 <- fread(cmd=paste0("gunzip -c finngen_R4_",i,".gz"), header=T, sep="\t", select=c('#chrom', 'pos', 'pval')) 
+	df1 <- fread(cmd=paste0("gunzip -c finngen_R5_",i,".gz"), header=T, sep="\t", select=c('#chrom', 'pos', 'pval')) 
 	
 	if(min(df1$pval,na.rm=T)<0.00000005)
 	{
@@ -100,10 +100,10 @@ for (i in pheno$phenocode)
 	  
 	   ggsave(paste0("data/manhattan_FINNGEN/",i,"_MF.png"), width = 12, height = 6, dpi = 200)
 	  
-	   RES <- rbind(RES,cbind(pheno[pheno$phenocode==i,c("phenocode","name","num_cases","num_controls")],pheno$path_bucket[pheno$phenocode==i], paste0(i,"_MF.png"), paste0("http://r4.finngen.fi/pheno/",i),paste0("https://r4.risteys.finngen.fi/phenocode/",i)))
+	   RES <- rbind(RES,cbind(pheno[pheno$phenocode==i,c("phenocode","name","num_cases","num_controls")],pheno$path_bucket[pheno$phenocode==i], paste0(i,"_MF.png"), paste0("http://r5.finngen.fi/pheno/",i),paste0("https://r5.risteys.finngen.fi/phenocode/",i)))
 	}
 
-    system(paste0("rm finngen_R4_",i,".gz"))
+    system(paste0("rm finngen_R5_",i,".gz"))
 
     print(which(i==pheno$phenocode))
 }

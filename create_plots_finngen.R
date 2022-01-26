@@ -100,7 +100,7 @@ for (i in pheno$phenocode[pheno$num_gw_significant>0])
 	  
 	   ggsave(paste0("data/manhattan_FINNGEN/",i,"_MF.png"), width = 12, height = 6, dpi = 200)
 	  
-	   RES <- rbind(RES,cbind(pheno[pheno$phenocode==i,c("phenocode","name","num_cases","num_controls")],pheno$path_bucket[pheno$phenocode==i], paste0(i,"_MF.png"), paste0("http://r5.finngen.fi/pheno/",i),paste0("https://r5.risteys.finngen.fi/phenocode/",i)))
+	   RES <- rbind(RES,cbind(pheno[pheno$phenocode==i,c("phenocode","name","num_cases","num_controls")],pheno$path_bucket[pheno$phenocode==i], paste0(i,"_MF.png"), paste0("http://r6.finngen.fi/pheno/",i),paste0("https://r6.risteys.finngen.fi/phenocode/",i)))
 	}
 
     system(paste0("rm finngen_R6_",i,".gz"))

@@ -46,12 +46,14 @@ class FGPoster(GWASPoster):
 
         gwas_dl = self.gwas_gs_prefix + pheno + ".gz"
         top_variant = find_top_hit(gwas_dl)
+        risteys_link = f"https://r6.risteys.finngen.fi/phenocode/{pheno}"
         variant_link = f"https://r6.finngen.fi/variant/{top_variant}"
 
         post_data = {
             'pheno_longname': meta["description"],
             'download_link': "https://www.finngen.fi/en/access_results",
             'pheweb_pheno_link': meta["pheweb_link"],
+            'risteys_link': risteys_link,
             'top_variant': top_variant,
             'pheweb_variant_link': variant_link,
         }
@@ -70,6 +72,8 @@ class FGPoster(GWASPoster):
         text = f"""{pheno}
 
 🇫🇮 PheWeb {post['pheweb_pheno_link']}
+
+🧭 Risteys {post['risteys_link']}
 
 ⬇️ Download {post['download_link']}
 

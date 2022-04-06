@@ -1,0 +1,1392 @@
+CID	BIOCHEMICAL_NAME	SUPER_PATHWAY	HMDB_ID	LINK
+C100000007	carnitine	Lipid	HMDB0000062	http://share.sph.umich.edu/metsim_metabqtl/C100000007_primary_mac5.epacts.gz
+C100000008	benzoate	Xenobiotics	HMDB0001870	http://share.sph.umich.edu/metsim_metabqtl/C100000008_primary_mac5.epacts.gz
+C100000010	3-phenylpropionate (hydrocinnamate)	Xenobiotics	HMDB0000764	http://share.sph.umich.edu/metsim_metabqtl/C100000010_primary_mac5.epacts.gz
+C100000011	phenylacetate	Amino_Acid	HMDB0000209	http://share.sph.umich.edu/metsim_metabqtl/C100000011_primary_mac5.epacts.gz
+C100000014	hippurate	Xenobiotics	HMDB0000714	http://share.sph.umich.edu/metsim_metabqtl/C100000014_primary_mac5.epacts.gz
+C100000015	xanthurenate	Amino_Acid	HMDB0000881	http://share.sph.umich.edu/metsim_metabqtl/C100000015_primary_mac5.epacts.gz
+C100000016	suberate (C8-DC)	Lipid	HMDB0000893	http://share.sph.umich.edu/metsim_metabqtl/C100000016_primary_mac5.epacts.gz
+C100000036	3-methyl-2-oxovalerate	Amino_Acid	HMDB0000491	http://share.sph.umich.edu/metsim_metabqtl/C100000036_primary_mac5.epacts.gz
+C100000039	methionine sulfoxide	Amino_Acid	HMDB0002005	http://share.sph.umich.edu/metsim_metabqtl/C100000039_primary_mac5.epacts.gz
+C100000042	3-methylhistidine	Amino_Acid	HMDB0000479	http://share.sph.umich.edu/metsim_metabqtl/C100000042_primary_mac5.epacts.gz
+C100000043	4-acetamidophenylglucuronide	Xenobiotics	HMDB0010316	http://share.sph.umich.edu/metsim_metabqtl/C100000043_primary_mac5.epacts.gz
+C100000054	5-hydroxylysine	Amino_Acid	HMDB0000450	http://share.sph.umich.edu/metsim_metabqtl/C100000054_primary_mac5.epacts.gz
+C100000096	4-guanidinobutanoate	Amino_Acid	HMDB0003464	http://share.sph.umich.edu/metsim_metabqtl/C100000096_primary_mac5.epacts.gz
+C100000257	glucuronate	Carbohydrate	HMDB0000127	http://share.sph.umich.edu/metsim_metabqtl/C100000257_primary_mac5.epacts.gz
+C100000258	glycerol 3-phosphate	Lipid	HMDB0000126	http://share.sph.umich.edu/metsim_metabqtl/C100000258_primary_mac5.epacts.gz
+C100000263	imidazole lactate	Amino_Acid	HMDB0002320	http://share.sph.umich.edu/metsim_metabqtl/C100000263_primary_mac5.epacts.gz
+C100000265	kynurenine	Amino_Acid	HMDB0000684	http://share.sph.umich.edu/metsim_metabqtl/C100000265_primary_mac5.epacts.gz
+C100000269	glycerophosphorylcholine (GPC)	Lipid	HMDB0000086	http://share.sph.umich.edu/metsim_metabqtl/C100000269_primary_mac5.epacts.gz
+C100000276	maltotriose	Carbohydrate	HMDB0001262	http://share.sph.umich.edu/metsim_metabqtl/C100000276_primary_mac5.epacts.gz
+C100000282	N-acetylglutamate	Amino_Acid	HMDB0001138	http://share.sph.umich.edu/metsim_metabqtl/C100000282_primary_mac5.epacts.gz
+C100000285	N-alpha-acetylornithine	Amino_Acid	HMDB0003357	http://share.sph.umich.edu/metsim_metabqtl/C100000285_primary_mac5.epacts.gz
+C100000295	tartarate	Xenobiotics	HMDB0059916,HMDB0062642	http://share.sph.umich.edu/metsim_metabqtl/C100000295_primary_mac5.epacts.gz
+C100000299	xanthosine	Nucleotide	HMDB0000299	http://share.sph.umich.edu/metsim_metabqtl/C100000299_primary_mac5.epacts.gz
+C100000406	ribitol	Carbohydrate	HMDB0000508	http://share.sph.umich.edu/metsim_metabqtl/C100000406_primary_mac5.epacts.gz
+C100000436	glycodeoxycholate	Lipid	HMDB0000631	http://share.sph.umich.edu/metsim_metabqtl/C100000436_primary_mac5.epacts.gz
+C100000437	theophylline	Xenobiotics	HMDB0001889	http://share.sph.umich.edu/metsim_metabqtl/C100000437_primary_mac5.epacts.gz
+C100000442	quinate	Xenobiotics	HMDB0003072	http://share.sph.umich.edu/metsim_metabqtl/C100000442_primary_mac5.epacts.gz
+C100000445	theobromine	Xenobiotics	HMDB0002825	http://share.sph.umich.edu/metsim_metabqtl/C100000445_primary_mac5.epacts.gz
+C100000447	gentisate	Amino_Acid	HMDB0000152	http://share.sph.umich.edu/metsim_metabqtl/C100000447_primary_mac5.epacts.gz
+C100000453	paraxanthine	Xenobiotics	HMDB0001860	http://share.sph.umich.edu/metsim_metabqtl/C100000453_primary_mac5.epacts.gz
+C100000454	5-aminovalerate	Amino_Acid	HMDB0003355	http://share.sph.umich.edu/metsim_metabqtl/C100000454_primary_mac5.epacts.gz
+C100000463	indolelactate	Amino_Acid	HMDB0000671	http://share.sph.umich.edu/metsim_metabqtl/C100000463_primary_mac5.epacts.gz
+C100000467	3-indoxyl sulfate	Amino_Acid	HMDB0000682	http://share.sph.umich.edu/metsim_metabqtl/C100000467_primary_mac5.epacts.gz
+C100000491	gamma-glutamylphenylalanine	Peptide	HMDB0000594	http://share.sph.umich.edu/metsim_metabqtl/C100000491_primary_mac5.epacts.gz
+C100000551	4-methyl-2-oxopentanoate	Amino_Acid	HMDB0000695	http://share.sph.umich.edu/metsim_metabqtl/C100000551_primary_mac5.epacts.gz
+C100000580	1,5-anhydroglucitol (1,5-AG)	Carbohydrate	HMDB0002712	http://share.sph.umich.edu/metsim_metabqtl/C100000580_primary_mac5.epacts.gz
+C100000584	2-arachidonoylglycerol (20:4)	Lipid	HMDB0004666	http://share.sph.umich.edu/metsim_metabqtl/C100000584_primary_mac5.epacts.gz
+C100000611	1-palmityl-GPC (O-16:0)	Lipid		http://share.sph.umich.edu/metsim_metabqtl/C100000611_primary_mac5.epacts.gz
+C100000616	1-stearoyl-2-arachidonoyl-GPI (18:0/20:4)	Lipid	HMDB0009815	http://share.sph.umich.edu/metsim_metabqtl/C100000616_primary_mac5.epacts.gz
+C100000626	sphingosine 1-phosphate	Lipid	HMDB0000277	http://share.sph.umich.edu/metsim_metabqtl/C100000626_primary_mac5.epacts.gz
+C100000630	1-oleoyl-GPS (18:1)	Lipid	HMDB0240603	http://share.sph.umich.edu/metsim_metabqtl/C100000630_primary_mac5.epacts.gz
+C100000639	1-stearoyl-2-oleoyl-GPS (18:0/18:1)	Lipid	HMDB0010163	http://share.sph.umich.edu/metsim_metabqtl/C100000639_primary_mac5.epacts.gz
+C100000656	1-stearoyl-GPI (18:0)	Lipid	HMDB0061696	http://share.sph.umich.edu/metsim_metabqtl/C100000656_primary_mac5.epacts.gz
+C100000657	1,2-dipalmitoyl-GPC (16:0/16:0)	Lipid	HMDB0000564	http://share.sph.umich.edu/metsim_metabqtl/C100000657_primary_mac5.epacts.gz
+C100000660	1,2-distearoyl-GPC (18:0/18:0)	Lipid	HMDB0008036	http://share.sph.umich.edu/metsim_metabqtl/C100000660_primary_mac5.epacts.gz
+C100000665	docosahexaenoate (DHA; 22:6n3)	Lipid	HMDB0002183	http://share.sph.umich.edu/metsim_metabqtl/C100000665_primary_mac5.epacts.gz
+C100000672	1-myristoyl-2-palmitoyl-GPC (14:0/16:0)	Lipid	HMDB0007869	http://share.sph.umich.edu/metsim_metabqtl/C100000672_primary_mac5.epacts.gz
+C100000706	alpha-hydroxyisocaproate	Amino_Acid	HMDB0000746	http://share.sph.umich.edu/metsim_metabqtl/C100000706_primary_mac5.epacts.gz
+C100000707	maleate	Lipid	HMDB0000176	http://share.sph.umich.edu/metsim_metabqtl/C100000707_primary_mac5.epacts.gz
+C100000708	isovalerate (i5:0)	Amino_Acid	HMDB0000718	http://share.sph.umich.edu/metsim_metabqtl/C100000708_primary_mac5.epacts.gz
+C100000711	4-acetylphenol sulfate	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100000711_primary_mac5.epacts.gz
+C100000715	1-methylguanidine	Amino_Acid	HMDB0001522	http://share.sph.umich.edu/metsim_metabqtl/C100000715_primary_mac5.epacts.gz
+C100000743	2-hydroxyoctanoate	Lipid	HMDB0002264	http://share.sph.umich.edu/metsim_metabqtl/C100000743_primary_mac5.epacts.gz
+C100000765	levulinate (4-oxovalerate)	Xenobiotics	HMDB0000720	http://share.sph.umich.edu/metsim_metabqtl/C100000765_primary_mac5.epacts.gz
+C100000773	3-hydroxyoctanoate	Lipid	HMDB0001954	http://share.sph.umich.edu/metsim_metabqtl/C100000773_primary_mac5.epacts.gz
+C100000774	phenyllactate (PLA)	Amino_Acid	HMDB0000779	http://share.sph.umich.edu/metsim_metabqtl/C100000774_primary_mac5.epacts.gz
+C100000776	palmitoylcarnitine (C16)	Lipid	HMDB0000222	http://share.sph.umich.edu/metsim_metabqtl/C100000776_primary_mac5.epacts.gz
+C100000781	hexanoylcarnitine (C6)	Lipid	HMDB0000705	http://share.sph.umich.edu/metsim_metabqtl/C100000781_primary_mac5.epacts.gz
+C100000784	theanine	Xenobiotics	HMDB0034365	http://share.sph.umich.edu/metsim_metabqtl/C100000784_primary_mac5.epacts.gz
+C100000787	N-acetylaspartate (NAA)	Amino_Acid	HMDB0000812	http://share.sph.umich.edu/metsim_metabqtl/C100000787_primary_mac5.epacts.gz
+C100000792	dehydroepiandrosterone sulfate (DHEA-S)	Lipid	HMDB0001032	http://share.sph.umich.edu/metsim_metabqtl/C100000792_primary_mac5.epacts.gz
+C100000802	acetylcarnitine (C2)	Lipid	HMDB0000201	http://share.sph.umich.edu/metsim_metabqtl/C100000802_primary_mac5.epacts.gz
+C100000808	cysteine s-sulfate	Amino_Acid	HMDB0000731	http://share.sph.umich.edu/metsim_metabqtl/C100000808_primary_mac5.epacts.gz
+C100000827	1-palmitoylglycerol (16:0)	Lipid	HMDB0011564	http://share.sph.umich.edu/metsim_metabqtl/C100000827_primary_mac5.epacts.gz
+C100000840	tartronate (hydroxymalonate)	Xenobiotics	HMDB0035227	http://share.sph.umich.edu/metsim_metabqtl/C100000840_primary_mac5.epacts.gz
+C100000841	oxalate (ethanedioate)	Cofactors_and_Vitamins	HMDB0002329	http://share.sph.umich.edu/metsim_metabqtl/C100000841_primary_mac5.epacts.gz
+C100000846	erythritol	Xenobiotics	HMDB0002994	http://share.sph.umich.edu/metsim_metabqtl/C100000846_primary_mac5.epacts.gz
+C100000870	saccharin	Xenobiotics	HMDB0029723	http://share.sph.umich.edu/metsim_metabqtl/C100000870_primary_mac5.epacts.gz
+C100000900	iminodiacetate (IDA)	Xenobiotics	HMDB0011753	http://share.sph.umich.edu/metsim_metabqtl/C100000900_primary_mac5.epacts.gz
+C100000924	1-oleoylglycerol (18:1)	Lipid	HMDB0011567	http://share.sph.umich.edu/metsim_metabqtl/C100000924_primary_mac5.epacts.gz
+C100000936	3-methyl-2-oxobutyrate	Amino_Acid	HMDB0000019	http://share.sph.umich.edu/metsim_metabqtl/C100000936_primary_mac5.epacts.gz
+C100000943	2-oleoylglycerol (18:1)	Lipid	HMDB0011537	http://share.sph.umich.edu/metsim_metabqtl/C100000943_primary_mac5.epacts.gz
+C100000961	homoarginine	Amino_Acid	HMDB0000670	http://share.sph.umich.edu/metsim_metabqtl/C100000961_primary_mac5.epacts.gz
+C100000963	homocitrulline	Amino_Acid	HMDB0000679	http://share.sph.umich.edu/metsim_metabqtl/C100000963_primary_mac5.epacts.gz
+C100000966	pyroglutamylglutamine	Peptide	HMDB0039229	http://share.sph.umich.edu/metsim_metabqtl/C100000966_primary_mac5.epacts.gz
+C100000967	bradykinin	Peptide	HMDB0004246	http://share.sph.umich.edu/metsim_metabqtl/C100000967_primary_mac5.epacts.gz
+C100000987	2-linoleoylglycerol (18:2)	Lipid	HMDB0011538	http://share.sph.umich.edu/metsim_metabqtl/C100000987_primary_mac5.epacts.gz
+C100000997	3-hydroxydecanoate	Lipid	HMDB0002203	http://share.sph.umich.edu/metsim_metabqtl/C100000997_primary_mac5.epacts.gz
+C100001002	EDTA	Xenobiotics	HMDB0015109	http://share.sph.umich.edu/metsim_metabqtl/C100001002_primary_mac5.epacts.gz
+C100001006	N-acetylglycine	Amino_Acid	HMDB0000532	http://share.sph.umich.edu/metsim_metabqtl/C100001006_primary_mac5.epacts.gz
+C100001007	ribonate	Carbohydrate	HMDB0000867	http://share.sph.umich.edu/metsim_metabqtl/C100001007_primary_mac5.epacts.gz
+C100001022	threonate	Cofactors_and_Vitamins	HMDB0000943	http://share.sph.umich.edu/metsim_metabqtl/C100001022_primary_mac5.epacts.gz
+C100001026	galactonate	Carbohydrate	HMDB0000565	http://share.sph.umich.edu/metsim_metabqtl/C100001026_primary_mac5.epacts.gz
+C100001034	indoleacetate	Amino_Acid	HMDB0000197	http://share.sph.umich.edu/metsim_metabqtl/C100001034_primary_mac5.epacts.gz
+C100001040	1-linoleoylglycerol (18:2)	Lipid	HMDB0011568	http://share.sph.umich.edu/metsim_metabqtl/C100001040_primary_mac5.epacts.gz
+C100001048	2-palmitoylglycerol (16:0)	Lipid	HMDB0011533	http://share.sph.umich.edu/metsim_metabqtl/C100001048_primary_mac5.epacts.gz
+C100001051	1-methylhistidine	Amino_Acid	HMDB0000001	http://share.sph.umich.edu/metsim_metabqtl/C100001051_primary_mac5.epacts.gz
+C100001054	butyrylcarnitine (C4)	Lipid	HMDB0002013	http://share.sph.umich.edu/metsim_metabqtl/C100001054_primary_mac5.epacts.gz
+C100001055	isobutyrylcarnitine (C4)	Amino_Acid	HMDB0000736	http://share.sph.umich.edu/metsim_metabqtl/C100001055_primary_mac5.epacts.gz
+C100001063	7-ketodeoxycholate	Lipid	HMDB0000391	http://share.sph.umich.edu/metsim_metabqtl/C100001063_primary_mac5.epacts.gz
+C100001064	glycolithocholate	Lipid	HMDB00698	http://share.sph.umich.edu/metsim_metabqtl/C100001064_primary_mac5.epacts.gz
+C100001073	androsterone sulfate	Lipid	HMDB0002759	http://share.sph.umich.edu/metsim_metabqtl/C100001073_primary_mac5.epacts.gz
+C100001083	indolepropionate	Amino_Acid	HMDB0002302	http://share.sph.umich.edu/metsim_metabqtl/C100001083_primary_mac5.epacts.gz
+C100001086	N-(2-furoyl)glycine	Xenobiotics	HMDB0000439	http://share.sph.umich.edu/metsim_metabqtl/C100001086_primary_mac5.epacts.gz
+C100001092	trigonelline (N'-methylnicotinate)	Cofactors_and_Vitamins	HMDB0000875	http://share.sph.umich.edu/metsim_metabqtl/C100001092_primary_mac5.epacts.gz
+C100001102	dodecanedioate (C12-DC)	Lipid	HMDB0000623	http://share.sph.umich.edu/metsim_metabqtl/C100001102_primary_mac5.epacts.gz
+C100001104	N-acetyltyrosine	Amino_Acid	HMDB0000866	http://share.sph.umich.edu/metsim_metabqtl/C100001104_primary_mac5.epacts.gz
+C100001106	1,3-dimethylurate	Xenobiotics	HMDB0001857	http://share.sph.umich.edu/metsim_metabqtl/C100001106_primary_mac5.epacts.gz
+C100001108	3-methylxanthine	Xenobiotics	HMDB0001886	http://share.sph.umich.edu/metsim_metabqtl/C100001108_primary_mac5.epacts.gz
+C100001112	3-hydroxylaurate	Lipid	HMDB0000387	http://share.sph.umich.edu/metsim_metabqtl/C100001112_primary_mac5.epacts.gz
+C100001121	pyridoxate	Cofactors_and_Vitamins	HMDB0000017	http://share.sph.umich.edu/metsim_metabqtl/C100001121_primary_mac5.epacts.gz
+C100001126	gamma-glutamylvaline	Peptide	HMDB0011172	http://share.sph.umich.edu/metsim_metabqtl/C100001126_primary_mac5.epacts.gz
+C100001132	pyroglutamylvaline	Peptide	HMDB0094651	http://share.sph.umich.edu/metsim_metabqtl/C100001132_primary_mac5.epacts.gz
+C100001145	3-hydroxysebacate	Lipid	HMDB0000350	http://share.sph.umich.edu/metsim_metabqtl/C100001145_primary_mac5.epacts.gz
+C100001148	5-hydroxyhexanoate	Lipid	HMDB0000409;HMDB0000525	http://share.sph.umich.edu/metsim_metabqtl/C100001148_primary_mac5.epacts.gz
+C100001150	propionylglycine	Lipid	HMDB0000783	http://share.sph.umich.edu/metsim_metabqtl/C100001150_primary_mac5.epacts.gz
+C100001151	butyrylglycine	Lipid	HMDB0000808	http://share.sph.umich.edu/metsim_metabqtl/C100001151_primary_mac5.epacts.gz
+C100001153	2-hydroxyadipate	Lipid	HMDB0000321	http://share.sph.umich.edu/metsim_metabqtl/C100001153_primary_mac5.epacts.gz
+C100001162	propionylcarnitine (C3)	Lipid	HMDB0000824	http://share.sph.umich.edu/metsim_metabqtl/C100001162_primary_mac5.epacts.gz
+C100001167	pro-hydroxy-pro	Amino_Acid	HMDB0006695	http://share.sph.umich.edu/metsim_metabqtl/C100001167_primary_mac5.epacts.gz
+C100001170	3-hydroxy-2-ethylpropionate	Amino_Acid	HMDB0000396	http://share.sph.umich.edu/metsim_metabqtl/C100001170_primary_mac5.epacts.gz
+C100001178	3-carboxy-4-methyl-5-propyl-2-furanpropanoate (CMPF)	Lipid	HMDB0061112	http://share.sph.umich.edu/metsim_metabqtl/C100001178_primary_mac5.epacts.gz
+C100001181	docosapentaenoate (n3 DPA; 22:5n3)	Lipid	HMDB0006528	http://share.sph.umich.edu/metsim_metabqtl/C100001181_primary_mac5.epacts.gz
+C100001182	docosadienoate (22:2n6)	Lipid	HMDB0061714	http://share.sph.umich.edu/metsim_metabqtl/C100001182_primary_mac5.epacts.gz
+C100001193	adrenate (22:4n6)	Lipid	HMDB0002226	http://share.sph.umich.edu/metsim_metabqtl/C100001193_primary_mac5.epacts.gz
+C100001197	10-undecenoate (11:1n1)	Lipid	HMDB0033724	http://share.sph.umich.edu/metsim_metabqtl/C100001197_primary_mac5.epacts.gz
+C100001198	myristoleate (14:1n5)	Lipid	HMDB0002000	http://share.sph.umich.edu/metsim_metabqtl/C100001198_primary_mac5.epacts.gz
+C100001208	1-methyl-4-imidazoleacetate	Amino_Acid	HMDB0002820	http://share.sph.umich.edu/metsim_metabqtl/C100001208_primary_mac5.epacts.gz
+C100001211	sebacate (C10-DC)	Lipid	HMDB0000792	http://share.sph.umich.edu/metsim_metabqtl/C100001211_primary_mac5.epacts.gz
+C100001212	guanidinosuccinate	Amino_Acid	HMDB0003157	http://share.sph.umich.edu/metsim_metabqtl/C100001212_primary_mac5.epacts.gz
+C100001226	I-urobilinogen	Cofactors_and_Vitamins	HMDB0004157	http://share.sph.umich.edu/metsim_metabqtl/C100001226_primary_mac5.epacts.gz
+C100001229	stearidonate (18:4n3)	Lipid	HMDB0006547	http://share.sph.umich.edu/metsim_metabqtl/C100001229_primary_mac5.epacts.gz
+C100001232	5-dodecenoate (12:1n7)	Lipid	HMDB0000529	http://share.sph.umich.edu/metsim_metabqtl/C100001232_primary_mac5.epacts.gz
+C100001247	octanoylcarnitine (C8)	Lipid	HMDB0000791	http://share.sph.umich.edu/metsim_metabqtl/C100001247_primary_mac5.epacts.gz
+C100001250	tauro-beta-muricholate	Lipid	HMDB0000932	http://share.sph.umich.edu/metsim_metabqtl/C100001250_primary_mac5.epacts.gz
+C100001251	decanoylcarnitine (C10)	Lipid	HMDB0000651	http://share.sph.umich.edu/metsim_metabqtl/C100001251_primary_mac5.epacts.gz
+C100001253	N-acetylglutamine	Amino_Acid	HMDB0006029	http://share.sph.umich.edu/metsim_metabqtl/C100001253_primary_mac5.epacts.gz
+C100001254	N-acetyltryptophan	Amino_Acid	HMDB0013713	http://share.sph.umich.edu/metsim_metabqtl/C100001254_primary_mac5.epacts.gz
+C100001256	N-acetylphenylalanine	Amino_Acid	HMDB0000512	http://share.sph.umich.edu/metsim_metabqtl/C100001256_primary_mac5.epacts.gz
+C100001262	gamma-glutamyl-epsilon-lysine	Peptide	HMDB0003869	http://share.sph.umich.edu/metsim_metabqtl/C100001262_primary_mac5.epacts.gz
+C100001263	1-palmitoyl-GPC (16:0)	Lipid	HMDB0010382,HMDB0240262	http://share.sph.umich.edu/metsim_metabqtl/C100001263_primary_mac5.epacts.gz
+C100001264	1-margaroyl-GPC (17:0)	Lipid	HMDB0012108	http://share.sph.umich.edu/metsim_metabqtl/C100001264_primary_mac5.epacts.gz
+C100001266	N-acetylarginine	Amino_Acid	HMDB0004620	http://share.sph.umich.edu/metsim_metabqtl/C100001266_primary_mac5.epacts.gz
+C100001267	piperine	Xenobiotics	HMDB0029377	http://share.sph.umich.edu/metsim_metabqtl/C100001267_primary_mac5.epacts.gz
+C100001268	glycylphenylalanine	Peptide	HMDB0028848	http://share.sph.umich.edu/metsim_metabqtl/C100001268_primary_mac5.epacts.gz
+C100001269	campesterol	Lipid	HMDB0002869	http://share.sph.umich.edu/metsim_metabqtl/C100001269_primary_mac5.epacts.gz
+C100001270	myristoylcarnitine (C14)	Lipid	HMDB0005066	http://share.sph.umich.edu/metsim_metabqtl/C100001270_primary_mac5.epacts.gz
+C100001271	1-stearoyl-GPC (18:0)	Lipid	HMDB0010384,HMDB0011128	http://share.sph.umich.edu/metsim_metabqtl/C100001271_primary_mac5.epacts.gz
+C100001272	1-oleoyl-GPC (18:1)	Lipid	HMDB0002815,HMDB0010385	http://share.sph.umich.edu/metsim_metabqtl/C100001272_primary_mac5.epacts.gz
+C100001274	N-acetylthreonine	Amino_Acid	HMDB0062557	http://share.sph.umich.edu/metsim_metabqtl/C100001274_primary_mac5.epacts.gz
+C100001276	N-acetylisoleucine	Amino_Acid	HMDB0061684	http://share.sph.umich.edu/metsim_metabqtl/C100001276_primary_mac5.epacts.gz
+C100001277	10-nonadecenoate (19:1n9)	Lipid	HMDB0013622	http://share.sph.umich.edu/metsim_metabqtl/C100001277_primary_mac5.epacts.gz
+C100001278	10-heptadecenoate (17:1n7)	Lipid	HMDB0060038	http://share.sph.umich.edu/metsim_metabqtl/C100001278_primary_mac5.epacts.gz
+C100001279	hyocholate	Lipid	HMDB0000760	http://share.sph.umich.edu/metsim_metabqtl/C100001279_primary_mac5.epacts.gz
+C100001281	HWESASLLR	Peptide		http://share.sph.umich.edu/metsim_metabqtl/C100001281_primary_mac5.epacts.gz
+C100001287	epiandrosterone sulfate	Lipid	HMDB0062657	http://share.sph.umich.edu/metsim_metabqtl/C100001287_primary_mac5.epacts.gz
+C100001292	bradykinin, des-arg(9)	Peptide	HMDB04246	http://share.sph.umich.edu/metsim_metabqtl/C100001292_primary_mac5.epacts.gz
+C100001293	N-acetylhistidine	Amino_Acid	HMDB0032055	http://share.sph.umich.edu/metsim_metabqtl/C100001293_primary_mac5.epacts.gz
+C100001294	gamma-glutamylglycine	Peptide	HMDB0011667	http://share.sph.umich.edu/metsim_metabqtl/C100001294_primary_mac5.epacts.gz
+C100001295	gamma-glutamyltryptophan	Peptide	HMDB0029160	http://share.sph.umich.edu/metsim_metabqtl/C100001295_primary_mac5.epacts.gz
+C100001296	stachydrine	Xenobiotics	HMDB0004827	http://share.sph.umich.edu/metsim_metabqtl/C100001296_primary_mac5.epacts.gz
+C100001300	alpha-hydroxyisovalerate	Amino_Acid	HMDB0000407	http://share.sph.umich.edu/metsim_metabqtl/C100001300_primary_mac5.epacts.gz
+C100001310	nicotinamide riboside	Cofactors_and_Vitamins	HMDB0000855	http://share.sph.umich.edu/metsim_metabqtl/C100001310_primary_mac5.epacts.gz
+C100001313	gamma-glutamylmethionine	Peptide	HMDB0034367	http://share.sph.umich.edu/metsim_metabqtl/C100001313_primary_mac5.epacts.gz
+C100001314	gamma-glutamylthreonine	Peptide	HMDB0029159	http://share.sph.umich.edu/metsim_metabqtl/C100001314_primary_mac5.epacts.gz
+C100001315	p-cresol sulfate	Xenobiotics	HMDB0011635	http://share.sph.umich.edu/metsim_metabqtl/C100001315_primary_mac5.epacts.gz
+C100001316	nicotinate ribonucleoside	Cofactors_and_Vitamins	HMDB0006809	http://share.sph.umich.edu/metsim_metabqtl/C100001316_primary_mac5.epacts.gz
+C100001320	erythronate*	Carbohydrate	HMDB0000613	http://share.sph.umich.edu/metsim_metabqtl/C100001320_primary_mac5.epacts.gz
+C100001322	Fibrinopeptide A*	Peptide		http://share.sph.umich.edu/metsim_metabqtl/C100001322_primary_mac5.epacts.gz
+C100001323	Fibrinopeptide A, des-ala(1)*	Peptide		http://share.sph.umich.edu/metsim_metabqtl/C100001323_primary_mac5.epacts.gz
+C100001327	HWESASXX*	Peptide		http://share.sph.umich.edu/metsim_metabqtl/C100001327_primary_mac5.epacts.gz
+C100001332	salicyluric glucuronide*	Xenobiotics	HMDB0240252	http://share.sph.umich.edu/metsim_metabqtl/C100001332_primary_mac5.epacts.gz
+C100001335	eicosenoate (20:1)	Lipid	HMDB0062436	http://share.sph.umich.edu/metsim_metabqtl/C100001335_primary_mac5.epacts.gz
+C100001337	linolenate [alpha or gamma; (18:3n3 or 6)]	Lipid	HMDB0003073	http://share.sph.umich.edu/metsim_metabqtl/C100001337_primary_mac5.epacts.gz
+C100001359	aconitate [cis or trans]	Energy	HMDB0000072,HMDB0000958	http://share.sph.umich.edu/metsim_metabqtl/C100001359_primary_mac5.epacts.gz
+C100001383	1-myristoyl-GPC (14:0)	Lipid	HMDB0010379	http://share.sph.umich.edu/metsim_metabqtl/C100001383_primary_mac5.epacts.gz
+C100001384	1-arachidoyl-GPC (20:0)	Lipid	HMDB0010390	http://share.sph.umich.edu/metsim_metabqtl/C100001384_primary_mac5.epacts.gz
+C100001386	heme	Cofactors_and_Vitamins	HMDB0003178	http://share.sph.umich.edu/metsim_metabqtl/C100001386_primary_mac5.epacts.gz
+C100001391	stearoylcarnitine (C18)	Lipid	HMDB0000848	http://share.sph.umich.edu/metsim_metabqtl/C100001391_primary_mac5.epacts.gz
+C100001392	laurylcarnitine (C12)	Lipid	HMDB0002250	http://share.sph.umich.edu/metsim_metabqtl/C100001392_primary_mac5.epacts.gz
+C100001393	isovalerylcarnitine (C5)	Amino_Acid	HMDB0000688	http://share.sph.umich.edu/metsim_metabqtl/C100001393_primary_mac5.epacts.gz
+C100001395	1-linoleoyl-GPC (18:2)	Lipid	HMDB0010386	http://share.sph.umich.edu/metsim_metabqtl/C100001395_primary_mac5.epacts.gz
+C100001396	7-methylxanthine	Xenobiotics	HMDB0001991	http://share.sph.umich.edu/metsim_metabqtl/C100001396_primary_mac5.epacts.gz
+C100001397	1,3,7-trimethylurate	Xenobiotics	HMDB0002123	http://share.sph.umich.edu/metsim_metabqtl/C100001397_primary_mac5.epacts.gz
+C100001398	3,7-dimethylurate	Xenobiotics	HMDB0001982	http://share.sph.umich.edu/metsim_metabqtl/C100001398_primary_mac5.epacts.gz
+C100001399	1,7-dimethylurate	Xenobiotics	HMDB0011103	http://share.sph.umich.edu/metsim_metabqtl/C100001399_primary_mac5.epacts.gz
+C100001400	1-methylurate	Xenobiotics	HMDB0003099	http://share.sph.umich.edu/metsim_metabqtl/C100001400_primary_mac5.epacts.gz
+C100001402	5-acetylamino-6-formylamino-3-methyluracil	Xenobiotics	HMDB0011105	http://share.sph.umich.edu/metsim_metabqtl/C100001402_primary_mac5.epacts.gz
+C100001403	5-acetylamino-6-amino-3-methyluracil	Xenobiotics	HMDB0004400	http://share.sph.umich.edu/metsim_metabqtl/C100001403_primary_mac5.epacts.gz
+C100001405	1-methylxanthine	Xenobiotics	HMDB0010738	http://share.sph.umich.edu/metsim_metabqtl/C100001405_primary_mac5.epacts.gz
+C100001409	N1-methylinosine	Nucleotide	HMDB0002721	http://share.sph.umich.edu/metsim_metabqtl/C100001409_primary_mac5.epacts.gz
+C100001412	N2,N2-dimethylguanosine	Nucleotide	HMDB0004824	http://share.sph.umich.edu/metsim_metabqtl/C100001412_primary_mac5.epacts.gz
+C100001413	N4-acetylcytidine	Nucleotide	HMDB0005923	http://share.sph.umich.edu/metsim_metabqtl/C100001413_primary_mac5.epacts.gz
+C100001415	N6-carbamoylthreonyladenosine	Nucleotide	HMDB0041623	http://share.sph.umich.edu/metsim_metabqtl/C100001415_primary_mac5.epacts.gz
+C100001416	orotidine	Nucleotide	HMDB0000788	http://share.sph.umich.edu/metsim_metabqtl/C100001416_primary_mac5.epacts.gz
+C100001417	phenylacetylglutamine	Peptide	HMDB0006344	http://share.sph.umich.edu/metsim_metabqtl/C100001417_primary_mac5.epacts.gz
+C100001423	4-hydroxyhippurate	Xenobiotics	HMDB0013678	http://share.sph.umich.edu/metsim_metabqtl/C100001423_primary_mac5.epacts.gz
+C100001425	5,6-dihydrouridine	Nucleotide	HMDB0000497	http://share.sph.umich.edu/metsim_metabqtl/C100001425_primary_mac5.epacts.gz
+C100001426	3-(3-amino-3-carboxypropyl)uridine*	Nucleotide	~HMDB0004813	http://share.sph.umich.edu/metsim_metabqtl/C100001426_primary_mac5.epacts.gz
+C100001433	1-arachidonylglycerol (20:4)	Lipid	HMDB0011572	http://share.sph.umich.edu/metsim_metabqtl/C100001433_primary_mac5.epacts.gz
+C100001435	1-linolenoylglycerol (18:3)	Lipid	HMDB0011569	http://share.sph.umich.edu/metsim_metabqtl/C100001435_primary_mac5.epacts.gz
+C100001437	cysteine-glutathione disulfide	Amino_Acid	HMDB0000656	http://share.sph.umich.edu/metsim_metabqtl/C100001437_primary_mac5.epacts.gz
+C100001446	5-methyluridine (ribothymidine)	Nucleotide	HMDB0000884	http://share.sph.umich.edu/metsim_metabqtl/C100001446_primary_mac5.epacts.gz
+C100001452	isovalerylglycine	Amino_Acid	HMDB0000678	http://share.sph.umich.edu/metsim_metabqtl/C100001452_primary_mac5.epacts.gz
+C100001454	3-hydroxydodecanedioate*	Lipid	HMDB0000413	http://share.sph.umich.edu/metsim_metabqtl/C100001454_primary_mac5.epacts.gz
+C100001456	7-methylguanine	Nucleotide	HMDB0000897	http://share.sph.umich.edu/metsim_metabqtl/C100001456_primary_mac5.epacts.gz
+C100001461	1-stearoyl-GPE (18:0)	Lipid	HMDB0011130	http://share.sph.umich.edu/metsim_metabqtl/C100001461_primary_mac5.epacts.gz
+C100001462	1-stearoyl-GPG (18:0)	Lipid	HMDB0061697	http://share.sph.umich.edu/metsim_metabqtl/C100001462_primary_mac5.epacts.gz
+C100001466	3-methylcytidine	Nucleotide	HMDB0240577	http://share.sph.umich.edu/metsim_metabqtl/C100001466_primary_mac5.epacts.gz
+C100001467	N2-methylguanosine	Nucleotide	HMDB0005862	http://share.sph.umich.edu/metsim_metabqtl/C100001467_primary_mac5.epacts.gz
+C100001468	N1-Methyl-2-pyridone-5-carboxamide	Cofactors_and_Vitamins	HMDB0004193	http://share.sph.umich.edu/metsim_metabqtl/C100001468_primary_mac5.epacts.gz
+C100001481	1-docosahexaenoylglycerol (22:6)	Lipid	HMDB0011587	http://share.sph.umich.edu/metsim_metabqtl/C100001481_primary_mac5.epacts.gz
+C100001483	1-dihomo-linoleoylglycerol (20:2)	Lipid		http://share.sph.umich.edu/metsim_metabqtl/C100001483_primary_mac5.epacts.gz
+C100001485	gamma-glutamylisoleucine*	Peptide	HMDB0011170	http://share.sph.umich.edu/metsim_metabqtl/C100001485_primary_mac5.epacts.gz
+C100001501	oleoylcarnitine (C18:1)	Lipid	HMDB0005065	http://share.sph.umich.edu/metsim_metabqtl/C100001501_primary_mac5.epacts.gz
+C100001502	gamma-glutamyl-2-aminobutyrate	Peptide	~HMDB0036301	http://share.sph.umich.edu/metsim_metabqtl/C100001502_primary_mac5.epacts.gz
+C100001509	2-methylbutyrylcarnitine (C5)	Amino_Acid	HMDB0000378	http://share.sph.umich.edu/metsim_metabqtl/C100001509_primary_mac5.epacts.gz
+C100001510	phenol sulfate	Amino_Acid	HMDB0060015	http://share.sph.umich.edu/metsim_metabqtl/C100001510_primary_mac5.epacts.gz
+C100001511	1-palmitoleoyl-GPC (16:1)*	Lipid	HMDB0010383	http://share.sph.umich.edu/metsim_metabqtl/C100001511_primary_mac5.epacts.gz
+C100001526	malonylcarnitine	Lipid	HMDB0002095	http://share.sph.umich.edu/metsim_metabqtl/C100001526_primary_mac5.epacts.gz
+C100001527	hexanoylglycine	Lipid	HMDB0000701	http://share.sph.umich.edu/metsim_metabqtl/C100001527_primary_mac5.epacts.gz
+C100001540	pyroglutamine*	Amino_Acid	HMDB0062558	http://share.sph.umich.edu/metsim_metabqtl/C100001540_primary_mac5.epacts.gz
+C100001541	2-hydroxy-3-methylvalerate	Amino_Acid	HMDB0000317	http://share.sph.umich.edu/metsim_metabqtl/C100001541_primary_mac5.epacts.gz
+C100001548	testosterone sulfate	Lipid	HMDB0002833	http://share.sph.umich.edu/metsim_metabqtl/C100001548_primary_mac5.epacts.gz
+C100001550	homostachydrine*	Xenobiotics	HMDB0033433	http://share.sph.umich.edu/metsim_metabqtl/C100001550_primary_mac5.epacts.gz
+C100001551	1-arachidonoyl-GPC (20:4n6)*	Lipid	HMDB0010395	http://share.sph.umich.edu/metsim_metabqtl/C100001551_primary_mac5.epacts.gz
+C100001552	1-dihomo-linolenoyl-GPC (20:3n3 or 6)*	Lipid	HMDB0010394	http://share.sph.umich.edu/metsim_metabqtl/C100001552_primary_mac5.epacts.gz
+C100001553	1-dihomo-linoleoyl-GPC (20:2)*	Lipid	HMDB0010392	http://share.sph.umich.edu/metsim_metabqtl/C100001553_primary_mac5.epacts.gz
+C100001554	2-arachidonoyl-GPC (20:4)*	Lipid	HMDB0061699	http://share.sph.umich.edu/metsim_metabqtl/C100001554_primary_mac5.epacts.gz
+C100001556	2-oleoyl-GPC (18:1)*	Lipid	HMDB0061701	http://share.sph.umich.edu/metsim_metabqtl/C100001556_primary_mac5.epacts.gz
+C100001557	2-linoleoyl-GPC (18:2)*	Lipid	HMDB0061700	http://share.sph.umich.edu/metsim_metabqtl/C100001557_primary_mac5.epacts.gz
+C100001561	2-palmitoleoyl-GPC (16:1)*	Lipid	~HMDB0061701	http://share.sph.umich.edu/metsim_metabqtl/C100001561_primary_mac5.epacts.gz
+C100001562	2-palmitoyl-GPC (16:0)*	Lipid	HMDB0061702	http://share.sph.umich.edu/metsim_metabqtl/C100001562_primary_mac5.epacts.gz
+C100001563	2-myristoyl-GPC (14:0)*	Lipid	~HMDB0240262	http://share.sph.umich.edu/metsim_metabqtl/C100001563_primary_mac5.epacts.gz
+C100001565	2-docosahexaenoyl-GPC (22:6)*	Lipid	HMDB0010404	http://share.sph.umich.edu/metsim_metabqtl/C100001565_primary_mac5.epacts.gz
+C100001566	1-docosahexaenoyl-GPC (22:6)*	Lipid	HMDB0010404	http://share.sph.umich.edu/metsim_metabqtl/C100001566_primary_mac5.epacts.gz
+C100001567	1-palmitoyl-GPE (16:0)	Lipid	HMDB0011503	http://share.sph.umich.edu/metsim_metabqtl/C100001567_primary_mac5.epacts.gz
+C100001569	1-oleoyl-GPE (18:1)	Lipid	HMDB0011506	http://share.sph.umich.edu/metsim_metabqtl/C100001569_primary_mac5.epacts.gz
+C100001570	1-linoleoyl-GPE (18:2)*	Lipid	HMDB0011477,HMDB0011507	http://share.sph.umich.edu/metsim_metabqtl/C100001570_primary_mac5.epacts.gz
+C100001571	1-arachidonoyl-GPE (20:4n6)*	Lipid	HMDB0011517	http://share.sph.umich.edu/metsim_metabqtl/C100001571_primary_mac5.epacts.gz
+C100001577	N-acetylcitrulline	Amino_Acid	HMDB0000856	http://share.sph.umich.edu/metsim_metabqtl/C100001577_primary_mac5.epacts.gz
+C100001579	2-hydroxypalmitate	Lipid	HMDB0031057	http://share.sph.umich.edu/metsim_metabqtl/C100001579_primary_mac5.epacts.gz
+C100001580	docosapentaenoate (n6 DPA; 22:5n6)	Lipid	HMDB0001976	http://share.sph.umich.edu/metsim_metabqtl/C100001580_primary_mac5.epacts.gz
+C100001586	gulonate*	Cofactors_and_Vitamins	HMDB0003290	http://share.sph.umich.edu/metsim_metabqtl/C100001586_primary_mac5.epacts.gz
+C100001590	isobutyrylglycine	Amino_Acid	HMDB0000730	http://share.sph.umich.edu/metsim_metabqtl/C100001590_primary_mac5.epacts.gz
+C100001593	glutarylcarnitine (C5-DC)	Amino_Acid	HMDB0013130	http://share.sph.umich.edu/metsim_metabqtl/C100001593_primary_mac5.epacts.gz
+C100001594	beta-hydroxyisovaleroylcarnitine	Amino_Acid	HMDB0061189	http://share.sph.umich.edu/metsim_metabqtl/C100001594_primary_mac5.epacts.gz
+C100001596	2-methylmalonylcarnitine (C4-DC)	Lipid	HMDB0013133	http://share.sph.umich.edu/metsim_metabqtl/C100001596_primary_mac5.epacts.gz
+C100001597	tiglylcarnitine (C5:1-DC)	Amino_Acid	HMDB0002366	http://share.sph.umich.edu/metsim_metabqtl/C100001597_primary_mac5.epacts.gz
+C100001604	hydroquinone sulfate	Xenobiotics	HMDB0240263	http://share.sph.umich.edu/metsim_metabqtl/C100001604_primary_mac5.epacts.gz
+C100001605	catechol sulfate	Xenobiotics	HMDB0059724	http://share.sph.umich.edu/metsim_metabqtl/C100001605_primary_mac5.epacts.gz
+C100001609	7-alpha-hydroxy-3-oxo-4-cholestenoate (7-Hoca)	Lipid	HMDB0012458	http://share.sph.umich.edu/metsim_metabqtl/C100001609_primary_mac5.epacts.gz
+C100001611	3beta,7alpha-dihydroxy-5-cholestenoate	Lipid	HMDB0012454	http://share.sph.umich.edu/metsim_metabqtl/C100001611_primary_mac5.epacts.gz
+C100001612	N-acetyl-aspartyl-glutamate (NAAG)	Amino_Acid	HMDB0001067	http://share.sph.umich.edu/metsim_metabqtl/C100001612_primary_mac5.epacts.gz
+C100001613	tetradecanedioate (C14-DC)	Lipid	HMDB0000872	http://share.sph.umich.edu/metsim_metabqtl/C100001613_primary_mac5.epacts.gz
+C100001614	hexadecanedioate (C16-DC)	Lipid	HMDB0000672	http://share.sph.umich.edu/metsim_metabqtl/C100001614_primary_mac5.epacts.gz
+C100001615	octadecanedioate (C18-DC)	Lipid	HMDB0000782	http://share.sph.umich.edu/metsim_metabqtl/C100001615_primary_mac5.epacts.gz
+C100001618	1-myristoylglycerol (14:0)	Lipid	HMDB0011561	http://share.sph.umich.edu/metsim_metabqtl/C100001618_primary_mac5.epacts.gz
+C100001620	glycerophosphoethanolamine	Lipid	HMDB0000114	http://share.sph.umich.edu/metsim_metabqtl/C100001620_primary_mac5.epacts.gz
+C100001624	3-(3-hydroxyphenyl)propionate	Xenobiotics	HMDB0000375	http://share.sph.umich.edu/metsim_metabqtl/C100001624_primary_mac5.epacts.gz
+C100001635	ectoine	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100001635_primary_mac5.epacts.gz
+C100001651	2-oleoyl-GPE (18:1)*	Lipid	HMDB11476	http://share.sph.umich.edu/metsim_metabqtl/C100001651_primary_mac5.epacts.gz
+C100001652	2-palmitoyl-GPE (16:0)*	Lipid	HMDB0011473	http://share.sph.umich.edu/metsim_metabqtl/C100001652_primary_mac5.epacts.gz
+C100001654	1-arachidonoyl-GPI (20:4)*	Lipid	~HMDB0240260	http://share.sph.umich.edu/metsim_metabqtl/C100001654_primary_mac5.epacts.gz
+C100001655	1-palmitoyl-GPI (16:0)	Lipid	HMDB0061695	http://share.sph.umich.edu/metsim_metabqtl/C100001655_primary_mac5.epacts.gz
+C100001657	glycolithocholate sulfate*	Lipid	HMDB0002639	http://share.sph.umich.edu/metsim_metabqtl/C100001657_primary_mac5.epacts.gz
+C100001658	taurolithocholate 3-sulfate	Lipid	HMDB0002580	http://share.sph.umich.edu/metsim_metabqtl/C100001658_primary_mac5.epacts.gz
+C100001662	deoxycarnitine	Lipid	HMDB0001161	http://share.sph.umich.edu/metsim_metabqtl/C100001662_primary_mac5.epacts.gz
+C100001664	N6-succinyladenosine	Nucleotide	HMDB0000912	http://share.sph.umich.edu/metsim_metabqtl/C100001664_primary_mac5.epacts.gz
+C100001668	1-ribosyl-imidazoleacetate*	Amino_Acid	HMDB0002331	http://share.sph.umich.edu/metsim_metabqtl/C100001668_primary_mac5.epacts.gz
+C100001674	2-arachidonoyl-GPE (20:4)*	Lipid	HMDB0011517,HMDB0011518	http://share.sph.umich.edu/metsim_metabqtl/C100001674_primary_mac5.epacts.gz
+C100001710	leucylleucine	Peptide	HMDB0028933	http://share.sph.umich.edu/metsim_metabqtl/C100001710_primary_mac5.epacts.gz
+C100001723	alpha-hydroxycaproate	Lipid	HMDB0001624	http://share.sph.umich.edu/metsim_metabqtl/C100001723_primary_mac5.epacts.gz
+C100001731	indoleacetylglutamine	Amino_Acid	HMDB0013240	http://share.sph.umich.edu/metsim_metabqtl/C100001731_primary_mac5.epacts.gz
+C100001733	hexanoylglutamine	Lipid	~HMDB0011738	http://share.sph.umich.edu/metsim_metabqtl/C100001733_primary_mac5.epacts.gz
+C100001734	N6-acetyllysine	Amino_Acid	HMDB0000206	http://share.sph.umich.edu/metsim_metabqtl/C100001734_primary_mac5.epacts.gz
+C100001739	dihomo-linolenate (20:3n3 or n6)	Lipid	HMDB0002925,HMDB0060039	http://share.sph.umich.edu/metsim_metabqtl/C100001739_primary_mac5.epacts.gz
+C100001740	mannitol/sorbitol	Carbohydrate	HMDB0000765,HMDB0000247	http://share.sph.umich.edu/metsim_metabqtl/C100001740_primary_mac5.epacts.gz
+C100001743	tryptophan betaine	Amino_Acid	HMDB0061115	http://share.sph.umich.edu/metsim_metabqtl/C100001743_primary_mac5.epacts.gz
+C100001755	4-vinylphenol sulfate	Xenobiotics	HMDB0062775	http://share.sph.umich.edu/metsim_metabqtl/C100001755_primary_mac5.epacts.gz
+C100001756	4-ethylphenylsulfate	Xenobiotics	HMDB0062551	http://share.sph.umich.edu/metsim_metabqtl/C100001756_primary_mac5.epacts.gz
+C100001757	thymol sulfate	Xenobiotics	HMDB0062720	http://share.sph.umich.edu/metsim_metabqtl/C100001757_primary_mac5.epacts.gz
+C100001765	3-methyladipate	Lipid	HMDB0000555	http://share.sph.umich.edu/metsim_metabqtl/C100001765_primary_mac5.epacts.gz
+C100001767	pyrraline	Xenobiotics	HMDB0033143	http://share.sph.umich.edu/metsim_metabqtl/C100001767_primary_mac5.epacts.gz
+C100001768	N6-carboxymethyllysine	Carbohydrate	HMDB0240347	http://share.sph.umich.edu/metsim_metabqtl/C100001768_primary_mac5.epacts.gz
+C100001776	2-linoleoyl-GPE (18:2)*	Lipid	HMDB0011507	http://share.sph.umich.edu/metsim_metabqtl/C100001776_primary_mac5.epacts.gz
+C100001777	1-oleoyl-GPI (18:1)	Lipid	HMDB0061693	http://share.sph.umich.edu/metsim_metabqtl/C100001777_primary_mac5.epacts.gz
+C100001778	1-linoleoyl-GPI (18:2)*	Lipid	~HMDB0240261	http://share.sph.umich.edu/metsim_metabqtl/C100001778_primary_mac5.epacts.gz
+C100001784	1-palmitoleoyl-GPE (16:1)*	Lipid	HMDB0011474	http://share.sph.umich.edu/metsim_metabqtl/C100001784_primary_mac5.epacts.gz
+C100001786	1-palmitoleoyl-GPI (16:1)*	Lipid	~HMDB0061693	http://share.sph.umich.edu/metsim_metabqtl/C100001786_primary_mac5.epacts.gz
+C100001791	2-hydroxyacetaminophen sulfate*	Xenobiotics	HMDB0062547	http://share.sph.umich.edu/metsim_metabqtl/C100001791_primary_mac5.epacts.gz
+C100001806	o-cresol sulfate	Xenobiotics	HMDB0011635	http://share.sph.umich.edu/metsim_metabqtl/C100001806_primary_mac5.epacts.gz
+C100001808	3-ethylphenylsulfate	Xenobiotics	HMDB0062721	http://share.sph.umich.edu/metsim_metabqtl/C100001808_primary_mac5.epacts.gz
+C100001809	2-ethylphenylsulfate	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100001809_primary_mac5.epacts.gz
+C100001810	dimethylarginine (SDMA + ADMA)	Amino_Acid	HMDB0001539,HMDB0003334	http://share.sph.umich.edu/metsim_metabqtl/C100001810_primary_mac5.epacts.gz
+C100001843	gamma-glutamylalanine	Peptide	HMDB0029142	http://share.sph.umich.edu/metsim_metabqtl/C100001843_primary_mac5.epacts.gz
+C100001851	N-acetylserine	Amino_Acid	HMDB0002931	http://share.sph.umich.edu/metsim_metabqtl/C100001851_primary_mac5.epacts.gz
+C100001856	1-stearoyl-2-oleoyl-GPE (18:0/18:1)	Lipid	HMDB0008993	http://share.sph.umich.edu/metsim_metabqtl/C100001856_primary_mac5.epacts.gz
+C100001859	chiro-inositol	Lipid	HMDB0240209	http://share.sph.umich.edu/metsim_metabqtl/C100001859_primary_mac5.epacts.gz
+C100001868	4-allylphenol sulfate	Xenobiotics	~HMDB0062551	http://share.sph.umich.edu/metsim_metabqtl/C100001868_primary_mac5.epacts.gz
+C100001869	1-stearoyl-2-arachidonoyl-GPC (18:0/20:4)	Lipid	HMDB0008048,HMDB0008049	http://share.sph.umich.edu/metsim_metabqtl/C100001869_primary_mac5.epacts.gz
+C100001870	1-palmitoyl-2-linoleoyl-GPE (16:0/18:2)	Lipid	HMDB0008928	http://share.sph.umich.edu/metsim_metabqtl/C100001870_primary_mac5.epacts.gz
+C100001872	1-stearoyl-2-arachidonoyl-GPS (18:0/20:4)	Lipid	HMDB0012383	http://share.sph.umich.edu/metsim_metabqtl/C100001872_primary_mac5.epacts.gz
+C100001876	sphinganine-1-phosphate	Lipid	HMDB0001383	http://share.sph.umich.edu/metsim_metabqtl/C100001876_primary_mac5.epacts.gz
+C100001882	glycosyl-N-stearoyl-sphingosine (d18:1/18:0)	Lipid	HMDB0004972	http://share.sph.umich.edu/metsim_metabqtl/C100001882_primary_mac5.epacts.gz
+C100001925	cyclo(leu-pro)	Peptide	HMDB0034276	http://share.sph.umich.edu/metsim_metabqtl/C100001925_primary_mac5.epacts.gz
+C100001948	succinylcarnitine (C4-DC)	Energy	HMDB0061717	http://share.sph.umich.edu/metsim_metabqtl/C100001948_primary_mac5.epacts.gz
+C100001950	bilirubin (E,E)*	Cofactors_and_Vitamins	HMDB0000054	http://share.sph.umich.edu/metsim_metabqtl/C100001950_primary_mac5.epacts.gz
+C100001951	bilirubin (E,Z or Z,E)*	Cofactors_and_Vitamins	HMDB0000054,HMDB0000488	http://share.sph.umich.edu/metsim_metabqtl/C100001951_primary_mac5.epacts.gz
+C100001956	N-methylproline	Amino_Acid	HMDB0094696	http://share.sph.umich.edu/metsim_metabqtl/C100001956_primary_mac5.epacts.gz
+C100001977	beta-cryptoxanthin	Cofactors_and_Vitamins	HMDB0033844	http://share.sph.umich.edu/metsim_metabqtl/C100001977_primary_mac5.epacts.gz
+C100001987	5alpha-androstan-3beta,17beta-diol disulfate	Lipid	HMDB0000493	http://share.sph.umich.edu/metsim_metabqtl/C100001987_primary_mac5.epacts.gz
+C100001988	5alpha-pregnan-3beta,20alpha-diol disulfate	Lipid	HMDB0094650	http://share.sph.umich.edu/metsim_metabqtl/C100001988_primary_mac5.epacts.gz
+C100001989	glycocholenate sulfate*	Lipid	~HMDB0000138	http://share.sph.umich.edu/metsim_metabqtl/C100001989_primary_mac5.epacts.gz
+C100001990	taurocholenate sulfate*	Lipid	~HMDB0002581	http://share.sph.umich.edu/metsim_metabqtl/C100001990_primary_mac5.epacts.gz
+C100001992	androstenediol (3beta,17beta) disulfate (1)	Lipid	HMDB0240313	http://share.sph.umich.edu/metsim_metabqtl/C100001992_primary_mac5.epacts.gz
+C100001993	pregnenediol disulfate (C21H34O8S2)*	Lipid	~HMDB0240313	http://share.sph.umich.edu/metsim_metabqtl/C100001993_primary_mac5.epacts.gz
+C100001994	androstenediol (3beta,17beta) disulfate (2)	Lipid	HMDB0240313	http://share.sph.umich.edu/metsim_metabqtl/C100001994_primary_mac5.epacts.gz
+C100001999	21-hydroxypregnenolone disulfate	Lipid	~HMDB0004026	http://share.sph.umich.edu/metsim_metabqtl/C100001999_primary_mac5.epacts.gz
+C100002003	21-hydroxypregnenolone monosulfate (1)	Lipid	~HMDB0004026	http://share.sph.umich.edu/metsim_metabqtl/C100002003_primary_mac5.epacts.gz
+C100002008	5alpha-androstan-3alpha,17alpha-diol monosulfate	Lipid	~HMDB0002759	http://share.sph.umich.edu/metsim_metabqtl/C100002008_primary_mac5.epacts.gz
+C100002009	5alpha-pregnan-3beta,20beta-diol monosulfate (1)	Lipid	~HMDB0094650	http://share.sph.umich.edu/metsim_metabqtl/C100002009_primary_mac5.epacts.gz
+C100002014	5alpha-pregnan-3beta,20alpha-diol monosulfate (2)	Lipid	~HMDB0002759	http://share.sph.umich.edu/metsim_metabqtl/C100002014_primary_mac5.epacts.gz
+C100002015	5alpha-pregnan-diol disulfate	Lipid	HMDB0094650	http://share.sph.umich.edu/metsim_metabqtl/C100002015_primary_mac5.epacts.gz
+C100002017	5alpha-androstan-3alpha,17beta-diol disulfate	Lipid	HMDB0094682	http://share.sph.umich.edu/metsim_metabqtl/C100002017_primary_mac5.epacts.gz
+C100002018	5alpha-androstan-3alpha,17beta-diol monosulfate (1)	Lipid	~HMDB0240579	http://share.sph.umich.edu/metsim_metabqtl/C100002018_primary_mac5.epacts.gz
+C100002021	5alpha-androstan-3beta,17alpha-diol disulfate	Lipid	HMDB0094682	http://share.sph.umich.edu/metsim_metabqtl/C100002021_primary_mac5.epacts.gz
+C100002023	5alpha-androstan-3beta,17beta-diol monosulfate (1)	Lipid	~HMDB0094682	http://share.sph.umich.edu/metsim_metabqtl/C100002023_primary_mac5.epacts.gz
+C100002024	5alpha-androstan-3beta,17beta-diol monosulfate (2)	Lipid	HMDB0240580	http://share.sph.umich.edu/metsim_metabqtl/C100002024_primary_mac5.epacts.gz
+C100002026	androstenediol (3alpha, 17alpha) monosulfate (2)	Lipid	~HMDB0186954	http://share.sph.umich.edu/metsim_metabqtl/C100002026_primary_mac5.epacts.gz
+C100002027	androstenediol (3alpha, 17alpha) monosulfate (3)	Lipid	~HMDB0186954	http://share.sph.umich.edu/metsim_metabqtl/C100002027_primary_mac5.epacts.gz
+C100002028	androstenediol (3beta,17beta) monosulfate (1)	Lipid	HMDB0186954	http://share.sph.umich.edu/metsim_metabqtl/C100002028_primary_mac5.epacts.gz
+C100002029	androstenediol (3beta,17beta) monosulfate (2)	Lipid	HMDB0240429	http://share.sph.umich.edu/metsim_metabqtl/C100002029_primary_mac5.epacts.gz
+C100002049	4-hydroxycoumarin	Xenobiotics	HMDB0003654	http://share.sph.umich.edu/metsim_metabqtl/C100002049_primary_mac5.epacts.gz
+C100002060	1-docosahexaenoyl-GPE (22:6)*	Lipid	HMDB0011496	http://share.sph.umich.edu/metsim_metabqtl/C100002060_primary_mac5.epacts.gz
+C100002061	2-docosahexaenoyl-GPE (22:6)*	Lipid	HMDB0011496	http://share.sph.umich.edu/metsim_metabqtl/C100002061_primary_mac5.epacts.gz
+C100002063	1-docosapentaenoyl-GPC (22:5n3)*	Lipid	HMDB0010403	http://share.sph.umich.edu/metsim_metabqtl/C100002063_primary_mac5.epacts.gz
+C100002067	pregnenediol sulfate (C21H34O5S)*	Lipid	~HMDB0240590	http://share.sph.umich.edu/metsim_metabqtl/C100002067_primary_mac5.epacts.gz
+C100002070	2-hydroxyglutarate	Lipid	HMDB0059655	http://share.sph.umich.edu/metsim_metabqtl/C100002070_primary_mac5.epacts.gz
+C100002094	gamma-CEHC	Cofactors_and_Vitamins	HMDB0001931	http://share.sph.umich.edu/metsim_metabqtl/C100002094_primary_mac5.epacts.gz
+C100002102	N-acetyl-beta-alanine	Nucleotide	HMDB0061880	http://share.sph.umich.edu/metsim_metabqtl/C100002102_primary_mac5.epacts.gz
+C100002103	5-methylthioribose**	Amino_Acid	HMDB0001087	http://share.sph.umich.edu/metsim_metabqtl/C100002103_primary_mac5.epacts.gz
+C100002106	sphingomyelin (d18:1/18:1, d18:2/18:0)	Lipid	HMDB0012100,HMDB0012101	http://share.sph.umich.edu/metsim_metabqtl/C100002106_primary_mac5.epacts.gz
+C100002107	palmitoyl sphingomyelin (d18:1/16:0)	Lipid	HMDB0061712	http://share.sph.umich.edu/metsim_metabqtl/C100002107_primary_mac5.epacts.gz
+C100002113	cysteine sulfinic acid	Amino_Acid	HMDB0000996	http://share.sph.umich.edu/metsim_metabqtl/C100002113_primary_mac5.epacts.gz
+C100002122	3-hydroxyhippurate	Xenobiotics	HMDB0006116	http://share.sph.umich.edu/metsim_metabqtl/C100002122_primary_mac5.epacts.gz
+C100002126	16a-hydroxy DHEA 3-sulfate	Lipid	HMDB0062544	http://share.sph.umich.edu/metsim_metabqtl/C100002126_primary_mac5.epacts.gz
+C100002128	17alpha-hydroxypregnenolone 3-sulfate	Lipid	HMDB0000416	http://share.sph.umich.edu/metsim_metabqtl/C100002128_primary_mac5.epacts.gz
+C100002129	pregnenolone sulfate	Lipid	HMDB0000774	http://share.sph.umich.edu/metsim_metabqtl/C100002129_primary_mac5.epacts.gz
+C100002135	5-HEPE	Lipid	HMDB0005081	http://share.sph.umich.edu/metsim_metabqtl/C100002135_primary_mac5.epacts.gz
+C100002152	andro steroid monosulfate C19H28O6S (1)*	Lipid	HMDB0002759	http://share.sph.umich.edu/metsim_metabqtl/C100002152_primary_mac5.epacts.gz
+C100002154	ergothioneine	Xenobiotics	HMDB0003045	http://share.sph.umich.edu/metsim_metabqtl/C100002154_primary_mac5.epacts.gz
+C100002171	1-margaroyl-GPE (17:0)*	Lipid	~HMDB0011130	http://share.sph.umich.edu/metsim_metabqtl/C100002171_primary_mac5.epacts.gz
+C100002173	1-pentadecanoyl-GPC (15:0)*	Lipid	HMDB0010381	http://share.sph.umich.edu/metsim_metabqtl/C100002173_primary_mac5.epacts.gz
+C100002183	S-methylmethionine	Amino_Acid	HMDB0038670	http://share.sph.umich.edu/metsim_metabqtl/C100002183_primary_mac5.epacts.gz
+C100002185	indole-3-carboxylate	Amino_Acid	HMDB0003320	http://share.sph.umich.edu/metsim_metabqtl/C100002185_primary_mac5.epacts.gz
+C100002196	13-HODE + 9-HODE	Lipid	HMDB0004667;HMDB0004670	http://share.sph.umich.edu/metsim_metabqtl/C100002196_primary_mac5.epacts.gz
+C100002199	tridecenedioate (C13:1-DC)*	Lipid	~HMDB0000529	http://share.sph.umich.edu/metsim_metabqtl/C100002199_primary_mac5.epacts.gz
+C100002204	N-acetyl-3-methylhistidine*	Amino_Acid	~HMDB0000194	http://share.sph.umich.edu/metsim_metabqtl/C100002204_primary_mac5.epacts.gz
+C100002227	4-cholesten-3-one	Lipid	HMDB0000921	http://share.sph.umich.edu/metsim_metabqtl/C100002227_primary_mac5.epacts.gz
+C100002241	7-methylurate	Xenobiotics	HMDB0011107	http://share.sph.umich.edu/metsim_metabqtl/C100002241_primary_mac5.epacts.gz
+C100002249	N-acetyl-cadaverine	Amino_Acid	HMDB0002284	http://share.sph.umich.edu/metsim_metabqtl/C100002249_primary_mac5.epacts.gz
+C100002253	cinnamoylglycine	Xenobiotics	HMDB0011621	http://share.sph.umich.edu/metsim_metabqtl/C100002253_primary_mac5.epacts.gz
+C100002259	cis-4-decenoylcarnitine (C10:1)	Lipid	HMDB0240585	http://share.sph.umich.edu/metsim_metabqtl/C100002259_primary_mac5.epacts.gz
+C100002284	2S,3R-dihydroxybutyrate	Lipid	HMDB0002453	http://share.sph.umich.edu/metsim_metabqtl/C100002284_primary_mac5.epacts.gz
+C100002293	phenylalanylphenylalanine	Peptide	HMDB0013302	http://share.sph.umich.edu/metsim_metabqtl/C100002293_primary_mac5.epacts.gz
+C100002356	(16 or 17)-methylstearate (a19:0 or i19:0)	Lipid	HMDB0037397,HMDB0038070	http://share.sph.umich.edu/metsim_metabqtl/C100002356_primary_mac5.epacts.gz
+C100002367	2R,3R-dihydroxybutyrate	Lipid	HMDB0000498	http://share.sph.umich.edu/metsim_metabqtl/C100002367_primary_mac5.epacts.gz
+C100002397	alpha-ketoglutaramate*	Amino_Acid	HMDB0001552	http://share.sph.umich.edu/metsim_metabqtl/C100002397_primary_mac5.epacts.gz
+C100002417	2,3-dihydroxyisovalerate	Xenobiotics	HMDB0012141	http://share.sph.umich.edu/metsim_metabqtl/C100002417_primary_mac5.epacts.gz
+C100002458	3-methylglutaconate	Amino_Acid	HMDB0000522	http://share.sph.umich.edu/metsim_metabqtl/C100002458_primary_mac5.epacts.gz
+C100002462	5-(galactosylhydroxy)-L-lysine	Amino_Acid	~HMDB0000585	http://share.sph.umich.edu/metsim_metabqtl/C100002462_primary_mac5.epacts.gz
+C100002466	cysteinylglycine disulfide*	Amino_Acid	HMDB0000709	http://share.sph.umich.edu/metsim_metabqtl/C100002466_primary_mac5.epacts.gz
+C100002488	isoursodeoxycholate	Lipid	HMDB0000686	http://share.sph.umich.edu/metsim_metabqtl/C100002488_primary_mac5.epacts.gz
+C100002500	formiminoglutamate	Amino_Acid	HMDB0000854	http://share.sph.umich.edu/metsim_metabqtl/C100002500_primary_mac5.epacts.gz
+C100002514	hydantoin-5-propionate	Amino_Acid	HMDB0001212	http://share.sph.umich.edu/metsim_metabqtl/C100002514_primary_mac5.epacts.gz
+C100002528	sulfate*	Xenobiotics	HMDB0001448	http://share.sph.umich.edu/metsim_metabqtl/C100002528_primary_mac5.epacts.gz
+C100002537	4-hydroxy-2-oxoglutaric acid	Lipid	HMDB0002070	http://share.sph.umich.edu/metsim_metabqtl/C100002537_primary_mac5.epacts.gz
+C100002544	4-hydroxyglutamate	Amino_Acid	HMDB0002273	http://share.sph.umich.edu/metsim_metabqtl/C100002544_primary_mac5.epacts.gz
+C100002568	L-urobilin	Cofactors_and_Vitamins	HMDB0004159	http://share.sph.umich.edu/metsim_metabqtl/C100002568_primary_mac5.epacts.gz
+C100002679	gamma-carboxyglutamate	Amino_Acid	HMDB0041900	http://share.sph.umich.edu/metsim_metabqtl/C100002679_primary_mac5.epacts.gz
+C100002717	hydroxycotinine	Xenobiotics	HMDB0001390	http://share.sph.umich.edu/metsim_metabqtl/C100002717_primary_mac5.epacts.gz
+C100002719	cotinine N-oxide	Xenobiotics	HMDB0001411	http://share.sph.umich.edu/metsim_metabqtl/C100002719_primary_mac5.epacts.gz
+C100002734	hydrochlorothiazide	Xenobiotics	HMDB0001928	http://share.sph.umich.edu/metsim_metabqtl/C100002734_primary_mac5.epacts.gz
+C100002749	S-methylcysteine	Amino_Acid	HMDB0002108	http://share.sph.umich.edu/metsim_metabqtl/C100002749_primary_mac5.epacts.gz
+C100002751	astaxanthin	Cofactors_and_Vitamins	HMDB0002204	http://share.sph.umich.edu/metsim_metabqtl/C100002751_primary_mac5.epacts.gz
+C100002761	androsterone glucuronide	Lipid	HMDB0002829	http://share.sph.umich.edu/metsim_metabqtl/C100002761_primary_mac5.epacts.gz
+C100002769	argininate*	Amino_Acid	HMDB0003148	http://share.sph.umich.edu/metsim_metabqtl/C100002769_primary_mac5.epacts.gz
+C100002773	solanidine	Xenobiotics	HMDB0003236	http://share.sph.umich.edu/metsim_metabqtl/C100002773_primary_mac5.epacts.gz
+C100002784	2-oxoarginine*	Amino_Acid	HMDB0004225	http://share.sph.umich.edu/metsim_metabqtl/C100002784_primary_mac5.epacts.gz
+C100002796	cis-4-decenoate (10:1n6)*	Lipid	HMDB0004980	http://share.sph.umich.edu/metsim_metabqtl/C100002796_primary_mac5.epacts.gz
+C100002849	ethyl glucuronide	Xenobiotics	HMDB0010325	http://share.sph.umich.edu/metsim_metabqtl/C100002849_primary_mac5.epacts.gz
+C100002865	1-meadoyl-GPC (20:3n9)*	Lipid	HMDB0010393	http://share.sph.umich.edu/metsim_metabqtl/C100002865_primary_mac5.epacts.gz
+C100002869	1-erucoyl-GPC (22:1)*	Lipid	HMDB0010399	http://share.sph.umich.edu/metsim_metabqtl/C100002869_primary_mac5.epacts.gz
+C100002871	1-adrenoyl-GPC (22:4)*	Lipid	HMDB0010401	http://share.sph.umich.edu/metsim_metabqtl/C100002871_primary_mac5.epacts.gz
+C100002873	1-lignoceroyl-GPC (24:0)	Lipid	HMDB0010405	http://share.sph.umich.edu/metsim_metabqtl/C100002873_primary_mac5.epacts.gz
+C100002875	1-(1-enyl-palmitoyl)-GPC (P-16:0)*	Lipid	HMDB0010407	http://share.sph.umich.edu/metsim_metabqtl/C100002875_primary_mac5.epacts.gz
+C100002876	1-(1-enyl-oleoyl)-GPC (P-18:1)*	Lipid	HMDB0010408	http://share.sph.umich.edu/metsim_metabqtl/C100002876_primary_mac5.epacts.gz
+C100002877	1-(1-enyl-stearoyl)-GPC (P-18:0)*	Lipid	HMDB0013122	http://share.sph.umich.edu/metsim_metabqtl/C100002877_primary_mac5.epacts.gz
+C100002910	1-methyl-5-imidazoleacetate	Amino_Acid	HMDB0004988	http://share.sph.umich.edu/metsim_metabqtl/C100002910_primary_mac5.epacts.gz
+C100002911	glycoursodeoxycholate	Lipid	HMDB0000708	http://share.sph.umich.edu/metsim_metabqtl/C100002911_primary_mac5.epacts.gz
+C100002912	tauroursodeoxycholate	Lipid	HMDB0000874	http://share.sph.umich.edu/metsim_metabqtl/C100002912_primary_mac5.epacts.gz
+C100002913	ursocholate	Lipid	HMDB0000917	http://share.sph.umich.edu/metsim_metabqtl/C100002913_primary_mac5.epacts.gz
+C100002927	S-methylcysteine sulfoxide	Amino_Acid	HMDB0029432	http://share.sph.umich.edu/metsim_metabqtl/C100002927_primary_mac5.epacts.gz
+C100002945	(14 or 15)-methylpalmitate (a17:0 or i17:0)	Lipid	HMDB0031067,HMDB0061709	http://share.sph.umich.edu/metsim_metabqtl/C100002945_primary_mac5.epacts.gz
+C100002951	eicosanedioate (C20-DC)	Lipid	HMDB0000782	http://share.sph.umich.edu/metsim_metabqtl/C100002951_primary_mac5.epacts.gz
+C100002952	docosadioate (C22-DC)	Lipid	~HMDB0000782	http://share.sph.umich.edu/metsim_metabqtl/C100002952_primary_mac5.epacts.gz
+C100002989	oleoyl-linoleoyl-glycerol (18:1/18:2) [1]	Lipid	HMDB0007219	http://share.sph.umich.edu/metsim_metabqtl/C100002989_primary_mac5.epacts.gz
+C100002990	oleoyl-linoleoyl-glycerol (18:1/18:2) [2]	Lipid	HMDB0007219	http://share.sph.umich.edu/metsim_metabqtl/C100002990_primary_mac5.epacts.gz
+C100003000	1-(1-enyl-palmitoyl)-GPE (P-16:0)*	Lipid	HMDB0011152	http://share.sph.umich.edu/metsim_metabqtl/C100003000_primary_mac5.epacts.gz
+C100003001	1-(1-enyl-stearoyl)-GPE (P-18:0)*	Lipid		http://share.sph.umich.edu/metsim_metabqtl/C100003001_primary_mac5.epacts.gz
+C100003008	2-stearoyl-GPI (18:0)*	Lipid	HMDB0240261	http://share.sph.umich.edu/metsim_metabqtl/C100003008_primary_mac5.epacts.gz
+C100003101	alpha-CEHC glucuronide*	Cofactors_and_Vitamins	HMDB0062445	http://share.sph.umich.edu/metsim_metabqtl/C100003101_primary_mac5.epacts.gz
+C100003109	2-oxindole-3-acetate	Xenobiotics	HMDB0035514	http://share.sph.umich.edu/metsim_metabqtl/C100003109_primary_mac5.epacts.gz
+C100003119	N-oleoyltaurine	Lipid	~HMDB0240595	http://share.sph.umich.edu/metsim_metabqtl/C100003119_primary_mac5.epacts.gz
+C100003151	linoleoylcarnitine (C18:2)*	Lipid	HMDB0006469	http://share.sph.umich.edu/metsim_metabqtl/C100003151_primary_mac5.epacts.gz
+C100003169	isoleucylglycine	Peptide	HMDB0028907	http://share.sph.umich.edu/metsim_metabqtl/C100003169_primary_mac5.epacts.gz
+C100003185	leucylglycine	Peptide	HMDB0028929	http://share.sph.umich.edu/metsim_metabqtl/C100003185_primary_mac5.epacts.gz
+C100003239	N-palmitoyltaurine	Lipid	HMDB0240594	http://share.sph.umich.edu/metsim_metabqtl/C100003239_primary_mac5.epacts.gz
+C100003240	N-stearoyltaurine	Lipid	HMDB0240595	http://share.sph.umich.edu/metsim_metabqtl/C100003240_primary_mac5.epacts.gz
+C100003258	2-O-methylascorbic acid	Cofactors_and_Vitamins	HMDB0240294	http://share.sph.umich.edu/metsim_metabqtl/C100003258_primary_mac5.epacts.gz
+C100003260	carboxyethyl-GABA	Amino_Acid	HMDB0002201	http://share.sph.umich.edu/metsim_metabqtl/C100003260_primary_mac5.epacts.gz
+C100003271	beta-citrylglutamate	Amino_Acid	HMDB0013220	http://share.sph.umich.edu/metsim_metabqtl/C100003271_primary_mac5.epacts.gz
+C100003397	trimethylamine N-oxide	Lipid	HMDB0000925	http://share.sph.umich.edu/metsim_metabqtl/C100003397_primary_mac5.epacts.gz
+C100003415	N6-methyllysine	Amino_Acid	HMDB0002038	http://share.sph.umich.edu/metsim_metabqtl/C100003415_primary_mac5.epacts.gz
+C100003432	dihydroferulate	Xenobiotics	HMDB0062121	http://share.sph.umich.edu/metsim_metabqtl/C100003432_primary_mac5.epacts.gz
+C100003434	imidazole propionate	Amino_Acid	HMDB0002271	http://share.sph.umich.edu/metsim_metabqtl/C100003434_primary_mac5.epacts.gz
+C100003470	pregnanediol-3-glucuronide	Lipid	HMDB0010318	http://share.sph.umich.edu/metsim_metabqtl/C100003470_primary_mac5.epacts.gz
+C100003473	alliin	Xenobiotics	HMDB0033592	http://share.sph.umich.edu/metsim_metabqtl/C100003473_primary_mac5.epacts.gz
+C100003594	phenylalanyltryptophan	Peptide	HMDB0029006	http://share.sph.umich.edu/metsim_metabqtl/C100003594_primary_mac5.epacts.gz
+C100003641	valylglycine	Peptide	HMDB0029127	http://share.sph.umich.edu/metsim_metabqtl/C100003641_primary_mac5.epacts.gz
+C100003645	valylphenylalanine	Peptide	HMDB0029134	http://share.sph.umich.edu/metsim_metabqtl/C100003645_primary_mac5.epacts.gz
+C100003651	methionylalanine	Peptide	HMDB0028966	http://share.sph.umich.edu/metsim_metabqtl/C100003651_primary_mac5.epacts.gz
+C100003674	prolylglycine	Peptide	HMDB0011178	http://share.sph.umich.edu/metsim_metabqtl/C100003674_primary_mac5.epacts.gz
+C100003678	prolylproline	Peptide	HMDB0011180	http://share.sph.umich.edu/metsim_metabqtl/C100003678_primary_mac5.epacts.gz
+C100003679	prolylserine	Peptide	HMDB0029026	http://share.sph.umich.edu/metsim_metabqtl/C100003679_primary_mac5.epacts.gz
+C100003686	N-palmitoylglycine	Lipid	HMDB0013034	http://share.sph.umich.edu/metsim_metabqtl/C100003686_primary_mac5.epacts.gz
+C100003695	mannonate*	Xenobiotics	~HMDB0000625	http://share.sph.umich.edu/metsim_metabqtl/C100003695_primary_mac5.epacts.gz
+C100003892	lanthionine	Amino_Acid	~HMDB0034324	http://share.sph.umich.edu/metsim_metabqtl/C100003892_primary_mac5.epacts.gz
+C100003901	2-stearoyl-GPE (18:0)*	Lipid	HMDB0011129	http://share.sph.umich.edu/metsim_metabqtl/C100003901_primary_mac5.epacts.gz
+C100003926	(R)-3-hydroxybutyrylcarnitine	Lipid	HMDB0013127	http://share.sph.umich.edu/metsim_metabqtl/C100003926_primary_mac5.epacts.gz
+C100004046	N-acetylcarnosine	Amino_Acid	HMDB0012881	http://share.sph.umich.edu/metsim_metabqtl/C100004046_primary_mac5.epacts.gz
+C100004054	margaroylcarnitine (C17)*	Lipid	HMDB0006210	http://share.sph.umich.edu/metsim_metabqtl/C100004054_primary_mac5.epacts.gz
+C100004056	N-methyltaurine	Amino_Acid		http://share.sph.umich.edu/metsim_metabqtl/C100004056_primary_mac5.epacts.gz
+C100004059	histidine betaine (hercynine)*	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100004059_primary_mac5.epacts.gz
+C100004083	glycohyocholate	Lipid	HMDB0000138	http://share.sph.umich.edu/metsim_metabqtl/C100004083_primary_mac5.epacts.gz
+C100004089	2-hydroxydecanoate	Lipid	HMDB0094656	http://share.sph.umich.edu/metsim_metabqtl/C100004089_primary_mac5.epacts.gz
+C100004110	3-methyl catechol sulfate (2)	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100004110_primary_mac5.epacts.gz
+C100004111	4-methylcatechol sulfate	Xenobiotics	HMDB0240459	http://share.sph.umich.edu/metsim_metabqtl/C100004111_primary_mac5.epacts.gz
+C100004112	3-methyl catechol sulfate (1)	Xenobiotics	~HMDB0240461	http://share.sph.umich.edu/metsim_metabqtl/C100004112_primary_mac5.epacts.gz
+C100004169	2-hydroxyibuprofen	Xenobiotics	HMDB0060920	http://share.sph.umich.edu/metsim_metabqtl/C100004169_primary_mac5.epacts.gz
+C100004171	carboxyibuprofen	Xenobiotics	HMDB0060564	http://share.sph.umich.edu/metsim_metabqtl/C100004171_primary_mac5.epacts.gz
+C100004182	3b-hydroxy-5-cholenoic acid	Lipid	HMDB0000308	http://share.sph.umich.edu/metsim_metabqtl/C100004182_primary_mac5.epacts.gz
+C100004208	guaiacol sulfate	Xenobiotics	HMDB0060013	http://share.sph.umich.edu/metsim_metabqtl/C100004208_primary_mac5.epacts.gz
+C100004227	2-aminooctanoate	Lipid	HMDB0000991	http://share.sph.umich.edu/metsim_metabqtl/C100004227_primary_mac5.epacts.gz
+C100004243	gamma-CEHC glucuronide*	Cofactors_and_Vitamins	HMDB0062445	http://share.sph.umich.edu/metsim_metabqtl/C100004243_primary_mac5.epacts.gz
+C100004284	dimethyl sulfone	Xenobiotics	HMDB0004983	http://share.sph.umich.edu/metsim_metabqtl/C100004284_primary_mac5.epacts.gz
+C100004295	2-piperidinone	Xenobiotics	HMDB0011749	http://share.sph.umich.edu/metsim_metabqtl/C100004295_primary_mac5.epacts.gz
+C100004299	N-acetyl-1-methylhistidine*	Amino_Acid	~HMDB0005769	http://share.sph.umich.edu/metsim_metabqtl/C100004299_primary_mac5.epacts.gz
+C100004318	indolin-2-one	Xenobiotics	~HMDB0061933	http://share.sph.umich.edu/metsim_metabqtl/C100004318_primary_mac5.epacts.gz
+C100004322	2-aminophenol sulfate	Xenobiotics	HMDB0061116	http://share.sph.umich.edu/metsim_metabqtl/C100004322_primary_mac5.epacts.gz
+C100004326	3-acetylphenol sulfate	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100004326_primary_mac5.epacts.gz
+C100004327	1-stearoyl-GPS (18:0)*	Lipid	HMDB0061698	http://share.sph.umich.edu/metsim_metabqtl/C100004327_primary_mac5.epacts.gz
+C100004328	sphingomyelin (d18:1/14:0, d16:1/16:0)*	Lipid	HMDB0012097	http://share.sph.umich.edu/metsim_metabqtl/C100004328_primary_mac5.epacts.gz
+C100004329	sphingomyelin (d18:2/16:0, d18:1/16:1)*	Lipid	~HMDB0010169	http://share.sph.umich.edu/metsim_metabqtl/C100004329_primary_mac5.epacts.gz
+C100004396	3-hydroxyadipate*	Lipid	HMDB0000345	http://share.sph.umich.edu/metsim_metabqtl/C100004396_primary_mac5.epacts.gz
+C100004494	3-hydroxycotinine glucuronide	Xenobiotics	HMDB0001204	http://share.sph.umich.edu/metsim_metabqtl/C100004494_primary_mac5.epacts.gz
+C100004499	6-oxopiperidine-2-carboxylate	Amino_Acid	HMDB0061705	http://share.sph.umich.edu/metsim_metabqtl/C100004499_primary_mac5.epacts.gz
+C100004509	S-allylcysteine	Xenobiotics	HMDB0034323	http://share.sph.umich.edu/metsim_metabqtl/C100004509_primary_mac5.epacts.gz
+C100004523	N-delta-acetylornithine	Amino_Acid	HMDB0003357	http://share.sph.umich.edu/metsim_metabqtl/C100004523_primary_mac5.epacts.gz
+C100004541	acisoga	Amino_Acid	HMDB0061384	http://share.sph.umich.edu/metsim_metabqtl/C100004541_primary_mac5.epacts.gz
+C100004542	2-aminoheptanoate	Lipid	HMDB0094649	http://share.sph.umich.edu/metsim_metabqtl/C100004542_primary_mac5.epacts.gz
+C100004552	1-eicosapentaenoyl-GPE (20:5)*	Lipid	HMDB0011489	http://share.sph.umich.edu/metsim_metabqtl/C100004552_primary_mac5.epacts.gz
+C100004555	benzoylcarnitine*	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100004555_primary_mac5.epacts.gz
+C100004561	N-formylanthranilic acid	Amino_Acid	HMDB0004089	http://share.sph.umich.edu/metsim_metabqtl/C100004561_primary_mac5.epacts.gz
+C100004575	N2,N5-diacetylornithine	Amino_Acid	~HMDB0003357	http://share.sph.umich.edu/metsim_metabqtl/C100004575_primary_mac5.epacts.gz
+C100004634	3-methoxytyramine sulfate	Amino_Acid	~HMDB0127988	http://share.sph.umich.edu/metsim_metabqtl/C100004634_primary_mac5.epacts.gz
+C100004635	methionine sulfone	Amino_Acid	HMDB0062174	http://share.sph.umich.edu/metsim_metabqtl/C100004635_primary_mac5.epacts.gz
+C100005350	1-linolenoyl-GPC (18:3)*	Lipid	HMDB0010387,HMDB0010388	http://share.sph.umich.edu/metsim_metabqtl/C100005350_primary_mac5.epacts.gz
+C100005351	1-eicosapentaenoyl-GPC (20:5)*	Lipid	HMDB0010397	http://share.sph.umich.edu/metsim_metabqtl/C100005351_primary_mac5.epacts.gz
+C100005352	1-eicosenoyl-GPC (20:1)*	Lipid	HMDB0008315	http://share.sph.umich.edu/metsim_metabqtl/C100005352_primary_mac5.epacts.gz
+C100005353	1-nonadecanoyl-GPC (19:0)	Lipid	~HMDB0010398	http://share.sph.umich.edu/metsim_metabqtl/C100005353_primary_mac5.epacts.gz
+C100005367	N-acetylalliin	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100005367_primary_mac5.epacts.gz
+C100005371	1-dihomo-linolenoyl-GPE (20:3n3 or 6)*	Lipid	HMDB0011514,HMDB0011516	http://share.sph.umich.edu/metsim_metabqtl/C100005371_primary_mac5.epacts.gz
+C100005372	1-(1-enyl-oleoyl)-GPE (P-18:1)*	Lipid		http://share.sph.umich.edu/metsim_metabqtl/C100005372_primary_mac5.epacts.gz
+C100005373	fructosyllysine	Amino_Acid	HMDB0034879	http://share.sph.umich.edu/metsim_metabqtl/C100005373_primary_mac5.epacts.gz
+C100005383	N-methylpipecolate	Xenobiotics	~HMDB0000070	http://share.sph.umich.edu/metsim_metabqtl/C100005383_primary_mac5.epacts.gz
+C100005384	O-sulfo-L-tyrosine	Xenobiotics	HMDB0155722	http://share.sph.umich.edu/metsim_metabqtl/C100005384_primary_mac5.epacts.gz
+C100005389	ferulic acid 4-sulfate	Xenobiotics	HMDB0029200	http://share.sph.umich.edu/metsim_metabqtl/C100005389_primary_mac5.epacts.gz
+C100005391	3-(3-hydroxyphenyl)propionate sulfate	Xenobiotics	HMDB0094710	http://share.sph.umich.edu/metsim_metabqtl/C100005391_primary_mac5.epacts.gz
+C100005396	5alpha-androstan-3alpha,17beta-diol 17-glucuronide	Lipid	HMDB0010339	http://share.sph.umich.edu/metsim_metabqtl/C100005396_primary_mac5.epacts.gz
+C100005402	11-ketoetiocholanolone glucuronide	Lipid		http://share.sph.umich.edu/metsim_metabqtl/C100005402_primary_mac5.epacts.gz
+C100005403	etiocholanolone glucuronide	Lipid	HMDB0004484	http://share.sph.umich.edu/metsim_metabqtl/C100005403_primary_mac5.epacts.gz
+C100005418	17alpha-hydroxypregnanolone glucuronide	Lipid	~HMDB0010318	http://share.sph.umich.edu/metsim_metabqtl/C100005418_primary_mac5.epacts.gz
+C100005466	N-acetyltaurine	Amino_Acid	HMDB0240253	http://share.sph.umich.edu/metsim_metabqtl/C100005466_primary_mac5.epacts.gz
+C100005673	1-docosapentaenoyl-GPC (22:5n6)*	Lipid		http://share.sph.umich.edu/metsim_metabqtl/C100005673_primary_mac5.epacts.gz
+C100005714	1-linolenoyl-GPE (18:3)*	Lipid	HMDB0011509	http://share.sph.umich.edu/metsim_metabqtl/C100005714_primary_mac5.epacts.gz
+C100005716	1-oleoyl-GPG (18:1)*	Lipid	HMDB0240602	http://share.sph.umich.edu/metsim_metabqtl/C100005716_primary_mac5.epacts.gz
+C100005717	1-palmitoyl-GPG (16:0)*	Lipid	HMDB0240601	http://share.sph.umich.edu/metsim_metabqtl/C100005717_primary_mac5.epacts.gz
+C100005814	N-linoleoyltaurine*	Lipid	~HMDB0240595	http://share.sph.umich.edu/metsim_metabqtl/C100005814_primary_mac5.epacts.gz
+C100005834	9-hydroxystearate	Lipid	HMDB0061661	http://share.sph.umich.edu/metsim_metabqtl/C100005834_primary_mac5.epacts.gz
+C100005850	3-methylglutarylcarnitine (2)	Amino_Acid	HMDB0000552	http://share.sph.umich.edu/metsim_metabqtl/C100005850_primary_mac5.epacts.gz
+C100005864	methyl glucopyranoside (alpha + beta)	Xenobiotics	HMDB0029965	http://share.sph.umich.edu/metsim_metabqtl/C100005864_primary_mac5.epacts.gz
+C100005972	alpha-CEHC sulfate	Cofactors_and_Vitamins	~HMDB0001518	http://share.sph.umich.edu/metsim_metabqtl/C100005972_primary_mac5.epacts.gz
+C100005977	alpha-CMBHC glucuronide	Cofactors_and_Vitamins	~HMDB0062445	http://share.sph.umich.edu/metsim_metabqtl/C100005977_primary_mac5.epacts.gz
+C100005985	sphingomyelin (d18:2/14:0, d18:1/14:1)*	Lipid	HMDB0013462	http://share.sph.umich.edu/metsim_metabqtl/C100005985_primary_mac5.epacts.gz
+C100005986	sphingomyelin (d18:1/24:1, d18:2/24:0)*	Lipid	HMDB0012107	http://share.sph.umich.edu/metsim_metabqtl/C100005986_primary_mac5.epacts.gz
+C100005996	octadecenedioylcarnitine (C18:1-DC)*	Lipid	~HMDB0013338	http://share.sph.umich.edu/metsim_metabqtl/C100005996_primary_mac5.epacts.gz
+C100005998	octadecanedioylcarnitine (C18-DC)*	Lipid	~HMDB0000848	http://share.sph.umich.edu/metsim_metabqtl/C100005998_primary_mac5.epacts.gz
+C100006005	5alpha-androstan-3alpha,17beta-diol monosulfate (2)	Lipid	~HMDB0002759	http://share.sph.umich.edu/metsim_metabqtl/C100006005_primary_mac5.epacts.gz
+C100006051	myristoleoylcarnitine (C14:1)*	Lipid	HMDB0240588	http://share.sph.umich.edu/metsim_metabqtl/C100006051_primary_mac5.epacts.gz
+C100006056	N-formylphenylalanine	Amino_Acid	HMDB0240317	http://share.sph.umich.edu/metsim_metabqtl/C100006056_primary_mac5.epacts.gz
+C100006082	4-hydroxychlorothalonil	Xenobiotics	~HMDB0014894	http://share.sph.umich.edu/metsim_metabqtl/C100006082_primary_mac5.epacts.gz
+C100006089	isoeugenol sulfate	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100006089_primary_mac5.epacts.gz
+C100006092	tyramine O-sulfate	Amino_Acid	HMDB0006409	http://share.sph.umich.edu/metsim_metabqtl/C100006092_primary_mac5.epacts.gz
+C100006094	3-hydroxycinnamate sulfate	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100006094_primary_mac5.epacts.gz
+C100006098	3-hydroxypyridine sulfate	Xenobiotics	~HMDB0013751	http://share.sph.umich.edu/metsim_metabqtl/C100006098_primary_mac5.epacts.gz
+C100006105	4-methylguaiacol sulfate	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100006105_primary_mac5.epacts.gz
+C100006108	phenylacetylcarnitine	Peptide		http://share.sph.umich.edu/metsim_metabqtl/C100006108_primary_mac5.epacts.gz
+C100006115	arabonate/xylonate	Carbohydrate	HMDB0000539,HMDB0060256	http://share.sph.umich.edu/metsim_metabqtl/C100006115_primary_mac5.epacts.gz
+C100006116	methyl-4-hydroxybenzoate sulfate	Xenobiotics	HMDB0041646	http://share.sph.umich.edu/metsim_metabqtl/C100006116_primary_mac5.epacts.gz
+C100006121	1-dihomo-linolenylglycerol (20:3)	Lipid		http://share.sph.umich.edu/metsim_metabqtl/C100006121_primary_mac5.epacts.gz
+C100006123	N-acetylhistamine	Amino_Acid	HMDB0013253	http://share.sph.umich.edu/metsim_metabqtl/C100006123_primary_mac5.epacts.gz
+C100006126	4-vinylguaiacol sulfate	Xenobiotics	HMDB0127980	http://share.sph.umich.edu/metsim_metabqtl/C100006126_primary_mac5.epacts.gz
+C100006129	vanillactate	Amino_Acid	HMDB0000913	http://share.sph.umich.edu/metsim_metabqtl/C100006129_primary_mac5.epacts.gz
+C100006171	eugenol sulfate	Xenobiotics	HMDB0135245	http://share.sph.umich.edu/metsim_metabqtl/C100006171_primary_mac5.epacts.gz
+C100006173	pregnanolone/allopregnanolone sulfate	Lipid	HMDB0062782,~HMDB0001449	http://share.sph.umich.edu/metsim_metabqtl/C100006173_primary_mac5.epacts.gz
+C100006184	2-methoxyresorcinol sulfate	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100006184_primary_mac5.epacts.gz
+C100006190	2-acetamidophenol sulfate	Xenobiotics	~HMDB0062547	http://share.sph.umich.edu/metsim_metabqtl/C100006190_primary_mac5.epacts.gz
+C100006191	p-cresol glucuronide*	Amino_Acid	HMDB0011686	http://share.sph.umich.edu/metsim_metabqtl/C100006191_primary_mac5.epacts.gz
+C100006203	acesulfame	Xenobiotics	HMDB0033585	http://share.sph.umich.edu/metsim_metabqtl/C100006203_primary_mac5.epacts.gz
+C100006256	syringol sulfate	Xenobiotics	~HMDB0060013	http://share.sph.umich.edu/metsim_metabqtl/C100006256_primary_mac5.epacts.gz
+C100006260	6-hydroxyindole sulfate	Xenobiotics	~HMDB0000682	http://share.sph.umich.edu/metsim_metabqtl/C100006260_primary_mac5.epacts.gz
+C100006262	4-methoxyphenol sulfate	Amino_Acid		http://share.sph.umich.edu/metsim_metabqtl/C100006262_primary_mac5.epacts.gz
+C100006264	propyl 4-hydroxybenzoate sulfate	Xenobiotics	HMDB0135261	http://share.sph.umich.edu/metsim_metabqtl/C100006264_primary_mac5.epacts.gz
+C100006282	umbelliferone sulfate	Xenobiotics	HMDB0240565	http://share.sph.umich.edu/metsim_metabqtl/C100006282_primary_mac5.epacts.gz
+C100006290	sphingomyelin (d18:1/20:0, d16:1/22:0)*	Lipid	HMDB0012102	http://share.sph.umich.edu/metsim_metabqtl/C100006290_primary_mac5.epacts.gz
+C100006292	sphingomyelin (d18:1/20:1, d18:2/20:0)*	Lipid	~HMDB0012102	http://share.sph.umich.edu/metsim_metabqtl/C100006292_primary_mac5.epacts.gz
+C100006293	sphingomyelin (d18:1/20:2, d18:2/20:1, d16:1/22:2)*	Lipid	~HMDB0013465	http://share.sph.umich.edu/metsim_metabqtl/C100006293_primary_mac5.epacts.gz
+C100006294	behenoyl sphingomyelin (d18:1/22:0)*	Lipid	HMDB0012103	http://share.sph.umich.edu/metsim_metabqtl/C100006294_primary_mac5.epacts.gz
+C100006295	sphingomyelin (d18:1/22:1, d18:2/22:0, d16:1/24:1)*	Lipid	HMDB0011694,HMDB0012104	http://share.sph.umich.edu/metsim_metabqtl/C100006295_primary_mac5.epacts.gz
+C100006296	sphingomyelin (d18:1/22:2, d18:2/22:1, d16:1/24:2)*	Lipid	~HMDB0013467	http://share.sph.umich.edu/metsim_metabqtl/C100006296_primary_mac5.epacts.gz
+C100006298	lignoceroyl sphingomyelin (d18:1/24:0)	Lipid	HMDB0011697	http://share.sph.umich.edu/metsim_metabqtl/C100006298_primary_mac5.epacts.gz
+C100006314	sphingomyelin (d17:1/16:0, d18:1/15:0, d16:1/17:0)*	Lipid	HMDB0240608	http://share.sph.umich.edu/metsim_metabqtl/C100006314_primary_mac5.epacts.gz
+C100006360	dopamine 4-sulfate	Amino_Acid	HMDB0004148	http://share.sph.umich.edu/metsim_metabqtl/C100006360_primary_mac5.epacts.gz
+C100006361	dopamine 3-O-sulfate	Amino_Acid	HMDB0006275	http://share.sph.umich.edu/metsim_metabqtl/C100006361_primary_mac5.epacts.gz
+C100006363	daidzein sulfate (2)	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100006363_primary_mac5.epacts.gz
+C100006367	3-hydroxyhexanoate	Lipid	HMDB0061652	http://share.sph.umich.edu/metsim_metabqtl/C100006367_primary_mac5.epacts.gz
+C100006370	3beta-hydroxy-5-cholestenoate	Lipid	HMDB0012453	http://share.sph.umich.edu/metsim_metabqtl/C100006370_primary_mac5.epacts.gz
+C100006374	1,2,3-benzenetriol sulfate (2)	Xenobiotics	HMDB0060016;HMDB0060018	http://share.sph.umich.edu/metsim_metabqtl/C100006374_primary_mac5.epacts.gz
+C100006375	3-methoxycatechol sulfate (1)	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100006375_primary_mac5.epacts.gz
+C100006376	3-methoxycatechol sulfate (2)	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100006376_primary_mac5.epacts.gz
+C100006378	N-acetylkynurenine (2)	Amino_Acid	~HMDB0000684	http://share.sph.umich.edu/metsim_metabqtl/C100006378_primary_mac5.epacts.gz
+C100006379	C-glycosyltryptophan	Amino_Acid	~HMDB0000929	http://share.sph.umich.edu/metsim_metabqtl/C100006379_primary_mac5.epacts.gz
+C100006430	arabitol/xylitol	Carbohydrate	HMDB0000568,HMDB0002917	http://share.sph.umich.edu/metsim_metabqtl/C100006430_primary_mac5.epacts.gz
+C100006435	N-acetylglucosamine/N-acetylgalactosamine	Carbohydrate	HMDB0000215,HMDB0000212	http://share.sph.umich.edu/metsim_metabqtl/C100006435_primary_mac5.epacts.gz
+C100006614	adipoylcarnitine (C6-DC)	Lipid	HMDB0061677	http://share.sph.umich.edu/metsim_metabqtl/C100006614_primary_mac5.epacts.gz
+C100006620	nonanoylcarnitine (C9)	Lipid	HMDB0013288	http://share.sph.umich.edu/metsim_metabqtl/C100006620_primary_mac5.epacts.gz
+C100006627	suberoylcarnitine (C8-DC)	Lipid	HMDB0000791	http://share.sph.umich.edu/metsim_metabqtl/C100006627_primary_mac5.epacts.gz
+C100006638	deoxycholic acid 3-sulfate	Lipid	HMDB0002504	http://share.sph.umich.edu/metsim_metabqtl/C100006638_primary_mac5.epacts.gz
+C100006641	glycochenodeoxycholate 3-sulfate	Lipid	HMDB0002497	http://share.sph.umich.edu/metsim_metabqtl/C100006641_primary_mac5.epacts.gz
+C100006642	glycodeoxycholate 3-sulfate	Lipid	~HMDB0000631	http://share.sph.umich.edu/metsim_metabqtl/C100006642_primary_mac5.epacts.gz
+C100006644	taurodeoxycholic acid 3-sulfate	Lipid	HMDB0002581	http://share.sph.umich.edu/metsim_metabqtl/C100006644_primary_mac5.epacts.gz
+C100006651	3,4-methyleneheptanoate	Xenobiotics	~HMDB0031087	http://share.sph.umich.edu/metsim_metabqtl/C100006651_primary_mac5.epacts.gz
+C100006679	phenol glucuronide	Amino_Acid	HMDB0060014	http://share.sph.umich.edu/metsim_metabqtl/C100006679_primary_mac5.epacts.gz
+C100006726	linoleoyl ethanolamide	Lipid	HMDB0012252	http://share.sph.umich.edu/metsim_metabqtl/C100006726_primary_mac5.epacts.gz
+C100008903	1,2-dilinoleoyl-GPC (18:2/18:2)	Lipid	HMDB0008138	http://share.sph.umich.edu/metsim_metabqtl/C100008903_primary_mac5.epacts.gz
+C100008904	1-stearoyl-2-oleoyl-GPC (18:0/18:1)	Lipid	HMDB0008037,HMDB0008038	http://share.sph.umich.edu/metsim_metabqtl/C100008904_primary_mac5.epacts.gz
+C100008914	1-palmitoyl-2-arachidonoyl-GPC (16:0/20:4n6)	Lipid	HMDB0007982	http://share.sph.umich.edu/metsim_metabqtl/C100008914_primary_mac5.epacts.gz
+C100008915	1-palmitoyl-2-docosahexaenoyl-GPC (16:0/22:6)	Lipid	HMDB0007991	http://share.sph.umich.edu/metsim_metabqtl/C100008915_primary_mac5.epacts.gz
+C100008916	1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6)	Lipid	HMDB0008057	http://share.sph.umich.edu/metsim_metabqtl/C100008916_primary_mac5.epacts.gz
+C100008917	1-(1-enyl-stearoyl)-2-oleoyl-GPC (P-18:0/18:1)	Lipid	HMDB0011242,HMDB0011243	http://share.sph.umich.edu/metsim_metabqtl/C100008917_primary_mac5.epacts.gz
+C100008918	1-(1-enyl-stearoyl)-2-arachidonoyl-GPC (P-18:0/20:4)	Lipid	HMDB0011253,HMDB0011254	http://share.sph.umich.edu/metsim_metabqtl/C100008918_primary_mac5.epacts.gz
+C100008919	1-(1-enyl-stearoyl)-2-oleoyl-GPE (P-18:0/18:1)	Lipid	HMDB0011375	http://share.sph.umich.edu/metsim_metabqtl/C100008919_primary_mac5.epacts.gz
+C100008920	sphingomyelin (d18:1/17:0, d17:1/18:0, d19:1/16:0)	Lipid	HMDB0240609	http://share.sph.umich.edu/metsim_metabqtl/C100008920_primary_mac5.epacts.gz
+C100008921	1-palmitoyl-2-stearoyl-GPC (16:0/18:0)	Lipid	HMDB0007970	http://share.sph.umich.edu/metsim_metabqtl/C100008921_primary_mac5.epacts.gz
+C100008928	2-hydroxybutyrate/2-hydroxyisobutyrate	Amino_Acid	HMDB0000008,HMDB0000729	http://share.sph.umich.edu/metsim_metabqtl/C100008928_primary_mac5.epacts.gz
+C100008929	2-methylcitrate/homocitrate	Energy	HMDB0000379;HMDB0003518	http://share.sph.umich.edu/metsim_metabqtl/C100008929_primary_mac5.epacts.gz
+C100008930	oleate/vaccenate (18:1)	Lipid	HMDB0000207	http://share.sph.umich.edu/metsim_metabqtl/C100008930_primary_mac5.epacts.gz
+C100008952	1-palmitoleoylglycerol (16:1)*	Lipid	HMDB0011565	http://share.sph.umich.edu/metsim_metabqtl/C100008952_primary_mac5.epacts.gz
+C100008953	2-palmitoleoylglycerol (16:1)*	Lipid	HMDB0011534	http://share.sph.umich.edu/metsim_metabqtl/C100008953_primary_mac5.epacts.gz
+C100008954	palmitoyl dihydrosphingomyelin (d18:0/16:0)*	Lipid	HMDB0062665	http://share.sph.umich.edu/metsim_metabqtl/C100008954_primary_mac5.epacts.gz
+C100008955	tricosanoyl sphingomyelin (d18:1/23:0)*	Lipid	HMDB0012105	http://share.sph.umich.edu/metsim_metabqtl/C100008955_primary_mac5.epacts.gz
+C100008956	sphingomyelin (d18:2/23:0, d18:1/23:1, d17:1/24:1)*	Lipid	HMDB0240614	http://share.sph.umich.edu/metsim_metabqtl/C100008956_primary_mac5.epacts.gz
+C100008957	sphingomyelin (d18:2/24:1, d18:1/24:2)*	Lipid	~HMDB0011697	http://share.sph.umich.edu/metsim_metabqtl/C100008957_primary_mac5.epacts.gz
+C100008976	1-stearoyl-2-linoleoyl-GPE (18:0/18:2)*	Lipid	HMDB0008994	http://share.sph.umich.edu/metsim_metabqtl/C100008976_primary_mac5.epacts.gz
+C100008977	1-stearoyl-2-arachidonoyl-GPE (18:0/20:4)	Lipid	HMDB0009003	http://share.sph.umich.edu/metsim_metabqtl/C100008977_primary_mac5.epacts.gz
+C100008980	1-stearoyl-2-linoleoyl-GPC (18:0/18:2)*	Lipid	HMDB0008039	http://share.sph.umich.edu/metsim_metabqtl/C100008980_primary_mac5.epacts.gz
+C100008981	1-oleoyl-2-linoleoyl-GPC (18:1/18:2)*	Lipid	HMDB0008105	http://share.sph.umich.edu/metsim_metabqtl/C100008981_primary_mac5.epacts.gz
+C100008984	1-palmitoyl-2-palmitoleoyl-GPC (16:0/16:1)*	Lipid	HMDB0007969	http://share.sph.umich.edu/metsim_metabqtl/C100008984_primary_mac5.epacts.gz
+C100008985	1-palmitoyl-2-dihomo-linolenoyl-GPC (16:0/20:3n3 or 6)*	Lipid	HMDB0007980,HMDB0007981	http://share.sph.umich.edu/metsim_metabqtl/C100008985_primary_mac5.epacts.gz
+C100008989	1-palmitoyl-2-eicosapentaenoyl-GPC (16:0/20:5)*	Lipid	HMDB0007984	http://share.sph.umich.edu/metsim_metabqtl/C100008989_primary_mac5.epacts.gz
+C100008990	1-palmitoyl-2-arachidonoyl-GPE (16:0/20:4)*	Lipid	HMDB0008937	http://share.sph.umich.edu/metsim_metabqtl/C100008990_primary_mac5.epacts.gz
+C100008991	1-palmitoyl-2-docosahexaenoyl-GPE (16:0/22:6)*	Lipid	HMDB0008946	http://share.sph.umich.edu/metsim_metabqtl/C100008991_primary_mac5.epacts.gz
+C100008992	1-stearoyl-2-docosahexaenoyl-GPE (18:0/22:6)*	Lipid	HMDB0009012	http://share.sph.umich.edu/metsim_metabqtl/C100008992_primary_mac5.epacts.gz
+C100008993	1-palmitoyl-2-arachidonoyl-GPI (16:0/20:4)*	Lipid	HMDB0009789	http://share.sph.umich.edu/metsim_metabqtl/C100008993_primary_mac5.epacts.gz
+C100008994	1-stearoyl-2-linoleoyl-GPI (18:0/18:2)	Lipid	HMDB0009809	http://share.sph.umich.edu/metsim_metabqtl/C100008994_primary_mac5.epacts.gz
+C100008996	1-palmitoyl-2-palmitoleoyl-GPE (16:0/16:1)*	Lipid	HMDB0008924	http://share.sph.umich.edu/metsim_metabqtl/C100008996_primary_mac5.epacts.gz
+C100008998	gamma-tocopherol/beta-tocopherol	Cofactors_and_Vitamins	HMDB0001492,HMDB0006335	http://share.sph.umich.edu/metsim_metabqtl/C100008998_primary_mac5.epacts.gz
+C100008999	1-(1-enyl-stearoyl)-2-arachidonoyl-GPE (P-18:0/20:4)*	Lipid	HMDB0005779	http://share.sph.umich.edu/metsim_metabqtl/C100008999_primary_mac5.epacts.gz
+C100009000	1-(1-enyl-palmitoyl)-2-docosahexaenoyl-GPE (P-16:0/22:6)*	Lipid	HMDB0005780	http://share.sph.umich.edu/metsim_metabqtl/C100009000_primary_mac5.epacts.gz
+C100009002	1-(1-enyl-palmitoyl)-2-arachidonoyl-GPE (P-16:0/20:4)*	Lipid	HMDB0011352	http://share.sph.umich.edu/metsim_metabqtl/C100009002_primary_mac5.epacts.gz
+C100009004	1-(1-enyl-stearoyl)-2-docosahexaenoyl-GPE (P-18:0/22:6)*	Lipid	HMDB0011394	http://share.sph.umich.edu/metsim_metabqtl/C100009004_primary_mac5.epacts.gz
+C100009005	1-(1-enyl-palmitoyl)-2-oleoyl-GPE (P-16:0/18:1)*	Lipid	HMDB0011342	http://share.sph.umich.edu/metsim_metabqtl/C100009005_primary_mac5.epacts.gz
+C100009007	1-(1-enyl-palmitoyl)-2-oleoyl-GPC (P-16:0/18:1)*	Lipid	HMDB0011209,HMDB0011210	http://share.sph.umich.edu/metsim_metabqtl/C100009007_primary_mac5.epacts.gz
+C100009008	1-(1-enyl-palmitoyl)-2-docosahexaenoyl-GPC (P-16:0/22:6)*	Lipid	HMDB0011229	http://share.sph.umich.edu/metsim_metabqtl/C100009008_primary_mac5.epacts.gz
+C100009009	1-(1-enyl-palmitoyl)-2-linoleoyl-GPC (P-16:0/18:2)*	Lipid	HMDB0011211	http://share.sph.umich.edu/metsim_metabqtl/C100009009_primary_mac5.epacts.gz
+C100009014	1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*	Lipid	HMDB0007982	http://share.sph.umich.edu/metsim_metabqtl/C100009014_primary_mac5.epacts.gz
+C100009015	1-(1-enyl-stearoyl)-2-docosahexaenoyl-GPC (P-18:0/22:6)*	Lipid	HMDB0011262	http://share.sph.umich.edu/metsim_metabqtl/C100009015_primary_mac5.epacts.gz
+C100009020	1-palmityl-2-oleoyl-GPC (O-16:0/18:1)*	Lipid	HMDB0013412	http://share.sph.umich.edu/metsim_metabqtl/C100009020_primary_mac5.epacts.gz
+C100009021	1-palmityl-2-arachidonoyl-GPC (O-16:0/20:4)*	Lipid	HMDB0013407	http://share.sph.umich.edu/metsim_metabqtl/C100009021_primary_mac5.epacts.gz
+C100009025	sphingomyelin (d18:1/21:0, d17:1/22:0, d16:1/23:0)*	Lipid	~HMDB0012103	http://share.sph.umich.edu/metsim_metabqtl/C100009025_primary_mac5.epacts.gz
+C100009026	behenoyl dihydrosphingomyelin (d18:0/22:0)*	Lipid	HMDB0012091	http://share.sph.umich.edu/metsim_metabqtl/C100009026_primary_mac5.epacts.gz
+C100009027	sphingomyelin (d18:0/18:0, d19:0/17:0)*	Lipid	HMDB0012087	http://share.sph.umich.edu/metsim_metabqtl/C100009027_primary_mac5.epacts.gz
+C100009028	N-palmitoyl-sphinganine (d18:0/16:0)	Lipid	HMDB0011760	http://share.sph.umich.edu/metsim_metabqtl/C100009028_primary_mac5.epacts.gz
+C100009030	lactosyl-N-palmitoyl-sphingosine (d18:1/16:0)	Lipid	HMDB0010169	http://share.sph.umich.edu/metsim_metabqtl/C100009030_primary_mac5.epacts.gz
+C100009035	1-pentadecanoyl-2-linoleoyl-GPC (15:0/18:2)*	Lipid	HMDB0007940	http://share.sph.umich.edu/metsim_metabqtl/C100009035_primary_mac5.epacts.gz
+C100009036	1-margaroyl-2-oleoyl-GPC (17:0/18:1)*	Lipid	~HMDB0008038	http://share.sph.umich.edu/metsim_metabqtl/C100009036_primary_mac5.epacts.gz
+C100009037	1-margaroyl-2-linoleoyl-GPC (17:0/18:2)*	Lipid	~HMDB0008039	http://share.sph.umich.edu/metsim_metabqtl/C100009037_primary_mac5.epacts.gz
+C100009038	myristoyl dihydrosphingomyelin (d18:0/14:0)*	Lipid	HMDB0012085	http://share.sph.umich.edu/metsim_metabqtl/C100009038_primary_mac5.epacts.gz
+C100009042	5-hydroxyindole sulfate	Amino_Acid	~HMDB0000682	http://share.sph.umich.edu/metsim_metabqtl/C100009042_primary_mac5.epacts.gz
+C100009043	7-hydroxyindole sulfate	Amino_Acid		http://share.sph.umich.edu/metsim_metabqtl/C100009043_primary_mac5.epacts.gz
+C100009045	phenylacetylglutamate	Peptide	HMDB0059772	http://share.sph.umich.edu/metsim_metabqtl/C100009045_primary_mac5.epacts.gz
+C100009051	1-stearoyl-2-dihomo-linolenoyl-GPC (18:0/20:3n3 or 6)*	Lipid	HMDB0008047	http://share.sph.umich.edu/metsim_metabqtl/C100009051_primary_mac5.epacts.gz
+C100009052	palmitoyl-linoleoyl-glycerol (16:0/18:2) [1]*	Lipid	HMDB0007103	http://share.sph.umich.edu/metsim_metabqtl/C100009052_primary_mac5.epacts.gz
+C100009053	palmitoleoyl-oleoyl-glycerol (16:1/18:1) [1]*	Lipid	HMDB0007131	http://share.sph.umich.edu/metsim_metabqtl/C100009053_primary_mac5.epacts.gz
+C100009054	palmitoleoyl-oleoyl-glycerol (16:1/18:1) [2]*	Lipid	HMDB0007131	http://share.sph.umich.edu/metsim_metabqtl/C100009054_primary_mac5.epacts.gz
+C100009055	palmitoyl-linoleoyl-glycerol (16:0/18:2) [2]*	Lipid	HMDB0007103	http://share.sph.umich.edu/metsim_metabqtl/C100009055_primary_mac5.epacts.gz
+C100009066	1-palmitoyl-2-oleoyl-GPI (16:0/18:1)*	Lipid	HMDB0009783	http://share.sph.umich.edu/metsim_metabqtl/C100009066_primary_mac5.epacts.gz
+C100009069	1-(1-enyl-palmitoyl)-2-linoleoyl-GPE (P-16:0/18:2)*	Lipid	HMDB0011343	http://share.sph.umich.edu/metsim_metabqtl/C100009069_primary_mac5.epacts.gz
+C100009075	1-palmitoleoyl-2-linoleoyl-GPC (16:1/18:2)*	Lipid	HMDB0008006	http://share.sph.umich.edu/metsim_metabqtl/C100009075_primary_mac5.epacts.gz
+C100009076	1-palmitoyl-2-alpha-linolenoyl-GPC (16:0/18:3n3)*	Lipid	HMDB0007975	http://share.sph.umich.edu/metsim_metabqtl/C100009076_primary_mac5.epacts.gz
+C100009078	1-oleoyl-2-linoleoyl-GPE (18:1/18:2)*	Lipid	HMDB0009060	http://share.sph.umich.edu/metsim_metabqtl/C100009078_primary_mac5.epacts.gz
+C100009079	1-palmitoyl-2-dihomo-linolenoyl-GPE (16:0/20:3)*	Lipid	HMDB0008935	http://share.sph.umich.edu/metsim_metabqtl/C100009079_primary_mac5.epacts.gz
+C100009082	1-linoleoyl-GPA (18:2)*	Lipid	HMDB0007856	http://share.sph.umich.edu/metsim_metabqtl/C100009082_primary_mac5.epacts.gz
+C100009122	1-pentadecanoyl-2-arachidonoyl-GPC (15:0/20:4)*	Lipid	HMDB0007949	http://share.sph.umich.edu/metsim_metabqtl/C100009122_primary_mac5.epacts.gz
+C100009123	1-pentadecanoyl-2-docosahexaenoyl-GPC (15:0/22:6)*	Lipid	HMDB0007958	http://share.sph.umich.edu/metsim_metabqtl/C100009123_primary_mac5.epacts.gz
+C100009125	1-margaroyl-2-docosahexaenoyl-GPC (17:0/22:6)*	Lipid	~HMDB0008057	http://share.sph.umich.edu/metsim_metabqtl/C100009125_primary_mac5.epacts.gz
+C100009130	1-oleoyl-2-docosahexaenoyl-GPC (18:1/22:6)*	Lipid	HMDB0008123	http://share.sph.umich.edu/metsim_metabqtl/C100009130_primary_mac5.epacts.gz
+C100009131	1-linoleoyl-2-arachidonoyl-GPC (18:2/20:4n6)*	Lipid	HMDB0008147	http://share.sph.umich.edu/metsim_metabqtl/C100009131_primary_mac5.epacts.gz
+C100009135	1-(1-enyl-stearoyl)-2-linoleoyl-GPC (P-18:0/18:2)*	Lipid	HMDB0011244	http://share.sph.umich.edu/metsim_metabqtl/C100009135_primary_mac5.epacts.gz
+C100009138	1-myristoyl-2-linoleoyl-GPC (14:0/18:2)*	Lipid	HMDB0007874	http://share.sph.umich.edu/metsim_metabqtl/C100009138_primary_mac5.epacts.gz
+C100009139	1-myristoyl-2-arachidonoyl-GPC (14:0/20:4)*	Lipid	HMDB0007883	http://share.sph.umich.edu/metsim_metabqtl/C100009139_primary_mac5.epacts.gz
+C100009140	1-myristoyl-2-docosahexaenoyl-GPC (14:0/22:6)*	Lipid	HMDB0007892	http://share.sph.umich.edu/metsim_metabqtl/C100009140_primary_mac5.epacts.gz
+C100009141	1-stearoyl-2-docosapentaenoyl-GPC (18:0/22:5n3)*	Lipid	HMDB0008056	http://share.sph.umich.edu/metsim_metabqtl/C100009141_primary_mac5.epacts.gz
+C100009142	1-stearoyl-2-docosapentaenoyl-GPC (18:0/22:5n6)*	Lipid	HMDB0008055	http://share.sph.umich.edu/metsim_metabqtl/C100009142_primary_mac5.epacts.gz
+C100009143	1-palmitoyl-2-adrenoyl-GPC (16:0/22:4)*	Lipid	HMDB0007988	http://share.sph.umich.edu/metsim_metabqtl/C100009143_primary_mac5.epacts.gz
+C100009145	1-palmitoyl-2-meadoyl-GPC (16:0/20:3n9)*	Lipid	HMDB0007980	http://share.sph.umich.edu/metsim_metabqtl/C100009145_primary_mac5.epacts.gz
+C100009146	1-stearoyl-2-adrenoyl-GPC (18:0/22:4)*	Lipid	HMDB0008054	http://share.sph.umich.edu/metsim_metabqtl/C100009146_primary_mac5.epacts.gz
+C100009147	1-stearyl-GPC (O-18:0)*	Lipid	HMDB0011149	http://share.sph.umich.edu/metsim_metabqtl/C100009147_primary_mac5.epacts.gz
+C100009148	1-oleoyl-2-dihomo-linolenoyl-GPC (18:1/20:3)*	Lipid	HMDB0008113	http://share.sph.umich.edu/metsim_metabqtl/C100009148_primary_mac5.epacts.gz
+C100009149	1-oleoyl-2-eicosapentaenoyl-GPC (18:1/20:5)*	Lipid	HMDB0008083	http://share.sph.umich.edu/metsim_metabqtl/C100009149_primary_mac5.epacts.gz
+C100009153	1-stearoyl-2-meadoyl-GPC (18:0/20:3n9)*	Lipid	HMDB0008046	http://share.sph.umich.edu/metsim_metabqtl/C100009153_primary_mac5.epacts.gz
+C100009160	1-(1-enyl-palmitoyl)-2-palmitoleoyl-GPC (P-16:0/16:1)*	Lipid	HMDB0011207	http://share.sph.umich.edu/metsim_metabqtl/C100009160_primary_mac5.epacts.gz
+C100009161	1-(1-enyl-palmitoyl)-2-myristoyl-GPC (P-16:0/14:0)*	Lipid	HMDB0011203	http://share.sph.umich.edu/metsim_metabqtl/C100009161_primary_mac5.epacts.gz
+C100009162	1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0)*	Lipid	HMDB0011206	http://share.sph.umich.edu/metsim_metabqtl/C100009162_primary_mac5.epacts.gz
+C100009166	phosphatidylcholine (16:0/22:5n3, 18:1/20:4)*	Lipid	HMDB0007989,HMDB0008082	http://share.sph.umich.edu/metsim_metabqtl/C100009166_primary_mac5.epacts.gz
+C100009167	phosphatidylcholine (18:0/20:5, 16:0/22:5n6)*	Lipid	HMDB0008050	http://share.sph.umich.edu/metsim_metabqtl/C100009167_primary_mac5.epacts.gz
+C100009181	1-stearoyl-2-oleoyl-GPI (18:0/18:1)*	Lipid	~HMDB0009806	http://share.sph.umich.edu/metsim_metabqtl/C100009181_primary_mac5.epacts.gz
+C100009219	1-oleoyl-2-arachidonoyl-GPE (18:1/20:4)*	Lipid	HMDB0009069	http://share.sph.umich.edu/metsim_metabqtl/C100009219_primary_mac5.epacts.gz
+C100009220	1-oleoyl-2-docosahexaenoyl-GPE (18:1/22:6)*	Lipid	HMDB0009045,HMDB0009078	http://share.sph.umich.edu/metsim_metabqtl/C100009220_primary_mac5.epacts.gz
+C100009225	1-(1-enyl-stearoyl)-2-linoleoyl-GPE (P-18:0/18:2)*	Lipid	HMDB0011376	http://share.sph.umich.edu/metsim_metabqtl/C100009225_primary_mac5.epacts.gz
+C100009227	1-linoleoyl-GPG (18:2)*	Lipid	HMDB0240600	http://share.sph.umich.edu/metsim_metabqtl/C100009227_primary_mac5.epacts.gz
+C100009232	thioproline	Xenobiotics	HMDB0062164	http://share.sph.umich.edu/metsim_metabqtl/C100009232_primary_mac5.epacts.gz
+C100009233	palmitoylcholine	Lipid	HMDB0240592	http://share.sph.umich.edu/metsim_metabqtl/C100009233_primary_mac5.epacts.gz
+C100009239	isocitric lactone	Energy	~HMDB0000193	http://share.sph.umich.edu/metsim_metabqtl/C100009239_primary_mac5.epacts.gz
+C100009246	2-methylserine	Amino_Acid		http://share.sph.umich.edu/metsim_metabqtl/C100009246_primary_mac5.epacts.gz
+C100009264	glycochenodeoxycholate glucuronide (1)	Lipid	HMDB0002579	http://share.sph.umich.edu/metsim_metabqtl/C100009264_primary_mac5.epacts.gz
+C100009271	(S)-3-hydroxybutyrylcarnitine	Lipid	HMDB0013127	http://share.sph.umich.edu/metsim_metabqtl/C100009271_primary_mac5.epacts.gz
+C100009272	glycosyl-N-palmitoyl-sphingosine (d18:1/16:0)	Lipid	~HMDB0004971	http://share.sph.umich.edu/metsim_metabqtl/C100009272_primary_mac5.epacts.gz
+C100009326	catechol glucuronide	Amino_Acid		http://share.sph.umich.edu/metsim_metabqtl/C100009326_primary_mac5.epacts.gz
+C100009329	ascorbic acid 2-sulfate	Cofactors_and_Vitamins	HMDB0060649	http://share.sph.umich.edu/metsim_metabqtl/C100009329_primary_mac5.epacts.gz
+C100009331	oleoylcholine	Lipid	HMDB0240596	http://share.sph.umich.edu/metsim_metabqtl/C100009331_primary_mac5.epacts.gz
+C100009332	arachidonoylcholine	Lipid	HMDB0240583	http://share.sph.umich.edu/metsim_metabqtl/C100009332_primary_mac5.epacts.gz
+C100009333	docosahexaenoylcholine	Lipid		http://share.sph.umich.edu/metsim_metabqtl/C100009333_primary_mac5.epacts.gz
+C100009334	palmitoloelycholine	Lipid		http://share.sph.umich.edu/metsim_metabqtl/C100009334_primary_mac5.epacts.gz
+C100009335	dihomo-linolenoyl-choline	Lipid		http://share.sph.umich.edu/metsim_metabqtl/C100009335_primary_mac5.epacts.gz
+C100009336	eicosapentaenoylcholine	Lipid	~HMDB0240583	http://share.sph.umich.edu/metsim_metabqtl/C100009336_primary_mac5.epacts.gz
+C100009337	caffeic acid sulfate	Xenobiotics	HMDB0041708	http://share.sph.umich.edu/metsim_metabqtl/C100009337_primary_mac5.epacts.gz
+C100009343	1-linoleoyl-2-linolenoyl-GPC (18:2/18:3)*	Lipid	HMDB0008141	http://share.sph.umich.edu/metsim_metabqtl/C100009343_primary_mac5.epacts.gz
+C100009345	1-palmitoleoyl-2-linolenoyl-GPC (16:1/18:3)*	Lipid	HMDB0008008	http://share.sph.umich.edu/metsim_metabqtl/C100009345_primary_mac5.epacts.gz
+C100009346	phosphatidylcholine (14:0/14:0, 16:0/12:0)	Lipid	HMDB0007866	http://share.sph.umich.edu/metsim_metabqtl/C100009346_primary_mac5.epacts.gz
+C100009347	phosphatidylcholine (15:0/18:1, 17:0/16:1, 16:0/17:1)*	Lipid	HMDB0007938	http://share.sph.umich.edu/metsim_metabqtl/C100009347_primary_mac5.epacts.gz
+C100009360	1-oleoyl-2-docosapentaenoyl-GPC (18:1/22:5n3)*	Lipid	HMDB0008089	http://share.sph.umich.edu/metsim_metabqtl/C100009360_primary_mac5.epacts.gz
+C100009364	phosphatidylcholine (18:0/20:2, 20:0/18:2)*	Lipid	HMDB0008045	http://share.sph.umich.edu/metsim_metabqtl/C100009364_primary_mac5.epacts.gz
+C100009375	1-linoleoyl-2-docosapentaenyol-GPC (18:2/22:5n3)*	Lipid		http://share.sph.umich.edu/metsim_metabqtl/C100009375_primary_mac5.epacts.gz
+C100009376	1-(1-enyl-oleoyl)-2-docosahexaenoyl-GPE (P-18:1/22:6)*	Lipid	HMDB0011427	http://share.sph.umich.edu/metsim_metabqtl/C100009376_primary_mac5.epacts.gz
+C100009394	hexadecadienoate (16:2n6)	Lipid	HMDB0000477	http://share.sph.umich.edu/metsim_metabqtl/C100009394_primary_mac5.epacts.gz
+C100009405	1-myristoyl-2-eicosapentaenoyl-GPC (14:0/20:5)*	Lipid	HMDB0007885	http://share.sph.umich.edu/metsim_metabqtl/C100009405_primary_mac5.epacts.gz
+C100009406	palmitoleoylcarnitine (C16:1)*	Lipid	HMDB0013207	http://share.sph.umich.edu/metsim_metabqtl/C100009406_primary_mac5.epacts.gz
+C100009407	pimeloylcarnitine/3-methyladipoylcarnitine (C7-DC)	Lipid	HMDB0000222	http://share.sph.umich.edu/metsim_metabqtl/C100009407_primary_mac5.epacts.gz
+C100009413	4-acetamidobenzoate	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100009413_primary_mac5.epacts.gz
+C100010850	4-hydroxyphenylacetylglutamine	Peptide	~HMDB0006061	http://share.sph.umich.edu/metsim_metabqtl/C100010850_primary_mac5.epacts.gz
+C100010863	indolepropionylglycine	Amino_Acid		http://share.sph.umich.edu/metsim_metabqtl/C100010863_primary_mac5.epacts.gz
+C100010895	2'-O-methylcytidine	Nucleotide	~HMDB0000089	http://share.sph.umich.edu/metsim_metabqtl/C100010895_primary_mac5.epacts.gz
+C100010896	2'-O-methyluridine	Nucleotide	~HMDB0000296	http://share.sph.umich.edu/metsim_metabqtl/C100010896_primary_mac5.epacts.gz
+C100010898	naringenin 7-glucuronide	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100010898_primary_mac5.epacts.gz
+C100010901	gamma-glutamyl-alpha-lysine	Peptide	~HMDB0029154	http://share.sph.umich.edu/metsim_metabqtl/C100010901_primary_mac5.epacts.gz
+C100010912	ferulylglycine (1)	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100010912_primary_mac5.epacts.gz
+C100010913	ferulylglycine (2)	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100010913_primary_mac5.epacts.gz
+C100010916	palmitoyl-oleoyl-glycerol (16:0/18:1) [1]*	Lipid	HMDB0007101,HMDB0007102	http://share.sph.umich.edu/metsim_metabqtl/C100010916_primary_mac5.epacts.gz
+C100010917	palmitoyl-oleoyl-glycerol (16:0/18:1) [2]*	Lipid	HMDB0007102	http://share.sph.umich.edu/metsim_metabqtl/C100010917_primary_mac5.epacts.gz
+C100010918	oleoyl-oleoyl-glycerol (18:1/18:1)  [1]*	Lipid	HMDB0007218	http://share.sph.umich.edu/metsim_metabqtl/C100010918_primary_mac5.epacts.gz
+C100010919	oleoyl-oleoyl-glycerol (18:1/18:1) [2]*	Lipid	HMDB0007218	http://share.sph.umich.edu/metsim_metabqtl/C100010919_primary_mac5.epacts.gz
+C100010922	linoleoyl-arachidonoyl-glycerol (18:2/20:4) [1]*	Lipid	HMDB0007257	http://share.sph.umich.edu/metsim_metabqtl/C100010922_primary_mac5.epacts.gz
+C100010923	linoleoyl-arachidonoyl-glycerol (18:2/20:4) [2]*	Lipid	HMDB0007257	http://share.sph.umich.edu/metsim_metabqtl/C100010923_primary_mac5.epacts.gz
+C100010927	linoleoyl-linolenoyl-glycerol (18:2/18:3) [2]*	Lipid	HMDB0007249	http://share.sph.umich.edu/metsim_metabqtl/C100010927_primary_mac5.epacts.gz
+C100010928	linoleoyl-docosahexaenoyl-glycerol (18:2/22:6) [1]*	Lipid	HMDB0007266	http://share.sph.umich.edu/metsim_metabqtl/C100010928_primary_mac5.epacts.gz
+C100010929	linoleoyl-docosahexaenoyl-glycerol (18:2/22:6) [2]*	Lipid	HMDB0007266	http://share.sph.umich.edu/metsim_metabqtl/C100010929_primary_mac5.epacts.gz
+C100010930	palmitoleoyl-linoleoyl-glycerol (16:1/18:2) [1]*	Lipid	HMDB0007132	http://share.sph.umich.edu/metsim_metabqtl/C100010930_primary_mac5.epacts.gz
+C100010934	diacylglycerol (14:0/18:1, 16:0/16:1) [1]*	Lipid	HMDB0007015	http://share.sph.umich.edu/metsim_metabqtl/C100010934_primary_mac5.epacts.gz
+C100010935	diacylglycerol (14:0/18:1, 16:0/16:1) [2]*	Lipid	HMDB0007015	http://share.sph.umich.edu/metsim_metabqtl/C100010935_primary_mac5.epacts.gz
+C100010936	oleoyl-arachidonoyl-glycerol (18:1/20:4) [1]*	Lipid	HMDB0007228	http://share.sph.umich.edu/metsim_metabqtl/C100010936_primary_mac5.epacts.gz
+C100010937	oleoyl-arachidonoyl-glycerol (18:1/20:4) [2]*	Lipid	HMDB0007228	http://share.sph.umich.edu/metsim_metabqtl/C100010937_primary_mac5.epacts.gz
+C100010940	diacylglycerol (16:1/18:2 [2], 16:0/18:3 [1])*	Lipid	HMDB0007132	http://share.sph.umich.edu/metsim_metabqtl/C100010940_primary_mac5.epacts.gz
+C100010941	linoleoyl-linoleoyl-glycerol (18:2/18:2) [1]*	Lipid	HMDB0007248	http://share.sph.umich.edu/metsim_metabqtl/C100010941_primary_mac5.epacts.gz
+C100010949	stearoyl-arachidonoyl-glycerol (18:0/20:4) [1]*	Lipid	HMDB0007170	http://share.sph.umich.edu/metsim_metabqtl/C100010949_primary_mac5.epacts.gz
+C100010955	perfluorooctanesulfonate (PFOS)	Xenobiotics	HMDB0059586	http://share.sph.umich.edu/metsim_metabqtl/C100010955_primary_mac5.epacts.gz
+C100010958	diacylglycerol (12:0/18:1, 14:0/16:1, 16:0/14:1) [1]*	Lipid		http://share.sph.umich.edu/metsim_metabqtl/C100010958_primary_mac5.epacts.gz
+C100010959	diacylglycerol (12:0/18:1, 14:0/16:1, 16:0/14:1) [2]*	Lipid	HMDB0007012	http://share.sph.umich.edu/metsim_metabqtl/C100010959_primary_mac5.epacts.gz
+C100010962	1-palmityl-GPE (O-16:0)*	Lipid		http://share.sph.umich.edu/metsim_metabqtl/C100010962_primary_mac5.epacts.gz
+C100015586	1-palmityl-2-palmitoyl-GPC (O-16:0/16:0)*	Lipid	~HMDB0013405	http://share.sph.umich.edu/metsim_metabqtl/C100015586_primary_mac5.epacts.gz
+C100015609	N-palmitoyl-sphingadienine (d18:2/16:0)*	Lipid		http://share.sph.umich.edu/metsim_metabqtl/C100015609_primary_mac5.epacts.gz
+C100015620	lactosyl-N-nervonoyl-sphingosine (d18:1/24:1)*	Lipid	HMDB0012107	http://share.sph.umich.edu/metsim_metabqtl/C100015620_primary_mac5.epacts.gz
+C100015623	lactosyl-N-behenoyl-sphingosine (d18:1/22:0)*	Lipid	HMDB0011594	http://share.sph.umich.edu/metsim_metabqtl/C100015623_primary_mac5.epacts.gz
+C100015624	N-behenoyl-sphingadienine (d18:2/22:0)*	Lipid	~HMDB0004952	http://share.sph.umich.edu/metsim_metabqtl/C100015624_primary_mac5.epacts.gz
+C100015625	glycosyl-N-behenoyl-sphingadienine (d18:2/22:0)*	Lipid	~HMDB0004974	http://share.sph.umich.edu/metsim_metabqtl/C100015625_primary_mac5.epacts.gz
+C100015632	N-stearoyl-sphingadienine (d18:2/18:0)*	Lipid	HMDB0240362	http://share.sph.umich.edu/metsim_metabqtl/C100015632_primary_mac5.epacts.gz
+C100015637	2-hydroxybehenate	Lipid	HMDB0061660	http://share.sph.umich.edu/metsim_metabqtl/C100015637_primary_mac5.epacts.gz
+C100015638	2-hydroxynervonate*	Lipid		http://share.sph.umich.edu/metsim_metabqtl/C100015638_primary_mac5.epacts.gz
+C100015640	N-palmitoylserine	Lipid	~HMDB0013034	http://share.sph.umich.edu/metsim_metabqtl/C100015640_primary_mac5.epacts.gz
+C100015641	N-oleoylserine	Lipid	~HMDB0013631	http://share.sph.umich.edu/metsim_metabqtl/C100015641_primary_mac5.epacts.gz
+C100015643	sphingadienine	Lipid	~HMDB0000252	http://share.sph.umich.edu/metsim_metabqtl/C100015643_primary_mac5.epacts.gz
+C100015683	myristoyl-linoleoyl-glycerol (14:0/18:2) [1]*	Lipid	HMDB0007016	http://share.sph.umich.edu/metsim_metabqtl/C100015683_primary_mac5.epacts.gz
+C100015684	myristoyl-linoleoyl-glycerol (14:0/18:2) [2]*	Lipid	HMDB0007016	http://share.sph.umich.edu/metsim_metabqtl/C100015684_primary_mac5.epacts.gz
+C100015723	hexadecasphingosine (d16:1)*	Lipid	~HMDB0000252	http://share.sph.umich.edu/metsim_metabqtl/C100015723_primary_mac5.epacts.gz
+C100015727	ceramide (d16:1/24:1, d18:1/22:1)*	Lipid	HMDB0011775	http://share.sph.umich.edu/metsim_metabqtl/C100015727_primary_mac5.epacts.gz
+C100015730	glycosyl ceramide (d16:1/24:1, d18:1/22:1)*	Lipid	~HMDB0004978	http://share.sph.umich.edu/metsim_metabqtl/C100015730_primary_mac5.epacts.gz
+C100015731	N-palmitoyl-heptadecasphingosine (d17:1/16:0)*	Lipid	~HMDB0000790	http://share.sph.umich.edu/metsim_metabqtl/C100015731_primary_mac5.epacts.gz
+C100015735	ceramide (d18:1/14:0, d16:1/16:0)*	Lipid	HMDB0011773	http://share.sph.umich.edu/metsim_metabqtl/C100015735_primary_mac5.epacts.gz
+C100015744	ceramide (d18:2/24:1, d18:1/24:2)*	Lipid	~HMDB0004953	http://share.sph.umich.edu/metsim_metabqtl/C100015744_primary_mac5.epacts.gz
+C100015745	glycosyl ceramide (d18:2/24:1, d18:1/24:2)*	Lipid	~HMDB0004978	http://share.sph.umich.edu/metsim_metabqtl/C100015745_primary_mac5.epacts.gz
+C100015752	glycosyl-N-(2-hydroxynervonoyl)-sphingosine (d18:1/24:1(2OH))*	Lipid	~HMDB0032843	http://share.sph.umich.edu/metsim_metabqtl/C100015752_primary_mac5.epacts.gz
+C100015755	ceramide (d18:1/20:0, d16:1/22:0, d20:1/18:0)*	Lipid	HMDB0004951	http://share.sph.umich.edu/metsim_metabqtl/C100015755_primary_mac5.epacts.gz
+C100015759	stearoylcholine*	Lipid	HMDB0240592	http://share.sph.umich.edu/metsim_metabqtl/C100015759_primary_mac5.epacts.gz
+C100015760	linoleoylcholine*	Lipid	HMDB0013213	http://share.sph.umich.edu/metsim_metabqtl/C100015760_primary_mac5.epacts.gz
+C100015785	nisinate (24:6n3)	Lipid	HMDB0002007	http://share.sph.umich.edu/metsim_metabqtl/C100015785_primary_mac5.epacts.gz
+C100015786	sphingomyelin (d18:0/20:0, d16:0/22:0)*	Lipid	HMDB0012090	http://share.sph.umich.edu/metsim_metabqtl/C100015786_primary_mac5.epacts.gz
+C100015787	sphingomyelin (d18:1/19:0, d19:1/18:0)*	Lipid	~HMDB0240622	http://share.sph.umich.edu/metsim_metabqtl/C100015787_primary_mac5.epacts.gz
+C100015788	sphingomyelin (d18:2/18:1)*	Lipid	HMDB0001348	http://share.sph.umich.edu/metsim_metabqtl/C100015788_primary_mac5.epacts.gz
+C100015789	sphingomyelin (d18:2/24:2)*	Lipid	~HMDB0240615	http://share.sph.umich.edu/metsim_metabqtl/C100015789_primary_mac5.epacts.gz
+C100015790	sphingomyelin (d18:2/21:0, d16:2/23:0)*	Lipid	~HMDB0240611	http://share.sph.umich.edu/metsim_metabqtl/C100015790_primary_mac5.epacts.gz
+C100015791	sphingomyelin (d18:2/23:1)*	Lipid	~HMDB0240614	http://share.sph.umich.edu/metsim_metabqtl/C100015791_primary_mac5.epacts.gz
+C100015792	sphingomyelin (d18:1/25:0, d19:0/24:1, d20:1/23:0, d19:1/24:0)*	Lipid	~HMDB0011699	http://share.sph.umich.edu/metsim_metabqtl/C100015792_primary_mac5.epacts.gz
+C100015793	sphingomyelin (d17:2/16:0, d18:2/15:0)*	Lipid	~HMDB0240620	http://share.sph.umich.edu/metsim_metabqtl/C100015793_primary_mac5.epacts.gz
+C100015797	heneicosapentaenoate (21:5n3)	Lipid		http://share.sph.umich.edu/metsim_metabqtl/C100015797_primary_mac5.epacts.gz
+C100015831	linolenoylcarnitine (C18:3)*	Lipid	~HMDB0006319	http://share.sph.umich.edu/metsim_metabqtl/C100015831_primary_mac5.epacts.gz
+C100015832	behenoylcarnitine (C22)*	Lipid	HMDB0062468	http://share.sph.umich.edu/metsim_metabqtl/C100015832_primary_mac5.epacts.gz
+C100015833	arachidoylcarnitine (C20)*	Lipid	HMDB0006460	http://share.sph.umich.edu/metsim_metabqtl/C100015833_primary_mac5.epacts.gz
+C100015834	lignoceroylcarnitine (C24)*	Lipid	~HMDB0006347	http://share.sph.umich.edu/metsim_metabqtl/C100015834_primary_mac5.epacts.gz
+C100015835	cerotoylcarnitine (C26)*	Lipid	HMDB0006347	http://share.sph.umich.edu/metsim_metabqtl/C100015835_primary_mac5.epacts.gz
+C100015836	ximenoylcarnitine (C26:1)*	Lipid	~HMDB0002014	http://share.sph.umich.edu/metsim_metabqtl/C100015836_primary_mac5.epacts.gz
+C100015837	arachidonoylcarnitine (C20:4)	Lipid	HMDB0006455	http://share.sph.umich.edu/metsim_metabqtl/C100015837_primary_mac5.epacts.gz
+C100015838	eicosenoylcarnitine (C20:1)*	Lipid	~HMDB0005065	http://share.sph.umich.edu/metsim_metabqtl/C100015838_primary_mac5.epacts.gz
+C100015839	dihomo-linoleoylcarnitine (C20:2)*	Lipid	~HMDB0006469	http://share.sph.umich.edu/metsim_metabqtl/C100015839_primary_mac5.epacts.gz
+C100015840	dihomo-linolenoylcarnitine (C20:3n3 or 6)*	Lipid	~HMDB0006319	http://share.sph.umich.edu/metsim_metabqtl/C100015840_primary_mac5.epacts.gz
+C100015845	docosahexaenoylcarnitine (C22:6)*	Lipid	HMDB0006510	http://share.sph.umich.edu/metsim_metabqtl/C100015845_primary_mac5.epacts.gz
+C100015846	nervonoylcarnitine (C24:1)*	Lipid	~HMDB0005065	http://share.sph.umich.edu/metsim_metabqtl/C100015846_primary_mac5.epacts.gz
+C100015851	docosapentaenoylcarnitine (C22:5n3)*	Lipid	~HMDB0060158	http://share.sph.umich.edu/metsim_metabqtl/C100015851_primary_mac5.epacts.gz
+C100015882	glycosyl ceramide (d18:1/20:0, d16:1/22:0)*	Lipid	HMDB0004973	http://share.sph.umich.edu/metsim_metabqtl/C100015882_primary_mac5.epacts.gz
+C100015962	N,N,N-trimethyl-5-aminovalerate	Amino_Acid	~HMDB0003355	http://share.sph.umich.edu/metsim_metabqtl/C100015962_primary_mac5.epacts.gz
+C100015965	ethyl alpha-glucopyranoside	Xenobiotics	HMDB0029968	http://share.sph.umich.edu/metsim_metabqtl/C100015965_primary_mac5.epacts.gz
+C100015966	carotene diol (1)	Cofactors_and_Vitamins	HMDB0002789	http://share.sph.umich.edu/metsim_metabqtl/C100015966_primary_mac5.epacts.gz
+C100015967	carotene diol (2)	Cofactors_and_Vitamins	HMDB0036919	http://share.sph.umich.edu/metsim_metabqtl/C100015967_primary_mac5.epacts.gz
+C100015968	carotene diol (3)	Cofactors_and_Vitamins	HMDB0002789	http://share.sph.umich.edu/metsim_metabqtl/C100015968_primary_mac5.epacts.gz
+C100015971	cortolone glucuronide (1)	Lipid	HMDB0010320	http://share.sph.umich.edu/metsim_metabqtl/C100015971_primary_mac5.epacts.gz
+C100016007	phosphatidylcholine (O-18:1/20:4, O-16:0/22:5n3)*	Lipid	HMDB0013420	http://share.sph.umich.edu/metsim_metabqtl/C100016007_primary_mac5.epacts.gz
+C100016019	1-palmitoyl-2-pentadecanoyl-GPC (16:0/15:0)*	Lipid	HMDB0007967	http://share.sph.umich.edu/metsim_metabqtl/C100016019_primary_mac5.epacts.gz
+C100016038	(N(1) + N(8))-acetylspermidine	Amino_Acid	HMDB0001276,HMDB0002189	http://share.sph.umich.edu/metsim_metabqtl/C100016038_primary_mac5.epacts.gz
+C100016069	5-dodecenoylcarnitine (C12:1)	Lipid	HMDB0013326	http://share.sph.umich.edu/metsim_metabqtl/C100016069_primary_mac5.epacts.gz
+C100016110	2-butenoylglycine	Lipid		http://share.sph.umich.edu/metsim_metabqtl/C100016110_primary_mac5.epacts.gz
+C100019794	hydroxy-CMPF*	Lipid	~HMDB0061112	http://share.sph.umich.edu/metsim_metabqtl/C100019794_primary_mac5.epacts.gz
+C100019892	2-hydroxyarachidate*	Lipid		http://share.sph.umich.edu/metsim_metabqtl/C100019892_primary_mac5.epacts.gz
+C100019957	N-stearoylserine*	Lipid	~HMDB0013308	http://share.sph.umich.edu/metsim_metabqtl/C100019957_primary_mac5.epacts.gz
+C100019966	3-hydroxyoleate*	Lipid	~HMDB0000207	http://share.sph.umich.edu/metsim_metabqtl/C100019966_primary_mac5.epacts.gz
+C100019968	ribulonate/xylulonate/lyxonate*	Carbohydrate	HMDB0001900,~HMDB0001900,HMDB0060255	http://share.sph.umich.edu/metsim_metabqtl/C100019968_primary_mac5.epacts.gz
+C100019972	dodecenedioate (C12:1-DC)*	Lipid	HMDB0000933	http://share.sph.umich.edu/metsim_metabqtl/C100019972_primary_mac5.epacts.gz
+C100019975	hexadecenedioate (C16:1-DC)*	Lipid	~HMDB0000672	http://share.sph.umich.edu/metsim_metabqtl/C100019975_primary_mac5.epacts.gz
+C100019978	octadecenedioate (C18:1-DC)	Lipid	HMDB0000782	http://share.sph.umich.edu/metsim_metabqtl/C100019978_primary_mac5.epacts.gz
+C100019981	heptenedioate (C7:1-DC)*	Lipid	HMDB0000857	http://share.sph.umich.edu/metsim_metabqtl/C100019981_primary_mac5.epacts.gz
+C100019982	octadecadienedioate (C18:2-DC)*	Lipid	~HMDB0000782	http://share.sph.umich.edu/metsim_metabqtl/C100019982_primary_mac5.epacts.gz
+C100019987	glucuronide of C19H28O4 (1)*	Partially_Characterized		http://share.sph.umich.edu/metsim_metabqtl/C100019987_primary_mac5.epacts.gz
+C100019988	glucuronide of C19H28O4 (2)*	Partially_Characterized	~HMDB0012798	http://share.sph.umich.edu/metsim_metabqtl/C100019988_primary_mac5.epacts.gz
+C100019990	glucuronide of C10H18O2 (1)*	Partially_Characterized		http://share.sph.umich.edu/metsim_metabqtl/C100019990_primary_mac5.epacts.gz
+C100020004	3-carboxy-4-methyl-5-pentyl-2-furanpropionate (3-CMPFP)**	Lipid	HMDB0061643	http://share.sph.umich.edu/metsim_metabqtl/C100020004_primary_mac5.epacts.gz
+C100020005	methylnaphthyl sulfate (1)*	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100020005_primary_mac5.epacts.gz
+C100020006	methylnaphthyl sulfate (2)*	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100020006_primary_mac5.epacts.gz
+C100020011	glucuronide of C10H18O2 (4)*	Partially_Characterized		http://share.sph.umich.edu/metsim_metabqtl/C100020011_primary_mac5.epacts.gz
+C100020014	glucuronide of C10H18O2 (7)*	Partially_Characterized		http://share.sph.umich.edu/metsim_metabqtl/C100020014_primary_mac5.epacts.gz
+C100020015	glucuronide of C10H18O2 (8)*	Partially_Characterized	~HMDB0031002	http://share.sph.umich.edu/metsim_metabqtl/C100020015_primary_mac5.epacts.gz
+C100020203	3-hydroxystachydrine*	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100020203_primary_mac5.epacts.gz
+C100020204	N-acetyl-2-aminooctanoate*	Lipid	HMDB0059745	http://share.sph.umich.edu/metsim_metabqtl/C100020204_primary_mac5.epacts.gz
+C100020205	hydroxyasparagine**	Amino_Acid	HMDB0032332	http://share.sph.umich.edu/metsim_metabqtl/C100020205_primary_mac5.epacts.gz
+C100020207	genistein sulfate*	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100020207_primary_mac5.epacts.gz
+C100020208	perfluorooctanoate (PFOA)	Xenobiotics	HMDB0059587	http://share.sph.umich.edu/metsim_metabqtl/C100020208_primary_mac5.epacts.gz
+C100020211	3-hydroxybutyroylglycine**	Lipid	~HMDB0000808	http://share.sph.umich.edu/metsim_metabqtl/C100020211_primary_mac5.epacts.gz
+C100020214	glyco-beta-muricholate**	Lipid	~HMDB0000138	http://share.sph.umich.edu/metsim_metabqtl/C100020214_primary_mac5.epacts.gz
+C100020215	N-methylhydroxyproline**	Amino_Acid	~HMDB0000725	http://share.sph.umich.edu/metsim_metabqtl/C100020215_primary_mac5.epacts.gz
+C100020217	N,N,N-trimethyl-alanylproline betaine (TMAP)	Amino_Acid	HMDB0240365	http://share.sph.umich.edu/metsim_metabqtl/C100020217_primary_mac5.epacts.gz
+C100020219	3-formylindole	Xenobiotics	HMDB0029737	http://share.sph.umich.edu/metsim_metabqtl/C100020219_primary_mac5.epacts.gz
+C100020241	gamma-glutamylcitrulline*	Peptide	~HMDB0029143	http://share.sph.umich.edu/metsim_metabqtl/C100020241_primary_mac5.epacts.gz
+C100020253	glycine conjugate of C10H12O2*	Partially_Characterized	~HMDB0135738	http://share.sph.umich.edu/metsim_metabqtl/C100020253_primary_mac5.epacts.gz
+C100020254	glycine conjugate of C10H14O2 (1)*	Partially_Characterized	~HMDB0035235	http://share.sph.umich.edu/metsim_metabqtl/C100020254_primary_mac5.epacts.gz
+C100020259	glutamine conjugate of C7H12O2*	Partially_Characterized	~HMDB0033793	http://share.sph.umich.edu/metsim_metabqtl/C100020259_primary_mac5.epacts.gz
+C100020261	glutamine conjugate of C6H10O2 (1)*	Partially_Characterized	~HMDB0003843	http://share.sph.umich.edu/metsim_metabqtl/C100020261_primary_mac5.epacts.gz
+C100020262	glutamine conjugate of C6H10O2 (2)*	Partially_Characterized	~HMDB0003843	http://share.sph.umich.edu/metsim_metabqtl/C100020262_primary_mac5.epacts.gz
+C100020272	dihydroferulic acid sulfate	Xenobiotics	HMDB0041724	http://share.sph.umich.edu/metsim_metabqtl/C100020272_primary_mac5.epacts.gz
+C100020276	sphingomyelin (d17:1/14:0, d16:1/15:0)*	Lipid	~HMDB0012097	http://share.sph.umich.edu/metsim_metabqtl/C100020276_primary_mac5.epacts.gz
+C100020343	tetradecadienoate (14:2)*	Lipid	HMDB0000560	http://share.sph.umich.edu/metsim_metabqtl/C100020343_primary_mac5.epacts.gz
+C100020351	N-carbamoylvaline	Amino_Acid		http://share.sph.umich.edu/metsim_metabqtl/C100020351_primary_mac5.epacts.gz
+C100020360	8-methoxykynurenate	Amino_Acid	HMDB0060426	http://share.sph.umich.edu/metsim_metabqtl/C100020360_primary_mac5.epacts.gz
+C100020361	3-amino-2-piperidone	Amino_Acid	HMDB0000323	http://share.sph.umich.edu/metsim_metabqtl/C100020361_primary_mac5.epacts.gz
+C100020371	N,N-dimethylalanine	Amino_Acid	~HMDB0240479	http://share.sph.umich.edu/metsim_metabqtl/C100020371_primary_mac5.epacts.gz
+C100020372	3-indoleglyoxylic acid	Xenobiotics	~HMDB0000197	http://share.sph.umich.edu/metsim_metabqtl/C100020372_primary_mac5.epacts.gz
+C100020377	ethyl beta-glucopyranoside	Xenobiotics	HMDB0029968	http://share.sph.umich.edu/metsim_metabqtl/C100020377_primary_mac5.epacts.gz
+C100020378	2-hydroxysebacate	Lipid	HMDB0000424	http://share.sph.umich.edu/metsim_metabqtl/C100020378_primary_mac5.epacts.gz
+C100020407	enterolactone sulfate	Xenobiotics	HMDB0240505;HMDB0240506	http://share.sph.umich.edu/metsim_metabqtl/C100020407_primary_mac5.epacts.gz
+C100020409	ascorbic acid 3-sulfate*	Cofactors_and_Vitamins	HMDB0240641	http://share.sph.umich.edu/metsim_metabqtl/C100020409_primary_mac5.epacts.gz
+C100020410	3-hydroxyhippurate sulfate	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100020410_primary_mac5.epacts.gz
+C100020414	6-bromotryptophan	Amino_Acid	~HMDB0030396	http://share.sph.umich.edu/metsim_metabqtl/C100020414_primary_mac5.epacts.gz
+C100020416	delta-CEHC	Cofactors_and_Vitamins	~HMDB0001931	http://share.sph.umich.edu/metsim_metabqtl/C100020416_primary_mac5.epacts.gz
+C100020417	N6,N6-dimethyllysine	Amino_Acid	HMDB0013287	http://share.sph.umich.edu/metsim_metabqtl/C100020417_primary_mac5.epacts.gz
+C100020419	1-carboxyethylphenylalanine	Amino_Acid	~HMDB0000512	http://share.sph.umich.edu/metsim_metabqtl/C100020419_primary_mac5.epacts.gz
+C100020421	1-carboxyethyltyrosine	Amino_Acid		http://share.sph.umich.edu/metsim_metabqtl/C100020421_primary_mac5.epacts.gz
+C100020423	1-carboxyethylvaline	Amino_Acid	~HMDB0061716	http://share.sph.umich.edu/metsim_metabqtl/C100020423_primary_mac5.epacts.gz
+C100020425	1-carboxyethylleucine	Amino_Acid	~HMDB0000687	http://share.sph.umich.edu/metsim_metabqtl/C100020425_primary_mac5.epacts.gz
+C100020427	1-carboxyethylisoleucine	Amino_Acid	~HMDB0094718	http://share.sph.umich.edu/metsim_metabqtl/C100020427_primary_mac5.epacts.gz
+C100020478	dodecadienoate (12:2)*	Lipid	HMDB0031014	http://share.sph.umich.edu/metsim_metabqtl/C100020478_primary_mac5.epacts.gz
+C100020479	indoleacetoylcarnitine*	Amino_Acid	~HMDB0013240	http://share.sph.umich.edu/metsim_metabqtl/C100020479_primary_mac5.epacts.gz
+C100020487	N-acetyl-isoputreanine	Amino_Acid	~HMDB0003681	http://share.sph.umich.edu/metsim_metabqtl/C100020487_primary_mac5.epacts.gz
+C100020491	glucuronide of piperine metabolite C17H21NO3 (3)*	Xenobiotics	~HMDB0029377	http://share.sph.umich.edu/metsim_metabqtl/C100020491_primary_mac5.epacts.gz
+C100020492	glucuronide of piperine metabolite C17H21NO3 (4)*	Xenobiotics	~HMDB0029377	http://share.sph.umich.edu/metsim_metabqtl/C100020492_primary_mac5.epacts.gz
+C100020493	glucuronide of piperine metabolite C17H21NO3 (5)*	Xenobiotics	~HMDB0029377	http://share.sph.umich.edu/metsim_metabqtl/C100020493_primary_mac5.epacts.gz
+C100020496	sulfate of piperine metabolite C16H19NO3 (2)*	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100020496_primary_mac5.epacts.gz
+C100020497	sulfate of piperine metabolite C16H19NO3 (3)*	Xenobiotics	~HMDB0029377	http://share.sph.umich.edu/metsim_metabqtl/C100020497_primary_mac5.epacts.gz
+C100020502	sulfate of piperine metabolite C18H21NO3 (1)*	Xenobiotics	~HMDB0029377	http://share.sph.umich.edu/metsim_metabqtl/C100020502_primary_mac5.epacts.gz
+C100020504	sulfate of piperine metabolite C18H21NO3 (3)*	Xenobiotics	~HMDB0029377	http://share.sph.umich.edu/metsim_metabqtl/C100020504_primary_mac5.epacts.gz
+C100020511	5-hydroxyindole glucuronide	Amino_Acid	~HMDB0010319	http://share.sph.umich.edu/metsim_metabqtl/C100020511_primary_mac5.epacts.gz
+C100020515	2-naphthol sulfate	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100020515_primary_mac5.epacts.gz
+C100020519	(2,4 or 2,5)-dimethylphenol sulfate	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100020519_primary_mac5.epacts.gz
+C100020536	4-ethylcatechol sulfate	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100020536_primary_mac5.epacts.gz
+C100020541	11beta-hydroxyandrosterone glucuronide	Lipid	HMDB0010351	http://share.sph.umich.edu/metsim_metabqtl/C100020541_primary_mac5.epacts.gz
+C100020546	N2-acetyl,N6-methyllysine	Amino_Acid	~HMDB0000446	http://share.sph.umich.edu/metsim_metabqtl/C100020546_primary_mac5.epacts.gz
+C100020549	cholic acid glucuronide	Lipid	HMDB0002577	http://share.sph.umich.edu/metsim_metabqtl/C100020549_primary_mac5.epacts.gz
+C100020550	deoxycholic acid glucuronide	Lipid	HMDB0002596	http://share.sph.umich.edu/metsim_metabqtl/C100020550_primary_mac5.epacts.gz
+C100020578	4-allylcatechol sulfate	Xenobiotics	HMDB0135258	http://share.sph.umich.edu/metsim_metabqtl/C100020578_primary_mac5.epacts.gz
+C100020585	2-hydroxyfluorene sulfate	Xenobiotics	~HMDB0013163	http://share.sph.umich.edu/metsim_metabqtl/C100020585_primary_mac5.epacts.gz
+C100020591	3-hydroxypyridine glucuronide	Xenobiotics	~HMDB0060014	http://share.sph.umich.edu/metsim_metabqtl/C100020591_primary_mac5.epacts.gz
+C100020631	4-methylhexanoylglutamine	Lipid	~HMDB0029154	http://share.sph.umich.edu/metsim_metabqtl/C100020631_primary_mac5.epacts.gz
+C100020743	1-nonadecenoyl-GPC (19:1)*	Lipid	~HMDB0002815	http://share.sph.umich.edu/metsim_metabqtl/C100020743_primary_mac5.epacts.gz
+C100020819	glycoursodeoxycholic acid sulfate (1)	Lipid		http://share.sph.umich.edu/metsim_metabqtl/C100020819_primary_mac5.epacts.gz
+C100020822	dihydrocaffeate sulfate (2)	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100020822_primary_mac5.epacts.gz
+C100020823	lithocholate sulfate (1)	Lipid	~HMDB0000761	http://share.sph.umich.edu/metsim_metabqtl/C100020823_primary_mac5.epacts.gz
+C100020825	3-hydroxyhexanoylcarnitine (1)	Lipid	HMDB0013131	http://share.sph.umich.edu/metsim_metabqtl/C100020825_primary_mac5.epacts.gz
+C100020826	3-hydroxyhexanoylcarnitine (2)	Lipid		http://share.sph.umich.edu/metsim_metabqtl/C100020826_primary_mac5.epacts.gz
+C100020827	3-(methylthio)acetaminophen sulfate*	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100020827_primary_mac5.epacts.gz
+C100020833	2-ketocaprylate	Amino_Acid	HMDB0013211	http://share.sph.umich.edu/metsim_metabqtl/C100020833_primary_mac5.epacts.gz
+C100020837	2,6-dihydroxybenzoic acid	Xenobiotics	HMDB0013676	http://share.sph.umich.edu/metsim_metabqtl/C100020837_primary_mac5.epacts.gz
+C100020848	tetrahydrocortisol sulfate (1)	Lipid	~HMDB0000949	http://share.sph.umich.edu/metsim_metabqtl/C100020848_primary_mac5.epacts.gz
+C100020851	3-ethylcatechol sulfate (1)	Xenobiotics	~HMDB0040177	http://share.sph.umich.edu/metsim_metabqtl/C100020851_primary_mac5.epacts.gz
+C100020852	3-ethylcatechol sulfate (2)	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100020852_primary_mac5.epacts.gz
+C100020853	4-acetylcatechol sulfate (1)	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100020853_primary_mac5.epacts.gz
+C100020854	4-acetylcatechol sulfate (2)	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100020854_primary_mac5.epacts.gz
+C100020893	2,3-dihydroxy-5-methylthio-4-pentenoate (DMTPA)*	Amino_Acid	HMDB0240388	http://share.sph.umich.edu/metsim_metabqtl/C100020893_primary_mac5.epacts.gz
+C100020973	5-hydroxy-2-methylpyridine sulfate	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100020973_primary_mac5.epacts.gz
+C100020975	3-hydroxy-2-methylpyridine sulfate	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100020975_primary_mac5.epacts.gz
+C100021000	hydroxypalmitoyl sphingomyelin (d18:1/16:0(OH))**	Lipid	~HMDB0010169	http://share.sph.umich.edu/metsim_metabqtl/C100021000_primary_mac5.epacts.gz
+C100021012	5-hydroxymethyl-2-furoylcarnitine*	Xenobiotics	~HMDB0034355	http://share.sph.umich.edu/metsim_metabqtl/C100021012_primary_mac5.epacts.gz
+C100021093	taurochenodeoxycholic acid 3-sulfate	Lipid	HMDB0002486	http://share.sph.umich.edu/metsim_metabqtl/C100021093_primary_mac5.epacts.gz
+C100021100	tetradecadienedioate (C14:2-DC)*	Lipid	~HMDB0000872	http://share.sph.umich.edu/metsim_metabqtl/C100021100_primary_mac5.epacts.gz
+C100021103	pregnenetriol sulfate*	Lipid	~HMDB0240313	http://share.sph.umich.edu/metsim_metabqtl/C100021103_primary_mac5.epacts.gz
+C100021104	pregnenetriol disulfate*	Lipid	~HMDB0240313	http://share.sph.umich.edu/metsim_metabqtl/C100021104_primary_mac5.epacts.gz
+C100021123	hydroxy-N6,N6,N6-trimethyllysine*	Amino_Acid	HMDB0001422	http://share.sph.umich.edu/metsim_metabqtl/C100021123_primary_mac5.epacts.gz
+C100021131	undecenoylcarnitine (C11:1)	Lipid	~HMDB0013329	http://share.sph.umich.edu/metsim_metabqtl/C100021131_primary_mac5.epacts.gz
+C100021136	3-decenoylcarnitine	Lipid	~HMDB0013331	http://share.sph.umich.edu/metsim_metabqtl/C100021136_primary_mac5.epacts.gz
+C100021141	3-hydroxydecanoylcarnitine	Lipid	HMDB0061636	http://share.sph.umich.edu/metsim_metabqtl/C100021141_primary_mac5.epacts.gz
+C100021162	palmitoyl-sphingosine-phosphoethanolamine (d18:1/16:0)	Lipid	~HMDB0011339	http://share.sph.umich.edu/metsim_metabqtl/C100021162_primary_mac5.epacts.gz
+C100021198	picolinoylglycine	Lipid	HMDB0059766	http://share.sph.umich.edu/metsim_metabqtl/C100021198_primary_mac5.epacts.gz
+C100021324	3,5-dichloro-2,6-dihydroxybenzoic acid	Xenobiotics	~HMDB0001544	http://share.sph.umich.edu/metsim_metabqtl/C100021324_primary_mac5.epacts.gz
+C100021329	(S)-a-amino-omega-caprolactam	Xenobiotics	~HMDB0062769	http://share.sph.umich.edu/metsim_metabqtl/C100021329_primary_mac5.epacts.gz
+C100021331	metabolonic lactone sulfate	Partially_Characterized	~HMDB0002504	http://share.sph.umich.edu/metsim_metabqtl/C100021331_primary_mac5.epacts.gz
+C100021363	vanillic acid glycine	Xenobiotics	~HMDB0000484	http://share.sph.umich.edu/metsim_metabqtl/C100021363_primary_mac5.epacts.gz
+C100021372	2-hydroxy-4-(methylthio)butanoic acid	Amino_Acid	HMDB0037115	http://share.sph.umich.edu/metsim_metabqtl/C100021372_primary_mac5.epacts.gz
+C100021374	branched chain 14:0 dicarboxylic acid**	Lipid	~HMDB0061828	http://share.sph.umich.edu/metsim_metabqtl/C100021374_primary_mac5.epacts.gz
+C100021464	2-methoxyhydroquinone glucuronide (2)	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100021464_primary_mac5.epacts.gz
+C100021467	pentose acid*	Partially_Characterized	~HMDB0000867	http://share.sph.umich.edu/metsim_metabqtl/C100021467_primary_mac5.epacts.gz
+C100021502	(2 or 3)-decenoate (10:1n7 or n8)	Lipid	HMDB0010726	http://share.sph.umich.edu/metsim_metabqtl/C100021502_primary_mac5.epacts.gz
+C100021647	isoursodeoxycholate sulfate (1)	Lipid		http://share.sph.umich.edu/metsim_metabqtl/C100021647_primary_mac5.epacts.gz
+C100021650	chenodeoxycholic acid sulfate (1)	Lipid	HMDB0002586	http://share.sph.umich.edu/metsim_metabqtl/C100021650_primary_mac5.epacts.gz
+C100021651	chenodeoxycholic acid sulfate (2)	Lipid	HMDB0002586	http://share.sph.umich.edu/metsim_metabqtl/C100021651_primary_mac5.epacts.gz
+C100021666	branched-chain, straight-chain, or cyclopropyl 10:1 fatty acid (1)*	Partially_Characterized	~HMDB0010726	http://share.sph.umich.edu/metsim_metabqtl/C100021666_primary_mac5.epacts.gz
+C100021707	3-bromo-5-chloro-2,6-dihydroxybenzoic acid*	Xenobiotics	~HMDB0001544	http://share.sph.umich.edu/metsim_metabqtl/C100021707_primary_mac5.epacts.gz
+C100021709	branched-chain, straight-chain, or cyclopropyl 12:1 fatty acid*	Partially_Characterized	HMDB0010729	http://share.sph.umich.edu/metsim_metabqtl/C100021709_primary_mac5.epacts.gz
+C100021711	decadienedioic acid (C10:2-DC)**	Lipid	~HMDB0000792	http://share.sph.umich.edu/metsim_metabqtl/C100021711_primary_mac5.epacts.gz
+C100021712	deoxycholic acid (12 or 24)-sulfate*	Lipid	~HMDB0000659	http://share.sph.umich.edu/metsim_metabqtl/C100021712_primary_mac5.epacts.gz
+C100021726	GlcNAc sulfate conjugate of C21H34O2 steroid**	Partially_Characterized	~HMDB0001449	http://share.sph.umich.edu/metsim_metabqtl/C100021726_primary_mac5.epacts.gz
+C100021784	4-chlorobenzoic acid	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100021784_primary_mac5.epacts.gz
+C100021787	N-acetyl-4-chlorophenylalanine	Xenobiotics	~HMDB0000512	http://share.sph.umich.edu/metsim_metabqtl/C100021787_primary_mac5.epacts.gz
+C100021839	2-methoxyhydroquinone sulfate (1)	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100021839_primary_mac5.epacts.gz
+C100021840	2-methoxyhydroquinone sulfate (2)	Xenobiotics		http://share.sph.umich.edu/metsim_metabqtl/C100021840_primary_mac5.epacts.gz
+C1001	trans-4-hydroxyproline	Amino_Acid	HMDB0000725	http://share.sph.umich.edu/metsim_metabqtl/C1001_primary_mac5.epacts.gz
+C1002	allantoin	Nucleotide	HMDB0000462	http://share.sph.umich.edu/metsim_metabqtl/C1002_primary_mac5.epacts.gz
+C1004	xanthine	Nucleotide	HMDB0000292	http://share.sph.umich.edu/metsim_metabqtl/C1004_primary_mac5.epacts.gz
+C1021	5-oxoproline	Amino_Acid	HMDB0000267	http://share.sph.umich.edu/metsim_metabqtl/C1021_primary_mac5.epacts.gz
+C1022	picolinate	Amino_Acid	HMDB0002243	http://share.sph.umich.edu/metsim_metabqtl/C1022_primary_mac5.epacts.gz
+C1023	sarcosine	Amino_Acid	HMDB0000271	http://share.sph.umich.edu/metsim_metabqtl/C1023_primary_mac5.epacts.gz
+C1024	pantothenate	Cofactors_and_Vitamins	HMDB0000210	http://share.sph.umich.edu/metsim_metabqtl/C1024_primary_mac5.epacts.gz
+C1025	pipecolate	Amino_Acid	HMDB0000070	http://share.sph.umich.edu/metsim_metabqtl/C1025_primary_mac5.epacts.gz
+C1026	phosphoethanolamine	Lipid	HMDB0000224	http://share.sph.umich.edu/metsim_metabqtl/C1026_primary_mac5.epacts.gz
+C1052	glycerate	Carbohydrate	HMDB0000139	http://share.sph.umich.edu/metsim_metabqtl/C1052_primary_mac5.epacts.gz
+C1053	3-ureidopropionate	Nucleotide	HMDB0000026	http://share.sph.umich.edu/metsim_metabqtl/C1053_primary_mac5.epacts.gz
+C1082	N-acetylleucine	Amino_Acid	HMDB0011756	http://share.sph.umich.edu/metsim_metabqtl/C1082_primary_mac5.epacts.gz
+C1083	N-acetylmethionine	Amino_Acid	HMDB0011745	http://share.sph.umich.edu/metsim_metabqtl/C1083_primary_mac5.epacts.gz
+C1084	N-acetylvaline	Amino_Acid	HMDB0011757	http://share.sph.umich.edu/metsim_metabqtl/C1084_primary_mac5.epacts.gz
+C1087	erucate (22:1n9)	Lipid	HMDB0002068	http://share.sph.umich.edu/metsim_metabqtl/C1087_primary_mac5.epacts.gz
+C1090	bilirubin (Z,Z)	Cofactors_and_Vitamins	HMDB0000054	http://share.sph.umich.edu/metsim_metabqtl/C1090_primary_mac5.epacts.gz
+C1094	thyroxine	Amino_Acid	HMDB0000248	http://share.sph.umich.edu/metsim_metabqtl/C1094_primary_mac5.epacts.gz
+C1102	gamma-glutamyltyrosine	Peptide	HMDB0011741	http://share.sph.umich.edu/metsim_metabqtl/C1102_primary_mac5.epacts.gz
+C1104	methyl indole-3-acetate	Xenobiotics	HMDB0029738	http://share.sph.umich.edu/metsim_metabqtl/C1104_primary_mac5.epacts.gz
+C1105	alpha-tocopherol	Cofactors_and_Vitamins	HMDB0001893	http://share.sph.umich.edu/metsim_metabqtl/C1105_primary_mac5.epacts.gz
+C111	3-hydroxyisobutyrate	Amino_Acid	HMDB0000023;HMDB0000336	http://share.sph.umich.edu/metsim_metabqtl/C111_primary_mac5.epacts.gz
+C1110	N-acetylalanine	Amino_Acid	HMDB0000766	http://share.sph.umich.edu/metsim_metabqtl/C1110_primary_mac5.epacts.gz
+C1111	vanillylmandelate (VMA)	Amino_Acid	HMDB0000291,HMDB0133489	http://share.sph.umich.edu/metsim_metabqtl/C1111_primary_mac5.epacts.gz
+C1113	4-acetamidobutanoate	Amino_Acid	HMDB0003681	http://share.sph.umich.edu/metsim_metabqtl/C1113_primary_mac5.epacts.gz
+C1114	3-aminoisobutyrate	Nucleotide	HMDB0003911	http://share.sph.umich.edu/metsim_metabqtl/C1114_primary_mac5.epacts.gz
+C112	3-hydroxy-3-methylglutarate	Lipid	HMDB0000355	http://share.sph.umich.edu/metsim_metabqtl/C112_primary_mac5.epacts.gz
+C1123	chenodeoxycholate	Lipid	HMDB0000518	http://share.sph.umich.edu/metsim_metabqtl/C1123_primary_mac5.epacts.gz
+C1124	citrate	Energy	HMDB0000094	http://share.sph.umich.edu/metsim_metabqtl/C1124_primary_mac5.epacts.gz
+C1125	5,6-dihydrouracil	Nucleotide	HMDB0000076	http://share.sph.umich.edu/metsim_metabqtl/C1125_primary_mac5.epacts.gz
+C1128	2-aminobutyrate	Amino_Acid	HMDB0000452,HMDB0000650	http://share.sph.umich.edu/metsim_metabqtl/C1128_primary_mac5.epacts.gz
+C1134	urate	Nucleotide	HMDB0000289	http://share.sph.umich.edu/metsim_metabqtl/C1134_primary_mac5.epacts.gz
+C1135	ursodeoxycholate	Lipid	HMDB0000946	http://share.sph.umich.edu/metsim_metabqtl/C1135_primary_mac5.epacts.gz
+C1136	valerate (5:0)	Lipid	HMDB0000892	http://share.sph.umich.edu/metsim_metabqtl/C1136_primary_mac5.epacts.gz
+C1137	oleoyl ethanolamide	Lipid	HMDB0002088	http://share.sph.umich.edu/metsim_metabqtl/C1137_primary_mac5.epacts.gz
+C1140	gamma-glutamylglutamine	Peptide	HMDB0011738	http://share.sph.umich.edu/metsim_metabqtl/C1140_primary_mac5.epacts.gz
+C1141	4-hydroxyphenylpyruvate	Amino_Acid	HMDB0000707	http://share.sph.umich.edu/metsim_metabqtl/C1141_primary_mac5.epacts.gz
+C1143	butyrate/isobutyrate (4:0)	Lipid	HMDB0000039	http://share.sph.umich.edu/metsim_metabqtl/C1143_primary_mac5.epacts.gz
+C1161	tigloylglycine	Amino_Acid	HMDB0000959	http://share.sph.umich.edu/metsim_metabqtl/C1161_primary_mac5.epacts.gz
+C1162	N-acetylneuraminate	Carbohydrate	HMDB0000230	http://share.sph.umich.edu/metsim_metabqtl/C1162_primary_mac5.epacts.gz
+C117	homovanillate (HVA)	Amino_Acid	HMDB0000118	http://share.sph.umich.edu/metsim_metabqtl/C117_primary_mac5.epacts.gz
+C1215	N-acetylglucosaminylasparagine	Carbohydrate	HMDB0000489	http://share.sph.umich.edu/metsim_metabqtl/C1215_primary_mac5.epacts.gz
+C1218	acetoacetate	Lipid	HMDB0000060	http://share.sph.umich.edu/metsim_metabqtl/C1218_primary_mac5.epacts.gz
+C1221	creatine	Amino_Acid	HMDB0000064	http://share.sph.umich.edu/metsim_metabqtl/C1221_primary_mac5.epacts.gz
+C1224	cys-gly, oxidized	Amino_Acid	HMDB0000078	http://share.sph.umich.edu/metsim_metabqtl/C1224_primary_mac5.epacts.gz
+C1230	estrone 3-sulfate	Lipid	HMDB0001425	http://share.sph.umich.edu/metsim_metabqtl/C1230_primary_mac5.epacts.gz
+C1231	dihomo-linoleate (20:2n6)	Lipid	HMDB0002925	http://share.sph.umich.edu/metsim_metabqtl/C1231_primary_mac5.epacts.gz
+C1235	gamma-glutamylhistidine	Peptide	HMDB0029151	http://share.sph.umich.edu/metsim_metabqtl/C1235_primary_mac5.epacts.gz
+C1239	2-hydroxystearate	Lipid	HMDB0062549	http://share.sph.umich.edu/metsim_metabqtl/C1239_primary_mac5.epacts.gz
+C1242	N1-methyladenosine	Nucleotide	HMDB0003331	http://share.sph.umich.edu/metsim_metabqtl/C1242_primary_mac5.epacts.gz
+C1254	glycerol	Lipid	HMDB0000131	http://share.sph.umich.edu/metsim_metabqtl/C1254_primary_mac5.epacts.gz
+C1256	choline	Lipid	HMDB0000097	http://share.sph.umich.edu/metsim_metabqtl/C1256_primary_mac5.epacts.gz
+C1258	anthranilate	Amino_Acid	HMDB0001123	http://share.sph.umich.edu/metsim_metabqtl/C1258_primary_mac5.epacts.gz
+C1268	gamma-glutamylleucine	Peptide	HMDB0011171	http://share.sph.umich.edu/metsim_metabqtl/C1268_primary_mac5.epacts.gz
+C132	3-phosphoglycerate	Carbohydrate	HMDB0000807	http://share.sph.umich.edu/metsim_metabqtl/C132_primary_mac5.epacts.gz
+C1342	3-methoxytyrosine	Amino_Acid	HMDB0001434	http://share.sph.umich.edu/metsim_metabqtl/C1342_primary_mac5.epacts.gz
+C136	cholate	Lipid	HMDB0000619	http://share.sph.umich.edu/metsim_metabqtl/C136_primary_mac5.epacts.gz
+C144	4-hydroxyphenylacetate	Amino_Acid	HMDB0000020	http://share.sph.umich.edu/metsim_metabqtl/C144_primary_mac5.epacts.gz
+C1442	beta-hydroxyisovalerate	Amino_Acid	HMDB0000754	http://share.sph.umich.edu/metsim_metabqtl/C1442_primary_mac5.epacts.gz
+C1518	N-palmitoyl-sphingosine (d18:1/16:0)	Lipid	HMDB0004949	http://share.sph.umich.edu/metsim_metabqtl/C1518_primary_mac5.epacts.gz
+C1526	1-palmitoyl-2-oleoyl-GPE (16:0/18:1)	Lipid	HMDB0008927	http://share.sph.umich.edu/metsim_metabqtl/C1526_primary_mac5.epacts.gz
+C1528	1-palmitoyl-2-linoleoyl-GPI (16:0/18:2)	Lipid	HMDB0009784	http://share.sph.umich.edu/metsim_metabqtl/C1528_primary_mac5.epacts.gz
+C1537	1-palmitoyl-2-linoleoyl-GPC (16:0/18:2)	Lipid	HMDB0007973	http://share.sph.umich.edu/metsim_metabqtl/C1537_primary_mac5.epacts.gz
+C1538	stearoyl sphingomyelin (d18:1/18:0)	Lipid	HMDB0001348	http://share.sph.umich.edu/metsim_metabqtl/C1538_primary_mac5.epacts.gz
+C1539	1-palmitoyl-2-oleoyl-GPC (16:0/18:1)	Lipid	HMDB0008927	http://share.sph.umich.edu/metsim_metabqtl/C1539_primary_mac5.epacts.gz
+C1547	N-stearoyl-sphingosine (d18:1/18:0)*	Lipid	HMDB0004950	http://share.sph.umich.edu/metsim_metabqtl/C1547_primary_mac5.epacts.gz
+C158	5,6-dihydrothymine	Nucleotide	HMDB0000079	http://share.sph.umich.edu/metsim_metabqtl/C158_primary_mac5.epacts.gz
+C1628	glycochenodeoxycholate	Lipid	HMDB0000637	http://share.sph.umich.edu/metsim_metabqtl/C1628_primary_mac5.epacts.gz
+C1629	taurochenodeoxycholate	Lipid	HMDB0000951	http://share.sph.umich.edu/metsim_metabqtl/C1629_primary_mac5.epacts.gz
+C1648	taurocholate	Lipid	HMDB0000036	http://share.sph.umich.edu/metsim_metabqtl/C1648_primary_mac5.epacts.gz
+C1668	taurodeoxycholate	Lipid	HMDB0000896	http://share.sph.umich.edu/metsim_metabqtl/C1668_primary_mac5.epacts.gz
+C171	hypoxanthine	Nucleotide	HMDB0000157	http://share.sph.umich.edu/metsim_metabqtl/C171_primary_mac5.epacts.gz
+C179	9,10-DiHOME	Lipid	HMDB0004704	http://share.sph.umich.edu/metsim_metabqtl/C179_primary_mac5.epacts.gz
+C180	linoleate (18:2n6)	Lipid	HMDB0000673	http://share.sph.umich.edu/metsim_metabqtl/C180_primary_mac5.epacts.gz
+C181	laurate (12:0)	Lipid	HMDB0000638	http://share.sph.umich.edu/metsim_metabqtl/C181_primary_mac5.epacts.gz
+C182	quinolinate	Cofactors_and_Vitamins	HMDB0000232	http://share.sph.umich.edu/metsim_metabqtl/C182_primary_mac5.epacts.gz
+C1869	2-hydroxyhippurate (salicylurate)	Xenobiotics	HMDB0000840	http://share.sph.umich.edu/metsim_metabqtl/C1869_primary_mac5.epacts.gz
+C189	N6,N6,N6-trimethyllysine	Amino_Acid	HMDB0001325	http://share.sph.umich.edu/metsim_metabqtl/C189_primary_mac5.epacts.gz
+C192	N-acetylputrescine	Amino_Acid	HMDB0002064	http://share.sph.umich.edu/metsim_metabqtl/C192_primary_mac5.epacts.gz
+C194	N-formylmethionine	Amino_Acid	HMDB0001015	http://share.sph.umich.edu/metsim_metabqtl/C194_primary_mac5.epacts.gz
+C197	S-adenosylhomocysteine (SAH)	Amino_Acid	HMDB0000939	http://share.sph.umich.edu/metsim_metabqtl/C197_primary_mac5.epacts.gz
+C2029	azelate (C9-DC)	Lipid	HMDB0000784	http://share.sph.umich.edu/metsim_metabqtl/C2029_primary_mac5.epacts.gz
+C2049	4-acetaminophen sulfate	Xenobiotics	HMDB0059911	http://share.sph.umich.edu/metsim_metabqtl/C2049_primary_mac5.epacts.gz
+C2050	eicosapentaenoate (EPA; 20:5n3)	Lipid	HMDB0001999	http://share.sph.umich.edu/metsim_metabqtl/C2050_primary_mac5.epacts.gz
+C2051	methylsuccinate	Amino_Acid	HMDB0001844	http://share.sph.umich.edu/metsim_metabqtl/C2051_primary_mac5.epacts.gz
+C2054	ethylmalonate	Amino_Acid	HMDB0000622	http://share.sph.umich.edu/metsim_metabqtl/C2054_primary_mac5.epacts.gz
+C207	adenosine 3',5'-cyclic monophosphate (cAMP)	Nucleotide	HMDB0000058	http://share.sph.umich.edu/metsim_metabqtl/C207_primary_mac5.epacts.gz
+C208	adenosine 5'-diphosphate (ADP)	Nucleotide	HMDB0001341	http://share.sph.umich.edu/metsim_metabqtl/C208_primary_mac5.epacts.gz
+C209	adenosine 5'-monophosphate (AMP)	Nucleotide	HMDB0000045	http://share.sph.umich.edu/metsim_metabqtl/C209_primary_mac5.epacts.gz
+C212	5-methylthioadenosine (MTA)	Amino_Acid	HMDB0001173	http://share.sph.umich.edu/metsim_metabqtl/C212_primary_mac5.epacts.gz
+C213	N6-methyladenosine	Nucleotide	HMDB0004044	http://share.sph.umich.edu/metsim_metabqtl/C213_primary_mac5.epacts.gz
+C215	adenosine 5'-diphosphoribose (ADP-ribose)	Cofactors_and_Vitamins	HMDB0001178	http://share.sph.umich.edu/metsim_metabqtl/C215_primary_mac5.epacts.gz
+C229	arachidonate (20:4n6)	Lipid	HMDB0001043	http://share.sph.umich.edu/metsim_metabqtl/C229_primary_mac5.epacts.gz
+C231	arginine	Amino_Acid	HMDB0000517	http://share.sph.umich.edu/metsim_metabqtl/C231_primary_mac5.epacts.gz
+C232	argininosuccinate	Amino_Acid	HMDB0000052	http://share.sph.umich.edu/metsim_metabqtl/C232_primary_mac5.epacts.gz
+C234	aspartate	Amino_Acid	HMDB0000191	http://share.sph.umich.edu/metsim_metabqtl/C234_primary_mac5.epacts.gz
+C235	2-hydroxyphenylacetate	Amino_Acid	HMDB0000669	http://share.sph.umich.edu/metsim_metabqtl/C235_primary_mac5.epacts.gz
+C240	3-(4-hydroxyphenyl)lactate	Amino_Acid	HMDB0000755	http://share.sph.umich.edu/metsim_metabqtl/C240_primary_mac5.epacts.gz
+C241	phenylpyruvate	Amino_Acid	HMDB0000205	http://share.sph.umich.edu/metsim_metabqtl/C241_primary_mac5.epacts.gz
+C244	beta-alanine	Nucleotide	HMDB0000056	http://share.sph.umich.edu/metsim_metabqtl/C244_primary_mac5.epacts.gz
+C250	biliverdin	Cofactors_and_Vitamins	HMDB0001008	http://share.sph.umich.edu/metsim_metabqtl/C250_primary_mac5.epacts.gz
+C252	succinate	Energy	HMDB0000254	http://share.sph.umich.edu/metsim_metabqtl/C252_primary_mac5.epacts.gz
+C254	3-hydroxybutyrate (BHBA)	Lipid	HMDB0000357	http://share.sph.umich.edu/metsim_metabqtl/C254_primary_mac5.epacts.gz
+C266	cholesterol	Lipid	HMDB0000067	http://share.sph.umich.edu/metsim_metabqtl/C266_primary_mac5.epacts.gz
+C267	choline phosphate	Lipid	HMDB0001565	http://share.sph.umich.edu/metsim_metabqtl/C267_primary_mac5.epacts.gz
+C273	cortisone	Lipid	HMDB0002802	http://share.sph.umich.edu/metsim_metabqtl/C273_primary_mac5.epacts.gz
+C275	creatinine	Amino_Acid	HMDB0000562	http://share.sph.umich.edu/metsim_metabqtl/C275_primary_mac5.epacts.gz
+C278	cysteinylglycine	Amino_Acid	HMDB0000078	http://share.sph.umich.edu/metsim_metabqtl/C278_primary_mac5.epacts.gz
+C279	cystine	Amino_Acid	HMDB0000192	http://share.sph.umich.edu/metsim_metabqtl/C279_primary_mac5.epacts.gz
+C297	sphingosine	Lipid	HMDB0000252	http://share.sph.umich.edu/metsim_metabqtl/C297_primary_mac5.epacts.gz
+C302	deoxycholate	Lipid	HMDB0000626	http://share.sph.umich.edu/metsim_metabqtl/C302_primary_mac5.epacts.gz
+C310	cystathionine	Amino_Acid	HMDB0000099	http://share.sph.umich.edu/metsim_metabqtl/C310_primary_mac5.epacts.gz
+C313	sphinganine	Lipid	HMDB0000269	http://share.sph.umich.edu/metsim_metabqtl/C313_primary_mac5.epacts.gz
+C327	flavin adenine dinucleotide (FAD)	Cofactors_and_Vitamins	HMDB0001248	http://share.sph.umich.edu/metsim_metabqtl/C327_primary_mac5.epacts.gz
+C330	fumarate	Energy	HMDB0000134	http://share.sph.umich.edu/metsim_metabqtl/C330_primary_mac5.epacts.gz
+C331	gamma-glutamylglutamate	Peptide	HMDB0011737	http://share.sph.umich.edu/metsim_metabqtl/C331_primary_mac5.epacts.gz
+C338	gluconate	Xenobiotics	HMDB0000625	http://share.sph.umich.edu/metsim_metabqtl/C338_primary_mac5.epacts.gz
+C339	glutarate (C5-DC)	Lipid	HMDB0000661	http://share.sph.umich.edu/metsim_metabqtl/C339_primary_mac5.epacts.gz
+C340	glycine	Amino_Acid	HMDB0000123	http://share.sph.umich.edu/metsim_metabqtl/C340_primary_mac5.epacts.gz
+C342	glycocholate	Lipid	HMDB0000138	http://share.sph.umich.edu/metsim_metabqtl/C342_primary_mac5.epacts.gz
+C344	guanidinoacetate	Amino_Acid	HMDB0000128	http://share.sph.umich.edu/metsim_metabqtl/C344_primary_mac5.epacts.gz
+C35	S-1-pyrroline-5-carboxylate	Amino_Acid	HMDB0001301	http://share.sph.umich.edu/metsim_metabqtl/C35_primary_mac5.epacts.gz
+C355	histidine	Amino_Acid	HMDB0000177	http://share.sph.umich.edu/metsim_metabqtl/C355_primary_mac5.epacts.gz
+C356	cortisol	Lipid	HMDB0000063	http://share.sph.umich.edu/metsim_metabqtl/C356_primary_mac5.epacts.gz
+C358	hypotaurine	Amino_Acid	HMDB0000965	http://share.sph.umich.edu/metsim_metabqtl/C358_primary_mac5.epacts.gz
+C361	inosine	Nucleotide	HMDB0000195	http://share.sph.umich.edu/metsim_metabqtl/C361_primary_mac5.epacts.gz
+C362	inosine 5'-monophosphate (IMP)	Nucleotide	HMDB0000175	http://share.sph.umich.edu/metsim_metabqtl/C362_primary_mac5.epacts.gz
+C363	myo-inositol	Lipid	HMDB0000211	http://share.sph.umich.edu/metsim_metabqtl/C363_primary_mac5.epacts.gz
+C376	isoleucine	Amino_Acid	HMDB0000172	http://share.sph.umich.edu/metsim_metabqtl/C376_primary_mac5.epacts.gz
+C381	2-aminoadipate	Amino_Acid	HMDB0000510	http://share.sph.umich.edu/metsim_metabqtl/C381_primary_mac5.epacts.gz
+C391	citrulline	Amino_Acid	HMDB0000904	http://share.sph.umich.edu/metsim_metabqtl/C391_primary_mac5.epacts.gz
+C397	leucine	Amino_Acid	HMDB0000687	http://share.sph.umich.edu/metsim_metabqtl/C397_primary_mac5.epacts.gz
+C407	lysine	Amino_Acid	HMDB0000182,HMDB0003405	http://share.sph.umich.edu/metsim_metabqtl/C407_primary_mac5.epacts.gz
+C409	malate	Energy	HMDB0000156	http://share.sph.umich.edu/metsim_metabqtl/C409_primary_mac5.epacts.gz
+C415	methionine	Amino_Acid	HMDB0000696	http://share.sph.umich.edu/metsim_metabqtl/C415_primary_mac5.epacts.gz
+C418	methylmalonate (MMA)	Lipid	HMDB0000202	http://share.sph.umich.edu/metsim_metabqtl/C418_primary_mac5.epacts.gz
+C424	palmitate (16:0)	Lipid	HMDB0000220	http://share.sph.umich.edu/metsim_metabqtl/C424_primary_mac5.epacts.gz
+C432	nicotinamide	Cofactors_and_Vitamins	HMDB0001406	http://share.sph.umich.edu/metsim_metabqtl/C432_primary_mac5.epacts.gz
+C439	stearate (18:0)	Lipid	HMDB0000827	http://share.sph.umich.edu/metsim_metabqtl/C439_primary_mac5.epacts.gz
+C444	ornithine	Amino_Acid	HMDB0000214,HMDB0003374	http://share.sph.umich.edu/metsim_metabqtl/C444_primary_mac5.epacts.gz
+C445	orotate	Nucleotide	HMDB0000226	http://share.sph.umich.edu/metsim_metabqtl/C445_primary_mac5.epacts.gz
+C452	palmitoleate (16:1n7)	Lipid	HMDB0003229	http://share.sph.umich.edu/metsim_metabqtl/C452_primary_mac5.epacts.gz
+C460	phenylalanine	Amino_Acid	HMDB0000159	http://share.sph.umich.edu/metsim_metabqtl/C460_primary_mac5.epacts.gz
+C461	phosphate	Energy	HMDB0001429	http://share.sph.umich.edu/metsim_metabqtl/C461_primary_mac5.epacts.gz
+C466	phytanate	Xenobiotics	HMDB0000801	http://share.sph.umich.edu/metsim_metabqtl/C466_primary_mac5.epacts.gz
+C477	pristanate	Lipid	HMDB0000795	http://share.sph.umich.edu/metsim_metabqtl/C477_primary_mac5.epacts.gz
+C480	proline	Amino_Acid	HMDB0000162,HMDB0003411	http://share.sph.umich.edu/metsim_metabqtl/C480_primary_mac5.epacts.gz
+C482	lactate	Carbohydrate	HMDB0000190	http://share.sph.umich.edu/metsim_metabqtl/C482_primary_mac5.epacts.gz
+C498	retinol (Vitamin A)	Cofactors_and_Vitamins	HMDB0000305,HMDB0006216,HMDB0006217,HMDB0006221	http://share.sph.umich.edu/metsim_metabqtl/C498_primary_mac5.epacts.gz
+C50	spermidine	Amino_Acid	HMDB0001257	http://share.sph.umich.edu/metsim_metabqtl/C50_primary_mac5.epacts.gz
+C501	salicylate	Xenobiotics	HMDB0001895	http://share.sph.umich.edu/metsim_metabqtl/C501_primary_mac5.epacts.gz
+C503	serine	Amino_Acid	HMDB0000187	http://share.sph.umich.edu/metsim_metabqtl/C503_primary_mac5.epacts.gz
+C504	serotonin	Amino_Acid	HMDB0000259	http://share.sph.umich.edu/metsim_metabqtl/C504_primary_mac5.epacts.gz
+C512	taurine	Amino_Acid	HMDB0000251	http://share.sph.umich.edu/metsim_metabqtl/C512_primary_mac5.epacts.gz
+C519	myristate (14:0)	Lipid	HMDB0000806	http://share.sph.umich.edu/metsim_metabqtl/C519_primary_mac5.epacts.gz
+C533	urea	Amino_Acid	HMDB0000294	http://share.sph.umich.edu/metsim_metabqtl/C533_primary_mac5.epacts.gz
+C535	uridine	Nucleotide	HMDB0000296	http://share.sph.umich.edu/metsim_metabqtl/C535_primary_mac5.epacts.gz
+C536	2'-deoxyuridine	Nucleotide	HMDB0000012	http://share.sph.umich.edu/metsim_metabqtl/C536_primary_mac5.epacts.gz
+C537	trans-urocanate	Amino_Acid	HMDB0000301,HMDB0062562	http://share.sph.umich.edu/metsim_metabqtl/C537_primary_mac5.epacts.gz
+C55	1-methylnicotinamide	Cofactors_and_Vitamins	HMDB0000699	http://share.sph.umich.edu/metsim_metabqtl/C55_primary_mac5.epacts.gz
+C561	glutamate	Amino_Acid	HMDB0000148	http://share.sph.umich.edu/metsim_metabqtl/C561_primary_mac5.epacts.gz
+C563	glutamine	Amino_Acid	HMDB0000641,HMDB0003423	http://share.sph.umich.edu/metsim_metabqtl/C563_primary_mac5.epacts.gz
+C564	threonine	Amino_Acid	HMDB0000167	http://share.sph.umich.edu/metsim_metabqtl/C564_primary_mac5.epacts.gz
+C565	tryptophan	Amino_Acid	HMDB0000929,HMDB0013609	http://share.sph.umich.edu/metsim_metabqtl/C565_primary_mac5.epacts.gz
+C566	valine	Amino_Acid	HMDB0000883	http://share.sph.umich.edu/metsim_metabqtl/C566_primary_mac5.epacts.gz
+C572	glucose	Carbohydrate	HMDB0000122	http://share.sph.umich.edu/metsim_metabqtl/C572_primary_mac5.epacts.gz
+C62	12,13-DiHOME	Lipid	HMDB0004705	http://share.sph.umich.edu/metsim_metabqtl/C62_primary_mac5.epacts.gz
+C71	5-hydroxyindoleacetate	Amino_Acid	HMDB0000763	http://share.sph.umich.edu/metsim_metabqtl/C71_primary_mac5.epacts.gz
+C796	alpha-ketobutyrate	Amino_Acid	HMDB0000005	http://share.sph.umich.edu/metsim_metabqtl/C796_primary_mac5.epacts.gz
+C798	adenosine	Nucleotide	HMDB0000050	http://share.sph.umich.edu/metsim_metabqtl/C798_primary_mac5.epacts.gz
+C799	betaine	Amino_Acid	HMDB0000043	http://share.sph.umich.edu/metsim_metabqtl/C799_primary_mac5.epacts.gz
+C800	cysteine	Amino_Acid	HMDB0000574	http://share.sph.umich.edu/metsim_metabqtl/C800_primary_mac5.epacts.gz
+C803	mannose	Carbohydrate	HMDB0000169	http://share.sph.umich.edu/metsim_metabqtl/C803_primary_mac5.epacts.gz
+C806	dimethylglycine	Amino_Acid	HMDB0000092	http://share.sph.umich.edu/metsim_metabqtl/C806_primary_mac5.epacts.gz
+C811	alanine	Amino_Acid	HMDB0000161,HMDB0001310	http://share.sph.umich.edu/metsim_metabqtl/C811_primary_mac5.epacts.gz
+C815	tyrosine	Amino_Acid	HMDB0000158	http://share.sph.umich.edu/metsim_metabqtl/C815_primary_mac5.epacts.gz
+C821	pseudouridine	Nucleotide	HMDB0000767	http://share.sph.umich.edu/metsim_metabqtl/C821_primary_mac5.epacts.gz
+C823	pyruvate	Carbohydrate	HMDB0000243	http://share.sph.umich.edu/metsim_metabqtl/C823_primary_mac5.epacts.gz
+C825	uracil	Nucleotide	HMDB0000300	http://share.sph.umich.edu/metsim_metabqtl/C825_primary_mac5.epacts.gz
+C826	xylose	Carbohydrate	HMDB0000098	http://share.sph.umich.edu/metsim_metabqtl/C826_primary_mac5.epacts.gz
+C827	cytidine	Nucleotide	HMDB0000089	http://share.sph.umich.edu/metsim_metabqtl/C827_primary_mac5.epacts.gz
+C828	arabinose	Carbohydrate	HMDB0000646	http://share.sph.umich.edu/metsim_metabqtl/C828_primary_mac5.epacts.gz
+C848	cotinine	Xenobiotics	HMDB0001046	http://share.sph.umich.edu/metsim_metabqtl/C848_primary_mac5.epacts.gz
+C849	caffeine	Xenobiotics	HMDB0001847	http://share.sph.umich.edu/metsim_metabqtl/C849_primary_mac5.epacts.gz
+C878	fructose	Carbohydrate	HMDB0000660	http://share.sph.umich.edu/metsim_metabqtl/C878_primary_mac5.epacts.gz
+C880	adenine	Nucleotide	HMDB0000034	http://share.sph.umich.edu/metsim_metabqtl/C880_primary_mac5.epacts.gz
+C882	thymine	Nucleotide	HMDB0000262	http://share.sph.umich.edu/metsim_metabqtl/C882_primary_mac5.epacts.gz
+C888	caprate (10:0)	Lipid	HMDB0000511	http://share.sph.umich.edu/metsim_metabqtl/C888_primary_mac5.epacts.gz
+C891	margarate (17:0)	Lipid	HMDB0002259	http://share.sph.umich.edu/metsim_metabqtl/C891_primary_mac5.epacts.gz
+C892	nonadecanoate (19:0)	Lipid	HMDB0000772	http://share.sph.umich.edu/metsim_metabqtl/C892_primary_mac5.epacts.gz
+C893	arachidate (20:0)	Lipid	HMDB0002212	http://share.sph.umich.edu/metsim_metabqtl/C893_primary_mac5.epacts.gz
+C913	maltose	Carbohydrate	HMDB0000163	http://share.sph.umich.edu/metsim_metabqtl/C913_primary_mac5.epacts.gz
+C917	asparagine	Amino_Acid	HMDB0000168	http://share.sph.umich.edu/metsim_metabqtl/C917_primary_mac5.epacts.gz
+C922	N-stearoyl-sphinganine (d18:0/18:0)*	Lipid		http://share.sph.umich.edu/metsim_metabqtl/C922_primary_mac5.epacts.gz
+C923	dihydroorotate	Nucleotide	HMDB0003349	http://share.sph.umich.edu/metsim_metabqtl/C923_primary_mac5.epacts.gz
+C926	caproate (6:0)	Lipid	HMDB0000535	http://share.sph.umich.edu/metsim_metabqtl/C926_primary_mac5.epacts.gz
+C93	alpha-ketoglutarate	Energy	HMDB0000208	http://share.sph.umich.edu/metsim_metabqtl/C93_primary_mac5.epacts.gz
+C932	caprylate (8:0)	Lipid	HMDB0000482	http://share.sph.umich.edu/metsim_metabqtl/C932_primary_mac5.epacts.gz
+C98	kynurenate	Amino_Acid	HMDB0000715	http://share.sph.umich.edu/metsim_metabqtl/C98_primary_mac5.epacts.gz
+C980	pentadecanoate (15:0)	Lipid	HMDB0000826	http://share.sph.umich.edu/metsim_metabqtl/C980_primary_mac5.epacts.gz
+C999907765	X - 07765	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999907765_primary_mac5.epacts.gz
+C999910458	X - 10458	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999910458_primary_mac5.epacts.gz
+C999911261	X - 11261	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999911261_primary_mac5.epacts.gz
+C999911299	X - 11299	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999911299_primary_mac5.epacts.gz
+C999911308	X - 11308	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999911308_primary_mac5.epacts.gz
+C999911315	X - 11315	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999911315_primary_mac5.epacts.gz
+C999911372	X - 11372	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999911372_primary_mac5.epacts.gz
+C999911378	X - 11378	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999911378_primary_mac5.epacts.gz
+C999911381	X - 11381	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999911381_primary_mac5.epacts.gz
+C999911441	X - 11441	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999911441_primary_mac5.epacts.gz
+C999911442	X - 11442	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999911442_primary_mac5.epacts.gz
+C999911444	X - 11444	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999911444_primary_mac5.epacts.gz
+C999911470	X - 11470	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999911470_primary_mac5.epacts.gz
+C999911478	X - 11478	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999911478_primary_mac5.epacts.gz
+C999911483	X - 11483	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999911483_primary_mac5.epacts.gz
+C999911522	X - 11522	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999911522_primary_mac5.epacts.gz
+C999911530	X - 11530	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999911530_primary_mac5.epacts.gz
+C999911632	X - 11632	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999911632_primary_mac5.epacts.gz
+C999911787	X - 11787	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999911787_primary_mac5.epacts.gz
+C999911795	X - 11795	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999911795_primary_mac5.epacts.gz
+C999911843	X - 11843	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999911843_primary_mac5.epacts.gz
+C999911847	X - 11847	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999911847_primary_mac5.epacts.gz
+C999911849	X - 11849	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999911849_primary_mac5.epacts.gz
+C999911850	X - 11850	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999911850_primary_mac5.epacts.gz
+C999911852	X - 11852	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999911852_primary_mac5.epacts.gz
+C999911858	X - 11858	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999911858_primary_mac5.epacts.gz
+C999911880	X - 11880	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999911880_primary_mac5.epacts.gz
+C999912007	X - 12007	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999912007_primary_mac5.epacts.gz
+C999912013	X - 12013	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999912013_primary_mac5.epacts.gz
+C999912015	X - 12015	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999912015_primary_mac5.epacts.gz
+C999912026	X - 12026	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999912026_primary_mac5.epacts.gz
+C999912100	X - 12100	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999912100_primary_mac5.epacts.gz
+C999912101	X - 12101	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999912101_primary_mac5.epacts.gz
+C999912104	X - 12104	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999912104_primary_mac5.epacts.gz
+C999912111	X - 12111	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999912111_primary_mac5.epacts.gz
+C999912112	X - 12112	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999912112_primary_mac5.epacts.gz
+C999912117	X - 12117	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999912117_primary_mac5.epacts.gz
+C999912125	X - 12125	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999912125_primary_mac5.epacts.gz
+C999912126	X - 12126	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999912126_primary_mac5.epacts.gz
+C999912127	X - 12127	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999912127_primary_mac5.epacts.gz
+C999912193	X - 12193	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999912193_primary_mac5.epacts.gz
+C999912216	X - 12216	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999912216_primary_mac5.epacts.gz
+C999912221	X - 12221	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999912221_primary_mac5.epacts.gz
+C999912261	X - 12261	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999912261_primary_mac5.epacts.gz
+C999912262	X - 12262	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999912262_primary_mac5.epacts.gz
+C999912283	X - 12283	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999912283_primary_mac5.epacts.gz
+C999912306	X - 12306	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999912306_primary_mac5.epacts.gz
+C999912407	X - 12407	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999912407_primary_mac5.epacts.gz
+C999912410	X - 12410	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999912410_primary_mac5.epacts.gz
+C999912411	X - 12411	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999912411_primary_mac5.epacts.gz
+C999912456	X - 12456	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999912456_primary_mac5.epacts.gz
+C999912462	X - 12462	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999912462_primary_mac5.epacts.gz
+C999912524	X - 12524	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999912524_primary_mac5.epacts.gz
+C999912543	X - 12543	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999912543_primary_mac5.epacts.gz
+C999912544	X - 12544	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999912544_primary_mac5.epacts.gz
+C999912680	X - 12680	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999912680_primary_mac5.epacts.gz
+C999912689	X - 12689	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999912689_primary_mac5.epacts.gz
+C999912707	X - 12707	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999912707_primary_mac5.epacts.gz
+C999912713	X - 12713	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999912713_primary_mac5.epacts.gz
+C999912714	X - 12714	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999912714_primary_mac5.epacts.gz
+C999912718	X - 12718	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999912718_primary_mac5.epacts.gz
+C999912726	X - 12726	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999912726_primary_mac5.epacts.gz
+C999912729	X - 12729	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999912729_primary_mac5.epacts.gz
+C999912730	X - 12730	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999912730_primary_mac5.epacts.gz
+C999912731	X - 12731	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999912731_primary_mac5.epacts.gz
+C999912738	X - 12738	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999912738_primary_mac5.epacts.gz
+C999912740	X - 12740	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999912740_primary_mac5.epacts.gz
+C999912753	X - 12753	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999912753_primary_mac5.epacts.gz
+C999912798	X - 12798	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999912798_primary_mac5.epacts.gz
+C999912812	X - 12812	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999912812_primary_mac5.epacts.gz
+C999912816	X - 12816	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999912816_primary_mac5.epacts.gz
+C999912818	X - 12818	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999912818_primary_mac5.epacts.gz
+C999912822	X - 12822	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999912822_primary_mac5.epacts.gz
+C999912830	X - 12830	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999912830_primary_mac5.epacts.gz
+C999912839	X - 12839	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999912839_primary_mac5.epacts.gz
+C999912844	X - 12844	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999912844_primary_mac5.epacts.gz
+C999912847	X - 12847	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999912847_primary_mac5.epacts.gz
+C999912849	X - 12849	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999912849_primary_mac5.epacts.gz
+C999912851	X - 12851	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999912851_primary_mac5.epacts.gz
+C999912906	X - 12906	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999912906_primary_mac5.epacts.gz
+C999913007	X - 13007	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999913007_primary_mac5.epacts.gz
+C999913431	X - 13431	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999913431_primary_mac5.epacts.gz
+C999913507	X - 13507	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999913507_primary_mac5.epacts.gz
+C999913553	X - 13553	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999913553_primary_mac5.epacts.gz
+C999913658	X - 13658	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999913658_primary_mac5.epacts.gz
+C999913684	X - 13684	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999913684_primary_mac5.epacts.gz
+C999913695	X - 13695	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999913695_primary_mac5.epacts.gz
+C999913723	X - 13723	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999913723_primary_mac5.epacts.gz
+C999913726	X - 13726	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999913726_primary_mac5.epacts.gz
+C999913728	X - 13728	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999913728_primary_mac5.epacts.gz
+C999913729	X - 13729	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999913729_primary_mac5.epacts.gz
+C999913835	X - 13835	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999913835_primary_mac5.epacts.gz
+C999913844	X - 13844	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999913844_primary_mac5.epacts.gz
+C999913866	X - 13866	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999913866_primary_mac5.epacts.gz
+C999914056	X - 14056	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999914056_primary_mac5.epacts.gz
+C999914082	X - 14082	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999914082_primary_mac5.epacts.gz
+C999914939	X - 14939	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999914939_primary_mac5.epacts.gz
+C999915245	X - 15245	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999915245_primary_mac5.epacts.gz
+C999915461	X - 15461	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999915461_primary_mac5.epacts.gz
+C999915469	X - 15469	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999915469_primary_mac5.epacts.gz
+C999915486	X - 15486	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999915486_primary_mac5.epacts.gz
+C999915492	X - 15492	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999915492_primary_mac5.epacts.gz
+C999915503	X - 15503	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999915503_primary_mac5.epacts.gz
+C999915666	X - 15666	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999915666_primary_mac5.epacts.gz
+C999915674	X - 15674	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999915674_primary_mac5.epacts.gz
+C999915728	X - 15728	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999915728_primary_mac5.epacts.gz
+C999916087	X - 16087	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999916087_primary_mac5.epacts.gz
+C999916124	X - 16124	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999916124_primary_mac5.epacts.gz
+C999916397	X - 16397	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999916397_primary_mac5.epacts.gz
+C999916570	X - 16570	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999916570_primary_mac5.epacts.gz
+C999916576	X - 16576	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999916576_primary_mac5.epacts.gz
+C999916580	X - 16580	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999916580_primary_mac5.epacts.gz
+C999916649	X - 16649	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999916649_primary_mac5.epacts.gz
+C999916935	X - 16935	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999916935_primary_mac5.epacts.gz
+C999916938	X - 16938	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999916938_primary_mac5.epacts.gz
+C999916944	X - 16944	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999916944_primary_mac5.epacts.gz
+C999916946	X - 16946	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999916946_primary_mac5.epacts.gz
+C999916964	X - 16964	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999916964_primary_mac5.epacts.gz
+C999917010	X - 17010	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999917010_primary_mac5.epacts.gz
+C999917137	X - 17137	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999917137_primary_mac5.epacts.gz
+C999917162	X - 17162	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999917162_primary_mac5.epacts.gz
+C999917185	X - 17185	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999917185_primary_mac5.epacts.gz
+C999917325	X - 17325	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999917325_primary_mac5.epacts.gz
+C999917335	X - 17335	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999917335_primary_mac5.epacts.gz
+C999917340	X - 17340	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999917340_primary_mac5.epacts.gz
+C999917351	X - 17351	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999917351_primary_mac5.epacts.gz
+C999917353	X - 17353	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999917353_primary_mac5.epacts.gz
+C999917354	X - 17354	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999917354_primary_mac5.epacts.gz
+C999917357	X - 17357	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999917357_primary_mac5.epacts.gz
+C999917361	X - 17361	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999917361_primary_mac5.epacts.gz
+C999917367	X - 17367	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999917367_primary_mac5.epacts.gz
+C999917371	X - 17371	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999917371_primary_mac5.epacts.gz
+C999917438	X - 17438	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999917438_primary_mac5.epacts.gz
+C999917612	X - 17612	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999917612_primary_mac5.epacts.gz
+C999917653	X - 17653	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999917653_primary_mac5.epacts.gz
+C999917654	X - 17654	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999917654_primary_mac5.epacts.gz
+C999917676	X - 17676	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999917676_primary_mac5.epacts.gz
+C999917685	X - 17685	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999917685_primary_mac5.epacts.gz
+C999917686	X - 17686	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999917686_primary_mac5.epacts.gz
+C999917690	X - 17690	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999917690_primary_mac5.epacts.gz
+C999918345	X - 18345	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999918345_primary_mac5.epacts.gz
+C999918886	X - 18886	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999918886_primary_mac5.epacts.gz
+C999918887	X - 18887	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999918887_primary_mac5.epacts.gz
+C999918888	X - 18888	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999918888_primary_mac5.epacts.gz
+C999918899	X - 18899	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999918899_primary_mac5.epacts.gz
+C999918901	X - 18901	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999918901_primary_mac5.epacts.gz
+C999918913	X - 18913	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999918913_primary_mac5.epacts.gz
+C999918921	X - 18921	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999918921_primary_mac5.epacts.gz
+C999918922	X - 18922	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999918922_primary_mac5.epacts.gz
+C999918935	X - 18935	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999918935_primary_mac5.epacts.gz
+C999919141	X - 19141	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999919141_primary_mac5.epacts.gz
+C999919183	X - 19183	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999919183_primary_mac5.epacts.gz
+C999919438	X - 19438	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999919438_primary_mac5.epacts.gz
+C999921258	X - 21258	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999921258_primary_mac5.epacts.gz
+C999921285	X - 21285	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999921285_primary_mac5.epacts.gz
+C999921286	X - 21286	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999921286_primary_mac5.epacts.gz
+C999921310	X - 21310	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999921310_primary_mac5.epacts.gz
+C999921312	X - 21312	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999921312_primary_mac5.epacts.gz
+C999921319	X - 21319	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999921319_primary_mac5.epacts.gz
+C999921339	X - 21339	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999921339_primary_mac5.epacts.gz
+C999921353	X - 21353	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999921353_primary_mac5.epacts.gz
+C999921355	X - 21355	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999921355_primary_mac5.epacts.gz
+C999921364	X - 21364	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999921364_primary_mac5.epacts.gz
+C999921383	X - 21383	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999921383_primary_mac5.epacts.gz
+C999921410	X - 21410	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999921410_primary_mac5.epacts.gz
+C999921441	X - 21441	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999921441_primary_mac5.epacts.gz
+C999921442	X - 21442	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999921442_primary_mac5.epacts.gz
+C999921448	X - 21448	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999921448_primary_mac5.epacts.gz
+C999921467	X - 21467	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999921467_primary_mac5.epacts.gz
+C999921470	X - 21470	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999921470_primary_mac5.epacts.gz
+C999921471	X - 21471	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999921471_primary_mac5.epacts.gz
+C999921607	X - 21607	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999921607_primary_mac5.epacts.gz
+C999921733	X - 21733	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999921733_primary_mac5.epacts.gz
+C999921736	X - 21736	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999921736_primary_mac5.epacts.gz
+C999921740	X - 21740	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999921740_primary_mac5.epacts.gz
+C999921742	X - 21742	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999921742_primary_mac5.epacts.gz
+C999921752	X - 21752	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999921752_primary_mac5.epacts.gz
+C999921796	X - 21796	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999921796_primary_mac5.epacts.gz
+C999921803	X - 21803	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999921803_primary_mac5.epacts.gz
+C999921807	X - 21807	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999921807_primary_mac5.epacts.gz
+C999921815	X - 21815	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999921815_primary_mac5.epacts.gz
+C999921821	X - 21821	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999921821_primary_mac5.epacts.gz
+C999921829	X - 21829	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999921829_primary_mac5.epacts.gz
+C999921830	X - 21830	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999921830_primary_mac5.epacts.gz
+C999921831	X - 21831	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999921831_primary_mac5.epacts.gz
+C999921834	X - 21834	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999921834_primary_mac5.epacts.gz
+C999921839	X - 21839	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999921839_primary_mac5.epacts.gz
+C999921842	X - 21842	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999921842_primary_mac5.epacts.gz
+C999921845	X - 21845	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999921845_primary_mac5.epacts.gz
+C999921959	X - 21959	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999921959_primary_mac5.epacts.gz
+C999922143	X - 22143	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999922143_primary_mac5.epacts.gz
+C999922162	X - 22162	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999922162_primary_mac5.epacts.gz
+C999922508	X - 22508	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999922508_primary_mac5.epacts.gz
+C999922509	X - 22509	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999922509_primary_mac5.epacts.gz
+C999922519	X - 22519	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999922519_primary_mac5.epacts.gz
+C999922520	X - 22520	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999922520_primary_mac5.epacts.gz
+C999922771	X - 22771	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999922771_primary_mac5.epacts.gz
+C999922776	X - 22776	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999922776_primary_mac5.epacts.gz
+C999923157	X - 23157	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999923157_primary_mac5.epacts.gz
+C999923276	X - 23276	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999923276_primary_mac5.epacts.gz
+C999923583	X - 23583	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999923583_primary_mac5.epacts.gz
+C999923587	X - 23587	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999923587_primary_mac5.epacts.gz
+C999923590	X - 23590	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999923590_primary_mac5.epacts.gz
+C999923593	X - 23593	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999923593_primary_mac5.epacts.gz
+C999923636	X - 23636	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999923636_primary_mac5.epacts.gz
+C999923639	X - 23639	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999923639_primary_mac5.epacts.gz
+C999923641	X - 23641	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999923641_primary_mac5.epacts.gz
+C999923644	X - 23644	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999923644_primary_mac5.epacts.gz
+C999923655	X - 23655	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999923655_primary_mac5.epacts.gz
+C999923657	X - 23657	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999923657_primary_mac5.epacts.gz
+C999923662	X - 23662	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999923662_primary_mac5.epacts.gz
+C999923665	X - 23665	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999923665_primary_mac5.epacts.gz
+C999923666	X - 23666	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999923666_primary_mac5.epacts.gz
+C999923678	X - 23678	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999923678_primary_mac5.epacts.gz
+C999923680	X - 23680	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999923680_primary_mac5.epacts.gz
+C999923739	X - 23739	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999923739_primary_mac5.epacts.gz
+C999923780	X - 23780	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999923780_primary_mac5.epacts.gz
+C999923782	X - 23782	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999923782_primary_mac5.epacts.gz
+C999923787	X - 23787	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999923787_primary_mac5.epacts.gz
+C999923974	X - 23974	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999923974_primary_mac5.epacts.gz
+C999923997	X - 23997	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999923997_primary_mac5.epacts.gz
+C999924295	X - 24295	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999924295_primary_mac5.epacts.gz
+C999924306	X - 24306	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999924306_primary_mac5.epacts.gz
+C999924307	X - 24307	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999924307_primary_mac5.epacts.gz
+C999924309	X - 24309	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999924309_primary_mac5.epacts.gz
+C999924328	X - 24328	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999924328_primary_mac5.epacts.gz
+C999924334	X - 24334	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999924334_primary_mac5.epacts.gz
+C999924337	X - 24337	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999924337_primary_mac5.epacts.gz
+C999924344	X - 24344	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999924344_primary_mac5.epacts.gz
+C999924352	X - 24352	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999924352_primary_mac5.epacts.gz
+C999924411	X - 24411	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999924411_primary_mac5.epacts.gz
+C999924418	X - 24418	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999924418_primary_mac5.epacts.gz
+C999924422	X - 24422	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999924422_primary_mac5.epacts.gz
+C999924425	X - 24425	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999924425_primary_mac5.epacts.gz
+C999924431	X - 24431	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999924431_primary_mac5.epacts.gz
+C999924432	X - 24432	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999924432_primary_mac5.epacts.gz
+C999924455	X - 24455	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999924455_primary_mac5.epacts.gz
+C999924456	X - 24456	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999924456_primary_mac5.epacts.gz
+C999924462	X - 24462	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999924462_primary_mac5.epacts.gz
+C999924473	X - 24473	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999924473_primary_mac5.epacts.gz
+C999924475	X - 24475	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999924475_primary_mac5.epacts.gz
+C999924494	X - 24494	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999924494_primary_mac5.epacts.gz
+C999924518	X - 24518	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999924518_primary_mac5.epacts.gz
+C999924541	X - 24541	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999924541_primary_mac5.epacts.gz
+C999924544	X - 24544	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999924544_primary_mac5.epacts.gz
+C999924546	X - 24546	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999924546_primary_mac5.epacts.gz
+C999924549	X - 24549	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999924549_primary_mac5.epacts.gz
+C999924556	X - 24556	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999924556_primary_mac5.epacts.gz
+C999924571	X - 24571	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999924571_primary_mac5.epacts.gz
+C999924574	X - 24574	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999924574_primary_mac5.epacts.gz
+C999924588	X - 24588	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999924588_primary_mac5.epacts.gz
+C999924637	X - 24637	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999924637_primary_mac5.epacts.gz
+C999924657	X - 24657	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999924657_primary_mac5.epacts.gz
+C999924669	X - 24669	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999924669_primary_mac5.epacts.gz
+C999924699	X - 24699	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999924699_primary_mac5.epacts.gz
+C999924728	X - 24728	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999924728_primary_mac5.epacts.gz
+C999924736	X - 24736	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999924736_primary_mac5.epacts.gz
+C999924757	X - 24757	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999924757_primary_mac5.epacts.gz
+C999924762	X - 24762	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999924762_primary_mac5.epacts.gz
+C999924811	X - 24811	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999924811_primary_mac5.epacts.gz
+C999924812	X - 24812	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999924812_primary_mac5.epacts.gz
+C999924849	X - 24849	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999924849_primary_mac5.epacts.gz
+C999924947	X - 24947	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999924947_primary_mac5.epacts.gz
+C999924949	X - 24949	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999924949_primary_mac5.epacts.gz
+C999924951	X - 24951	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999924951_primary_mac5.epacts.gz
+C999924970	X - 24970	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999924970_primary_mac5.epacts.gz
+C999924972	X - 24972	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999924972_primary_mac5.epacts.gz
+C999924980	X - 24980	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999924980_primary_mac5.epacts.gz
+C999925172	X - 25172	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999925172_primary_mac5.epacts.gz
+C999925265	X - 25265	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999925265_primary_mac5.epacts.gz
+C999925266	X - 25266	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999925266_primary_mac5.epacts.gz
+C999925267	X - 25267	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999925267_primary_mac5.epacts.gz
+C999925271	X - 25271	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999925271_primary_mac5.epacts.gz
+C999925279	X - 25279	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999925279_primary_mac5.epacts.gz
+C999925343	X - 25343	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999925343_primary_mac5.epacts.gz
+C999925371	X - 25371	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999925371_primary_mac5.epacts.gz
+C999925417	X - 25417	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999925417_primary_mac5.epacts.gz
+C999925419	X - 25419	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999925419_primary_mac5.epacts.gz
+C999925420	X - 25420	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999925420_primary_mac5.epacts.gz
+C999925422	X - 25422	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999925422_primary_mac5.epacts.gz
+C999925433	X - 25433	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999925433_primary_mac5.epacts.gz
+C999925503	X - 25503	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999925503_primary_mac5.epacts.gz
+C999925519	X - 25519	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999925519_primary_mac5.epacts.gz
+C999925520	X - 25520	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999925520_primary_mac5.epacts.gz
+C999925617	X - 25617	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999925617_primary_mac5.epacts.gz
+C999925790	X - 25790	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999925790_primary_mac5.epacts.gz
+C999925793	X - 25793	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999925793_primary_mac5.epacts.gz
+C999925802	X - 25802	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999925802_primary_mac5.epacts.gz
+C999925828	X - 25828	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999925828_primary_mac5.epacts.gz
+C999925937	X - 25937	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999925937_primary_mac5.epacts.gz
+C999925957	X - 25957	Uncharacterized		http://share.sph.umich.edu/metsim_metabqtl/C999925957_primary_mac5.epacts.gz
+C999926054	X - 26054	Uncharacterized	unknown	http://share.sph.umich.edu/metsim_metabqtl/C999926054_primary_mac5.epacts.gz

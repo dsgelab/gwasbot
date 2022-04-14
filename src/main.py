@@ -12,13 +12,13 @@ from tweepy.error import TweepError
 from bot_bbj import BBJPoster
 from bot_finngen import FGPoster
 from bot_ukbb import UKBBPoster
+from bot_metsim import METSIMPoster
 from utils import wait
 
 
 def poster_turn(iter):
     turns = [
-        "UKBB", "FG",   "UKBB", "BBJ",
-        "FG",   "UKBB", "FG",   "BBJ"
+        "METSIM", "UKBB", "FG", "BBJ"
     ]
     select = iter % len(turns)
     return turns[select]
@@ -50,6 +50,13 @@ def main():
         GWAS_DIR_BBJ,
     )
 
+    metsim = METSIMPoster(
+        SAVE_FILE_METSIM,
+        FAILURE_FILE_METSIM,
+        MANIFEST_FILE_METSIM,
+        GWAS_DIR_METSIM,
+    )
+
     do_wait = True
     iter = 0
     while True:
@@ -63,6 +70,8 @@ def main():
             poster = fg
         elif turn == "BBJ":
             poster = bbj
+        elif turn == "METSIM":
+            poster = metsim
 
         pheno = poster.get_pheno()
         try:
@@ -107,5 +116,11 @@ if __name__ == '__main__':
     FAILURE_FILE_BBJ = DATA_PATH / "failure_bbj.txt"
     MANIFEST_FILE_BBJ = DATA_PATH / "images_bbj.js"
     GWAS_DIR_BBJ = DATA_PATH / "manhattan_BBJ"
+
+    # METSIM files
+    SAVE_FILE_METSIM = DATA_PATH / "posted_metsim.txt"
+    FAILURE_FILE_METSIM = DATA_PATH / "failure_metsim.txt"
+    MANIFEST_FILE_METSIM = DATA_PATH / "images_metsim.js"
+    GWAS_DIR_METSIM = DATA_PATH / "manhattan_METSIM"
 
     main()

@@ -18,7 +18,7 @@ from utils import wait
 
 def poster_turn(iter):
     turns = [
-        "METSIM", "UKBB", "FG", "BBJ"
+        "UKBB", "FG", "BBJ", "METSIM"
     ]
     select = iter % len(turns)
     return turns[select]

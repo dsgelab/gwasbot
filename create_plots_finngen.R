@@ -1,4 +1,26 @@
-#### Read phenotype file ####
+# # # Run time: 35h
+# # # Requires 32gb memory
+
+# # # Install required packages if not installed yet # # #
+req_packages <- c("data.table", "dplyr", "jsonlite", "tidyr", "ggplot2", "ggrepel")
+req_packages_bioc <- c("TxDb.Hsapiens.UCSC.hg38.knownGene", "bumphunter", "org.Hs.eg.db")
+
+for (pack in req_packages) {
+    if(!require(pack, character.only = TRUE)) {
+	 install.packages(pack, repos='http://cran.us.r-project.org')
+    }
+}
+
+if (!require("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
+BiocManager::install(version = "3.14")
+
+for (pack in req_packages_bioc) {
+    if(!require(pack, character.only = TRUE)) { 
+         BiocManager::install(pack)
+    }
+}
+
 library(data.table)
 library(dplyr)
 library(jsonlite)
@@ -10,8 +32,7 @@ library(TxDb.Hsapiens.UCSC.hg38.knownGene) #BiocManager::install("TxDb.Hsapiens.
 library(bumphunter) #BiocManager::install("bumphunter")
 library(org.Hs.eg.db) #BiocManager::install("org.Hs.eg.db")
 
-
-pheno <- fread("data/finngen_R6_pheno_n.tsv")
+pheno <- fread("data/finngen_R8_pheno_n.tsv")
 
 wrapper <- function(x, ...) 
 {
@@ -29,9 +50,9 @@ set.seed(123)
 RES <- NULL
 for (i in pheno$phenocode[pheno$num_gw_significant>0])
 {
-    system(paste0("gsutil cp gs://finngen-public-data-r6/summary_stats/finngen_R6_" ,i,".gz ."))
+    system(paste0("gsutil cp gs://finngen-public-data-r8/summary_stats/finngen_R8_" ,i,".gz ."))
   
-	df1 <- fread(cmd=paste0("gunzip -c finngen_R6_",i,".gz"), header=T, sep="\t", select=c('#chrom', 'pos', 'pval')) 
+	df1 <- fread(cmd=paste0("gunzip -c finngen_R8_",i,".gz"), header=T, sep="\t", select=c('#chrom', 'pos', 'pval')) 
 	
 	if(min(df1$pval,na.rm=T)<0.00000005)
 	{
@@ -100,10 +121,10 @@ for (i in pheno$phenocode[pheno$num_gw_significant>0])
 	  
 	   ggsave(paste0("data/manhattan_FINNGEN/",i,"_MF.png"), width = 12, height = 6, dpi = 200)
 	  
-	   RES <- rbind(RES,cbind(pheno[pheno$phenocode==i,c("phenocode","name","num_cases","num_controls")],pheno$path_bucket[pheno$phenocode==i], paste0(i,"_MF.png"), paste0("http://r6.finngen.fi/pheno/",i),paste0("https://r6.risteys.finngen.fi/phenocode/",i)))
+	   RES <- rbind(RES,cbind(pheno[pheno$phenocode==i,c("phenocode","name","num_cases","num_controls")],pheno$path_bucket[pheno$phenocode==i], paste0(i,"_MF.png"), paste0("http://r8.finngen.fi/pheno/",i),paste0("https://r8.risteys.finngen.fi/phenocode/",i)))
 	}
 
-    system(paste0("rm finngen_R6_",i,".gz"))
+    system(paste0("rm finngen_R8_",i,".gz"))
 
     print(which(i==pheno$phenocode))
 }

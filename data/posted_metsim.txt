@@ -1,0 +1,34 @@
+1-pentadecanoyl-2-arachidonoyl-GPC (15:0/20:4)*
+O-sulfo-L-tyrosine
+X - 21441
+sphingomyelin (d18:1/14:0, d16:1/16:0)*
+X - 21312
+mannitol/sorbitol
+N-acetyltyrosine
+X - 21448
+glycerol 3-phosphate
+X - 10458
+1-oleoyl-2-linoleoyl-GPE (18:1/18:2)*
+3-(4-hydroxyphenyl)lactate
+glycosyl-N-palmitoyl-sphingosine (d18:1/16:0)
+glycochenodeoxycholate glucuronide (1)
+cerotoylcarnitine (C26)*
+lignoceroyl sphingomyelin (d18:1/24:0)
+3-indoleglyoxylic acid
+1-methylurate
+3-hydroxyoctanoate
+N-acetyl-beta-alanine
+hypoxanthine
+N-delta-acetylornithine
+methylmalonate (MMA)
+trans-urocanate
+1-myristoyl-2-docosahexaenoyl-GPC (14:0/22:6)*
+branched-chain, straight-chain, or cyclopropyl 12:1 fatty acid*
+3-ethylcatechol sulfate (1)
+phosphatidylcholine (18:0/20:5, 16:0/22:5n6)*
+X - 24422
+X - 18887
+kynurenate
+X - 11441
+spermidine
+1-methyl-4-imidazoleacetate

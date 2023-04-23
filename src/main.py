@@ -18,7 +18,7 @@ from utils import wait
 
 def poster_turn(iter):
     turns = [
-        "METSIM", "UKBB", "FG", "BBJ"
+        "FG", "UKBB", "BBJ", "METSIM"
     ]
     select = iter % len(turns)
     return turns[select]
@@ -109,7 +109,7 @@ if __name__ == '__main__':
     FAILURE_FILE_FG = DATA_PATH / "failed_fg.txt"
     METADATA_FILE_FG = DATA_PATH / "images_finngen.js"
     GWAS_DIR_FG = DATA_PATH / "manhattan_FINNGEN"
-    GWAS_GS_PREFIX = "gs://finngen-public-data-r6/summary_stats/finngen_R6_"
+    GWAS_GS_PREFIX = "gs://finngen-public-data-r8/summary_stats/finngen_R8_"
 
     # BioBank Japan files
     SAVE_FILE_BBJ = DATA_PATH / "posted_bbj.txt"
